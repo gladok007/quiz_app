@@ -1,0 +1,778 @@
+[
+{
+      "id": 1,
+      "question": "Der Controllingprozess beginnt mit:",
+      "options": [
+        "Datenanalyse",
+        "Zielefestlegung",
+        "Budgetierung",
+        "Berichtserstellung"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "Was gehört NICHT zu den Hauptzielen des Controllings?",
+      "options": [
+        "Informationen bereitstellen",
+        "Alternativen bewerten",
+        "Kundenbindung durchführen",
+        "Maßnahmen durchsetzen"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": "Strategisches Controlling wird auch bezeichnet als:",
+      "options": [
+        "Kleine Lupe",
+        "Große Brille",
+        "Weites Fenster",
+        "Tiefer Einblick"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "Welche Kennzahl ist qualitativ?",
+      "options": [
+        "Deckungsbeitrag",
+        "Umsatz",
+        "Kundenzufriedenheit",
+        "Verkaufsmenge"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "Die BCG-Matrix klassifiziert Produkte in folgende Kategorien AUSSER:",
+      "options": [
+        "Stars",
+        "Cash Cows",
+        "Market Leaders",
+        "Poor Dogs"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "question": "Was sind \"Poor Dogs\" in der BCG-Matrix?",
+      "options": [
+        "Produkte mit hohem Interesse und hohem Umsatz",
+        "Produkte mit niedrigem Interesse und hohem Umsatz",
+        "Produkte mit hohem Interesse und niedrigem Umsatz",
+        "Produkte mit niedrigem Interesse und niedrigem Umsatz"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "question": "Welche Kosten sind typische Einzelkosten?",
+      "options": [
+        "Versicherungen",
+        "Wareneinkauf für bestimmte Produktgruppe",
+        "Allgemeine Verwaltungskosten",
+        "Gebäudeunterhalt"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "Der Deckungsbeitrag I errechnet sich aus:",
+      "options": [
+        "Umsatz minus Fixkosten",
+        "Nettoverkaufserlös minus variable Kosten",
+        "Bruttogewinn minus Abschreibungen",
+        "Gesamterlös minus Gesamtkosten"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "Welche Aufgabe hat das operative Controlling?",
+      "options": [
+        "Langfristige Strategieentwicklung",
+        "Filialnetz-Ausbau planen",
+        "Kurzfristige Maßnahmen steuern",
+        "Unternehmensweite Analysen"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question": "Was ist eine Aufgabe des Finanzdirektors?",
+      "options": [
+        "Repräsentation des Unternehmens",
+        "Koordination von Treasurer, Buchhaltung und Controller",
+        "Durchführung der Buchhaltung",
+        "Mahnwesen"
+      ],
+      "correct": 1
+    },
+    
+      {
+        "id": 11,
+        "question": "Was sind fixe Kosten?",
+        "options": [
+          "Materialkosten",
+          "Energiekosten für Produktion",
+          "Miete",
+          "Verpackungsmaterial"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 12,
+        "question": "Wer ist für die Rechnungsprüfung verantwortlich?",
+        "options": [
+          "Controller",
+          "Treasurer",
+          "Buchhaltung",
+          "Finanzdirektor"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 13,
+        "question": "Was ist ein Merkmal des dezentralen Controllings?",
+        "options": [
+          "Hohe Standardisierung",
+          "Langsame Entscheidungsprozesse",
+          "Flexible Entscheidungen",
+          "Fokus auf Gesamtübersicht"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 14,
+        "question": "Was ist KEIN klassisches Controllinginstrument im Handel?",
+        "options": [
+          "Kostenrechnung",
+          "Betriebsvergleich",
+          "Social Media Monitoring",
+          "Umsatzkontrolle"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 15,
+        "question": "Welches SAP-Modul wird für die Kostenstellenrechnung verwendet?",
+        "options": [
+          "SAP FI",
+          "SAP CO-OM-CEL",
+          "SAP CO-OM-CCA",
+          "SAP BW/4HANA"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 16,
+        "question": "Was ist eine quantitative Kennzahl?",
+        "options": [
+          "Mitarbeiterzufriedenheit",
+          "Kundenloyalität",
+          "Deckungsbeitrag",
+          "Unternehmensimage"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 17,
+        "question": "Was gehört zu den Gemeinkosten?",
+        "options": [
+          "Wareneinkauf",
+          "Personalkosten für mehrere Abteilungen",
+          "Direktes Verpackungsmaterial",
+          "Produktspezifische Transportkosten"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 18,
+        "question": "Was ist das Ziel der Deckungsbeitragsrechnung?",
+        "options": [
+          "Berechnung der Fixkosten",
+          "Ermittlung der Personalkosten",
+          "Analyse des Beitrags zur Fixkostendeckung",
+          "Bestimmung der variablen Kosten"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 19,
+        "question": "Was sind \"question Marks\" in der BCG-Matrix?",
+        "options": [
+          "Produkte mit hohem Umsatz",
+          "Produkte mit hohem Interesse und niedrigem Umsatz",
+          "Produkte mit niedrigem Interesse",
+          "Produkte mit hohem Gewinn"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 20,
+        "question": "Welche Aufgabe hat das Management im Controllingprozess?",
+        "options": [
+          "Datenerfassung",
+          "Soll-Ist-Vergleich",
+          "Ziele setzen",
+          "Informationsaufbereitung"
+        ],
+        "correct": 2
+      },
+      
+        {
+          "id": 21,
+          "question": "Was ist ein Merkmal des strategischen Controllings?",
+          "options": [
+            "Kurzfristige Planung",
+            "Fokus auf Einzelbereiche",
+            "Langfristige Prozesse",
+            "Tägliche Kontrolle"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 22,
+          "question": "Wie berechnet sich der Deckungsbeitrag II?",
+          "options": [
+            "DB I - fixe Einzelkosten - fixe Gemeinkosten",
+            "DB I - variable Kosten",
+            "Nettoerlös - Fixkosten",
+            "Umsatz - Gesamtkosten"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 23,
+          "question": "Was ist KEINE Aufgabe des Controllers?",
+          "options": [
+            "Informationsbeschaffung",
+            "Wirtschaftlichkeitsrechnung",
+            "Unternehmensrepräsentation",
+            "Rentabilitätsvergleiche"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 24,
+          "question": "Was gehört zu den variablen Kosten einer Bäckerei?",
+          "options": [
+            "Miete",
+            "Versicherungen",
+            "Mehl",
+            "Grundgehälter"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 25,
+          "question": "Was ist ein Vorteil des zentralen Controllings?",
+          "options": [
+            "Schnelle Entscheidungen",
+            "Hohe Flexibilität",
+            "Standardisierung",
+            "Lokale Anpassung"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 26,
+          "question": "Was ist der erste Schritt bei der Deckungsbeitragsrechnung?",
+          "options": [
+            "Abzug der Fixkosten",
+            "Berechnung des Nettoverkaufserlöses",
+            "Ermittlung der Gemeinkosten",
+            "Verteilung der variablen Kosten"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 27,
+          "question": "Welches System ist für strategische Datenanalyse geeignet?",
+          "options": [
+            "SAP FI",
+            "SAP CO-PC",
+            "SAP BW/4HANA",
+            "SAP CO-OM-CEL"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 28,
+          "question": "Was ist eine Aufgabe des Treasurers?",
+          "options": [
+            "Buchführung",
+            "Mahnwesen",
+            "Controllerberichte",
+            "Strategieentwicklung"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 29,
+          "question": "Was kennzeichnet \"Cash Cows\"?",
+          "options": [
+            "Hohes Interesse, niedriger Umsatz",
+            "Hoher Umsatz, geringeres Interesse",
+            "Niedriger Umsatz, hohes Interesse",
+            "Niedriger Umsatz, geringes Interesse"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 30,
+          "question": "Was ist KEINE Controllingaufgabe im PERK-System?",
+          "options": [
+            "Planungsprozess koordinieren",
+            "Entscheidungen treffen",
+            "Ist-Werte erfassen",
+            "Soll-Ist-Vergleich durchführen"
+          ],
+          "correct": 1
+        },
+        
+          {
+            "id": 31,
+            "question": "Was ist ein Ziel der BCG-Matrix Analyse?",
+            "options": [
+              "Personalplanung",
+              "Sortimentsoptimierung",
+              "Lagerhaltung",
+              "Budgetierung"
+            ],
+            "correct": 1
+          },
+          {
+            "id": 32,
+            "question": "Welcher Faktor bestimmt NICHT die Wirtschaftlichkeit?",
+            "options": [
+              "Erfolg",
+              "Rentabilität",
+              "Marketingbudget",
+              "Liquidität"
+            ],
+            "correct": 2
+          },
+          {
+            "id": 33,
+            "question": "Was gehört zum hybriden Controlling?",
+            "options": [
+              "Nur zentrale Steuerung",
+              "Nur dezentrale Steuerung",
+              "Kombination von zentralen und dezentralen Elementen",
+              "Ausschließlich externe Steuerung"
+            ],
+            "correct": 2
+          },
+          {
+            "id": 34,
+            "question": "Was ist KEINE Erlösminderung?",
+            "options": [
+              "Rabatte",
+              "Skonto",
+              "Umsatzsteuer",
+              "Personalkosten"
+            ],
+            "correct": 2
+          },
+          {
+            "id": 35,
+            "question": "Welches Tool wird zur Produktkostenrechnung verwendet?",
+            "options": [
+              "SAP FI",
+              "SAP CO-PC",
+              "SAP BW/4HANA",
+              "SAP CO-OM-CEL"
+            ],
+            "correct": 1
+          },
+          {
+            "id": 36,
+            "question": "Was kennzeichnet die \"Stars\" im BCG-Portfolio?",
+            "options": [
+              "Niedriger Umsatz, hohes Interesse",
+              "Hoher Umsatz, hohes Interesse",
+              "Niedriger Umsatz, niedriges Interesse",
+              "Hoher Umsatz, niedriges Interesse"
+            ],
+            "correct": 1
+          },
+          {
+            "id": 37,
+            "question": "Welche Maßnahme ist für \"question Marks\" geeignet?",
+            "options": [
+              "Aus dem Sortiment nehmen",
+              "Preiserhöhungen",
+              "Promotionen",
+              "Keine Investition"
+            ],
+            "correct": 2
+          },
+          {
+            "id": 38,
+            "question": "Was ist ein Merkmal operativen Controllings?",
+            "options": [
+              "Langfristige Planung",
+              "Strategische Entscheidungen",
+              "Kurzfristige Maßnahmen",
+              "Unternehmensweite Analysen"
+            ],
+            "correct": 2
+          },
+          {
+            "id": 39,
+            "question": "Was gehört zu den Aufgaben der Buchhaltung?",
+            "options": [
+              "Mahnwesen",
+              "Rechnungsprüfung",
+              "Strategieentwicklung",
+              "Marketingplanung"
+            ],
+            "correct": 1
+          },
+          {
+            "id": 40,
+            "question": "Was ist KEIN modernes Controllinginstrument?",
+            "options": [
+              "Balanced Scorecard",
+              "Benchmarking",
+              "Handzettelwerbung",
+              "Prozesskostenrechnung"
+            ],
+            "correct": 2
+          },
+          
+            {
+              "id": 41,
+              "question": "Welche Art von Kosten sind Versicherungen typischerweise?",
+              "options": [
+                "Variable Kosten",
+                "Fixkosten",
+                "Einzelkosten",
+                "Sonderkosten"
+              ],
+              "correct": 1
+            },
+            {
+              "id": 42,
+              "question": "Was ist eine Aufgabe des strategischen Controllings?",
+              "options": [
+                "Tägliche Verkaufskontrolle",
+                "Personaleinsatzplanung",
+                "Filialnetz-Ausbau",
+                "Warenpräsentation"
+              ],
+              "correct": 2
+            },
+            {
+              "id": 43,
+              "question": "Wie wird der Nettoverkaufserlös berechnet?",
+              "options": [
+                "Umsatz plus Mehrwertsteuer",
+                "Umsatz minus Erlösminderungen",
+                "Umsatz minus Fixkosten",
+                "Umsatz plus Rabatte"
+              ],
+              "correct": 1
+            },
+            {
+              "id": 44,
+              "question": "Was ist KEINE Management-Aufgabe im PERK-System?",
+              "options": [
+                "Ziele setzen",
+                "Daten analysieren",
+                "Maßnahmen umsetzen",
+                "Entscheidungen treffen"
+              ],
+              "correct": 1
+            },
+            {
+              "id": 45,
+              "question": "Welche Kennzahl ist NICHT quantitativ?",
+              "options": [
+                "Umsatz",
+                "Mitarbeiterkompetenz",
+                "Kosten",
+                "Deckungsbeitrag"
+              ],
+              "correct": 1
+            },
+            {
+              "id": 46,
+              "question": "Was ist ein Merkmal der \"Poor Dogs\"?",
+              "options": [
+                "Hoher Umsatz",
+                "Hohes Kundeninteresse",
+                "Niedriges Interesse und Umsatz",
+                "Steigende Nachfrage"
+              ],
+              "correct": 2
+            },
+            {
+              "id": 47,
+              "question": "Was gehört zu den Aufgaben des Controllings bei der Realisierung?",
+              "options": [
+                "Maßnahmen umsetzen",
+                "Ist-Werte erfassen",
+                "Entscheidungen treffen",
+                "Ziele definieren"
+              ],
+              "correct": 1
+            },
+            {
+              "id": 48,
+              "question": "Was ist KEIN Vorteil des dezentralen Controllings?",
+              "options": [
+                "Schnelle Entscheidungen",
+                "Hohe Standardisierung",
+                "Flexible Anpassung",
+                "Lokale Expertise"
+              ],
+              "correct": 1
+            },
+            {
+              "id": 49,
+              "question": "Welche Kosten sind typischerweise variabel?",
+              "options": [
+                "Miete",
+                "Gehälter",
+                "Energiekosten für Produktion",
+                "Versicherungen"
+              ],
+              "correct": 2
+            },
+            {
+              "id": 50,
+              "question": "Was ist eine Aufgabe der Unternehmensführung im Controlling?",
+              "options": [
+                "Buchführung",
+                "Richtungsvorgabe",
+                "Rechnungsprüfung",
+                "Datenerfassung"
+              ],
+              "correct": 1
+            },
+            
+              {
+                "id": 51,
+                "question": "Was ist ein Merkmal des zentralen Controllings?",
+                "options": [
+                  "Schnelle Entscheidungen",
+                  "Hohe Flexibilität",
+                  "Fokus auf Standardisierung",
+                  "Lokale Anpassungsfähigkeit"
+                ],
+                "correct": 2
+              },
+              {
+                "id": 52,
+                "question": "Welche Maßnahme ist für \"Cash Cows\" empfohlen?",
+                "options": [
+                  "Aus Sortiment nehmen",
+                  "Stark bewerben",
+                  "Preiserhöhungen prüfen",
+                  "Promotionen durchführen"
+                ],
+                "correct": 2
+              },
+              {
+                "id": 53,
+                "question": "Was ist KEINE Aufgabe des Controllers?",
+                "options": [
+                  "Informationsbeschaffung",
+                  "Rentabilitätsvergleiche",
+                  "Zahlungsprozesse steuern",
+                  "Wirtschaftlichkeitsrechnungen"
+                ],
+                "correct": 2
+              },
+              {
+                "id": 54,
+                "question": "Was kennzeichnet qualitative Kennzahlen?",
+                "options": [
+                  "Leicht messbar",
+                  "Objektiv vergleichbar",
+                  "Subjektive Aspekte",
+                  "Numerische Werte"
+                ],
+                "correct": 2
+              },
+              {
+                "id": 55,
+                "question": "Was ist ein Ziel der Deckungsbeitragsrechnung?",
+                "options": [
+                  "Personalplanung",
+                  "Sortimentsoptimierung",
+                  "Lagerhaltung",
+                  "Marketingplanung"
+                ],
+                "correct": 1
+              },
+              {
+                "id": 56,
+                "question": "Welches SAP-Modul ist für die Finanzbuchhaltung zuständig?",
+                "options": [
+                  "SAP CO-PC",
+                  "SAP FI",
+                  "SAP BW/4HANA",
+                  "SAP CO-OM-CCA"
+                ],
+                "correct": 1
+              },
+              {
+                "id": 57,
+                "question": "Was ist eine Aufgabe des Treasurers?",
+                "options": [
+                  "Controlling",
+                  "Finanzdisposition",
+                  "Strategieentwicklung",
+                  "Rechnungsprüfung"
+                ],
+                "correct": 1
+              },
+              {
+                "id": 58,
+                "question": "Was gehört zu den Erlösminderungen?",
+                "options": [
+                  "Personalkosten",
+                  "Verderb",
+                  "Miete",
+                  "Versicherungen"
+                ],
+                "correct": 1
+              },
+              {
+                "id": 59,
+                "question": "Was ist KEIN Merkmal des strategischen Controllings?",
+                "options": [
+                  "Langfristige Planung",
+                  "Unternehmensweite Analysen",
+                  "Tägliche Kontrolle",
+                  "Gesamtüberblick"
+                ],
+                "correct": 2
+              },
+              {
+                "id": 60,
+                "question": "Welche Kosten sind typischerweise Gemeinkosten?",
+                "options": [
+                  "Wareneinkauf",
+                  "Verwaltungskosten",
+                  "Direktmaterial",
+                  "Produktspezifische Kosten"
+                ],
+                "correct": 1
+              },
+               
+                {
+                  "id": 61,
+                  "question": "Was ist ein Merkmal der \"question Marks\"?",
+                  "options": [
+                    "Hoher Umsatz",
+                    "Niedriges Interesse",
+                    "Hohes Interesse bei niedrigem Umsatz",
+                    "Hohe Rentabilität"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "id": 62,
+                  "question": "Was gehört zum PERK-System?",
+                  "options": [
+                    "Produzieren",
+                    "Planen",
+                    "Präsentieren",
+                    "Programmieren"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "id": 63,
+                  "question": "Was ist KEINE Aufgabe des Finanzdirektors?",
+                  "options": [
+                    "Koordination der Bereiche",
+                    "Warenbestellung",
+                    "Überwachung der Controller",
+                    "Steuerung der Buchhaltung"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "id": 64,
+                  "question": "Was kennzeichnet fixe Kosten?",
+                  "options": [
+                    "Mengenabhängigkeit",
+                    "Mengenunabhängigkeit",
+                    "Direkte Zuordnung",
+                    "Variable Zusammensetzung"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "id": 65,
+                  "question": "Was ist ein Ziel des hybriden Controllings?",
+                  "options": [
+                    "Maximale Zentralisierung",
+                    "Vollständige Dezentralisierung",
+                    "Vorteile beider Systeme nutzen",
+                    "Externe Steuerung"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "id": 66,
+                  "question": "Welche Maßnahme ist für \"Stars\" empfohlen?",
+                  "options": [
+                    "Auslistung",
+                    "Keine Investition",
+                    "Förderung durch Werbung",
+                    "Preissenkung"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "id": 67,
+                  "question": "Was ist KEINE Controllingaufgabe?",
+                  "options": [
+                    "Planungsprozess koordinieren",
+                    "Strategische Entscheidungen treffen",
+                    "Ist-Werte erfassen",
+                    "Soll-Ist-Vergleich durchführen"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "id": 68,
+                  "question": "Was kennzeichnet das operative Controlling?",
+                  "options": [
+                    "Langfristige Planung",
+                    "Kurzfristige Maßnahmen",
+                    "Strategische Ausrichtung",
+                    "Unternehmensweite Analysen"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "id": 69,
+                  "question": "Was ist ein Vorteil des zentralen Controllings?",
+                  "options": [
+                    "Schnelle Entscheidungen",
+                    "Hohe Flexibilität",
+                    "Einheitliche Standards",
+                    "Lokale Anpassung"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "id": 70,
+                  "question": "Was ist KEIN Ziel der Deckungsbeitragsrechnung?",
+                  "options": [
+                    "Produktrentabilität bestimmen",
+                    "Marketingbudget festlegen",
+                    "Sortimentsoptimierung",
+                    "Preissetzung unterstützen"
+                  ],
+                  "correct": 1
+                }
+              ]
