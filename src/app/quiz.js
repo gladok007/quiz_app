@@ -15,7 +15,7 @@ const questions = [
       "Konkurrenz durch neue Technologien",
       "Einführung von E-Procurement"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 2,
@@ -26,7 +26,7 @@ const questions = [
       "Produktlebenszyklusanalyse",
       "Lieferantenbeurteilung"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@ const questions = [
       "Verwaltung von Produktionsprozessen im Unternehmen",
       "Überwachung der rechtlichen Anforderungen in der Beschaffung"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 4,
@@ -48,7 +48,7 @@ const questions = [
       "Schlüsselsortiment",
       "Engpasssortiment"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 5,
@@ -59,7 +59,7 @@ const questions = [
       "Reduktion der Prozesskosten um 25-60 %",
       "Komplexere Bestellabwicklung"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": 6,
@@ -70,7 +70,7 @@ const questions = [
       "Lieferantenbeurteilung",
       "Bestellung"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@ const questions = [
       "Sicherstellung ausreichender Bestände bis zur nächsten Lieferung",
       "Planung von Sonderbestellungen"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": 8,
@@ -92,7 +92,7 @@ const questions = [
       "Maximierung der Verkaufszahlen durch bessere Preisgestaltung",
       "Verbesserung der Beziehungen zu Lieferanten"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": 9,
@@ -103,7 +103,7 @@ const questions = [
       "Strengere Umweltvorschriften und nachhaltige Lieferketten",
       "Globale Konkurrenz durch niedrige Preise"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": 10,
@@ -114,7 +114,7 @@ const questions = [
       "Konstante Nachfrage und gleichmäßige Beschaffung",
       "Hohe Attraktivität, aber kurze Lebensdauer"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": 11,
@@ -125,7 +125,7 @@ const questions = [
       "Lieferantenbeurteilung",
       "Lieferantensuche"
     ],
-    "correct": 2
+    "correct": 1
   },
   
     {
@@ -137,7 +137,7 @@ const questions = [
         "Sie fokussiert sich auf emotionale Kriterien",
         "Sie benötigt keine genauen Daten"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "id": 13,
@@ -148,7 +148,7 @@ const questions = [
         "Schnelle Reaktion auf Marktveränderungen",
         "Längere Planungszyklen"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
       "id": 14,
@@ -159,7 +159,7 @@ const questions = [
         "Einführung neuer Technologien in der Beschaffung",
         "Globale Lieferkettenoptimierung"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "id": 15,
@@ -170,7 +170,7 @@ const questions = [
         "Reife",
         "Sättigung"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
       "id": 16,
@@ -181,7 +181,7 @@ const questions = [
         "Engpasssortiment",
         "Schlüsselsortiment"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
       "id": 17,
@@ -192,7 +192,7 @@ const questions = [
         "Lageroptimierung",
         "Preisverhandlungen"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
       "id": 18,
@@ -203,7 +203,7 @@ const questions = [
         "Entwicklung neuer Produkte",
         "Auswahl des Produkt-Mixes"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
       "id": 19,
@@ -214,7 +214,7 @@ const questions = [
         "Verbesserung der internen Kommunikation",
         "Langfristige Reduktion der Fixkosten"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
       "id": 20,
@@ -225,7 +225,7 @@ const questions = [
         "Sie sind schwer vorhersagbar",
         "Sie erfordern flexible Lagerhaltung"
       ],
-      "correct": 1
+      "correct": 0
     },
     
       {
@@ -237,7 +237,7 @@ const questions = [
           "Verlängerte Lieferkettenprozesse",
           "Reduzierte Transparenz in der Lieferkette"
         ],
-        "correct": 1
+        "correct": 0
       },
       {
         "id": 22,
@@ -248,7 +248,7 @@ const questions = [
           "Schnellere Einführung neuer Produkte",
           "Direkte Reduktion von Lagerkosten"
         ],
-        "correct": 2
+        "correct": 1
       },
       {
         "id": 23,
@@ -259,7 +259,7 @@ const questions = [
           "Einführung neuer Technologien",
           "Reduktion der Produktionszeit"
         ],
-        "correct": 2
+        "correct": 0
       },
       {
         "id": 24,
@@ -270,7 +270,7 @@ const questions = [
           "Es werden keine Bestellungen aufgegeben",
           "Die Lagerkosten werden minimiert"
         ],
-        "correct": 2
+        "correct": 1
       },
       {
         "id": 25,
@@ -281,7 +281,7 @@ const questions = [
           "Bestellung",
           "Lieferantenbeurteilung"
         ],
-        "correct": 2
+        "correct": 1
       },
       {
         "id": 26,
@@ -292,7 +292,7 @@ const questions = [
           "Cash Cows",
           "Poor Dogs"
         ],
-        "correct": 3
+        "correct": 2
       },
       {
         "id": 27,
@@ -303,7 +303,7 @@ const questions = [
           "Reduktion von Personalbedarf",
           "Erweiterung des Produktportfolios"
         ],
-        "correct": 1
+        "correct": 0
       },
       {
         "id": 28,
@@ -314,7 +314,7 @@ const questions = [
           "Standardsortiment",
           "Engpasssortiment"
         ],
-        "correct": 4
+        "correct": 3
       },
       {
         "id": 29,
@@ -325,7 +325,7 @@ const questions = [
           "Lagerung von überschüssigen Waren",
           "Reduktion der Bestellmengen"
         ],
-        "correct": 2
+        "correct": 1
       },
       {
         "id": 30,
@@ -336,7 +336,7 @@ const questions = [
           "Geringe Lagerkosten",
           "Maximale Verfügbarkeit"
         ],
-        "correct": 2
+        "correct": 1
       },
       
         {
@@ -348,7 +348,7 @@ const questions = [
             "Analyse von Stärken und Schwächen der Lieferanten",
             "Einführung neuer Technologien"
           ],
-          "correct": 3
+          "correct": 2
         },
         {
           "id": 32,
@@ -359,7 +359,7 @@ const questions = [
             "Lieferantenselektion",
             "Lieferantenbeurteilung"
           ],
-          "correct": 2
+          "correct": 1
         },
         {
           "id": 33,
@@ -370,7 +370,7 @@ const questions = [
             "Stabile Gewinnentwicklung",
             "Starke Preissenkung"
           ],
-          "correct": 2
+          "correct": 1
         },
         {
           "id": 34,
@@ -381,7 +381,7 @@ const questions = [
             "Durchführung von Preisverhandlungen",
             "Einführung neuer Technologien"
           ],
-          "correct": 2
+          "correct": 1
         },
         {
           "id": 35,
@@ -392,7 +392,7 @@ const questions = [
             "Ihre Bedeutung ist geringer als die von A- und B-Gütern",
             "Sie sind immer saisonale Artikel"
           ],
-          "correct": 3
+          "correct": 2
         },
         {
           "id": 36,
@@ -403,7 +403,7 @@ const questions = [
             "Z-Produkte",
             "Engpassprodukte"
           ],
-          "correct": 2
+          "correct": 1
         },
         {
           "id": 37,
@@ -414,7 +414,7 @@ const questions = [
             "Optimierung der Transportkosten",
             "Lagerhaltung von Engpassprodukten"
           ],
-          "correct": 2
+          "correct": 1
         },
         {
           "id": 38,
@@ -425,7 +425,7 @@ const questions = [
             "Einführung neuer Produkte in das Sortiment",
             "Verbesserung der Marktanteile"
           ],
-          "correct": 2
+          "correct": 1
         },
         {
           "id": 39,
@@ -436,7 +436,7 @@ const questions = [
             "Cash Cows",
             "Poor Dogs"
           ],
-          "correct": 1
+          "correct": 0
         },
         {
           "id": 40,
@@ -447,7 +447,7 @@ const questions = [
             "Sie ersetzt die Lieferantenbewertung",
             "Sie erhöht die Anzahl der verfügbaren Produkte"
           ],
-          "correct": 2
+          "correct": 1
         },
           {
             "id": 41,
@@ -458,7 +458,7 @@ const questions = [
               "Geringe Lagerbestände",
               "Hohe Werbeausgaben"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 42,
@@ -469,7 +469,7 @@ const questions = [
               "Erhöhung der Lagerkosten",
               "Reduktion des Produktsortiments"
             ],
-            "correct": 1
+            "correct": 0
           },
           {
             "id": 43,
@@ -480,7 +480,7 @@ const questions = [
               "Analyse von Produktionskosten",
               "Überwachung von Lagerbeständen"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 44,
@@ -491,7 +491,7 @@ const questions = [
               "Bestellung",
               "Lieferantenbeurteilung"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 45,
@@ -502,7 +502,7 @@ const questions = [
               "Schwer vorhersagbarer Bedarf",
               "Produkte mit extrem hohen Lagerkosten"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 46,
@@ -513,7 +513,7 @@ const questions = [
               "Geringe Profitabilität bei niedrigem Wachstum",
               "Hohe Investitionskosten"
             ],
-            "correct": 3
+            "correct": 2
           },
           {
             "id": 47,
@@ -524,7 +524,7 @@ const questions = [
               "Standardsortiment",
               "Engpassartikel"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 48,
@@ -535,7 +535,7 @@ const questions = [
               "Maximierung der Lagerbestände",
               "Einführung eines neuen Preismodells"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 49,
@@ -546,7 +546,7 @@ const questions = [
               "Einführung manueller Prozesse",
               "Reduktion der Produktqualität"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 50,
@@ -557,7 +557,7 @@ const questions = [
               "Einführung neuer gesetzlicher Regelungen",
               "Reduktion von Logistikpartnerschaften"
             ],
-            "correct": 4
+            "correct": 3
           },
           {
             "id": 51,
@@ -568,7 +568,7 @@ const questions = [
               "Einführung von Trendsortimenten",
               "Reduktion der Anzahl von Lieferanten"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 52,
@@ -579,7 +579,7 @@ const questions = [
               "Hohe Kosten und niedriger Gewinn",
               "Schneller Rückgang des Absatzes"
             ],
-            "correct": 1
+            "correct": 0
           },
           {
             "id": 53,
@@ -590,7 +590,7 @@ const questions = [
               "Y-Produkte",
               "Basisartikel"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 54,
@@ -601,7 +601,7 @@ const questions = [
               "Hohe saisonale Nachfrage",
               "Reduzierte Bedeutung im Portfolio"
             ],
-            "correct": 1
+            "correct": 0
           },
           {
             "id": 55,
@@ -612,7 +612,7 @@ const questions = [
               "Eliminierung von Engpassprodukten",
               "Automatisierung des Einkaufsprozesses"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 56,
@@ -623,7 +623,7 @@ const questions = [
               "Identifikation von Lieferanten, die die Anforderungen erfüllen",
               "Einführung neuer Technologien"
             ],
-            "correct": 3
+            "correct": 2
           },
           {
             "id": 57,
@@ -634,7 +634,7 @@ const questions = [
               "Einführung von Trendsortimenten",
               "Stabilität von Marktbedingungen"
             ],
-            "correct": 1
+            "correct": 0
           },
           {
             "id": 58,
@@ -645,7 +645,7 @@ const questions = [
               "Entwicklung kundenorientierter Sortimente",
               "Reduktion der Anzahl von Lieferanten"
             ],
-            "correct": 3
+            "correct": 2
           },
           {
             "id": 59,
@@ -656,7 +656,7 @@ const questions = [
               "Standardsortiment",
               "Engpassprodukte"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 60,
@@ -667,7 +667,7 @@ const questions = [
               "Einführung neuer Preismodelle",
               "Erhöhung der Lagerbestände"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 61,
@@ -678,7 +678,7 @@ const questions = [
               "Question Marks",
               "Cash Cows"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 62,
@@ -689,7 +689,7 @@ const questions = [
               "Stabiler Lebenszyklus",
               "Niedrige Beschaffungskomplexität"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 63,
@@ -700,7 +700,7 @@ const questions = [
               "Y-Produkte",
               "Basisartikel"
             ],
-            "correct": 3
+            "correct": 2
           },
           {
             "id": 64,
@@ -711,7 +711,7 @@ const questions = [
               "Maximale Bekanntheit und hohe Investitionen",
               "Einführung neuer Wettbewerber"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 65,
@@ -722,7 +722,7 @@ const questions = [
               "Sicherstellung der Produktqualität",
               "Auswahl der richtigen Lieferanten"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 66,
@@ -733,7 +733,7 @@ const questions = [
               "Reduktion der Lieferantenauswahl",
               "Verlängerung der Einkaufszyklen"
             ],
-            "correct": 1
+            "correct": 0
           },
           {
             "id": 67,
@@ -744,7 +744,7 @@ const questions = [
               "Einführung neuer Produkte",
               "Einstellung der Produktion"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 68,
@@ -755,7 +755,7 @@ const questions = [
               "Einführung neuer gesetzlicher Regelungen",
               "Stabilisierung globaler Lieferketten"
             ],
-            "correct": 2
+            "correct": 1
           },
           {
             "id": 69,
@@ -766,7 +766,7 @@ const questions = [
               "Poor Dogs",
               "Question Marks"
             ],
-            "correct": 3
+            "correct": 2
           },
           {
             "id": 70,
@@ -777,7 +777,7 @@ const questions = [
               "Hohe Kosten und kurze Lebensdauer",
               "Geringe Attraktivität im Markt"
             ],
-            "correct": 2
+            "correct": 1
           }
         
 ];
