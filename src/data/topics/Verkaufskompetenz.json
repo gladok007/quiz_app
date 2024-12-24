@@ -1,0 +1,775 @@
+[
+    {
+      "id": 0,
+      "question": "Welche Phase beschreibt den Zeitraum, in dem der Kunde Informationen sammelt?",
+      "options": [
+        "Kaufphase",
+        "Nachkaufphase",
+        "Vorkaufphase",
+        "Orientierungsphase"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 1,
+      "question": "Was bestimmt NICHT der Standort eines Geschäfts?",
+      "options": [
+        "Marktsegment",
+        "Sortimentstiefe",
+        "Logistik",
+        "Wettbewerber"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "Was beschreibt die Sortimentsbreite?",
+      "options": [
+        "Die Varianten innerhalb einer Kategorie",
+        "Die Anzahl unterschiedlicher Produktkategorien",
+        "Die Rentabilität des Sortiments",
+        "Die Lagerkapazität"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "Welcher Faktor ist bei der Rentabilität eines Sortiments NICHT zu beeinflussen?",
+      "options": [
+        "Marketingmaßnahmen",
+        "Konkurrenzaktivitäten",
+        "Verkaufspreis",
+        "Wahrnehmungskapazität"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "Was gehört zum klassischen Verkaufsprozess?",
+      "options": [
+        "Nur Leistungsangebot",
+        "Nur Leistungserwartung",
+        "Leistungsangebot und Leistungserwartung",
+        "Weder Leistungsangebot noch Leistungserwartung"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": "Was ist ein Point-of-Sale (POS)?",
+      "options": [
+        "Ein Werbeplakat",
+        "Der Ort des Kaufs",
+        "Ein Verkäufer",
+        "Eine Werbestrategie"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "Welche Faktoren beeinflussen die Sortimentsrentabilität?",
+      "options": [
+        "Nur Verkaufsflächen",
+        "Nur Konkurrenzaktivitäten",
+        "Verkaufsflächen und Konkurrenzaktivitäten",
+        "Keine der genannten Optionen"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": "Was gehört zum Kernsortiment?",
+      "options": [
+        "Saisonale Produkte",
+        "Hauptumsatzträger",
+        "Aktionsware",
+        "Ergänzungsprodukte"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "Was versteht man unter Category Management?",
+      "options": [
+        "Personalverwaltung",
+        "Warengruppenmanagement",
+        "Lagerverwaltung",
+        "Kundenservice"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "Welche Maßnahme gehört zur Sortimentsoptimierung?",
+      "options": [
+        "Personalplanung",
+        "Controlling-Kennzahlen",
+        "Marketingbudget",
+        "Standortanalyse"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "Was ist ein wichtiger Aspekt der Kundenorientierung?",
+      "options": [
+        "Lieferantenauswahl",
+        "Bedarfsbereiche",
+        "Konkurrenzanalyse",
+        "Lagerhaltung"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "Welche Einflussfaktoren bestimmen die Preisentscheidung?",
+      "options": [
+        "Nur Kosten",
+        "Nur Nachfrage",
+        "Kosten und Marketingmix",
+        "Ausschließlich Wettbewerb"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "question": "Was sind Preisschwellen?",
+      "options": [
+        "Maximale Verkaufspreise",
+        "Psychologische Preisgrenzen",
+        "Mindestpreise",
+        "Durchschnittspreise"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "Was ist das Ziel der Ladengestaltung?",
+      "options": [
+        "Nur Verkaufsförderung",
+        "Nur Flächenproduktivität",
+        "Verkaufsförderung und hohe Flächenproduktivität",
+        "Ausschließlich Dekoration"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "question": "Was bedeutet Zwangslauf im Ladenlayout?",
+      "options": [
+        "Vorgeschriebene Laufrichtung",
+        "Freie Wegwahl",
+        "Notausgang",
+        "Personalweg"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "Was gehört zur qualitativen Raumzuteilung?",
+      "options": [
+        "Flächenberechnung",
+        "Warengruppenanordnung",
+        "Personalplanung",
+        "Budgetierung"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "Welche Verkaufszone ist besonders wertvoll?",
+      "options": [
+        "Sackgassen",
+        "Linke Seite vom Kundenstrom",
+        "Rechte Seite vom Kundenstrom",
+        "Hinter den Kassen"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "question": "Was ist ein Merkmal der Früherkennungszone?",
+      "options": [
+        "Standardmaßnahmen",
+        "Innovative Maßnahmen",
+        "Bewährte Konzepte",
+        "Pflichtmaßnahmen"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "Was kennzeichnet die Sicherheitszone?",
+      "options": [
+        "Innovative Maßnahmen",
+        "Einzigartige Konzepte",
+        "Muss-Maßnahmen",
+        "Experimentelle Ansätze"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 19,
+      "question": "Welche Phase ist entscheidend für den Kundeneindruck?",
+      "options": [
+        "Nur die erste Phase",
+        "Nur die letzte Phase",
+        "Erste und letzte Phase",
+        "Mittlere Phase"
+      ],
+      "correct": 2
+    },
+    {
+        "id": 20,
+        "question": "Was gehört zur Nachkaufphase?",
+        "options": [
+          "Preisverhandlung",
+          "Produktauswahl",
+          "Kundenservice",
+          "Werbung"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 21,
+        "question": "Welche Aufgabe hat das Sortimentscontrolling?",
+        "options": [
+          "Personalplanung",
+          "Rentabilitätsprüfung",
+          "Ladengestaltung",
+          "Werbung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 22,
+        "question": "Was ist ein Merkmal der Profilierungszone?",
+        "options": [
+          "Standardmaßnahmen",
+          "Einzigartige Maßnahmen",
+          "Pflichtmaßnahmen",
+          "Basisangebote"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 23,
+        "question": "Was beeinflusst die Sortimentstiefe?",
+        "options": [
+          "Standort",
+          "Variantenvielfalt",
+          "Personal",
+          "Werbung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 24,
+        "question": "Welche Rolle spielt das Layout bei der Ladengestaltung?",
+        "options": [
+          "Keine",
+          "Untergeordnete",
+          "Zentrale",
+          "Variable"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 25,
+        "question": "Was gehört zur Orientierungsphase?",
+        "options": [
+          "Nur Standort",
+          "Nur Werbung",
+          "Standort und Werbung",
+          "Keines von beiden"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 26,
+        "question": "Was ist ein Merkmal der quantitativen Raumzuteilung?",
+        "options": [
+          "Produktplatzierung",
+          "Flächeneffizienz",
+          "Warenpräsentation",
+          "Kundenführung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 27,
+        "question": "Welche Funktion hat das Category Management?",
+        "options": [
+          "Personalführung",
+          "Warengruppensteuerung",
+          "Preisgestaltung",
+          "Werbung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 28,
+        "question": "Was kennzeichnet die vertikale Warenpräsentation?",
+        "options": [
+          "Breite Anordnung",
+          "Höhenanordnung",
+          "Diagonale Anordnung",
+          "Zufällige Anordnung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 29,
+        "question": "Was ist ein Merkmal des Zusatzsortiments?",
+        "options": [
+          "Hauptumsatzträger",
+          "Ergänzende Produkte",
+          "Kernprodukte",
+          "Standardprodukte"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 30,
+        "question": "Was beeinflusst die Preislagenbestimmung?",
+        "options": [
+          "Nur Kundenverhalten",
+          "Nur Wettbewerb",
+          "Kundenverhalten und Wettbewerb",
+          "Keiner der genannten Faktoren"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 31,
+        "question": "Was gehört zur Verkaufsbereitschaft?",
+        "options": [
+          "Nur Personal",
+          "Nur Sortiment",
+          "Personal und Sortiment",
+          "Keines von beiden"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 32,
+        "question": "Welche Bedeutung hat die Warengruppe?",
+        "options": [
+          "Personalstruktur",
+          "Sortimentskategorie",
+          "Preisgestaltung",
+          "Werbemaßnahme"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 33,
+        "question": "Was kennzeichnet die horizontale Warenpräsentation?",
+        "options": [
+          "Höhenanordnung",
+          "Breitenanordnung",
+          "Diagonale Anordnung",
+          "Zufällige Anordnung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 34,
+        "question": "Was ist ein Merkmal des Randsortiments?",
+        "options": [
+          "Hauptumsatzträger",
+          "Ergänzungsprodukte",
+          "Abrundung des Sortiments",
+          "Kernprodukte"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 35,
+        "question": "Welche Rolle spielt die Attraktivität am POS?",
+        "options": [
+          "Keine",
+          "Untergeordnete",
+          "Zentrale",
+          "Variable"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 36,
+        "question": "Was beeinflusst die Sortimentsrentabilität?",
+        "options": [
+          "Nur Kosten",
+          "Nur Umsatz",
+          "Kosten und Umsatz",
+          "Keiner der Faktoren"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 37,
+        "question": "Was kennzeichnet die Profilplanung?",
+        "options": [
+          "Zufällige Maßnahmen",
+          "Systematische Auswahl",
+          "Keine Planung",
+          "Nur Kostenfokus"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 38,
+        "question": "Welche Bedeutung hat das Verbundprinzip?",
+        "options": [
+          "Preisgestaltung",
+          "Warenanordnung",
+          "Personalführung",
+          "Werbung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 39,
+        "question": "Was ist ein Merkmal der Kaufphase?",
+        "options": [
+          "Information",
+          "Transaktion",
+          "Nachbetreuung",
+          "Werbung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 40,
+        "question": "Was kennzeichnet die Nachkaufphase?",
+        "options": [
+          "Produktauswahl",
+          "Kundenbetreuung",
+          "Preisverhandlung",
+          "Sortimentsplanung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 41,
+        "question": "Welche Rolle spielt die Technologie am POS?",
+        "options": [
+          "Keine",
+          "Untergeordnete",
+          "Unterstützende",
+          "Zentrale"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 42,
+        "question": "Was beeinflusst die Sortimentsbreite?",
+        "options": [
+          "Nur Markt",
+          "Nur Kosten",
+          "Markt und Kosten",
+          "Keiner der Faktoren"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 43,
+        "question": "Was kennzeichnet das Ladenlayout?",
+        "options": [
+          "Nur Raumaufteilung",
+          "Nur Warenplatzierung",
+          "Raumaufteilung und Warenplatzierung",
+          "Keines von beiden"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 44,
+        "question": "Was ist ein Merkmal der Orientierungsphase?",
+        "options": [
+          "Kaufabschluss",
+          "Informationssammlung",
+          "Nachbetreuung",
+          "Reklamation"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 45,
+        "question": "Welche Bedeutung hat die Kassenzonen-Gestaltung?",
+        "options": [
+          "Keine",
+          "Geringe",
+          "Hohe",
+          "Variable"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 46,
+        "question": "Was kennzeichnet die Sortimentspflege?",
+        "options": [
+          "Einmalige Aktion",
+          "Kontinuierlicher Prozess",
+          "Zufällige Maßnahme",
+          "Keine Bedeutung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 47,
+        "question": "Was ist ein Merkmal der Verkaufszonen?",
+        "options": [
+          "Gleichwertig",
+          "Unterschiedliche Wertigkeit",
+          "Ohne Bedeutung",
+          "Zufällig"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 48,
+        "question": "Welche Rolle spielt die Kundenführung?",
+        "options": [
+          "Keine",
+          "Untergeordnete",
+          "Wichtige",
+          "Variable"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 49,
+        "question": "Was kennzeichnet die Sortimentsoptimierung?",
+        "options": [
+          "Einmalige Aktion",
+          "Kontinuierlicher Prozess",
+          "Zufällige Maßnahme",
+          "Keine Bedeutung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 50,
+        "question": "Was ist ein Merkmal der Warenpräsentation?",
+        "options": [
+          "Unwichtig",
+          "Nebensächlich",
+          "Verkaufsfördernd",
+          "Ohne Einfluss"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 51,
+        "question": "Welche Bedeutung hat die Raumzuteilung?",
+        "options": [
+          "Keine",
+          "Geringe",
+          "Strategische",
+          "Variable"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 52,
+        "question": "Was kennzeichnet die Sortimentsstruktur?",
+        "options": [
+          "Zufällige Anordnung",
+          "Systematische Gliederung",
+          "Keine Ordnung",
+          "Variable Gestaltung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 53,
+        "question": "Was ist ein Merkmal der Preisgestaltung?",
+        "options": [
+          "Unwichtig",
+          "Nebensächlich",
+          "Strategisch",
+          "Ohne Bedeutung"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 54,
+        "question": "Welche Rolle spielt das Personal?",
+        "options": [
+          "Keine",
+          "Untergeordnete",
+          "Zentrale",
+          "Variable"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 55,
+        "question": "Was kennzeichnet die Ladengestaltung?",
+        "options": [
+          "Nur Optik",
+          "Nur Funktionalität",
+          "Optik und Funktionalität",
+          "Keines von beiden"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 56,
+        "question": "Was ist ein Merkmal der Kundenkommunikation?",
+        "options": [
+          "Unwichtig",
+          "Nebensächlich",
+          "Wesentlich",
+          "Ohne Bedeutung"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 57,
+        "question": "Welche Bedeutung hat die Warenpflege?",
+        "options": [
+          "Keine",
+          "Geringe",
+          "Hohe",
+          "Variable"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 58,
+        "question": "Was kennzeichnet die Verkaufsförderung?",
+        "options": [
+          "Einmalige Aktion",
+          "Dauerhafter Prozess",
+          "Zufällige Maßnahme",
+          "Ohne Bedeutung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 59,
+        "question": "Was ist ein Merkmal der Sortimentsplanung?",
+        "options": [
+          "Spontan",
+          "Systematisch",
+          "Zufällig",
+          "Ohne System"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 60,
+        "question": "Welche Rolle spielt die Preiskalkulation?",
+        "options": [
+          "Keine",
+          "Untergeordnete",
+          "Zentrale",
+          "Variable"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 61,
+        "question": "Was kennzeichnet die Kundenorientierung?",
+        "options": [
+          "Unwichtig",
+          "Nebensächlich",
+          "Grundlegend",
+          "Ohne Bedeutung"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 62,
+        "question": "Was ist ein Merkmal der Verkaufsraumgestaltung?",
+        "options": [
+          "Nur Optik",
+          "Nur Funktion",
+          "Optik und Funktion",
+          "Keines von beiden"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 63,
+        "question": "Welche Bedeutung hat die Warenpräsentation?",
+        "options": [
+          "Keine",
+          "Geringe",
+          "Hohe",
+          "Variable"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 64,
+        "question": "Was kennzeichnet die Verkaufsstrategie?",
+        "options": [
+          "Zufällig",
+          "Geplant",
+          "Unwichtig",
+          "Ohne Bedeutung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 65,
+        "question": "Welche Zone im Profilierungsmodell beschreibt Maßnahmen, die von Kunden erwartet werden?",
+        "options": [
+          "Früherkennungszone",
+          "Profilierungszone",
+          "Sicherheitszone",
+          "Innovationszone"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 66,
+        "question": "Was kennzeichnet die Nachkaufphase?",
+        "options": [
+          "Sortimentsauswahl",
+          "Nachkaufservice",
+          "Ladenlayout",
+          "Preisgestaltung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 67,
+        "question": "Welche Art der Raumzuteilung befasst sich mit der effizienten Flächennutzung?",
+        "options": [
+          "Qualitative Raumzuteilung",
+          "Quantitative Raumzuteilung",
+          "Vertikale Raumzuteilung",
+          "Horizontale Raumzuteilung"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 68,
+        "question": "Was gehört zu den hochwertigen Verkaufszonen?",
+        "options": [
+          "Sackgassen",
+          "Einlaufzonen",
+          "Links vom Kundenstrom",
+          "Gangkreuzungen"
+        ],
+        "correct": 3
+      },
+      {
+        "id": 69,
+        "question": "Welches Element gehört zur Ladengestaltung?",
+        "options": [
+          "Personalplanung",
+          "Budgetierung",
+          "Ladenlayout",
+          "Marketingstrategie"
+        ],
+        "correct": 2
+      }
+    
+    
+    
+  ]
