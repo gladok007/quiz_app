@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+  "type": "multiple_choice",
       "question": "Welche Aussage zum einstufigen Cross-Docking ist korrekt?",
       "options": [
         "Es erfordert eine längere Zwischenlagerung",
@@ -12,6 +13,7 @@
     },
     {
       "id": 2,
+  "type": "multiple_choice",
       "question": "Welcher der folgenden Flüsse ist in der Logistik NICHT definiert?",
       "options": [
         "Warenfluss",
@@ -23,6 +25,7 @@
     },
     {
       "id": 3,
+  "type": "multiple_choice",
       "question": "Was ist eine Hauptmaßnahme zur Reduzierung des Bullwhip-Effekts bei Preisschwankungen?",
       "options": [
         "Verlängerung der Bestellintervalle",
@@ -34,6 +37,7 @@
     },
     {
       "id": 4,
+  "type": "multiple_choice",
       "question": "Welches ist KEIN typisches Merkmal des Collaborative Planning, Forecasting and Replenishment (CPFR)?",
       "options": [
         "Gemeinsame Geschäftsplanung",
@@ -45,6 +49,7 @@
     },
     {
       "id": 5,
+  "type": "multiple_choice",
       "question": "Was ist ein Hauptnachteil des Just-in-Time-Konzepts?",
       "options": [
         "Zu hohe Lagerbestände",
@@ -56,6 +61,7 @@
     },
     {
       "id": 6,
+  "type": "multiple_choice",
       "question": "Welche Grundform der Warenverteilung ist im Text beschrieben?",
       "options": [
         "Streckenbelieferung und Zentrallagerbelieferung",
@@ -67,6 +73,7 @@
     },
     {
       "id": 7,
+  "type": "multiple_choice",
       "question": "Was ist KEINE Kernaufgabe im Logistikprozess laut Text?",
       "options": [
         "Warenanlieferung",
@@ -78,6 +85,7 @@
     },
     {
       "id": 8,
+  "type": "multiple_choice",
       "question": "Was versteht man unter EDI (Electronic Data Interchange)?",
       "options": [
         "Elektronische Warenauszeichnung",
@@ -89,6 +97,7 @@
     },
     {
       "id": 9,
+  "type": "multiple_choice",
       "question": "Was ist ein Hauptziel der Logistik laut Text?",
       "options": [
         "Maximierung der Lagerbestände",
@@ -100,6 +109,7 @@
     },
     {
       "id": 10,
+  "type": "multiple_choice",
       "question": "Welche Aussage zum zweistufigen Cross-Docking ist korrekt?",
       "options": [
         "Es benötigt keine Zwischenlagerung",
@@ -111,6 +121,7 @@
     },
     {
         "id": 11,
+  "type": "multiple_choice",
         "question": "Was ist ein Hauptmerkmal des Supply Chain Managements?",
         "options": [
           "Fokussiert sich nur auf einzelne Unternehmensbereiche",
@@ -122,6 +133,7 @@
       },
       {
         "id": 12,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt gehört NICHT zu den Vorteilen von Direct Store Delivery (DSD)?",
         "options": [
           "Effizientere Abläufe",
@@ -133,6 +145,7 @@
       },
       {
         "id": 13,
+  "type": "multiple_choice",
         "question": "Was ist eine Hauptfunktion des digitalen Zwillings in der Filiallogistik?",
         "options": [
           "Personalverwaltung",
@@ -144,6 +157,7 @@
       },
       {
         "id": 14,
+  "type": "multiple_choice",
         "question": "Was ist KEINE Ursache des Bullwhip-Effekts laut Text?",
         "options": [
           "Ungenaue Arbeitsprozesse",
@@ -155,6 +169,7 @@
       },
       {
         "id": 15,
+  "type": "multiple_choice",
         "question": "Welche Aussage zur rückführenden Logistik ist korrekt?",
         "options": [
           "Bezieht sich nur auf Verpackungsmaterial",
@@ -166,6 +181,7 @@
       },
       {
         "id": 16,
+  "type": "multiple_choice",
         "question": "Was ist ein Hauptnachteil des Dropshipping-Modells aus Kundensicht?",
         "options": [
           "Zu große Produktauswahl",
@@ -177,6 +193,7 @@
       },
       {
         "id": 17,
+  "type": "multiple_choice",
         "question": "Welche Aussage zur GTIN/EAN ist korrekt?",
         "options": [
           "Wird nur in Europa verwendet",
@@ -188,6 +205,7 @@
       },
       {
         "id": 18,
+  "type": "multiple_choice",
         "question": "Welches Element ist Teil des CPFR-Prozesses?",
         "options": [
           "Keine Bedarfsermittlung",
@@ -199,6 +217,7 @@
       },
       {
         "id": 19,
+  "type": "multiple_choice",
         "question": "Was ist KEIN Ziel des Supply Chain Managements laut Text?",
         "options": [
           "Optimierung der gesamten Kette",
@@ -210,6 +229,7 @@
       },
       {
         "id": 20,
+  "type": "multiple_choice",
         "question": "Welche Aussage zur Logistik vs. Supply Chain ist korrekt?",
         "options": [
           "Sind völlig identisch",
@@ -221,6 +241,7 @@
       },
       {
         "id": 21,
+  "type": "multiple_choice",
         "question": "Was ist ein Hauptvorteil des einstufigen Cross-Dockings?",
         "options": [
           "Hohe Lagerkosten",
@@ -232,6 +253,7 @@
       },
       {
         "id": 22,
+  "type": "multiple_choice",
         "question": "Welche Funktion hat RFID in der Logistik?",
         "options": [
           "Nur Preisauszeichnung",
@@ -243,6 +265,7 @@
       },
       {
         "id": 23,
+  "type": "multiple_choice",
         "question": "Was ist ein charakteristisches Merkmal der Streckenbelieferung?",
         "options": [
           "Immer über Zwischenlager",
@@ -254,6 +277,7 @@
       },
       {
         "id": 24,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt gehört NICHT zum Informationsfluss in der Logistik?",
         "options": [
           "Austausch zwischen Hersteller und Einkauf",
@@ -265,6 +289,7 @@
       },
       {
         "id": 25,
+  "type": "multiple_choice",
         "question": "Was ist ein Hauptziel der Logistik bezüglich der Filialen?",
         "options": [
           "Erhöhung der operativen Logistikaufgaben",
@@ -276,6 +301,7 @@
       },
       {
         "id": 26,
+  "type": "multiple_choice",
         "question": "Welche Maßnahme reduziert den Bullwhip-Effekt bei Auftragsbündelung?",
         "options": [
           "Verlängerung der Bestellintervalle",
@@ -287,6 +313,7 @@
       },
       {
         "id": 27,
+  "type": "multiple_choice",
         "question": "Was ist KEIN Vorteil des Just-in-Time-Konzepts?",
         "options": [
           "Keine Lagerhaltung",
@@ -298,6 +325,7 @@
       },
       {
         "id": 28,
+  "type": "multiple_choice",
         "question": "Welches Element ist Teil des CPFR-Prozesses?",
         "options": [
           "Keine Bedarfsermittlung",
@@ -309,6 +337,7 @@
       },
       {
         "id": 29,
+  "type": "multiple_choice",
         "question": "Was ist ein Hauptnachteil des Dropshipping aus Handelssicht?",
         "options": [
           "Zu hohe Lagerkosten",
@@ -320,6 +349,7 @@
       },
       {
         "id": 30,
+  "type": "multiple_choice",
         "question": "Welche Aussage zur Supply Chain ist korrekt?",
         "options": [
           "Betrifft nur den Warentransport",
@@ -331,6 +361,7 @@
       },
       {
         "id": 31,
+  "type": "multiple_choice",
         "question": "Was ist KEINE Aufgabe im Wareneingang?",
         "options": [
           "Kontrolle der Waren",
@@ -342,6 +373,7 @@
       },
       {
         "id": 32,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt gehört zum Supply Chain Management der Metro AG?",
         "options": [
           "Keine Lieferantenanalyse",
@@ -353,6 +385,7 @@
       },
       {
         "id": 33,
+  "type": "multiple_choice",
         "question": "Was ist ein Hauptproblem des Dropshipping für Kunden?",
         "options": [
           "Zu kurze Lieferzeiten",
@@ -364,6 +397,7 @@
       },
       {
         "id": 34,
+  "type": "multiple_choice",
         "question": "Welche Funktion hat der Informationsfluss in der Logistik?",
         "options": [
           "Nur Warentransport",
@@ -375,6 +409,7 @@
       },
       {
         "id": 35,
+  "type": "multiple_choice",
         "question": "Was ist ein Merkmal des zweistufigen Cross-Dockings?",
         "options": [
           "Keine Sortierung",
@@ -386,6 +421,7 @@
       },
       {
         "id": 36,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt ist KEIN typisches Problem des Bullwhip-Effekts?",
         "options": [
           "Ungenaue Prognosen",
@@ -397,6 +433,7 @@
       },
       {
         "id": 37,
+  "type": "multiple_choice",
         "question": "Was ist ein Hauptvorteil von Direct Store Delivery?",
         "options": [
           "Hohe Lagerkosten",
@@ -408,6 +445,7 @@
       },
       {
         "id": 38,
+  "type": "multiple_choice",
         "question": "Welche Aussage zur Kommissionierung ist korrekt?",
         "options": [
           "Ist nicht Teil der Logistik",
@@ -419,6 +457,7 @@
       },
       {
         "id": 39,
+  "type": "multiple_choice",
         "question": "Was ist KEIN Ziel der Logistik?",
         "options": [
           "Stärkung des Verkaufs",
@@ -430,6 +469,7 @@
       },
       {
         "id": 40,
+  "type": "multiple_choice",
         "question": "Welche Funktion hat das Efficient Consumer Response (ECR)?",
         "options": [
           "Verschlechterung der Zusammenarbeit",
@@ -441,6 +481,7 @@
       },
       {
         "id": 41,
+  "type": "multiple_choice",
         "question": "Welchen Haupteffekt hat die Implementierung von CPFR auf die Lieferkette?",
         "options": [
           "Verbesserte Abstimmung zwischen Partnern bei Prognosen und Planung",
@@ -452,6 +493,7 @@
       },
       {
         "id": 42,
+  "type": "multiple_choice",
         "question": "Was ist der primäre Unterschied zwischen einstufigem und zweistufigem Cross-Docking?",
         "options": [
           "Die Waren werden im zweistufigen Prozess kurz zwischengelagert und sortiert",
@@ -463,6 +505,7 @@
       },
       {
         "id": 43,
+  "type": "multiple_choice",
         "question": "Welche Rolle spielt der Informationsfluss im Supply Chain Management?",
         "options": [
           "Er verbindet alle Partner der Lieferkette und ermöglicht koordinierte Entscheidungen",
@@ -474,6 +517,7 @@
       },
       {
         "id": 44,
+  "type": "multiple_choice",
         "question": "Wie wirkt sich Just-in-Time auf die Lagerhaltungskosten aus?",
         "options": [
           "Reduziert sie durch bedarfsgerechte Lieferung und minimale Lagerbestände",
@@ -485,6 +529,7 @@
       },
       {
         "id": 45,
+  "type": "multiple_choice",
         "question": "Welches ist der Hauptgrund für die Entstehung des Bullwhip-Effekts bei Auftragsbündelung?",
         "options": [
           "Kleine Bestellungen werden zu großen Aufträgen zusammengefasst, was zu Bedarfsspitzen führt",
@@ -496,6 +541,7 @@
       },
       {
         "id": 46,
+  "type": "multiple_choice",
         "question": "Wie unterscheidet sich die Streckenbelieferung von der Zentrallagerbelieferung?",
         "options": [
           "Direkte Lieferung an Verkaufsstellen ohne Zwischenlager vs. Lieferung über Zentrallager",
@@ -507,6 +553,7 @@
       },
       {
         "id": 47,
+  "type": "multiple_choice",
         "question": "Welche Funktion erfüllt der digitale Zwilling in der Filiallogistik hauptsächlich?",
         "options": [
           "Optimierung der Artikelplatzierung durch digitales Abbild der Regalstruktur",
@@ -518,6 +565,7 @@
       },
       {
         "id": 48,
+  "type": "multiple_choice",
         "question": "Was ist der zentrale Vorteil des Direct Store Delivery für frische Waren?",
         "options": [
           "Minimierte Durchlaufzeit vom Hersteller zum Verkaufsregal",
@@ -529,6 +577,7 @@
       },
       {
         "id": 49,
+  "type": "multiple_choice",
         "question": "Welche Hauptfunktion hat EDI im Logistikprozess?",
         "options": [
           "Automatisierung und Standardisierung des Datenaustausches zwischen Geschäftspartnern",
@@ -540,6 +589,7 @@
       },
       {
         "id": 50,
+  "type": "multiple_choice",
         "question": "Wie wirkt sich CPFR auf die Bestandsführung aus?",
         "options": [
           "Reduziert Lagerbestände durch bessere Abstimmung der Partner",
@@ -551,6 +601,7 @@
       },
       {
         "id": 51,
+  "type": "multiple_choice",
         "question": "Was ist der Hauptzweck der rückführenden Logistik?",
         "options": [
           "Organisation des systematischen Rücktransports von Retouren, Leergut und fehlerhafter Ware",
@@ -562,6 +613,7 @@
       },
       {
         "id": 52,
+  "type": "multiple_choice",
         "question": "Wie unterscheidet sich Supply Chain Management von klassischer Logistik?",
         "options": [
           "Ganzheitliche Betrachtung der gesamten Wertschöpfungskette statt einzelner Unternehmensprozesse",
@@ -573,6 +625,7 @@
       },
       {
         "id": 53,
+  "type": "multiple_choice",
         "question": "Welche Hauptauswirkung hat der Bullwhip-Effekt auf die Lieferkette?",
         "options": [
           "Verstärkung kleiner Nachfrageschwankungen zu großen Bestandsschwankungen",
@@ -584,6 +637,7 @@
       },
       {
         "id": 54,
+  "type": "multiple_choice",
         "question": "Was ist das zentrale Merkmal des Efficient Consumer Response (ECR)?",
         "options": [
           "Optimierte Zusammenarbeit zwischen Herstellern und Händlern in der gesamten Lieferkette",
@@ -595,6 +649,7 @@
       },
       {
         "id": 55,
+  "type": "multiple_choice",
         "question": "Welche Hauptfunktion erfüllt RFID in der Logistik?",
         "options": [
           "Automatische Identifikation und Tracking von Waren in Echtzeit",
@@ -606,6 +661,7 @@
       },
       {
         "id": 56,
+  "type": "multiple_choice",
         "question": "Was ist der primäre Vorteil des Dropshipping für Händler?",
         "options": [
           "Geringer Kapitalbedarf durch Verzicht auf eigene Lagerhaltung",
@@ -617,6 +673,7 @@
       },
       {
         "id": 57,
+  "type": "multiple_choice",
         "question": "Wie wirkt sich Just-in-Time auf die Produktionsplanung aus?",
         "options": [
           "Erfordert präzise Abstimmung zwischen Produktion und Lieferung",
@@ -628,6 +685,7 @@
       },
       {
         "id": 58,
+  "type": "multiple_choice",
         "question": "Welche Rolle spielt der digitale Zwilling bei der Filialbelieferung?",
         "options": [
           "Optimierung der Warenverteilung durch exaktes digitales Filialabbild",
@@ -639,6 +697,7 @@
       },
       {
         "id": 59,
+  "type": "multiple_choice",
         "question": "Was ist der Hauptzweck des Cross-Docking im Vergleich zur klassischen Lagerhaltung?",
         "options": [
           "Beschleunigung des Warenflusses durch minimale Lagerzeiten",
@@ -650,6 +709,7 @@
       },
       {
         "id": 60,
+  "type": "multiple_choice",
         "question": "Welche Auswirkung hat EDI auf die Geschäftsprozesse?",
         "options": [
           "Automatisierung und Standardisierung der Geschäftskommunikation",
@@ -661,6 +721,7 @@
       },
       {
         "id": 61,
+  "type": "multiple_choice",
         "question": "Was ist der Hauptgrund für die Implementierung eines Supply Chain Managements?",
         "options": [
           "Optimierung der gesamten Wertschöpfungskette durch Integration aller Partner",
@@ -672,6 +733,7 @@
       },
       {
         "id": 62,
+  "type": "multiple_choice",
         "question": "Welche Hauptfunktion erfüllt das CPFR bei der Bedarfsplanung?",
         "options": [
           "Gemeinsame Entwicklung präziser Absatzprognosen durch Partnerkooperation",
@@ -683,6 +745,7 @@
       },
       {
         "id": 63,
+  "type": "multiple_choice",
         "question": "Wie unterscheidet sich die Zentrallagerbelieferung von der Streckenbelieferung?",
         "options": [
           "Zwischenlagerung und Bündelung im Logistikzentrum vor Filialbelieferung",
@@ -694,6 +757,7 @@
       },
       {
         "id": 64,
+  "type": "multiple_choice",
         "question": "Was ist der zentrale Vorteil des zweistufigen Cross-Dockings?",
         "options": [
           "Ermöglicht effiziente Sortierung und kurze Zwischenlagerung für optimale Distribution",
@@ -705,6 +769,7 @@
       },
       {
         "id": 65,
+  "type": "multiple_choice",
         "question": "Welche Hauptauswirkung hat Direct Store Delivery auf die Filiallogistik?",
         "options": [
           "Optimierung durch direkte Anlieferung und Reduzierung der Prozessschritte",
@@ -716,6 +781,7 @@
       },
       {
         "id": 66,
+  "type": "multiple_choice",
         "question": "Was ist der primäre Zweck von RFID-Chips in der Logistikkette?",
         "options": [
           "Automatische Identifikation und Tracking von Waren in Echtzeit",
@@ -727,6 +793,7 @@
       },
       {
         "id": 67,
+  "type": "multiple_choice",
         "question": "Welchen Hauptvorteil bietet EDI für die Auftragsabwicklung?",
         "options": [
           "Automatisierung und Standardisierung des gesamten Bestellprozesses",
@@ -738,6 +805,7 @@
       },
       {
         "id": 68,
+  "type": "multiple_choice",
         "question": "Was ist die zentrale Aufgabe des Kundenservice in der Filiallogistik?",
         "options": [
           "Professionelles Einräumen und Präsentation der Waren im Verkaufsraum",
@@ -749,6 +817,7 @@
       },
       {
         "id": 69,
+  "type": "multiple_choice",
         "question": "Welche Hauptfunktion hat die Kommissionierung im Logistikprozess?",
         "options": [
           "Bedarfsgerechte Zusammenstellung der Waren für einzelne Filialen",
@@ -760,6 +829,7 @@
       },
       {
         "id": 70,
+  "type": "multiple_choice",
         "question": "Was ist der zentrale Aspekt bei der Auszeichnung der Ware?",
         "options": [
           "Korrekte Kennzeichnung mit GTIN/EAN für eindeutige Identifikation",

@@ -1,6 +1,7 @@
 [
     {
       "id": 0,
+  "type": "multiple_choice",
       "question": "Welche Phase des Verkaufsprozesses ist für die langfristige Kundenbindung am wichtigsten?",
       "options": [
         "Vorkaufphase",
@@ -12,6 +13,7 @@
     },
     {
       "id": 1,
+  "type": "multiple_choice",
       "question": "Was bestimmt NICHT primär die Standortwahl eines Geschäfts?",
       "options": [
         "Marktsegment",
@@ -23,6 +25,7 @@
     },
     {
       "id": 2,
+  "type": "multiple_choice",
       "question": "Welcher Faktor gehört zur qualitativen Raumzuteilung?",
       "options": [
         "Flächenproduktivität",
@@ -34,6 +37,7 @@
     },
     {
       "id": 3,
+  "type": "multiple_choice",
       "question": "Was beschreibt die Sortimentsbreite am besten?",
       "options": [
         "Varianten innerhalb einer Produktkategorie",
@@ -45,6 +49,7 @@
     },
     {
       "id": 4,
+  "type": "multiple_choice",
       "question": "Welches Element gehört NICHT zu den Maßnahmen der Sortimentsoptimierung?",
       "options": [
         "Sortimentspflege",
@@ -56,6 +61,7 @@
     },
     {
       "id": 5,
+  "type": "multiple_choice",
       "question": "Was charakterisiert eine Category im Handel?",
       "options": [
         "Nur Produkte einer Marke",
@@ -67,6 +73,7 @@
     },
     {
       "id": 6,
+  "type": "multiple_choice",
       "question": "Welcher Faktor beeinflusst NICHT die Preisentscheidung?",
       "options": [
         "Kosten",
@@ -78,6 +85,7 @@
     },
     {
       "id": 7,
+  "type": "multiple_choice",
       "question": "Was passiert typischerweise beim Überschreiten einer Preisschwelle?",
       "options": [
         "Die Qualität steigt automatisch",
@@ -89,6 +97,7 @@
     },
     {
       "id": 8,
+  "type": "multiple_choice",
       "question": "Welche Zone gilt als hochwertige Verkaufszone?",
       "options": [
         "Links vom Kundenstrom",
@@ -100,6 +109,7 @@
     },
     {
       "id": 9,
+  "type": "multiple_choice",
       "question": "Was ist KEIN Hauptziel der Ladengestaltung?",
       "options": [
         "Verkaufsförderung",
@@ -111,6 +121,7 @@
     },
     {
         "id": 10,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt gehört zur Profilierungszone?",
         "options": [
           "Standard-Serviceleistungen",
@@ -122,6 +133,7 @@
       },
       {
         "id": 11,
+  "type": "multiple_choice",
         "question": "Was ist ein Merkmal der Früherkennungszone?",
         "options": [
           "Standardmaßnahmen der Branche",
@@ -133,6 +145,7 @@
       },
       {
         "id": 12,
+  "type": "multiple_choice",
         "question": "Welches Element ist NICHT Teil des klassischen Verkaufsprozesses?",
         "options": [
           "Leistungsangebot",
@@ -144,6 +157,7 @@
       },
       {
         "id": 13,
+  "type": "multiple_choice",
         "question": "Was charakterisiert die Vorkaufphase am besten?",
         "options": [
           "Produktauswahl und Bezahlung",
@@ -155,6 +169,7 @@
       },
       {
         "id": 14,
+  "type": "multiple_choice",
         "question": "Welcher Faktor beeinflusst die Sortimentsrentabilität NICHT direkt?",
         "options": [
           "Konkurrenzaktivitäten",
@@ -166,6 +181,7 @@
       },
       {
         "id": 15,
+  "type": "multiple_choice",
         "question": "Was beschreibt die Sortimentstiefe am besten?",
         "options": [
           "Anzahl verschiedener Warenbereiche",
@@ -177,6 +193,7 @@
       },
       {
         "id": 16,
+  "type": "multiple_choice",
         "question": "Welche Maßnahme gehört zur kundenorientierten Sortimentsoptimierung?",
         "options": [
           "Übernahme der Warenordnung",
@@ -188,6 +205,7 @@
       },
       {
         "id": 17,
+  "type": "multiple_choice",
         "question": "Was ist KEINE Aufgabe der Ladengestaltung?",
         "options": [
           "Anordnung der Gänge",
@@ -199,6 +217,7 @@
       },
       {
         "id": 18,
+  "type": "multiple_choice",
         "question": "Welcher Bereich zählt zu den minderwertigen Verkaufszonen?",
         "options": [
           "Hauptwege",
@@ -210,6 +229,7 @@
       },
       {
         "id": 19,
+  "type": "multiple_choice",
         "question": "Was ist ein Merkmal der Sicherheitszone im Zonenmodell der Profilierung?",
         "options": [
           "Innovative Maßnahmen",
@@ -221,6 +241,7 @@
       },
       {
         "id": 20,
+  "type": "multiple_choice",
         "question": "Welche Funktion hat das Ladenlayout primär?",
         "options": [
           "Personalplanung",
@@ -232,6 +253,7 @@
       },
       {
         "id": 21,
+  "type": "multiple_choice",
         "question": "Was ist KEIN typischer Einflussfaktor der Preisentscheidung?",
         "options": [
           "Marketingmix",
@@ -243,6 +265,7 @@
       },
       {
         "id": 22,
+  "type": "multiple_choice",
         "question": "Welches Element gehört zur quantitativen Raumzuteilung?",
         "options": [
           "Warengruppenanordnung",
@@ -254,6 +277,7 @@
       },
       {
         "id": 23,
+  "type": "multiple_choice",
         "question": "Was charakterisiert die Nachkaufphase?",
         "options": [
           "Informationssammlung",
@@ -265,6 +289,7 @@
       },
       {
         "id": 24,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt ist NICHT Teil der Sortimentsplanung?",
         "options": [
           "Sortimentsbreite",
@@ -276,6 +301,7 @@
       },
       {
         "id": 25,
+  "type": "multiple_choice",
         "question": "Was ist ein Merkmal des Point-of-Sale?",
         "options": [
           "Nur online Präsenz",
@@ -287,6 +313,7 @@
       },
       {
         "id": 26,
+  "type": "multiple_choice",
         "question": "Welche Funktion hat die Orientierungsphase?",
         "options": [
           "Kaufabschluss",
@@ -298,6 +325,7 @@
       },
       {
         "id": 27,
+  "type": "multiple_choice",
         "question": "Was ist KEIN Bestandteil der Sortimentsbreite?",
         "options": [
           "Warenbereich",
@@ -309,6 +337,7 @@
       },
       {
         "id": 28,
+  "type": "multiple_choice",
         "question": "Welcher Faktor beeinflusst die Standortwahl?",
         "options": [
           "Mitarbeiterqualifikation",
@@ -320,6 +349,7 @@
       },
       {
         "id": 29,
+  "type": "multiple_choice",
         "question": "Was kennzeichnet die Profilierungszone?",
         "options": [
           "Standardleistungen",
@@ -331,6 +361,7 @@
       },
       {
         "id": 30,
+  "type": "multiple_choice",
         "question": "Welches Element gehört zur Ladengestaltung?",
         "options": [
           "Personaleinsatzplan",
@@ -342,6 +373,7 @@
       },
       {
         "id": 31,
+  "type": "multiple_choice",
         "question": "Was charakterisiert die Kaufphase?",
         "options": [
           "Informationssammlung",
@@ -353,6 +385,7 @@
       },
       {
         "id": 32,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt gehört zur Sortimentsoptimierung?",
         "options": [
           "Personalschulung",
@@ -364,6 +397,7 @@
       },
       {
         "id": 33,
+  "type": "multiple_choice",
         "question": "Was ist ein Merkmal der quantitativen Raumzuteilung?",
         "options": [
           "Produktplatzierung",
@@ -375,6 +409,7 @@
       },
       {
         "id": 34,
+  "type": "multiple_choice",
         "question": "Welcher Faktor beeinflusst die Preislagenbestimmung?",
         "options": [
           "Mitarbeiteranzahl",
@@ -386,6 +421,7 @@
       },
       {
         "id": 35,
+  "type": "multiple_choice",
         "question": "Was kennzeichnet das Category Management?",
         "options": [
           "Nur Luxusprodukte",
@@ -397,6 +433,7 @@
       },
       {
         "id": 36,
+  "type": "multiple_choice",
         "question": "Welche Zone gilt als minderwertige Verkaufszone?",
         "options": [
           "Hauptwege",
@@ -408,6 +445,7 @@
       },
       {
         "id": 37,
+  "type": "multiple_choice",
         "question": "Was ist KEIN Hauptziel der Sortimentsoptimierung?",
         "options": [
           "Kundenzufriedenheit",
@@ -419,6 +457,7 @@
       },
       {
         "id": 38,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt gehört zum Ladenlayout?",
         "options": [
           "Preisgestaltung",
@@ -430,6 +469,7 @@
       },
       {
         "id": 39,
+  "type": "multiple_choice",
         "question": "Was charakterisiert die Früherkennungszone?",
         "options": [
           "Standardleistungen",
@@ -441,6 +481,7 @@
       },
       {
         "id": 40,
+  "type": "multiple_choice",
         "question": "Welches Element ist Teil der Sortimentstiefe?",
         "options": [
           "Warenbereich",
@@ -452,6 +493,7 @@
       },
       {
         "id": 41,
+  "type": "multiple_choice",
         "question": "Was kennzeichnet die Sicherheitszone?",
         "options": [
           "Innovative Angebote",
@@ -463,6 +505,7 @@
       },
       {
         "id": 42,
+  "type": "multiple_choice",
         "question": "Welcher Faktor beeinflusst die Raumzuteilung?",
         "options": [
           "Mitarbeiterqualifikation",
@@ -474,6 +517,7 @@
       },
       {
         "id": 43,
+  "type": "multiple_choice",
         "question": "Was ist KEIN Merkmal der Nachkaufphase?",
         "options": [
           "Servicebewertung",
@@ -485,6 +529,7 @@
       },
       {
         "id": 44,
+  "type": "multiple_choice",
         "question": "Welches Element gehört zur Verkaufsbereitschaft?",
         "options": [
           "Marktanalyse",
@@ -496,6 +541,7 @@
       },
       {
         "id": 45,
+  "type": "multiple_choice",
         "question": "Was charakterisiert die Orientierungsphase?",
         "options": [
           "Kaufabschluss",
@@ -507,6 +553,7 @@
       },
       {
         "id": 46,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt gehört zur Preisgestaltung?",
         "options": [
           "Personalplanung",
@@ -518,6 +565,7 @@
       },
       {
         "id": 47,
+  "type": "multiple_choice",
         "question": "Was ist ein Merkmal des Verbundprinzips?",
         "options": [
           "Einzelproduktfokus",
@@ -529,6 +577,7 @@
       },
       {
         "id": 48,
+  "type": "multiple_choice",
         "question": "Welcher Faktor beeinflusst die Flächenproduktivität?",
         "options": [
           "Mitarbeiteranzahl",
@@ -540,6 +589,7 @@
       },
       {
         "id": 49,
+  "type": "multiple_choice",
         "question": "Was kennzeichnet die Profilplanung?",
         "options": [
           "Standardisierung",
@@ -551,6 +601,7 @@
       },
       {
         "id": 50,
+  "type": "multiple_choice",
         "question": "Welches Element gehört zum Interior-Design?",
         "options": [
           "Preisgestaltung",
@@ -562,6 +613,7 @@
       },
       {
         "id": 51,
+  "type": "multiple_choice",
         "question": "Was kennzeichnet die Kaufphase?",
         "options": [
           "Informationssammlung",
@@ -573,6 +625,7 @@
       },
       {
         "id": 52,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt gehört zur Sortimentsoptimierung?",
         "options": [
           "Personalschulung",
@@ -584,6 +637,7 @@
       },
       {
         "id": 53,
+  "type": "multiple_choice",
         "question": "Was ist ein Merkmal der Raumzuteilung?",
         "options": [
           "Preisgestaltung",
@@ -595,6 +649,7 @@
       },
       {
         "id": 54,
+  "type": "multiple_choice",
         "question": "Welcher Faktor beeinflusst die Preisschwelle?",
         "options": [
           "Mitarbeiterqualifikation",
@@ -606,6 +661,7 @@
       },
       {
         "id": 55,
+  "type": "multiple_choice",
         "question": "Was kennzeichnet das Kernsortiment?",
         "options": [
           "Nur Aktionsware",
@@ -617,6 +673,7 @@
       },
       {
         "id": 56,
+  "type": "multiple_choice",
         "question": "Welche Zone gilt als hochwertige Verkaufszone?",
         "options": [
           "Sackgassen",
@@ -628,6 +685,7 @@
       },
       {
         "id": 57,
+  "type": "multiple_choice",
         "question": "Was ist KEIN Hauptziel der Ladengestaltung?",
         "options": [
           "Verkaufsförderung",
@@ -639,6 +697,7 @@
       },
       {
         "id": 58,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt gehört zum Ladenlayout?",
         "options": [
           "Preisgestaltung",
@@ -650,6 +709,7 @@
       },
       {
         "id": 59,
+  "type": "multiple_choice",
         "question": "Was charakterisiert die Profilierungszone?",
         "options": [
           "Standardleistungen",
@@ -661,6 +721,7 @@
       },
       {
         "id": 60,
+  "type": "multiple_choice",
         "question": "Welches Element ist Teil der Sortimentsbreite?",
         "options": [
           "Produktvarianten",
@@ -672,6 +733,7 @@
       },
       {
         "id": 61,
+  "type": "multiple_choice",
         "question": "Was kennzeichnet die Früherkennungszone?",
         "options": [
           "Standardservices",
@@ -683,6 +745,7 @@
       },
       {
         "id": 62,
+  "type": "multiple_choice",
         "question": "Welcher Faktor beeinflusst die qualitative Raumzuteilung?",
         "options": [
           "Quadratmeteranzahl",
@@ -694,6 +757,7 @@
       },
       {
         "id": 63,
+  "type": "multiple_choice",
         "question": "Was ist KEIN Merkmal der Vorkaufphase?",
         "options": [
           "Informationssuche",
@@ -705,6 +769,7 @@
       },
       {
         "id": 64,
+  "type": "multiple_choice",
         "question": "Welches Element gehört zum Category Management?",
         "options": [
           "Einzelproduktfokus",
@@ -716,6 +781,7 @@
       },
       {
         "id": 65,
+  "type": "multiple_choice",
         "question": "Was charakterisiert die Nachkaufphase am besten?",
         "options": [
           "Produktauswahl",
@@ -727,6 +793,7 @@
       },
       {
         "id": 66,
+  "type": "multiple_choice",
         "question": "Welcher Aspekt ist NICHT Teil der Sortimentsplanung?",
         "options": [
           "Category Management",
@@ -738,6 +805,7 @@
       },
       {
         "id": 67,
+  "type": "multiple_choice",
         "question": "Was kennzeichnet die Sicherheitszone im Profilierungsmodell?",
         "options": [
           "Innovative Maßnahmen",
@@ -749,6 +817,7 @@
       },
       {
         "id": 68,
+  "type": "multiple_choice",
         "question": "Welches Element gehört zur Verkaufsförderung?",
         "options": [
           "Werbeaktionen",
@@ -760,6 +829,7 @@
       },
       {
         "id": 69,
+  "type": "multiple_choice",
         "question": "Was ist ein Merkmal der qualitativen Raumzuteilung?",
         "options": [
           "Flächennutzungseffizienz",

@@ -1,0 +1,877 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Welche Phase im Beschaffungsprozess ist besonders wichtig für die Analyse der Marktanforderungen bei neuen Produkten?",
+        "options": ["Lieferantensuche", "Warenbedarfsermittlung", "Lieferantenbeurteilung", "Bestellung"],
+        "correct": 1
+    },
+    {
+        "id": 2,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Punkte zählen zu den Vorteilen des E-Procurement?",
+        "options": ["Kostensenkung durch Automatisierung", "Verkürzte Einkaufszyklen", "Erhöhte Lagerkosten", "Bessere Servicequalität"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 3,
+        "type": "sequencing",
+        "question": "Bringen Sie die Phasen der Multiattributbewertung in die richtige Reihenfolge:",
+        "options": ["Gewichtungsfaktoren festlegen", "Punktwerte aufsummieren", "Beurteilungskriterien auflisten", "Gewichtungsfaktoren mit Beurteilungskriterien multiplizieren", "Beurteilung vornehmen"],
+        "correct": [2, 0, 4, 3, 1]
+    },
+    {
+        "id": 4,
+        "type": "true_false",
+        "question": "Nachhaltigkeit in der Beschaffung verursacht ausschließlich höhere Kosten und bietet keine Vorteile für die Lieferkette.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Herausforderungen wird durch die Blockchain-Technologie in der Beschaffung gelöst?",
+        "options": ["Höhere Kosten bei Lagerhaltung", "Erhöhte Transparenz und Rückverfolgbarkeit", "Schnellere Preisverhandlungen", "Senkung der Rohstoffpreise"],
+        "correct": 1
+    },
+    {
+        "id": 6,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Faktoren beeinflussen die Lieferantenauswahl?",
+        "options": ["Qualität der Produkte", "Preisstabilität", "Standort des Lieferanten", "Anzahl der Mitarbeiter"],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 7,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Phasen des Beschaffungsprozesses in die richtige Reihenfolge:",
+        "options": ["Warenbedarfsermittlung", "Lieferantensuche", "Lieferantenselektion", "Warenbestellung", "Lieferantenbeurteilung"],
+        "correct": [0, 1, 2, 3, 4]
+    },
+    {
+        "id": 8,
+        "type": "true_false",
+        "question": "Die ABC-Analyse berücksichtigt qualitative Faktoren bei der Bewertung von Produkten.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptziel der XYZ-Analyse?",
+        "options": ["Reduzierung der Lagerbestände", "Optimierung der Lieferantenauswahl", "Verbrauchsprognose und Bedarfskontrolle", "Erhöhung der Lieferzeiten"],
+        "correct": 2
+    },
+    {
+        "id": 10,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Produkte fallen unter die Kategorie 'Saisonartikel'?",
+        "options": ["Spargel", "Weihnachtsdekoration", "Büroklammern", "Sommermode"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 11,
+        "type": "sequencing",
+        "question": "Bringen Sie die Schritte zur Berechnung der optimalen Bestellmenge in die richtige Reihenfolge:",
+        "options": ["Geplanter Absatz", "Warenumschlag berechnen", "Kritischer Warenbestand analysieren", "Optimale Bestellmenge festlegen"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Ein kritischer Warenbestand ist nur für Modeartikel relevant.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 13,
+        "type": "multiple_choice",
+        "question": "Welche Beschaffungsstrategie ist für Trendartikel wie Fidget Spinner am besten geeignet?",
+        "options": ["Hohe Lagerbestände sichern", "Just-in-Time-Lieferungen", "Langfristige Verträge abschließen", "Lieferantenbeurteilung vermeiden"],
+        "correct": 1
+    },
+    {
+        "id": 14,
+        "type": "multiple_response",
+        "question": "Welche Herausforderungen sind typisch für die Beschaffung neuer Produkte?",
+        "options": ["Unkalkulierbare Nachfrage", "Längere Lieferzeiten", "Komplexe Preisverhandlungen", "Geringer Planungsaufwand"],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 15,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Bestandteile einer Lieferantenbewertung nach ihrer typischen Reihenfolge:",
+        "options": ["Kommunikationseffizienz", "Pünktlichkeit", "Qualität", "Preis-Leistungs-Verhältnis"],
+        "correct": [2, 1, 3, 0]
+    },
+    {
+        "id": 16,
+        "type": "true_false",
+        "question": "Rohstoffmangel und steigende Preise gehören nicht zu den Herausforderungen der Beschaffung.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+
+    {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "Welche Kategorie von Artikeln benötigt keine Reservebestände?",
+        "options": ["X-Produkte", "Y-Produkte", "Z-Produkte", "C-Produkte"],
+        "correct": 2
+    },
+    {
+        "id": 18,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen tragen zur Nachhaltigkeit in der Beschaffung bei?",
+        "options": ["Zusammenarbeit mit lokalen Lieferanten", "Verwendung recycelbarer Materialien", "Erhöhung der Transportfrequenz", "Implementierung von Umweltstandards"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 19,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Schritte der Lieferantenselektion in die richtige Reihenfolge:",
+        "options": ["Lieferantenidentifikation", "Angebotsanalyse", "Lieferantenbewertung", "Vertragsabschluss"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 20,
+        "type": "true_false",
+        "question": "E-Procurement reduziert die Prozesskosten um bis zu 60%.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Welche Phase ist entscheidend für Preisverhandlungen mit Lieferanten?",
+        "options": ["Lieferantensuche", "Lieferantenselektion", "Warenbestellung", "Lieferantenbeurteilung"],
+        "correct": 1
+    },
+    {
+        "id": 22,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet der Einsatz von Just-in-Time-Lieferungen?",
+        "options": ["Reduzierte Lagerkosten", "Schnellere Nachschubzyklen", "Erhöhte Sicherheitsbestände", "Bessere Planbarkeit"],
+        "correct": [0, 1]
+    },
+    {
+        "id": 23,
+        "type": "sequencing",
+        "question": "Welche Herausforderungen treten bei der Beschaffung von Modeartikeln auf?",
+        "options": ["Kurze Produktlebenszyklen", "Hohe Nachfragevolatilität", "Nachhaltigkeitsanforderungen", "Einfacher Marktzugang"],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 24,
+        "type": "true_false",
+        "question": "Lieferantenpartnerschaften spielen in der modernen Beschaffung keine große Rolle.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 25,
+        "type": "multiple_choice",
+        "question": "Welche Vorteile bietet die Blockchain-Technologie in der Lieferkette?",
+        "options": ["Bessere Preiskontrolle", "Transparenz der Transaktionen", "Reduzierte Logistikkosten", "Schnellere Lagerumschläge"],
+        "correct": 1
+    },
+    {
+        "id": 26,
+        "type": "multiple_choice",
+        "question": "Welche Strategie umfasst ein Sortiment mit breiter Auswahl, aber geringer Tiefe?",
+        "options": ["Discount-Strategie", "Universal-Strategie", "Spezialisierungsstrategie", "Multi-Spezialisierungsstrategie"],
+            "correct": 1
+        },
+        {
+            "id": 27,
+            "type": "multiple_response",
+            "question": "Welche der folgenden Aspekte beeinflussen die Sortimentsgestaltung eines Einzelhändlers?",
+            "options": ["Kundenerwartungen", "Lieferantenvorgaben", "Marketingbudget", "Konkurrenzangebote"],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 28,
+            "type": "sequencing",
+            "question": "Bringen Sie die Schritte der BCG-Matrix-Analyse in die richtige Reihenfolge:",
+            "options": ["Klassifizierung von Stars", "Bewertung von Cash Cows", "Identifikation von Poor Dogs", "Analyse von Question Marks"],
+            "correct": [0, 1, 3, 2]
+        },
+        {
+            "id": 29,
+            "type": "true_false",
+            "question": "Die Einführung neuer Produkte im Sortiment erfordert keine Marktanalyse.",
+            "options": ["True", "False"],
+            "correct": 1
+        },
+        {
+            "id": 30,
+            "type": "multiple_choice",
+            "question": "Welche Kennzahl zeigt die wirtschaftliche Bedeutung eines Produkts im Sortiment?",
+            "options": ["Deckungsbeitrag", "Umsatzwachstum", "Marktanteil", "Fixkostenquote"],
+            "correct": 0
+        },
+        {
+            "id": 31,
+            "type": "multiple_response",
+            "question": "Welche Maßnahmen sind Teil der Sortimentspflege?",
+            "options": ["Entfernung unrentabler Produkte", "Einführung von Testartikeln", "Verlängerung der Lieferzeiten", "Anpassung der Produktpräsentation"],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 32,
+            "type": "sequencing",
+            "question": "Ordnen Sie die Schritte zur Sortimentsbewertung:",
+            "options": ["Analyse der Rentabilität", "Überprüfung der Marktnachfrage", "Anpassung der Sortimentsbreite", "Umsetzung der Änderungen"],
+            "correct": [0, 1, 2, 3]
+        },
+        {
+            "id": 33,
+            "type": "true_false",
+            "question": "Ein strategisches Sortiment ist besonders relevant für saisonale Artikel.",
+            "options": ["True", "False"],
+            "correct": 0
+        },
+        {
+            "id": 34,
+            "type": "multiple_choice",
+            "question": "Welche Zone wird als 'Profilierungszone' bezeichnet?",
+            "options": ["Maßnahmen, die einzigartig sind", "Grundlegende Erwartungen der Kunden", "Innovationen, die noch nicht akzeptiert sind", "Maßnahmen, die Wettbewerber ebenfalls anbieten"],
+            "correct": 0
+        },
+        {
+            "id": 35,
+            "type": "multiple_response",
+            "question": "Welche Faktoren sind für die Rentabilität eines Sortiments entscheidend?",
+            "options": ["Deckungsbeitrag", "Kosten der Lagerung", "Kundenzufriedenheit", "Wettbewerbsanalyse"],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 36,
+            "type": "multiple_choice",
+            "question": "Was beschreibt eine Sortimentstiefe?",
+            "options": ["Die Anzahl der Produktkategorien", "Die Vielfalt innerhalb einer Kategorie", "Der Lagerbestand eines Produkts", "Die Dauer der Marktpräsenz"],
+            "correct": 1
+        },
+            {
+                "id": 37,
+                "type": "multiple_response",
+                "question": "Welche Vorteile bietet ein breites Sortiment?",
+                "options": ["Erhöhung der Kundenattraktivität", "Bessere Anpassung an Kundenbedürfnisse", "Erhöhte Lagerkosten", "Komplexere Logistikprozesse"],
+                "correct": [0, 1]
+            },
+            {
+                "id": 38,
+                "type": "sequencing",
+                "question": "Ordnen Sie die Schritte zur Einführung eines neuen Produkts ins Sortiment:",
+                "options": ["Marktforschung", "Lieferantenauswahl", "Preisgestaltung", "Markttest"],
+                "correct": [0, 1, 2, 3]
+            },
+            {
+                "id": 39,
+                "type": "true_false",
+                "question": "Die BCG-Matrix hilft bei der Identifikation unrentabler Produkte.",
+                "options": ["True", "False"],
+                "correct": 0
+            },
+            {
+                "id": 40,
+                "type": "multiple_choice",
+                "question": "Was beschreibt das Kernsortiment eines Händlers?",
+                "options": ["Produkte mit den höchsten Margen", "Produkte, die das Basisgeschäft darstellen", "Produkte mit saisonaler Relevanz", "Testprodukte für neue Märkte"],
+                "correct": 1
+            },
+            {
+                "id": 41,
+                "type": "multiple_response",
+                "question": "Welche Herausforderungen entstehen bei der Einführung eines breiten Sortiments?",
+                "options": ["Höhere Kosten", "Komplexere Logistikprozesse", "Niedrigere Kundenbindung", "Geringere Marktattraktivität"],
+                "correct": [0, 1]
+            },
+            {
+                "id": 42,
+                "type": "sequencing",
+                "question": "Ordnen Sie die Schritte zur Evaluierung der Sortimentstiefe:",
+                "options": ["Analyse der Kundenbedürfnisse", "Überprüfung der Wettbewerbsfähigkeit", "Anpassung der Produktvielfalt", "Optimierung der Präsentation"],
+                "correct": [0, 1, 2, 3]
+            },
+            {
+                "id": 43,
+                "type": "true_false",
+                "question": "Ein Sortiment mit geringer Breite hat immer niedrigere Kosten.",
+                "options": ["True", "False"],
+                "correct": 1
+            },
+            {
+                "id": 44,
+                "type": "multiple_choice",
+                "question": "Was beschreibt ein Zusatzsortiment?",
+                "options": ["Produkte, die das Kerngeschäft ergänzen", "Produkte mit den höchsten Umsätzen", "Testprodukte für neue Märkte", "Saisonale Produkte"],
+                "correct": 0
+            },
+            {
+                "id": 45,
+                "type": "multiple_response",
+                "question": "Welche Methoden unterstützen die Optimierung des Sortiments?",
+                "options": ["BCG-Matrix", "Kundenbefragungen", "Kostenanalyse", "Umsatzvergleiche"],
+                "correct": [0, 1, 3]
+            },
+            {
+                "id": 46,
+                "type": "multiple_choice",
+                "question": "Was ist die Hauptaufgabe eines Category-Managers?",
+                "options": ["Einkauf und Verkauf optimieren", "Marketingstrategien entwickeln", "Logistikprozesse überwachen", "Kundenbewertungen analysieren"],
+                "correct": 0
+            },
+                {
+                    "id": 47,
+                    "type": "multiple_response",
+                    "question": "Welche Faktoren beeinflussen die Sortimentspolitik eines Unternehmens?",
+                    "options": ["Markttrends", "Kundenanforderungen", "Preisstrategie", "Wettbewerbsanalysen"],
+                    "correct": [0, 1, 3]
+                },
+                {
+                    "id": 48,
+                    "type": "sequencing",
+                    "question": "Bringen Sie die Bestandteile einer Sortimentsanalyse in die richtige Reihenfolge:",
+                    "options": ["Umsatzbewertung", "Kundenpräferenzen analysieren", "Rentabilität messen", "Anpassungen vornehmen"],
+                    "correct": [0, 1, 2, 3]
+                },
+                {
+                    "id": 49,
+                    "type": "true_false",
+                    "question": "Saisonale Produkte gehören immer ins Kernsortiment.",
+                    "options": ["True", "False"],
+                    "correct": 1
+                },
+                {
+                    "id": 50,
+                    "type": "multiple_choice",
+                    "question": "Welche Kennzahl ist zentral für die Bewertung eines Sortiments?",
+                    "options": ["ROI", "Deckungsbeitrag", "Umsatzanteil", "Lagerumschlag"],
+                    "correct": 1
+                },
+                    {
+                        "id": 51,
+                        "type": "multiple_choice",
+                        "question": "Welche der folgenden Strategien hilft, Lagerkosten zu minimieren?",
+                        "options": ["Zentralisierte Lagerhaltung", "Dezentrale Lagerhaltung", "Erhöhung der Sicherheitsbestände", "Verlängerung der Lieferzeiten"],
+                        "correct": 0
+                    },
+                    {
+                        "id": 52,
+                        "type": "multiple_response",
+                        "question": "Welche Herausforderungen bestehen in der Logistik eines Omnichannel-Handels?",
+                        "options": ["Integration verschiedener Systeme", "Konsistente Preisgestaltung", "Synchronisation der Lieferketten", "Erhöhung der Lagerflächen"],
+                        "correct": [0, 1, 2]
+                    },
+                    {
+                        "id": 53,
+                        "type": "sequencing",
+                        "question": "Ordnen Sie die Phasen der Cross-Docking-Logistik:",
+                        "options": ["Warenannahme", "Direkte Kommissionierung", "Auslieferung an Filialen", "Qualitätsprüfung"],
+                        "correct": [0, 1, 3, 2]
+                    },
+                    {
+                        "id": 54,
+                        "type": "true_false",
+                        "question": "Die dezentrale Lagerhaltung bietet immer die schnellsten Lieferzeiten.",
+                        "options": ["True", "False"],
+                        "correct": 1
+                    },
+                    {
+                        "id": 55,
+                        "type": "multiple_choice",
+                        "question": "Was versteht man unter der 'Letzten Meile'?",
+                        "options": ["Den letzten Teil der Lieferkette zum Kunden", "Die erste Lieferung vom Hersteller zum Lager", "Den Transport zwischen Filialen", "Die Lagerhaltungskosten"],
+                        "correct": 0
+                    },
+                        {
+                            "id": 56,
+                            "type": "multiple_response",
+                            "question": "Welche Vorteile bietet die Automatisierung in der Logistik?",
+                            "options": ["Geringere Fehlerquoten", "Höhere Kosten für Personal", "Schnellere Prozesse", "Verbesserte Nachverfolgbarkeit"],
+                            "correct": [0, 2, 3]
+                        },
+                        {
+                            "id": 57,
+                            "type": "sequencing",
+                            "question": "Ordnen Sie die Schritte zur Optimierung der Lagerbestände:",
+                            "options": ["Analyse der Nachfrage", "Anpassung der Bestellmengen", "Reduzierung der Lagerbestände", "Einführung von Just-in-Time-Lieferungen"],
+                            "correct": [0, 1, 2, 3]
+                        },
+                        {
+                            "id": 58,
+                            "type": "true_false",
+                            "question": "Nachhaltigkeit ist kein entscheidender Faktor in der modernen Logistik.",
+                            "options": ["True", "False"],
+                            "correct": 1
+                        },
+                        {
+                            "id": 59,
+                            "type": "multiple_choice",
+                            "question": "Welche Technologie wird häufig zur Verbesserung der Nachverfolgbarkeit in Lieferketten eingesetzt?",
+                            "options": ["Cloud-Computing", "Blockchain", "3D-Druck", "KI-basierte Analyse"],
+                            "correct": 1
+                        },
+                        {
+                            "id": 60,
+                            "type": "multiple_response",
+                            "question": "Welche Maßnahmen können die Transportkosten reduzieren?",
+                            "options": ["Effiziente Routenplanung", "Erhöhung der Lagerkapazität", "Konsolidierung von Lieferungen", "Senkung der Sicherheitsbestände"],
+                            "correct": [0, 2]
+                        },
+                            {
+                                "id": 61,
+                                "type": "multiple_choice",
+                                "question": "Welche Kennzahl wird zur Bewertung der Lagerumschlagshäufigkeit verwendet?",
+                                "options": ["Lagerbestand geteilt durch Umsatz", "Umsatz geteilt durch durchschnittlichen Lagerbestand", "Umsatz geteilt durch Sicherheitsbestand", "Sicherheitsbestand geteilt durch Lieferzeiten"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 62,
+                                "type": "multiple_response",
+                                "question": "Welche Faktoren beeinflussen die Effizienz einer Lieferkette?",
+                                "options": ["Digitalisierung", "Lieferantennetzwerke", "Just-in-Time-Strategien", "Lageroptimierung"],
+                                "correct": [0, 1, 2, 3]
+                            },
+                            {
+                                "id": 63,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Schritte eines Rückführungsprozesses (Reverse Logistics):",
+                                "options": ["Sammlung von Retouren", "Überprüfung des Zustands", "Wiederverwendung oder Entsorgung", "Rückerstattung an Kunden"],
+                                "correct": [0, 1, 2, 3]
+                            },
+                            {
+                                "id": 64,
+                                "type": "true_false",
+                                "question": "Die Wahl zwischen zentraler und dezentraler Lagerhaltung hängt von der Größe des Unternehmens ab.",
+                                "options": ["True", "False"],
+                                "correct": 0
+                            },
+                            {
+                                "id": 65,
+                                "type": "multiple_choice",
+                                "question": "Welche Hauptrolle spielt ein 3PL-Dienstleister?",
+                                "options": ["Management von Lieferketten", "Marketingstrategien entwickeln", "Logistikprozesse outsourcen", "Kundenbeziehungen aufbauen"],
+                                "correct": 2
+                            },{
+                                "id": 66,
+                                "type": "multiple_response",
+                                "question": "Welche Herausforderungen entstehen bei der Implementierung von KI in der Logistik?",
+                                "options": ["Hohe Kosten", "Komplexität der Systeme", "Mangel an qualifiziertem Personal", "Verbesserte Nachhaltigkeit"],
+                                "correct": [0, 1, 2]
+                            },
+                            {
+                                "id": 67,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Bestandteile der Lieferantenbewertung:",
+                                "options": ["Pünktlichkeit", "Qualität", "Preis-Leistungs-Verhältnis", "Innovationsfähigkeit"],
+                                "correct": [0, 1, 2, 3]
+                            },
+                            {
+                                "id": 68,
+                                "type": "true_false",
+                                "question": "Logistikkosten sind immer fix und verändern sich nicht mit dem Volumen.",
+                                "options": ["True", "False"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 69,
+                                "type": "multiple_choice",
+                                "question": "Was ist der Vorteil von Cross-Docking im Vergleich zur traditionellen Lagerhaltung?",
+                                "options": ["Geringere Lagerkosten", "Erhöhte Lagerbestände", "Längere Lieferzeiten", "Verbesserte Transparenz"],
+                                "correct": 0
+                            },
+                            {
+                                "id": 70,
+                                "type": "multiple_response",
+                                "question": "Welche Trends beeinflussen die moderne Logistik?",
+                                "options": ["Nachhaltigkeit", "Automatisierung", "Globalisierung", "Reduktion von Lagerbeständen"],
+                                "correct": [0, 1, 2]
+                            },{
+                                "id": 71,
+                                "type": "multiple_choice",
+                                "question": "Welche Kennzahl gibt an, wie viel ein Produkt zur Deckung der Fixkosten beiträgt?",
+                                "options": ["Deckungsbeitrag", "Umsatzwachstum", "ROI", "Fixkostenquote"],
+                                "correct": 0
+                            },
+                            {
+                                "id": 72,
+                                "type": "multiple_response",
+                                "question": "Welche Aufgaben gehören zum strategischen Controlling?",
+                                "options": ["Langfristige Prognosen", "Überwachung von Einzelkosten", "Unterstützung der Unternehmensstrategie", "Entwicklung von Marktanalysen"],
+                                "correct": [0, 2, 3]
+                            },
+                            {
+                                "id": 73,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Phasen des Controllingprozesses in die richtige Reihenfolge:",
+                                "options": ["Zielsetzung", "Planung", "Umsetzung", "Kontrolle"],
+                                "correct": [0, 1, 2, 3]
+                            },
+                            {
+                                "id": 74,
+                                "type": "true_false",
+                                "question": "Operatives Controlling konzentriert sich auf langfristige Unternehmensziele.",
+                                "options": ["True", "False"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 75,
+                                "type": "multiple_choice",
+                                "question": "Was versteht man unter der Break-Even-Analyse?",
+                                "options": ["Die Analyse, ab wann ein Produkt Gewinn erzielt", "Die Bewertung von Marktwachstumsraten", "Die Ermittlung von Fixkosten", "Die Berechnung der optimalen Lagerbestände"],
+                                "correct": 0
+                            },{
+                                "id": 76,
+                                "type": "multiple_response",
+                                "question": "Welche Vorteile bietet der Einsatz einer Balanced Scorecard?",
+                                "options": ["Bessere Übersicht über KPIs", "Reduktion von Gemeinkosten", "Unterstützung strategischer Entscheidungen", "Optimierung der Mitarbeiterzufriedenheit"],
+                                "correct": [0, 2]
+                            },
+                            {
+                                "id": 77,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Schritte zur Deckungsbeitragsrechnung:",
+                                "options": ["Umsatz - Erlösminderungen", "Variable Kosten abziehen", "Fixkosten analysieren", "Endgültigen Gewinn berechnen"],
+                                "correct": [0, 1, 2, 3]
+                            },
+                            {
+                                "id": 78,
+                                "type": "true_false",
+                                "question": "Qualitative Kennzahlen sind genauso wichtig wie quantitative Kennzahlen im Controlling.",
+                                "options": ["True", "False"],
+                                "correct": 0
+                            },
+                            {
+                                "id": 79,
+                                "type": "multiple_choice",
+                                "question": "Welche Methode wird zur Messung der Rentabilität eines Sortiments genutzt?",
+                                "options": ["ROI", "Deckungsbeitrag", "Lagerumschlag", "Sicherheitsbestand"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 80,
+                                "type": "multiple_response",
+                                "question": "Welche finanziellen Risiken beeinflussen das Handelscontrolling?",
+                                "options": ["Wechselkursschwankungen", "Zinsänderungen", "Umsatzvolatilität", "Steuerveränderungen"],
+                                "correct": [0, 1, 2, 3]
+                            },{
+                                "id": 81,
+                                "type": "multiple_choice",
+                                "question": "Was bedeutet ein negativer Deckungsbeitrag?",
+                                "options": ["Das Produkt trägt zur Fixkostendeckung bei", "Das Produkt generiert Verluste", "Das Produkt hat hohe Gemeinkosten", "Das Produkt ist saisonal abhängig"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 82,
+                                "type": "multiple_response",
+                                "question": "Welche Instrumente sind im operativen Controlling wichtig?",
+                                "options": ["Soll-Ist-Vergleich", "Liquiditätsanalyse", "Kostenstellenrechnung", "Portfolioanalyse"],
+                                "correct": [0, 1, 2]
+                            },
+                            {
+                                "id": 83,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Schritte des Budgetierungsprozesses:",
+                                "options": ["Zielsetzung definieren", "Kosten und Einnahmen schätzen", "Budget planen", "Überprüfung und Anpassung"],
+                                "correct": [0, 1, 2, 3]
+                            },
+                            {
+                                "id": 84,
+                                "type": "true_false",
+                                "question": "Controlling ist nur für große Unternehmen relevant.",
+                                "options": ["True", "False"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 85,
+                                "type": "multiple_choice",
+                                "question": "Welche Rolle spielen qualitative Daten im Controlling?",
+                                "options": ["Sie ermöglichen Prognosen für die Zukunft", "Sie sind unwichtig und nicht messbar", "Sie ergänzen quantitative Analysen", "Sie reduzieren Gemeinkosten"],
+                                "correct": 2
+                            },{
+                                "id": 86,
+                                "type": "multiple_response",
+                                "question": "Welche Kennzahlen beeinflussen die Kapitalrendite?",
+                                "options": ["Reingewinn", "Gesamtkapital", "Fremdkapitalzinsen", "Umsatzwachstum"],
+                                "correct": [0, 1, 2]
+                            },
+                            {
+                                "id": 87,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Bestandteile einer Finanzanalyse:",
+                                "options": ["Umsatzbewertung", "Kostensenkung analysieren", "Liquiditätsreserven prüfen", "Gewinnberechnung"],
+                                "correct": [0, 1, 2, 3]
+                            },
+                            {
+                                "id": 88,
+                                "type": "true_false",
+                                "question": "ROI ist die einzige Kennzahl, die im Handelscontrolling genutzt wird.",
+                                "options": ["True", "False"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 89,
+                                "type": "multiple_choice",
+                                "question": "Welche Aufgabe hat die Fixkostenanalyse?",
+                                "options": ["Festlegen von Einsparpotenzialen", "Optimieren variabler Kosten", "Verbessern von Cashflow", "Erhöhen des Deckungsbeitrags"],
+                                "correct": 0
+                            },
+                            {
+                                "id": 90,
+                                "type": "multiple_response",
+                                "question": "Welche Faktoren fließen in die Break-Even-Berechnung ein?",
+                                "options": ["Fixkosten", "Variable Kosten", "Verkaufspreis pro Einheit", "Gesamtkapital"],
+                                "correct": [0, 1, 2]
+                            },{
+                                "id": 91,
+                                "type": "multiple_choice",
+                                "question": "Welche Phase ist im SOR-Modell für die Verarbeitung von Informationen verantwortlich?",
+                                "options": ["Stimulus", "Organism", "Response", "Kaufentscheidung"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 92,
+                                "type": "multiple_response",
+                                "question": "Welche der folgenden psychischen Prozesse beeinflussen das Kundenverhalten?",
+                                "options": ["Motivation", "Emotion", "Informationsspeicherung", "Preisgestaltung"],
+                                "correct": [0, 1, 2]
+                            },
+                            {
+                                "id": 93,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Schritte der Customer Journey in die richtige Reihenfolge:",
+                                "options": ["Bewusstsein", "Überlegung", "Kauf", "Loyalität", "Befürwortung"],
+                                "correct": [0, 1, 2, 3, 4]
+                            },
+                            {
+                                "id": 94,
+                                "type": "true_false",
+                                "question": "Hybridkonsumenten sind ausschließlich auf hohe Rabatte fokussiert.",
+                                "options": ["True", "False"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 95,
+                                "type": "multiple_choice",
+                                "question": "Was beschreibt eine Primärsegmentierung?",
+                                "options": ["Die Einteilung nach demografischen Kriterien", "Die Reduktion des Marktes auf Gruppen mit ähnlichen Bedürfnissen", "Die Bewertung von Marktattraktivität", "Die Analyse von Wettbewerbern"],
+                                "correct": 1
+                            },{
+                                "id": 96,
+                                "type": "multiple_response",
+                                "question": "Welche Vorteile bietet die Marktsegmentierung?",
+                                "options": ["Besseres Kundenverständnis", "Optimierte Marketingstrategien", "Erhöhung der Gemeinkosten", "Aufbau von Wettbewerbsvorteilen"],
+                                "correct": [0, 1, 3]
+                            },
+                            {
+                                "id": 97,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Schritte der Wettbewerbsanalyse nach dem 5-Forces-Modell in die richtige Reihenfolge:",
+                                "options": ["Bedrohung durch neue Konkurrenten", "Verhandlungsmacht der Kunden", "Verhandlungsmacht der Lieferanten", "Bedrohung durch Ersatzprodukte", "Wettbewerb unter bestehenden Anbietern"],
+                                "correct": [0, 4, 2, 1, 3]
+                            },
+                            {
+                                "id": 98,
+                                "type": "true_false",
+                                "question": "Die Verhandlungsmacht der Kunden spielt keine Rolle bei der Marktanalyse.",
+                                "options": ["True", "False"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 99,
+                                "type": "multiple_choice",
+                                "question": "Was beschreibt eine habitualisierte Kaufentscheidung?",
+                                "options": ["Eine gut durchdachte Entscheidung", "Eine emotionale und impulsive Entscheidung", "Eine routinierte Entscheidung ohne große Überlegung", "Eine Kaufentscheidung auf Basis externer Empfehlungen"],
+                                "correct": 2
+                            },
+                            {
+                                "id": 100,
+                                "type": "multiple_response",
+                                "question": "Welche Kriterien werden in der Sekundärsegmentierung berücksichtigt?",
+                                "options": ["Demografische Merkmale", "Sozioökonomische Daten", "Lebensstile", "Preisgestaltung"],
+                                "correct": [0, 1, 2]
+                            },{
+                                "id": 101,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Phasen der Marktsegmentierung in die richtige Reihenfolge:",
+                                "options": ["Attraktivitätsprüfung", "Analyse des Wettbewerbsumfelds", "Rentabilitätsberechnung", "Segmentpositionierung"],
+                                "correct": [0, 1, 2, 3]
+                            },
+                            {
+                                "id": 102,
+                                "type": "true_false",
+                                "question": "Eine attraktive Marktpositionierung bedeutet automatisch höhere Umsätze.",
+                                "options": ["True", "False"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 103,
+                                "type": "multiple_choice",
+                                "question": "Welche Methode wird häufig zur Beobachtung des Kundenverhaltens eingesetzt?",
+                                "options": ["Fokusgruppen", "Interviews", "Videoüberwachung", "Social-Media-Analysen"],
+                                "correct": 2
+                            },
+                            {
+                                "id": 104,
+                                "type": "multiple_response",
+                                "question": "Welche Dimensionen der Kundenkompetenz sind entscheidend für Handelsunternehmen?",
+                                "options": ["Einkaufsverhalten", "Wahrnehmung des Händlers", "Zufriedenheit mit dem Händler", "Konkurrenzanalyse"],
+                                "correct": [0, 1, 2]
+                            },
+                            {
+                                "id": 105,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Schritte zur Analyse von Konsumentenverhalten in die richtige Reihenfolge:",
+                                "options": ["Daten sammeln", "Analyse durchführen", "Ergebnisse interpretieren", "Strategien anpassen"],
+                                "correct": [0, 1, 2, 3]
+                            },{
+                                "id": 106,
+                                "type": "true_false",
+                                "question": "Quantitative Methoden in der Konsumentenforschung sind weniger relevant als qualitative Methoden.",
+                                "options": ["True", "False"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 107,
+                                "type": "multiple_choice",
+                                "question": "Was beschreibt das Konzept der Customer Journey am besten?",
+                                "options": ["Der Weg des Produkts durch die Lieferkette", "Der Kontakt des Kunden mit verschiedenen Berührungspunkten einer Marke", "Der Prozess der Warenannahme und -lieferung", "Der Aufbau einer Kundenbindung durch Rabatte"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 108,
+                                "type": "multiple_response",
+                                "question": "Welche Touchpoints sind Teil der Customer Journey?",
+                                "options": ["Social Media", "Kundenservice", "Einkaufswagenplatzierung", "Produktverpackung"],
+                                "correct": [0, 1, 3]
+                            },
+                            {
+                                "id": 109,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Schritte der hybriden Konsumentenstrategie:",
+                                "options": ["Analyse von Premiumkonsumenten", "Anpassung der Preispolitik", "Einführung hybrider Produktlinien", "Überprüfung der Kundenzufriedenheit"],
+                                "correct": [0, 1, 2, 3]
+                            },
+                            {
+                                "id": 110,
+                                "type": "true_false",
+                                "question": "Die Preiselastizität beeinflusst die Wahrnehmung eines Produkts durch den Kunden nicht.",
+                                "options": ["True", "False"],
+                                "correct": 1
+                            },{
+                                "id": 111,
+                                "type": "multiple_choice",
+                                "question": "Welche Herausforderung stellt sich bei der Analyse von Konsumentenverhalten?",
+                                "options": ["Geringe Datenverfügbarkeit", "Unklare Zielgruppen", "Komplexe Datenauswertung", "Steigende Kosten der Beobachtung"],
+                                "correct": 2
+                            },
+                            {
+                                "id": 112,
+                                "type": "multiple_response",
+                                "question": "Welche Trends beeinflussen das Kundenverhalten?",
+                                "options": ["Digitalisierung", "Nachhaltigkeitsbewusstsein", "Rückgang von Premiumprodukten", "Hybrides Konsumverhalten"],
+                                "correct": [0, 1, 3]
+                            },
+                            {
+                                "id": 113,
+                                "type": "sequencing",
+                                "question": "Ordnen Sie die Phasen der Kaufentscheidung in die richtige Reihenfolge:",
+                                "options": ["Bedürfniswahrnehmung", "Informationssuche", "Bewertung der Alternativen", "Kaufentscheidung", "Nachkaufverhalten"],
+                                "correct": [0, 1, 2, 3, 4]
+                            },
+                            {
+                                "id": 114,
+                                "type": "true_false",
+                                "question": "Kundenpräferenzen bleiben über lange Zeiträume unverändert.",
+                                "options": ["True", "False"],
+                                "correct": 1
+                            },
+                            {
+                                "id": 115,
+                                "type": "multiple_choice",
+                                "question": "Was versteht man unter dem Begriff 'hybrider Konsument'?",
+                                "options": ["Ein Konsument mit hohem Umweltbewusstsein", "Ein Konsument, der in unterschiedlichen Preissegmenten einkauft", "Ein Konsument, der ausschließlich online kauft", "Ein Konsument, der keine Markenpräferenzen hat"],
+                                "correct": 1
+                            },
+                                {
+                                    "id": 116,
+                                    "type": "multiple_response",
+                                    "question": "Welche psychologischen Faktoren beeinflussen Kaufentscheidungen?",
+                                    "options": ["Motivation", "Wahrnehmung", "Lernen", "Einstellungen"],
+                                    "correct": [0, 1, 2, 3]
+                                },
+                                {
+                                    "id": 117,
+                                    "type": "sequencing",
+                                    "question": "Ordnen Sie die Schritte zur Entwicklung einer Markenstrategie:",
+                                    "options": ["Marktanalyse", "Positionierung", "Kommunikationsstrategie", "Markenpflege"],
+                                    "correct": [0, 1, 2, 3]
+                                },
+                                {
+                                    "id": 118,
+                                    "type": "true_false",
+                                    "question": "Markentreue ist ein kurzfristiger Effekt im Kundenverhalten.",
+                                    "options": ["True", "False"],
+                                    "correct": 1
+                                },
+                                {
+                                    "id": 119,
+                                    "type": "multiple_choice",
+                                    "question": "Was versteht man unter dem Begriff 'Customer Lifetime Value'?",
+                                    "options": ["Der Gesamtumsatz eines Kunden während seiner Lebenszeit", "Der Wert eines Kunden für ein Unternehmen basierend auf zukünftigen Einnahmen", "Die durchschnittliche Bestellhäufigkeit eines Kunden", "Die Kosten zur Akquise eines neuen Kunden"],
+                                    "correct": 1
+                                },
+                                {
+                                    "id": 120,
+                                    "type": "multiple_response",
+                                    "question": "Welche Methoden werden zur Analyse von Kundenpräferenzen eingesetzt?",
+                                    "options": ["Umfragen", "Fokusgruppen", "Big-Data-Analysen", "Eye-Tracking"],
+                                    "correct": [0, 1, 2, 3]
+                                },
+                                {
+                                    "id": 121,
+                                    "type": "sequencing",
+                                    "question": "Ordnen Sie die Schritte zur Identifikation von Zielgruppen:",
+                                    "options": ["Marktforschung", "Segmentierung", "Zielgruppendefinition", "Kommunikationsstrategie"],
+                                    "correct": [0, 1, 2, 3]
+                                },
+                                {
+                                    "id": 122,
+                                    "type": "true_false",
+                                    "question": "Digitale Kanäle haben keinen Einfluss auf das Konsumentenverhalten.",
+                                    "options": ["True", "False"],
+                                    "correct": 1
+                                },
+                                {
+                                    "id": 123,
+                                    "type": "multiple_choice",
+                                    "question": "Welche Bedeutung hat das Nachkaufverhalten für Unternehmen?",
+                                    "options": ["Keine besondere Bedeutung", "Es beeinflusst die Kundenbindung", "Es hat nur einen finanziellen Wert", "Es ist irrelevant für die Markenwahrnehmung"],
+                                    "correct": 1
+                                },
+                                {
+                                    "id": 124,
+                                    "type": "multiple_response",
+                                    "question": "Welche Aspekte fördern die Kundenzufriedenheit?",
+                                    "options": ["Produktqualität", "Kundenservice", "Preis-Leistungs-Verhältnis", "Emotionale Bindung"],
+                                    "correct": [0, 1, 2, 3]
+                                },
+                                {
+                                    "id": 125,
+                                    "type": "sequencing",
+                                    "question": "Ordnen Sie die Phasen der Loyalitätspyramide:",
+                                    "options": ["Käufer", "Zufriedener Kunde", "Wiederholungskäufer", "Empfehlender Kunde"],
+                                    "correct": [0, 1, 2, 3]
+                                }
+                            
+
+                        
+                    
+                
+            
+
+
+
+]

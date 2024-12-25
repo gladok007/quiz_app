@@ -1,33 +1,34 @@
 "use client";
 
-import { useState, useEffect } from 'react';
-import { Card, CardContent } from '@/components/ui/card';
-import { Button } from '@/components/ui/button';
+import { useState, useEffect } from "react";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
 
-// Динамическая загрузка вопросов из JSON-файлов
 export default function ControllingQuiz() {
-  const [topics, setTopics] = useState({}); // Темы и вопросы
-  const [selectedTopic, setSelectedTopic] = useState(null); // Выбранная тема
+  const [topics, setTopics] = useState({});
+  const [selectedTopic, setSelectedTopic] = useState(null);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [answers, setAnswers] = useState({});
   const [score, setScore] = useState(0);
   const [showResults, setShowResults] = useState(false);
   const [isCorrect, setIsCorrect] = useState(null);
   const [correctAnswer, setCorrectAnswer] = useState(null);
+  const [selectedOptions, setSelectedOptions] = useState([]); // Для multiple_response и sequencing
 
-  // Загрузка тем
   useEffect(() => {
     const loadTopics = async () => {
-      const context = require.context('@/data/topics', false, /\.json$/);
-      const loadedTopics = {};
+      if (typeof window !== "undefined") {
+        const context = require.context("@/data/topics", false, /\.json$/);
+        const loadedTopics = {};
 
-      for (const key of context.keys()) {
-        const topicName = key.replace('./', '').replace('.json', ''); // Название темы = имя файла
-        const data = await context(key);
-        loadedTopics[topicName] = data;
+        for (const key of context.keys()) {
+          const topicName = key.replace("./", "").replace(".json", "");
+          const data = await context(key);
+          loadedTopics[topicName] = data;
+        }
+
+        setTopics(loadedTopics);
       }
-
-      setTopics(loadedTopics);
     };
 
     loadTopics();
@@ -37,55 +38,174 @@ export default function ControllingQuiz() {
     setSelectedTopic(topic);
   };
 
-  const handleAnswer = (optionIndex) => {
+  const handleAnswer = (selectedIndex = null) => {
     const questions = topics[selectedTopic];
-    const correct = questions[currentQuestion].correct === optionIndex;
+    const question = questions[currentQuestion];
+    let correct = false;
+
+    switch (question.type) {
+      case "true_false":
+      case "multiple_choice":
+        correct = selectedIndex === question.correct;
+        break;
+
+      case "multiple_response":
+        correct =
+          JSON.stringify(selectedOptions.sort()) ===
+          JSON.stringify(question.correct.sort());
+        break;
+
+      case "sequencing":
+        correct = JSON.stringify(selectedOptions) === JSON.stringify(question.correct);
+        break;
+
+      default:
+        break;
+    }
+
     setIsCorrect(correct);
-    setCorrectAnswer(correct ? null : questions[currentQuestion].correct);
-    const newAnswers = { ...answers, [currentQuestion]: optionIndex };
+    setCorrectAnswer(correct ? null : question.correct);
+
+    const newAnswers = {
+      ...answers,
+      [currentQuestion]:
+        question.type === "multiple_response" || question.type === "sequencing"
+          ? selectedOptions
+          : selectedIndex,
+    };
     setAnswers(newAnswers);
 
     if (correct) {
-      setScore(score + 1);
+      setScore((prevScore) => prevScore + 1);
+      setTimeout(() => nextQuestion(), 1500); // Автоматический переход при правильном ответе
     }
-
-    setTimeout(() => {
-      setIsCorrect(null);
-      setCorrectAnswer(null);
-      nextQuestion();
-    }, 2000);
   };
 
   const nextQuestion = () => {
     const questions = topics[selectedTopic];
     if (currentQuestion < questions.length - 1) {
-      setCurrentQuestion(currentQuestion + 1);
+      setCurrentQuestion((prev) => prev + 1);
+      setIsCorrect(null);
+      setCorrectAnswer(null);
+      setSelectedOptions([]); // Сброс для multiple_response и sequencing
     } else {
       setShowResults(true);
     }
   };
 
-  const restart = () => {
-    setSelectedTopic(null);
-    setCurrentQuestion(0);
-    setAnswers({});
-    setScore(0);
-    setShowResults(false);
+  const toggleOption = (index) => {
+    setSelectedOptions((prev) =>
+      prev.includes(index) ? prev.filter((i) => i !== index) : [...prev, index]
+    );
   };
 
-  const goToMenu = () => {
+  const restartQuiz = () => {
     setSelectedTopic(null);
     setCurrentQuestion(0);
     setAnswers({});
     setScore(0);
     setShowResults(false);
+    setSelectedOptions([]);
+  };
+
+  const goBackToMenu = () => {
+    setSelectedTopic(null);
+    setCurrentQuestion(0);
+    setAnswers({});
+    setScore(0);
+    setShowResults(false);
+    setSelectedOptions([]);
+  };
+
+  const renderQuestion = (question) => {
+    switch (question.type) {
+      case "true_false":
+      case "multiple_choice":
+        return question.options.map((option, index) => (
+          <Button
+            key={index}
+            onClick={() => handleAnswer(index)}
+            className={`w-full text-left justify-start p-4 ${
+              isCorrect !== null && question.correct === index
+                ? "bg-green-500"
+                : answers[currentQuestion] === index && !isCorrect
+                ? "bg-red-500"
+                : ""
+            }`}
+          >
+            {`${String.fromCharCode(65 + index)}. ${option}`}
+          </Button>
+        ));
+
+      case "multiple_response":
+        return (
+          <>
+            {question.options.map((option, index) => (
+              <Button
+                key={index}
+                onClick={() => toggleOption(index)}
+                className={`w-full text-left justify-start p-4 ${
+                  selectedOptions.includes(index) ? "bg-blue-500 text-white" : ""
+                }`}
+              >
+                {`${String.fromCharCode(65 + index)}. ${option}`}
+              </Button>
+            ))}
+            <Button
+              onClick={() => handleAnswer()}
+              className="mt-4 bg-green-500 hover:bg-green-600"
+            >
+              Antwort bestätigen
+            </Button>
+          </>
+        );
+
+      case "sequencing":
+        return (
+          <>
+            <p className="mb-4">Wählen Sie die richtige Reihenfolge:</p>
+            {question.options.map((option, index) => (
+              <Button
+                key={index}
+                onClick={() => toggleOption(index)}
+                className={`w-full text-left justify-start p-4 ${
+                  selectedOptions.includes(index) ? "bg-blue-500 text-white" : ""
+                }`}
+              >
+                {`${String.fromCharCode(65 + index)}. ${option}`}
+              </Button>
+            ))}
+            {selectedOptions.length > 0 && (
+              <div className="mt-4 p-4 border rounded bg-gray-100">
+                <p>Ihre Auswahl:</p>
+                <ol className="list-decimal list-inside">
+                  {selectedOptions.map((orderIndex) => (
+                    <li key={orderIndex}>
+                      {`${String.fromCharCode(65 + orderIndex)}. ${question.options[orderIndex]}`}
+                    </li>
+                  ))}
+                </ol>
+              </div>
+            )}
+            <Button
+              onClick={() => handleAnswer()}
+              className="mt-4 bg-green-500 hover:bg-green-600"
+            >
+              Antwort bestätigen
+            </Button>
+          </>
+        );
+
+      default:
+        return <p>Unbekannter Fragentyp</p>;
+    }
   };
 
   if (!selectedTopic) {
     return (
       <Card className="w-full max-w-2xl mx-auto p-6">
         <CardContent>
-          <h2 className="text-2xl font-bold mb-4">Thema wählen</h2>
+          <h2 className="text-2xl font-bold mb-4 text-center">Thema wählen</h2>
           <div className="space-y-4">
             {Object.keys(topics).map((topic) => (
               <Button
@@ -107,28 +227,11 @@ export default function ControllingQuiz() {
     return (
       <Card className="w-full max-w-2xl mx-auto p-6">
         <CardContent>
-          <h2 className="text-2xl font-bold mb-4">Testergebnisse</h2>
-          <p className="text-xl mb-4">
+          <h2 className="text-2xl font-bold mb-4 text-center">Testergebnisse</h2>
+          <p className="text-xl mb-4 text-center">
             Richtige Antworten: {score} von {questions.length} ({Math.round((score / questions.length) * 100)}%)
           </p>
-          <div className="mt-6 space-y-4">
-            {questions.map((q, index) => (
-              <div key={q.id} className="text-left p-4 border rounded">
-                <p className="font-medium">{q.question}</p>
-                <div className="mt-2 flex flex-col">
-                  <p className="mr-2">
-                    Ihre Antwort: {answers[index] !== undefined ? `${String.fromCharCode(65 + answers[index])}. ${q.options[answers[index]]}` : 'Keine Antwort'}
-                  </p>
-                  {answers[index] !== q.correct && (
-                    <p className="text-red-500">
-                      Richtige Antwort: {`${String.fromCharCode(65 + q.correct)}. ${q.options[q.correct]}`}
-                    </p>
-                  )}
-                </div>
-              </div>
-            ))}
-          </div>
-          <Button onClick={restart} className="mt-6 bg-blue-500 hover:bg-blue-600">
+          <Button onClick={restartQuiz} className="mt-6 bg-blue-500 hover:bg-blue-600 w-full">
             Zurück zur Themenauswahl
           </Button>
         </CardContent>
@@ -137,49 +240,43 @@ export default function ControllingQuiz() {
   }
 
   const questions = topics[selectedTopic];
+  const question = questions[currentQuestion];
+
   return (
     <Card className="w-full max-w-2xl mx-auto p-6">
       <CardContent>
-        <div className="text-center">
+        <Button onClick={goBackToMenu} className="mb-4 bg-gray-500 hover:bg-gray-600 w-full">
+          Zurück
+        </Button>
+        <div>
           <div className="mb-4">
-            <Button onClick={goToMenu} className="mb-4 bg-gray-500 hover:bg-gray-600">
-              Zurück
-            </Button>
-            <p className="text-sm text-gray-500">
+            <p className="text-sm text-gray-500 text-center">
               Frage {currentQuestion + 1} von {questions.length}
             </p>
-            <div className="w-full bg-gray-200 rounded-full h-2.5 mt-2">
-              <div
-                className="bg-blue-500 h-2.5 rounded-full"
-                style={{ width: `${((currentQuestion + 1) / questions.length) * 100}%` }}
-              ></div>
-            </div>
           </div>
 
-          <h2 className="text-xl font-bold mb-6">{questions[currentQuestion].question}</h2>
+          <h2 className="text-xl font-bold mb-6 text-center">{question.question}</h2>
 
-          <div className="space-y-4">
-            {questions[currentQuestion].options.map((option, index) => (
-              <Button
-                key={index}
-                onClick={() => handleAnswer(index)}
-                className="w-full text-left justify-start p-4"
-                variant={answers[currentQuestion] === index ? "secondary" : "outline"}
-              >
-                {`${String.fromCharCode(65 + index)}. ${option}`}
-              </Button>
-            ))}
-          </div>
+          <div className="space-y-4">{renderQuestion(question)}</div>
 
           {isCorrect !== null && (
             <div className="mt-4">
-              <p className={`text-xl font-bold ${isCorrect ? "text-green-500" : "text-red-500"}`}>
-                {isCorrect ? "Richtig!" : "Falsch!"}
+              <p className={`text-xl font-bold ${isCorrect ? "text-green-500" : "text-red-500"} text-center`}>
+                {isCorrect
+                  ? "Richtig!"
+                  : `Falsch! Richtige Antwort: ${
+                      Array.isArray(correctAnswer)
+                        ? correctAnswer.map((i) => String.fromCharCode(65 + i)).join(", ")
+                        : String.fromCharCode(65 + correctAnswer)
+                    }.`}
               </p>
-              {!isCorrect && correctAnswer !== null && (
-                <p className="text-lg text-gray-700">
-                  Richtige Antwort: {`${String.fromCharCode(65 + correctAnswer)}. ${questions[currentQuestion].options[correctAnswer]}`}
-                </p>
+              {!isCorrect && (
+                <Button
+                  onClick={nextQuestion}
+                  className="mt-4 bg-blue-500 hover:bg-blue-600 w-full"
+                >
+                  Weiter
+                </Button>
               )}
             </div>
           )}

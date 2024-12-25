@@ -1,0 +1,515 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Welche Phase im S-O-R-Modell beschreibt die inneren psychischen Prozesse des Kunden?",
+        "options": ["Stimulus", "Organism", "Response", "Evaluation"],
+        "correct": 1
+    },
+    {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Was sind typische Merkmale einer habitualisierten Kaufentscheidung?",
+        "options": ["Hohe emotionale und kognitive Beteiligung", "Routinisierte Käufe mit bevorzugten Marken", "Spontane, impulsive Entscheidungen", "Kauf auf Basis detaillierter Faktenanalyse"],
+        "correct": 1
+    },
+    {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Welche Art von Kaufentscheidung erfordert umfangreiche Überlegungen und emotionale Ansprache?",
+        "options": ["Impulsive Kaufentscheidung", "Habitualisierte Kaufentscheidung", "Primär rationale Kaufentscheidung", "Extensive Kaufentscheidung"],
+        "correct": 3
+    },
+    {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Welche Phase ist beim E-Commerce typischerweise vor der Einkaufsstättenauswahl?",
+        "options": ["Produktauswahl", "Zufriedenheitsbewertung", "Analyse des Kundenverhaltens", "Preiskalkulation"],
+        "correct": 0
+    },
+    {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz untersucht gesellschaftliche Trends?",
+        "options": ["Verhalten", "Wahrnehmung", "Zufriedenheit", "Früherkennung von Veränderungen"],
+        "correct": 3
+    },{
+        "id": 6,
+        "type": "multiple_choice",
+        "question": "Was ist ein Ziel der Marktsegmentierung?",
+        "options": ["Reduktion der Wettbewerber", "Verbesserung der Kundenbindung", "Verständnis für Kunden entwickeln", "Maximierung der Produktvielfalt"],
+        "correct": 2
+    },
+    {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "Welche Methode ist typisch für qualitative Konsumentenforschung?",
+        "options": ["Kundeninterviews und Fokusgruppen", "Statistische Analyse von Verkaufszahlen", "Umfragen per Internet", "Messung der Kundenzufriedenheit"],
+        "correct": 0
+    },
+    {
+        "id": 8,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die 'Verhandlungsmacht der Abnehmer' im 5-Forces-Modell?",
+        "options": ["Fähigkeit der Kunden, Preise zu beeinflussen", "Stärke der Lieferanten gegenüber Konkurrenten", "Gefahr durch Ersatzprodukte", "Einfluss neuer Wettbewerber"],
+        "correct": 0
+    },
+    {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "Welcher Kaufentscheidungstyp basiert hauptsächlich auf emotionalen Faktoren?",
+        "options": ["Impulsive Kaufentscheidung", "Habitualisierte Kaufentscheidung", "Primär rationale Kaufentscheidung", "Extensive Kaufentscheidung"],
+        "correct": 0
+    },
+    {
+        "id": 10,
+        "type": "multiple_choice",
+        "question": "Welche Analyse wird verwendet, um Marktattraktivität zu bewerten?",
+        "options": ["Primärsegmentierung", "Rentabilitätsberechnung", "Attraktivitätsprüfung", "Kundenverhaltensanalyse"],
+        "correct": 2
+    },{
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptmerkmal einer extensiven Kaufentscheidung?",
+        "options": ["Hohe emotionale und kognitive Beteiligung", "Routinisierte Entscheidungen", "Spontane Käufe", "Rationale Kalkulation"],
+        "correct": 0
+    },
+    {
+        "id": 12,
+        "type": "multiple_choice",
+        "question": "Welche Instrumente werden in der qualitativen Konsumentenforschung verwendet?",
+        "options": ["Online-Umfragen und Messungen", "Fokusgruppen und Interviews", "Statistische Analysen", "Big-Data-Tools"],
+        "correct": 1
+    },
+    {
+        "id": 13,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz bewertet die Zufriedenheit?",
+        "options": ["Wahrnehmung", "Verhalten", "Trends", "Händlerstärken und -schwächen"],
+        "correct": 3
+    },
+    {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Was sind Merkmale impulsiver Kaufentscheidungen?",
+        "options": ["Rationalität und detaillierte Planung", "Spontanität und emotionale Reaktionen", "Kognitive Analyse und Faktenvergleich", "Routineverhalten"],
+        "correct": 1
+    },
+    {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "Welche Methode misst quantitativ das Kundenverhalten?",
+        "options": ["Interviews", "Beobachtung mit Protokollen", "Fokusgruppen", "Hypothesenbildung"],
+        "correct": 1
+    },{
+        "id": 16,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Attraktivitätsprüfung bei der Marktsegmentierung?",
+        "options": ["Kundenerwartungen bewerten", "Rentabilität des Segments abschätzen", "Wettbewerbsverhalten verringern", "Produktvielfalt erhöhen"],
+        "correct": 1
+    },
+    {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "Was ist ein Beispiel für eine Primärsegmentierung?",
+        "options": ["Kundengruppen nach Lebensstil aufteilen", "Marktsegmente nach demografischen Kriterien definieren", "Reduktion auf Gruppen mit ähnlichen Bedürfnissen", "Wettbewerbsstärke messen"],
+        "correct": 1
+    },
+    {
+        "id": 18,
+        "type": "multiple_choice",
+        "question": "Welche Kraft wird im 5-Forces-Modell NICHT analysiert?",
+        "options": ["Bedrohung durch Ersatzprodukte", "Verhandlungsmacht der Abnehmer", "Innovationsstärke der Branche", "Verhandlungsstärke der Lieferanten"],
+        "correct": 2
+    },
+    {
+        "id": 19,
+        "type": "multiple_choice",
+        "question": "Was beschreibt das Verhalten hybrider Konsumenten?",
+        "options": ["Fokus auf Nachhaltigkeit", "Gleichzeitiges Interesse an Premium- und Niedrigpreisprodukten", "Abhängigkeit von Online-Angeboten", "Routinisierte Kaufentscheidungen"],
+        "correct": 1
+    },
+    {
+        "id": 20,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz untersucht die Stärke und Schwäche eines Händlers?",
+        "options": ["Wahrnehmung", "Verhalten", "Zufriedenheit", "Trends"],
+        "correct": 2
+    },{
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Welche Methode wird für die Marktsegmentierung eingesetzt?",
+        "options": ["Attraktivitätsprüfung", "Kundenbindung", "Produktentwicklung", "Sortimentsanalyse"],
+        "correct": 0
+    },
+    {
+        "id": 22,
+        "type": "multiple_choice",
+        "question": "Was ist ein Ziel der Wettbewerbsanalyse?",
+        "options": ["Kundentreue fördern", "Verhaltensmuster von Konsumenten erkennen", "Wettbewerbsvorteile durch Marktpositionierung schaffen", "Maximale Rentabilität des Sortiments"],
+        "correct": 2
+    },
+    {
+        "id": 23,
+        "type": "multiple_choice",
+        "question": "Welche Entscheidung wird durch emotionale und kognitive Prozesse gleichermaßen beeinflusst?",
+        "options": ["Extensive Kaufentscheidung", "Habitualisierte Kaufentscheidung", "Rationale Kaufentscheidung", "Impulsive Kaufentscheidung"],
+        "correct": 0
+    },
+    {
+        "id": 24,
+        "type": "multiple_choice",
+        "question": "Was ist ein Merkmal der 5-Forces-Analyse?",
+        "options": ["Bewertung der Innovationskraft", "Analyse der Wettbewerbsintensität", "Fokus auf die Umweltverträglichkeit", "Priorisierung von Kundengruppen"],
+        "correct": 1
+    },
+    {
+        "id": 25,
+        "type": "multiple_choice",
+        "question": "Welche Datenquelle ist typisch für quantitative Forschung?",
+        "options": ["Interviews", "Messungen des Kaufverhaltens", "Fokusgruppen", "Begleitete Einkäufe"],
+        "correct": 1
+    },{
+        "id": 26,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptziel der Rentabilitätsberechnung in der Marktsegmentierung?",
+        "options": ["Bestimmung des Marktanteils", "Bewertung des finanziellen Potenzials eines Segments", "Verbesserung der Kundenbindung", "Steigerung der Innovationskraft"],
+        "correct": 1
+    },
+    {
+        "id": 27,
+        "type": "multiple_choice",
+        "question": "Welche Art von Kaufentscheidung basiert hauptsächlich auf Routine?",
+        "options": ["Extensive Kaufentscheidung", "Impulsive Kaufentscheidung", "Habitualisierte Kaufentscheidung", "Rationale Kaufentscheidung"],
+        "correct": 2
+    },
+    {
+        "id": 28,
+        "type": "multiple_choice",
+        "question": "Was wird durch die Sekundärsegmentierung definiert?",
+        "options": ["Marktsegmente basierend auf gemeinsamen Bedürfnissen", "Marktsegmente nach demografischen und sozioökonomischen Kriterien", "Marktsegmente nach geografischen Merkmalen", "Marktsegmente basierend auf Wettbewerbsstärke"],
+        "correct": 1
+    },
+    {
+        "id": 29,
+        "type": "multiple_choice",
+        "question": "Welche Kraft im 5-Forces-Modell zeigt das Risiko alternativer Produkte?",
+        "options": ["Verhandlungsstärke der Lieferanten", "Bedrohung durch Ersatzprodukte", "Verhandlungsstärke der Abnehmer", "Wettbewerb unter bestehenden Anbietern"],
+        "correct": 1
+    },
+    {
+        "id": 30,
+        "type": "multiple_choice",
+        "question": "Welche Methode gehört zur qualitativen Konsumentenforschung?",
+        "options": ["Messung von Verkaufszahlen", "Telefonumfragen", "Videobeobachtung und begleitete Einkäufe", "Analyse von Lagerdaten"],
+        "correct": 2
+    },{
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die Primärsegmentierung am besten?",
+        "options": ["Einteilung in kleine, fokussierte Gruppen", "Reduktion auf wesentliche Marktsegmente mit ähnlichen Bedürfnissen", "Überprüfung von Marktattraktivität", "Analyse von Preisstrategien"],
+        "correct": 1
+    },
+    {
+        "id": 32,
+        "type": "multiple_choice",
+        "question": "Welcher Typ der Kaufentscheidung ist stark emotional und wenig kognitiv?",
+        "options": ["Extensive Kaufentscheidung", "Rationale Kaufentscheidung", "Habitualisierte Kaufentscheidung", "Impulsive Kaufentscheidung"],
+        "correct": 3
+    },
+    {
+        "id": 33,
+        "type": "multiple_choice",
+        "question": "Was ist ein Ziel der Segmentpositionierung?",
+        "options": ["Maximierung des Marktanteils", "Entwicklung eines Wertversprechens für jedes Segment", "Erweiterung des Produktportfolios", "Optimierung der Lagerbestände"],
+        "correct": 1
+    },
+    {
+        "id": 34,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz untersucht das Einkaufsverhalten?",
+        "options": ["Verhalten", "Zufriedenheit", "Wahrnehmung", "Trends"],
+        "correct": 0
+    },
+    {
+        "id": 35,
+        "type": "multiple_choice",
+        "question": "Was ist ein Vorteil der Marktsegmentierung?",
+        "options": ["Einheitliche Marketingstrategie für alle Kunden", "Bessere Anpassung an spezifische Kundenbedürfnisse", "Reduzierung der Produktionskosten", "Eliminierung von Wettbewerbern"],
+        "correct": 1
+    },{
+        "id": 36,
+        "type": "multiple_choice",
+        "question": "Welche Kraft im 5-Forces-Modell misst den Einfluss der Kunden auf Preise und Qualität?",
+        "options": ["Verhandlungsstärke der Lieferanten", "Wettbewerb unter bestehenden Anbietern", "Verhandlungsstärke der Abnehmer", "Bedrohung durch Ersatzprodukte"],
+        "correct": 2
+    },
+    {
+        "id": 37,
+        "type": "multiple_choice",
+        "question": "Welche Phase in der Customer Journey folgt typischerweise der Produktauswahl?",
+        "options": ["Kaufentscheidung", "Einkaufsstättenauswahl", "Bewertung der Zufriedenheit", "Rückgabeprozess"],
+        "correct": 0
+    },
+    {
+        "id": 38,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptziel der Früherkennung von Trends?",
+        "options": ["Verbesserung der Lagerlogistik", "Anpassung an gesellschaftliche Veränderungen", "Entwicklung neuer Produkte", "Reduktion der Wettbewerbsintensität"],
+        "correct": 1
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Was ist eine typische Methode der quantitativen Konsumentenforschung?",
+        "options": ["Fokusgruppen", "Umfragen per Internet", "Interviews mit Experten", "Begleitete Einkäufe"],
+        "correct": 1
+    },
+    {
+        "id": 40,
+        "type": "multiple_choice",
+        "question": "Welche Kaufentscheidung basiert auf Fakten und rationalen Überlegungen?",
+        "options": ["Extensive Kaufentscheidung", "Impulsive Kaufentscheidung", "Rationale Kaufentscheidung", "Habitualisierte Kaufentscheidung"],
+        "correct": 2
+    },{
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Welche Methode wird in der Marktsegmentierung NICHT verwendet?",
+        "options": ["Attraktivitätsprüfung", "Sekundärsegmentierung", "Produktanalyse", "Primärsegmentierung"],
+        "correct": 2
+    },
+    {
+        "id": 42,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz bezieht sich auf die Wahrnehmung des Händlers?",
+        "options": ["Verhalten", "Zufriedenheit", "Wahrnehmung", "Trends"],
+        "correct": 2
+    },
+    {
+        "id": 43,
+        "type": "multiple_choice",
+        "question": "Welche Art von Entscheidung erfordert minimalen kognitiven und emotionalen Aufwand?",
+        "options": ["Extensive Kaufentscheidung", "Impulsive Kaufentscheidung", "Rationale Kaufentscheidung", "Habitualisierte Kaufentscheidung"],
+        "correct": 3
+    },
+    {
+        "id": 44,
+        "type": "multiple_choice",
+        "question": "Was ist ein Beispiel für die quantitative Beobachtung?",
+        "options": ["Begleitete Einkäufe", "Fokusgruppen", "Messung der Anzahl von Kunden", "Videobeobachtung"],
+        "correct": 2
+    },
+    {
+        "id": 45,
+        "type": "multiple_choice",
+        "question": "Was untersucht die 5-Forces-Analyse?",
+        "options": ["Wettbewerbsintensität und Marktbedingungen", "Innovationen in der Produktentwicklung", "Kundenbedürfnisse und Trends", "Preisstrategien der Konkurrenten"],
+        "correct": 0
+    },{
+        "id": 46,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz analysiert die Zufriedenheit der Kunden?",
+        "options": ["Trends", "Verhalten", "Wahrnehmung", "Zufriedenheit"],
+        "correct": 3
+    },
+    {
+        "id": 47,
+        "type": "multiple_choice",
+        "question": "Was ist eine impulsive Kaufentscheidung?",
+        "options": ["Rational überlegte Entscheidung", "Kauf basierend auf Routine", "Spontaner Kauf mit emotionaler Basis", "Entscheidung nach umfassender Analyse"],
+        "correct": 2
+    },
+    {
+        "id": 48,
+        "type": "multiple_choice",
+        "question": "Welche Methode gehört zu den qualitativen Ansätzen in der Konsumentenforschung?",
+        "options": ["Statistische Analyse", "Interviews und Beobachtungen", "Internetumfragen", "Kaufverhaltensmessung"],
+        "correct": 1
+    },
+    {
+        "id": 49,
+        "type": "multiple_choice",
+        "question": "Welche Kaufentscheidung erfordert eine detaillierte Beratung und Informationssuche?",
+        "options": ["Extensive Kaufentscheidung", "Impulsive Kaufentscheidung", "Habitualisierte Kaufentscheidung", "Rationale Kaufentscheidung"],
+        "correct": 0
+    },
+    {
+        "id": 50,
+        "type": "multiple_choice",
+        "question": "Was ist ein Ziel der Segmentoptimierung?",
+        "options": ["Überprüfung, ob Leistungsversprechen den Kundenerwartungen entsprechen", "Reduktion der Produktionskosten", "Maximierung des Umsatzes in allen Segmenten", "Eliminierung schwacher Produkte"],
+        "correct": 0
+    },{
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Was beschreibt das Verhalten hybrider Konsumenten am besten?",
+        "options": ["Konzentration auf umweltfreundliche Produkte", "Gleichzeitige Nachfrage nach Premium- und Niedrigpreisprodukten", "Fokus auf nachhaltige Lieferketten", "Präferenz für stationären Handel"],
+        "correct": 1
+    },
+    {
+        "id": 52,
+        "type": "multiple_choice",
+        "question": "Welche Kraft im 5-Forces-Modell betrifft die Wahrscheinlichkeit neuer Marktteilnehmer?",
+        "options": ["Bedrohung durch Ersatzprodukte", "Wettbewerb unter bestehenden Anbietern", "Bedrohung durch potenzielle neue Konkurrenten", "Verhandlungsstärke der Abnehmer"],
+        "correct": 2
+    },
+    {
+        "id": 53,
+        "type": "multiple_choice",
+        "question": "Was ist ein Merkmal der Primärsegmentierung?",
+        "options": ["Fokus auf demografische Kriterien", "Gruppierung nach individuellen Bedürfnissen", "Analyse von Ersatzprodukten", "Bewertung der Wettbewerbsstärke"],
+        "correct": 0
+    },
+    {
+        "id": 54,
+        "type": "multiple_choice",
+        "question": "Welche Methode wird häufig für die Marktsegmentierung verwendet?",
+        "options": ["Interviews mit Kunden", "Beobachtung von Verhaltensmustern", "Attraktivitätsprüfung von Segmenten", "Big-Data-Analyse"],
+        "correct": 2
+    },
+    {
+        "id": 55,
+        "type": "multiple_choice",
+        "question": "Welche Entscheidung wird am stärksten durch Routineverhalten beeinflusst?",
+        "options": ["Extensive Kaufentscheidung", "Impulsive Kaufentscheidung", "Habitualisierte Kaufentscheidung", "Rationale Kaufentscheidung"],
+        "correct": 2
+    }, {
+        "id": 56,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz fokussiert sich auf gesellschaftliche Veränderungen?",
+        "options": ["Verhalten", "Wahrnehmung", "Zufriedenheit", "Trends"],
+        "correct": 3
+    },
+    {
+        "id": 57,
+        "type": "multiple_choice",
+        "question": "Was ist eine sekundäre Segmentierung?",
+        "options": ["Reduktion der Marktsegmente auf die wichtigsten Gruppen", "Erweiterung bestehender Segmente mit zusätzlichen Kriterien", "Beschreibung der Marktsegmente nach demografischen und sozioökonomischen Kriterien", "Prüfung der Marktattraktivität"],
+        "correct": 2
+    },
+    {
+        "id": 58,
+        "type": "multiple_choice",
+        "question": "Welche Methode gehört zur quantitativen Konsumentenforschung?",
+        "options": ["Fokusgruppen", "Internetumfragen", "Begleitete Einkäufe", "Tiefeninterviews"],
+        "correct": 1
+    },
+    {
+        "id": 59,
+        "type": "multiple_choice",
+        "question": "Welche Art von Kaufentscheidung erfordert umfassende Recherche?",
+        "options": ["Habitualisierte Kaufentscheidung", "Extensive Kaufentscheidung", "Impulsive Kaufentscheidung", "Rationale Kaufentscheidung"],
+        "correct": 1
+    },
+    {
+        "id": 60,
+        "type": "multiple_choice",
+        "question": "Was ist das Ziel der Positionierung eines Marktsegments?",
+        "options": ["Entwicklung eines spezifischen Wertversprechens", "Maximierung des Umsatzes in allen Gruppen", "Reduktion der Anzahl von Wettbewerbern", "Optimierung der Lieferkette"],
+        "correct": 0
+    },{
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Was misst die Verhandlungsstärke der Lieferanten im 5-Forces-Modell?",
+        "options": ["Einfluss der Lieferanten auf die Preise", "Risiko von Ersatzprodukten", "Fähigkeit der Kunden, Preise zu senken", "Anzahl neuer Marktteilnehmer"],
+        "correct": 0
+    },
+    {
+        "id": 62,
+        "type": "multiple_choice",
+        "question": "Was ist ein typisches Ziel der Attraktivitätsprüfung?",
+        "options": ["Bewertung des Wachstumspotenzials eines Segments", "Maximierung der Kundenzufriedenheit", "Identifikation neuer Produktkategorien", "Reduktion der Konkurrenz"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz bewertet die Stärken und Schwächen des Händlers?",
+        "options": ["Wahrnehmung", "Zufriedenheit", "Verhalten", "Trends"],
+        "correct": 1
+    },
+    {
+        "id": 64,
+        "type": "multiple_choice",
+        "question": "Welche Art von Kaufentscheidung erfolgt spontan und ohne Planung?",
+        "options": ["Habitualisierte Kaufentscheidung", "Extensive Kaufentscheidung", "Impulsive Kaufentscheidung", "Rationale Kaufentscheidung"],
+        "correct": 2
+    },
+    {
+        "id": 65,
+        "type": "multiple_choice",
+        "question": "Welche Phase der Customer Journey umfasst die Bewertung der Zufriedenheit?",
+        "options": ["Produktauswahl", "Einkaufsstättenauswahl", "Nachkaufphase", "Rückgabeprozess"],
+        "correct": 2
+    },{
+        "id": 66,
+        "type": "multiple_choice",
+        "question": "Was ist ein Vorteil der Marktsegmentierung?",
+        "options": ["Einheitliche Ansprache aller Kunden", "Bessere Anpassung an individuelle Kundenbedürfnisse", "Eliminierung der Notwendigkeit von Kundenforschung", "Reduktion der Produktionskosten"],
+        "correct": 1
+    },
+    {
+        "id": 67,
+        "type": "multiple_choice",
+        "question": "Welche Kraft im 5-Forces-Modell misst das Risiko durch Ersatzprodukte?",
+        "options": ["Verhandlungsstärke der Abnehmer", "Bedrohung durch Ersatzprodukte", "Wettbewerb unter bestehenden Anbietern", "Verhandlungsstärke der Lieferanten"],
+        "correct": 1
+    },
+    {
+        "id": 68,
+        "type": "multiple_choice",
+        "question": "Welche Methode der Konsumentenforschung erfasst qualitative Daten?",
+        "options": ["Umfragen per Internet", "Fokusgruppen und Beobachtungen", "Statistische Auswertungen", "Verkaufsanalysen"],
+        "correct": 1
+    },
+    {
+        "id": 69,
+        "type": "multiple_choice",
+        "question": "Was ist ein Merkmal hybrider Konsumenten?",
+        "options": ["Konsum von ausschließlich Premiumprodukten", "Fokus auf nachhaltige Marken", "Kombination von Niedrigpreis- und Luxusprodukten", "Präferenz für digitale Kanäle"],
+        "correct": 2
+    },
+    {
+        "id": 70,
+        "type": "multiple_choice",
+        "question": "Welche Entscheidung basiert auf Fakten und rationaler Überlegung?",
+        "options": ["Extensive Kaufentscheidung", "Impulsive Kaufentscheidung", "Rationale Kaufentscheidung", "Habitualisierte Kaufentscheidung"],
+        "correct": 2
+    }, {
+        "id": 71,
+        "type": "multiple_choice",
+        "question": "Welche Entscheidung wird durch die Verhandlungsstärke der Abnehmer im 5-Forces-Modell beeinflusst?",
+        "options": ["Preisanpassung", "Produktinnovationen", "Markenstrategie", "Distributionskanäle"],
+        "correct": 0
+    },
+    {
+        "id": 72,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die Primärsegmentierung in der Marktforschung?",
+        "options": ["Analyse von Konsumgewohnheiten", "Segmentierung nach demografischen Daten", "Optimierung der Zielgruppenansprache", "Ermittlung von Markteintrittsbarrieren"],
+        "correct": 1
+    },
+    {
+        "id": 73,
+        "type": "multiple_choice",
+        "question": "Welche Methode eignet sich am besten zur Messung der Kundenzufriedenheit?",
+        "options": ["Net Promoter Score (NPS)", "Online-Umfragen", "Fokusgruppen", "Beobachtungen"],
+        "correct": 0
+    },
+    {
+        "id": 74,
+        "type": "multiple_choice",
+        "question": "Welche Entscheidung erfordert die umfassendste Informationssuche?",
+        "options": ["Impulsive Kaufentscheidung", "Extensive Kaufentscheidung", "Habitualisierte Kaufentscheidung", "Rationale Kaufentscheidung"],
+        "correct": 1
+    },
+    {
+        "id": 75,
+        "type": "multiple_choice",
+        "question": "Welche Phase in der Customer Journey ist für die Loyalitätsbildung entscheidend?",
+        "options": ["Erstkauf", "Nachkaufphase", "Produkterkundung", "Einkaufsstättenauswahl"],
+        "correct": 1
+    }
+
+
+]

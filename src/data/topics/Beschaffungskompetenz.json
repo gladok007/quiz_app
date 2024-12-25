@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+  "type": "multiple_choice",
     "question": "Welche der folgenden Herausforderungen betrifft globale Lieferkettenprobleme?",
     "options": [
       "Steigende Nachfrage nach Nachhaltigkeit",
@@ -12,6 +13,7 @@
   },
   {
     "id": 2,
+  "type": "multiple_choice",
     "question": "Welcher Schritt gehört NICHT zu den fünf Phasen des Beschaffungsprozesses?",
     "options": [
       "Warenbedarfsermittlung und Sortimentsbildung",
@@ -23,6 +25,7 @@
   },
   {
     "id": 3,
+  "type": "multiple_choice",
     "question": "Was beschreibt die Rolle eines Category-Managers am besten?",
     "options": [
       "Durchführung von Marktforschung und Logistikanalysen",
@@ -34,6 +37,7 @@
   },
   {
     "id": 4,
+  "type": "multiple_choice",
     "question": "Welche Kategorie im Beschaffungsportfolio erfordert langfristige Partnerschaften?",
     "options": [
       "Standardsortiment",
@@ -45,6 +49,7 @@
   },
   {
     "id": 5,
+  "type": "multiple_choice",
     "question": "Was ist ein Vorteil von E-Procurement?",
     "options": [
       "Höhere Papierkosten",
@@ -56,6 +61,7 @@
   },
   {
     "id": 6,
+  "type": "multiple_choice",
     "question": "Welche Phase im Beschaffungsprozess bezieht sich auf die Analyse der Lieferpünktlichkeit?",
     "options": [
       "Warenbedarfsermittlung",
@@ -67,6 +73,7 @@
   },
   {
     "id": 7,
+  "type": "multiple_choice",
     "question": "Was bedeutet der Begriff „Optimale Bestellmenge“ im Beschaffungsprozess?",
     "options": [
       "Bestellung der maximal möglichen Menge",
@@ -78,6 +85,7 @@
   },
   {
     "id": 8,
+  "type": "multiple_choice",
     "question": "Welcher Vorteil wird durch die XYZ-Analyse erzielt?",
     "options": [
       "Reduzierung der Lieferkosten",
@@ -89,6 +97,7 @@
   },
   {
     "id": 9,
+  "type": "multiple_choice",
     "question": "Was gehört zu den Herausforderungen der Nachhaltigkeit in der Beschaffung?",
     "options": [
       "Einführung digitaler Technologien",
@@ -100,6 +109,7 @@
   },
   {
     "id": 10,
+  "type": "multiple_choice",
     "question": "Welches Merkmal ist typisch für Basisartikel?",
     "options": [
       "Stark schwankende Nachfrage",
@@ -111,6 +121,7 @@
   },
   {
     "id": 11,
+  "type": "multiple_choice",
     "question": "Welche Phase des Beschaffungsprozesses ist besonders wichtig für neue Produkte?",
     "options": [
       "Bestellung",
@@ -123,6 +134,7 @@
   
     {
       "id": 12,
+  "type": "multiple_choice",
       "question": "Was ist ein Nachteil der ABC-Analyse?",
       "options": [
         "Sie berücksichtigt keine qualitativen Faktoren",
@@ -134,6 +146,7 @@
     },
     {
       "id": 13,
+  "type": "multiple_choice",
       "question": "Welcher Faktor hat den stärksten Einfluss auf die Beschaffung von Trendartikeln?",
       "options": [
         "Stabile Nachfrage",
@@ -145,6 +158,7 @@
     },
     {
       "id": 14,
+  "type": "multiple_choice",
       "question": "Was beschreibt den Bullwhip-Effekt am besten?",
       "options": [
         "Konsistenz in Lieferantenbeziehungen",
@@ -156,6 +170,7 @@
     },
     {
       "id": 15,
+  "type": "multiple_choice",
       "question": "Welche Phase im Produktlebenszyklus hat den höchsten Absatz?",
       "options": [
         "Einführung",
@@ -167,6 +182,7 @@
     },
     {
       "id": 16,
+  "type": "multiple_choice",
       "question": "Welche Kategorie im Beschaffungsportfolio ist besonders für saisonale Produkte geeignet?",
       "options": [
         "Strategisches Sortiment",
@@ -178,6 +194,7 @@
     },
     {
       "id": 17,
+  "type": "multiple_choice",
       "question": "Welcher Begriff ist im Category Management am wichtigsten?",
       "options": [
         "Warengruppe",
@@ -189,6 +206,7 @@
     },
     {
       "id": 18,
+  "type": "multiple_choice",
       "question": "Welche Aufgabe gehört NICHT zu den Verantwortlichkeiten eines Category-Managers?",
       "options": [
         "Festlegen von Preisen innerhalb der Kategorie",
@@ -200,6 +218,7 @@
     },
     {
       "id": 19,
+  "type": "multiple_choice",
       "question": "Welcher Vorteil ergibt sich aus der Nutzung von Planungsinstrumenten im Einkauf?",
       "options": [
         "Höhere Verkaufszahlen durch innovative Produkte",
@@ -211,6 +230,7 @@
     },
     {
       "id": 20,
+  "type": "multiple_choice",
       "question": "Welche Aussage beschreibt X-Produkte in der XYZ-Analyse?",
       "options": [
         "Sie haben einen stabilen und gut prognostizierbaren Bedarf",
@@ -223,6 +243,7 @@
     
       {
         "id": 21,
+  "type": "multiple_choice",
         "question": "Welche Herausforderung hat die Einführung von Blockchain-Technologie in der Beschaffung?",
         "options": [
           "Hohe Implementierungskosten und spezielles Fachwissen",
@@ -234,6 +255,7 @@
       },
       {
         "id": 22,
+  "type": "multiple_choice",
         "question": "Welcher Vorteil hat das Beschaffungsportfolio für Unternehmen?",
         "options": [
           "Minimierung aller Produktionskosten",
@@ -245,6 +267,7 @@
       },
       {
         "id": 23,
+  "type": "multiple_choice",
         "question": "Was ist ein Hauptziel der Lieferantenbeurteilung?",
         "options": [
           "Analyse von Marktchancen",
@@ -256,6 +279,7 @@
       },
       {
         "id": 24,
+  "type": "multiple_choice",
         "question": "Was bedeutet eine hohe Verfügbarkeit eines Produktes im Lager?",
         "options": [
           "Das Produkt wird nicht nachgefragt",
@@ -267,6 +291,7 @@
       },
       {
         "id": 25,
+  "type": "multiple_choice",
         "question": "Welche Phase des Beschaffungsprozesses fokussiert sich auf Preisverhandlungen?",
         "options": [
           "Lieferantensuche",
@@ -278,6 +303,7 @@
       },
       {
         "id": 26,
+  "type": "multiple_choice",
         "question": "Welche Produkte sollten laut BCG-Matrix abgeschöpft werden?",
         "options": [
           "Stars",
@@ -289,6 +315,7 @@
       },
       {
         "id": 27,
+  "type": "multiple_choice",
         "question": "Was ist ein Hauptziel der ECR-Strategie?",
         "options": [
           "Verbesserung der Effizienz durch Zusammenarbeit",
@@ -300,6 +327,7 @@
       },
       {
         "id": 28,
+  "type": "multiple_choice",
         "question": "Welche Warengruppe wird am stärksten durch Schwankungen beeinflusst?",
         "options": [
           "Basisartikel",
@@ -311,6 +339,7 @@
       },
       {
         "id": 29,
+  "type": "multiple_choice",
         "question": "Was bedeutet „kritischer Warenbestand“?",
         "options": [
           "Maximaler Lagerbestand zur Vermeidung von Verlusten",
@@ -322,6 +351,7 @@
       },
       {
         "id": 30,
+  "type": "multiple_choice",
         "question": "Welche Herausforderung betrifft hauptsächlich die Beschaffung neuer Produkte?",
         "options": [
           "Stabile Nachfrageprognosen",
@@ -334,6 +364,7 @@
       
         {
           "id": 31,
+  "type": "multiple_choice",
           "question": "Was ist ein Ziel der Multiattributbewertung in der Lieferantenbeurteilung?",
           "options": [
             "Förderung von Lieferantenpartnerschaften",
@@ -345,6 +376,7 @@
         },
         {
           "id": 32,
+  "type": "multiple_choice",
           "question": "Welche Phase des Beschaffungsprozesses betrifft die Festlegung der bestellten Menge?",
           "options": [
             "Warenbedarfsermittlung",
@@ -356,6 +388,7 @@
         },
         {
           "id": 33,
+  "type": "multiple_choice",
           "question": "Was beschreibt die Einführung eines Produkts im Lebenszyklus am besten?",
           "options": [
             "Niedrige Kosten, maximaler Absatz",
@@ -367,6 +400,7 @@
         },
         {
           "id": 34,
+  "type": "multiple_choice",
           "question": "Welche Rolle spielt das Warenwirtschaftssystem im Category Management?",
           "options": [
             "Erhöhung der Lagerkosten",
@@ -378,6 +412,7 @@
         },
         {
           "id": 35,
+  "type": "multiple_choice",
           "question": "Was ist ein Merkmal von C-Gütern in der ABC-Analyse?",
           "options": [
             "Sie erfordern hohe Lagerbestände",
@@ -389,6 +424,7 @@
         },
         {
           "id": 36,
+  "type": "multiple_choice",
           "question": "Welche Produkte erfordern Just-in-Time-Lieferungen?",
           "options": [
             "Y-Produkte",
@@ -400,6 +436,7 @@
         },
         {
           "id": 37,
+  "type": "multiple_choice",
           "question": "Welche Aufgabe gehört zur strategischen Beschaffung?",
           "options": [
             "Entwicklung neuer Produkte",
@@ -411,6 +448,7 @@
         },
         {
           "id": 38,
+  "type": "multiple_choice",
           "question": "Was ist das Hauptziel der Optimierung der Warenbestände?",
           "options": [
             "Maximierung der Lagerkosten",
@@ -422,6 +460,7 @@
         },
         {
           "id": 39,
+  "type": "multiple_choice",
           "question": "Welche Produkte in der BCG-Matrix erfordern die höchste Investition?",
           "options": [
             "Stars",
@@ -433,6 +472,7 @@
         },
         {
           "id": 40,
+  "type": "multiple_choice",
           "question": "Was ist ein Vorteil der Portfolioanalyse?",
           "options": [
             "Sie verbessert die Lagerhaltungskosten direkt",
@@ -444,6 +484,7 @@
         },
           {
             "id": 41,
+  "type": "multiple_choice",
             "question": "Welcher Faktor ist entscheidend für die Nachfrage von Saisonartikeln?",
             "options": [
               "Stabile Marktbedingungen",
@@ -455,6 +496,7 @@
           },
           {
             "id": 42,
+  "type": "multiple_choice",
             "question": "Was ist eine Voraussetzung für erfolgreiches Category Management?",
             "options": [
               "Partnerschaft und Vertrauen zwischen Handel und Hersteller",
@@ -466,6 +508,7 @@
           },
           {
             "id": 43,
+  "type": "multiple_choice",
             "question": "Was gehört zur Rolle eines Category-Managers?",
             "options": [
               "Entwicklung von Logistikstrategien",
@@ -477,6 +520,7 @@
           },
           {
             "id": 44,
+  "type": "multiple_choice",
             "question": "Welcher Punkt gehört NICHT zu den Phasen des Beschaffungsprozesses?",
             "options": [
               "Lieferantensuche",
@@ -488,6 +532,7 @@
           },
           {
             "id": 45,
+  "type": "multiple_choice",
             "question": "Was beschreibt Y-Produkte in der XYZ-Analyse am besten?",
             "options": [
               "Stabiler und gut prognostizierbarer Bedarf",
@@ -499,6 +544,7 @@
           },
           {
             "id": 46,
+  "type": "multiple_choice",
             "question": "Was ist ein Nachteil von Poor Dogs in der BCG-Matrix?",
             "options": [
               "Hohe Marktwachstumsrate",
@@ -510,6 +556,7 @@
           },
           {
             "id": 47,
+  "type": "multiple_choice",
             "question": "Welche Warengruppe benötigt flexible Bestellmengen?",
             "options": [
               "Basisartikel",
@@ -521,6 +568,7 @@
           },
           {
             "id": 48,
+  "type": "multiple_choice",
             "question": "Welche Strategie wird für Question Marks empfohlen?",
             "options": [
               "Abschöpfung des Cashflows",
@@ -532,6 +580,7 @@
           },
           {
             "id": 49,
+  "type": "multiple_choice",
             "question": "Was ist ein Vorteil von E-Procurement?",
             "options": [
               "Längere Einkaufszyklen",
@@ -543,6 +592,7 @@
           },
           {
             "id": 50,
+  "type": "multiple_choice",
             "question": "Was gehört NICHT zu den Herausforderungen in der Beschaffung?",
             "options": [
               "Globale Lieferkettenprobleme",
@@ -554,6 +604,7 @@
           },
           {
             "id": 51,
+  "type": "multiple_choice",
             "question": "Welche Aufgabe hat der Beschaffungsprozess?",
             "options": [
               "Maximierung der Lagerkosten",
@@ -565,6 +616,7 @@
           },
           {
             "id": 52,
+  "type": "multiple_choice",
             "question": "Was beschreibt die „Reife“-Phase eines Produkts im Lebenszyklus?",
             "options": [
               "Maximaler Absatz und stabiler Gewinn",
@@ -576,6 +628,7 @@
           },
           {
             "id": 53,
+  "type": "multiple_choice",
             "question": "Welche Produkte werden typischerweise in kleinen Mengen gelagert?",
             "options": [
               "X-Produkte",
@@ -587,6 +640,7 @@
           },
           {
             "id": 54,
+  "type": "multiple_choice",
             "question": "Was ist ein Merkmal von Schlüsselsortimenten?",
             "options": [
               "Hoher Einfluss auf das Unternehmensprofil",
@@ -598,6 +652,7 @@
           },
           {
             "id": 55,
+  "type": "multiple_choice",
             "question": "Was ist ein Vorteil der Multiattributbewertung?",
             "options": [
               "Einführung standardisierter Produkte",
@@ -609,6 +664,7 @@
           },
           {
             "id": 56,
+  "type": "multiple_choice",
             "question": "Was ist das Ziel der Lieferantensuche?",
             "options": [
               "Auswahl weniger geeigneter Lieferanten",
@@ -620,6 +676,7 @@
           },
           {
             "id": 57,
+  "type": "multiple_choice",
             "question": "Welche Faktoren spielen bei der Lieferantenbeurteilung eine Rolle?",
             "options": [
               "Preisentwicklung und Produktverfügbarkeit",
@@ -631,6 +688,7 @@
           },
           {
             "id": 58,
+  "type": "multiple_choice",
             "question": "Was ist ein Ziel der ECR-Strategie?",
             "options": [
               "Einführung von Blockchain-Technologien",
@@ -642,6 +700,7 @@
           },
           {
             "id": 59,
+  "type": "multiple_choice",
             "question": "Welche Warengruppe wird häufig durch Wetterbedingungen beeinflusst?",
             "options": [
               "Basisartikel",
@@ -653,6 +712,7 @@
           },
           {
             "id": 60,
+  "type": "multiple_choice",
             "question": "Was bedeutet „Just-in-Time“-Lieferung?",
             "options": [
               "Lagerung großer Mengen",
@@ -664,6 +724,7 @@
           },
           {
             "id": 61,
+  "type": "multiple_choice",
             "question": "Welche Kategorie der BCG-Matrix hat den geringsten Marktwachstumsrate?",
             "options": [
               "Stars",
@@ -675,6 +736,7 @@
           },
           {
             "id": 62,
+  "type": "multiple_choice",
             "question": "Was ist ein Merkmal von Strategischem Sortiment?",
             "options": [
               "Geringe Anforderungen an die Qualität",
@@ -686,6 +748,7 @@
           },
           {
             "id": 63,
+  "type": "multiple_choice",
             "question": "Welche Produkte in der XYZ-Analyse erfordern flexible Lagerbestände?",
             "options": [
               "X-Produkte",
@@ -697,6 +760,7 @@
           },
           {
             "id": 64,
+  "type": "multiple_choice",
             "question": "Was beschreibt die „Sättigungs“-Phase eines Produktlebenszyklus?",
             "options": [
               "Höchste Kosten und niedrigster Gewinn",
@@ -708,6 +772,7 @@
           },
           {
             "id": 65,
+  "type": "multiple_choice",
             "question": "Was gehört NICHT zu den Zielen der Beschaffung?",
             "options": [
               "Optimale Kostenkontrolle",
@@ -719,6 +784,7 @@
           },
           {
             "id": 66,
+  "type": "multiple_choice",
             "question": "Was ist eine Voraussetzung für E-Procurement?",
             "options": [
               "Integration eines Warenwirtschaftssystems",
@@ -730,6 +796,7 @@
           },
           {
             "id": 67,
+  "type": "multiple_choice",
             "question": "Welche Strategie wird für Cash Cows empfohlen?",
             "options": [
               "Investieren, um die Marktposition zu halten",
@@ -741,6 +808,7 @@
           },
           {
             "id": 68,
+  "type": "multiple_choice",
             "question": "Welche Herausforderung betrifft den Klimawandel in der Beschaffung?",
             "options": [
               "Einführung von Blockchain-Technologie",
@@ -752,6 +820,7 @@
           },
           {
             "id": 69,
+  "type": "multiple_choice",
             "question": "Welche Produkte sind laut BCG-Matrix typischerweise unprofitabel?",
             "options": [
               "Cash Cows",
@@ -763,6 +832,7 @@
           },
           {
             "id": 70,
+  "type": "multiple_choice",
             "question": "Was ist ein Merkmal von Basisartikeln?",
             "options": [
               "Saisonale Schwankungen",
