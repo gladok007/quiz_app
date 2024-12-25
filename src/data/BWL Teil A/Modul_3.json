@@ -1,0 +1,129 @@
+[
+    {
+        "id": 1,
+        "type": "fill_in_the_blank",
+        "question": "Die Unternehmensführung hat zum Ziel, den Prozess der betrieblichen Leistungserstellung und -verwertung so zu gestalten, dass die ___ auf höchstmöglichem Niveau erreicht werden.",
+        "options": ["Unternehmensziele", "Mitarbeiterzufriedenheit", "Ressourcen"],
+        "correct": 0
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Die Unternehmensführung umfasst ausschließlich die Kontrolle der finanziellen Berichte.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 3,
+        "type": "fill_in_the_blank",
+        "question": "Die Unternehmensführung ist verantwortlich für die ___ und ___ von Entscheidungen in einem Unternehmen.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["Planung", "Zielsetzung", "Analyse"]
+            },
+            {
+                "blank": 2,
+                "choices": ["Kontrolle", "Durchführung", "Bewertung"]
+            }
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe gehört nicht zur Unternehmensführung?",
+        "options": ["Zielsetzung", "Personalplanung", "Wartung von Maschinen"],
+        "correct": 2
+    },
+    {
+        "id": 5,
+        "type": "true_false",
+        "question": "Eine gute Unternehmensführung sorgt dafür, dass Stakeholderinteressen berücksichtigt werden.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 6,
+        "type": "fill_in_the_blank",
+        "question": "Ein ökonomisches Ziel eines Unternehmens ist ___",
+        "options": ["Ressourcenschonung", "Gewinnmaximierung", "Gerechte Entlohnung"],
+        "correct": 1
+    },
+    {
+        "id": 7,
+        "type": "true_false",
+        "question": "Ökologische Ziele haben Vorrang vor ökonomischen Zielen in jedem Unternehmen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 8,
+        "type": "fill_in_the_blank",
+        "question": "Ein langfristiges Ziel wird auch als ___ bezeichnet, während ein kurzfristiges Ziel oft ___ genannt wird.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["Oberziel", "Unterziel", "Hauptziel"]
+            },
+            {
+                "blank": 2,
+                "choices": ["Unterziel", "Nebenziel", "Teilziel"]
+            }
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Beziehung zwischen Zielen?",
+        "options": [
+            "Ziele können nur komplementär sein.",
+            "Ziele können komplementär, konkurrierend oder indifferent sein.",
+            "Ziele sind immer widersprüchlich."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 10,
+        "type": "true_false",
+        "question": "Die SMART-Regel hilft, realistische und messbare Ziele zu setzen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 11,
+        "type": "fill_in_the_blank",
+        "question": "Planung ist die ___ Vorbereitung zielgerichteter Entscheidungen.",
+        "options": ["gedankliche", "operative", "strategische"],
+        "correct": 0
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Das Phasenschema der Planung umfasst Zielbildung, Situationsanalyse, Alternativenermittlung und -bewertung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 13,
+        "type": "multiple_response",
+        "question": "Welche Strategien gehören zur Ansoff-Matrix?",
+        "options": ["Marktdurchdringung", "Diversifikation", "Produktionsoptimierung", "Kostenkontrolle"],
+        "correct": [0, 1]
+    },
+    {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Welche Phase gehört nicht zur Planung?",
+        "options": ["Zielsetzung", "Analyse der Umweltzustände", "Produktion"],
+        "correct": 2
+    },
+    {
+        "id": 15,
+        "type": "true_false",
+        "question": "SWOT-Analyse ist ein Werkzeug zur Identifikation von Stärken, Schwächen, Chancen und Risiken.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    }
+]

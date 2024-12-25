@@ -5,41 +5,58 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
 export default function ControllingQuiz() {
-  const [topics, setTopics] = useState({});
+  const [data, setData] = useState({});
+  const [selectedSubject, setSelectedSubject] = useState(null);
   const [selectedTopic, setSelectedTopic] = useState(null);
   const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [questions, setQuestions] = useState([]);
   const [answers, setAnswers] = useState({});
   const [score, setScore] = useState(0);
   const [showResults, setShowResults] = useState(false);
   const [isCorrect, setIsCorrect] = useState(null);
   const [correctAnswer, setCorrectAnswer] = useState(null);
-  const [selectedOptions, setSelectedOptions] = useState([]); // Для multiple_response и sequencing
+  const [selectedOptions, setSelectedOptions] = useState([]);
 
   useEffect(() => {
-    const loadTopics = async () => {
+    const loadData = async () => {
       if (typeof window !== "undefined") {
-        const context = require.context("@/data/topics", false, /\.json$/);
-        const loadedTopics = {};
+        const context = require.context("@/data", true, /\.json$/);
+        const loadedData = {};
 
-        for (const key of context.keys()) {
-          const topicName = key.replace("./", "").replace(".json", "");
-          const data = await context(key);
-          loadedTopics[topicName] = data;
-        }
+        context.keys().forEach((key) => {
+          const path = key.split("/");
+          const subject = path[1];
+          const topic = path[2].replace(".json", "");
 
-        setTopics(loadedTopics);
+          if (!loadedData[subject]) {
+            loadedData[subject] = {};
+          }
+
+          loadedData[subject][topic] = context(key);
+        });
+
+        setData(loadedData);
       }
     };
 
-    loadTopics();
+    loadData();
   }, []);
+
+  const handleSubjectSelect = (subject) => {
+    setSelectedSubject(subject);
+  };
 
   const handleTopicSelect = (topic) => {
     setSelectedTopic(topic);
+    setQuestions(data[selectedSubject][topic]);
+    setCurrentQuestion(0);
+    setSelectedOptions([]);
+    setAnswers({});
+    setScore(0);
+    setShowResults(false);
   };
 
   const handleAnswer = (selectedIndex = null) => {
-    const questions = topics[selectedTopic];
     const question = questions[currentQuestion];
     let correct = false;
 
@@ -47,6 +64,14 @@ export default function ControllingQuiz() {
       case "true_false":
       case "multiple_choice":
         correct = selectedIndex === question.correct;
+        break;
+
+      case "fill_in_the_blank":
+        if (Array.isArray(question.correct)) {
+          correct = JSON.stringify(selectedOptions) === JSON.stringify(question.correct);
+        } else {
+          correct = selectedIndex === question.correct;
+        }
         break;
 
       case "multiple_response":
@@ -77,19 +102,7 @@ export default function ControllingQuiz() {
 
     if (correct) {
       setScore((prevScore) => prevScore + 1);
-      setTimeout(() => nextQuestion(), 1500); // Автоматический переход при правильном ответе
-    }
-  };
-
-  const nextQuestion = () => {
-    const questions = topics[selectedTopic];
-    if (currentQuestion < questions.length - 1) {
-      setCurrentQuestion((prev) => prev + 1);
-      setIsCorrect(null);
-      setCorrectAnswer(null);
-      setSelectedOptions([]); // Сброс для multiple_response и sequencing
-    } else {
-      setShowResults(true);
+      setTimeout(() => nextQuestion(), 1500);
     }
   };
 
@@ -99,16 +112,27 @@ export default function ControllingQuiz() {
     );
   };
 
-  const restartQuiz = () => {
-    setSelectedTopic(null);
-    setCurrentQuestion(0);
-    setAnswers({});
-    setScore(0);
-    setShowResults(false);
-    setSelectedOptions([]);
+  const handleFillInBlank = (blankIndex, choiceIndex) => {
+    setSelectedOptions((prev) => {
+      const updated = [...prev];
+      updated[blankIndex] = choiceIndex;
+      return updated;
+    });
   };
 
-  const goBackToMenu = () => {
+  const nextQuestion = () => {
+    if (currentQuestion < questions.length - 1) {
+      setCurrentQuestion((prev) => prev + 1);
+      setIsCorrect(null);
+      setCorrectAnswer(null);
+      setSelectedOptions([]);
+    } else {
+      setShowResults(true);
+    }
+  };
+
+  const restartQuiz = () => {
+    setSelectedSubject(null);
     setSelectedTopic(null);
     setCurrentQuestion(0);
     setAnswers({});
@@ -120,6 +144,22 @@ export default function ControllingQuiz() {
   const renderQuestion = (question) => {
     switch (question.type) {
       case "true_false":
+        return question.options.map((option, index) => (
+          <Button
+            key={index}
+            onClick={() => handleAnswer(index)}
+            className={`w-full text-left justify-start p-4 ${
+              isCorrect !== null && question.correct === index
+                ? "bg-green-500"
+                : answers[currentQuestion] === index && !isCorrect
+                ? "bg-red-500"
+                : ""
+            }`}
+          >
+            {option}
+          </Button>
+        ));
+
       case "multiple_choice":
         return question.options.map((option, index) => (
           <Button
@@ -163,14 +203,15 @@ export default function ControllingQuiz() {
       case "sequencing":
         return (
           <>
-            <p className="mb-4">Wählen Sie die richtige Reihenfolge:</p>
+            <p className="mb-4">Ordnen Sie die Elemente in der richtigen Reihenfolge:</p>
             {question.options.map((option, index) => (
               <Button
                 key={index}
                 onClick={() => toggleOption(index)}
                 className={`w-full text-left justify-start p-4 ${
-                  selectedOptions.includes(index) ? "bg-blue-500 text-white" : ""
+                  selectedOptions.includes(index) ? "bg-gray-300 cursor-not-allowed" : ""
                 }`}
+                disabled={selectedOptions.includes(index)}
               >
                 {`${String.fromCharCode(65 + index)}. ${option}`}
               </Button>
@@ -189,17 +230,108 @@ export default function ControllingQuiz() {
             )}
             <Button
               onClick={() => handleAnswer()}
-              className="mt-4 bg-green-500 hover:bg-green-600"
+              disabled={selectedOptions.length !== question.options.length}
+              className={`mt-4 ${
+                selectedOptions.length === question.options.length
+                  ? "bg-green-500 hover:bg-green-600"
+                  : "bg-gray-400 cursor-not-allowed"
+              }`}
             >
               Antwort bestätigen
             </Button>
           </>
         );
 
+      case "fill_in_the_blank":
+        if (!question.options) {
+          return <p>Keine Optionen verfügbar.</p>;
+        }
+
+        if (Array.isArray(question.options) && typeof question.options[0] === "string") {
+          return (
+            <div>
+              <p className="mb-4">{question.question}</p>
+              {question.options.map((option, index) => (
+                <Button
+                  key={index}
+                  onClick={() => handleAnswer(index)}
+                  className={`w-full text-left justify-start p-4 ${
+                    isCorrect !== null && question.correct === index
+                      ? "bg-green-500"
+                      : answers[currentQuestion] === index && !isCorrect
+                      ? "bg-red-500"
+                      : ""
+                  }`}
+                >
+                  {option}
+                </Button>
+              ))}
+            </div>
+          );
+        }
+
+        if (Array.isArray(question.options) && typeof question.options[0] === "object") {
+          return (
+            <div>
+              <p className="mb-4">{question.question}</p>
+              {question.options.map((option, blankIndex) => (
+                <div key={blankIndex} className="mb-6">
+                  <p className="font-semibold">Wählen Sie das Wort für Lücke {option.blank}:</p>
+                  {option.choices.map((choice, choiceIndex) => (
+                    <Button
+                      key={choiceIndex}
+                      onClick={() => handleFillInBlank(blankIndex, choiceIndex)}
+                      className={`w-full text-left justify-start p-4 ${
+                        selectedOptions[blankIndex] === choiceIndex ? "bg-blue-500 text-white" : ""
+                      }`}
+                    >
+                      {choice}
+                    </Button>
+                  ))}
+                </div>
+              ))}
+              <Button
+                onClick={() => handleAnswer()}
+                disabled={selectedOptions.length !== question.options.length}
+                className={`mt-4 ${
+                  selectedOptions.length === question.options.length
+                    ? "bg-green-500 hover:bg-green-600"
+                    : "bg-gray-400 cursor-not-allowed"
+                }`}
+              >
+                Antwort bestätigen
+              </Button>
+            </div>
+          );
+        }
+
+        return <p>Ungültiges Fragenformat.</p>;
+
       default:
         return <p>Unbekannter Fragentyp</p>;
     }
   };
+
+  if (!selectedSubject) {
+    return (
+      <Card className="w-full max-w-2xl mx-auto p-6">
+        <CardContent>
+          <h2 className="text-2xl font-bold mb-4 text-center">Wählen Sie ein Fach</h2>
+          <div className="space-y-4">
+            {Object.keys(data).map((subject) => (
+              <Button
+                key={subject}
+                onClick={() => handleSubjectSelect(subject)}
+                className="w-full text-left justify-start p-4"
+              >
+                {subject}
+              </Button>
+            ))}
+          </div>
+        </CardContent>
+      </Card>
+    );
+  }
 
   if (!selectedTopic) {
     return (
@@ -207,7 +339,7 @@ export default function ControllingQuiz() {
         <CardContent>
           <h2 className="text-2xl font-bold mb-4 text-center">Thema wählen</h2>
           <div className="space-y-4">
-            {Object.keys(topics).map((topic) => (
+            {Object.keys(data[selectedSubject]).map((topic) => (
               <Button
                 key={topic}
                 onClick={() => handleTopicSelect(topic)}
@@ -223,7 +355,6 @@ export default function ControllingQuiz() {
   }
 
   if (showResults) {
-    const questions = topics[selectedTopic];
     return (
       <Card className="w-full max-w-2xl mx-auto p-6">
         <CardContent>
@@ -232,20 +363,19 @@ export default function ControllingQuiz() {
             Richtige Antworten: {score} von {questions.length} ({Math.round((score / questions.length) * 100)}%)
           </p>
           <Button onClick={restartQuiz} className="mt-6 bg-blue-500 hover:bg-blue-600 w-full">
-            Zurück zur Themenauswahl
+            Zurück zur Fächerwahl
           </Button>
         </CardContent>
       </Card>
     );
   }
 
-  const questions = topics[selectedTopic];
   const question = questions[currentQuestion];
 
   return (
     <Card className="w-full max-w-2xl mx-auto p-6">
       <CardContent>
-        <Button onClick={goBackToMenu} className="mb-4 bg-gray-500 hover:bg-gray-600 w-full">
+        <Button onClick={restartQuiz} className="mb-4 bg-gray-500 hover:bg-gray-600 w-full">
           Zurück
         </Button>
         <div>
