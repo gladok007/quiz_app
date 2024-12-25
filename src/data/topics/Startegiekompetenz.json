@@ -1,0 +1,487 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Welche Phase der Strategieentwicklung umfasst die Festlegung der Unternehmensvision?",
+        "options": ["Operative Planung", "Situationsanalyse", "Grundsatzstrategie", "Wettbewerbsanalyse"],
+        "correct": 2
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Eine Kostenführerschaft kann nur durch eine Differenzierung der Produkte erreicht werden.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 3,
+        "type": "multiple_response",
+        "question": "Welche der folgenden sind Beispiele für die SWOT-Analyse?",
+        "options": ["Stärken", "Schwächen", "Kundenbedürfnisse", "Chancen", "Risiken"],
+        "correct": [0, 1, 3, 4]
+    },
+    {
+        "id": 4,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Schritte des Strategieentwicklungsprozesses:",
+        "options": ["Marktanalyse", "Zieldefinition", "Grundsatzstrategie formulieren", "Operative Maßnahmen planen"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die Verhandlungsstärke der Lieferanten im 5-Forces-Modell?",
+        "options": ["Möglichkeit neuer Marktteilnehmer", "Fähigkeit, Preise und Qualität zu beeinflussen", "Risiko durch Ersatzprodukte", "Marktattraktivität"],
+        "correct": 1
+    },
+    {
+        "id": 6,
+        "type": "true_false",
+        "question": "Marktdurchdringung bedeutet, dass bestehende Produkte in neuen Märkten angeboten werden.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 7,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Rivalität innerhalb einer Branche?",
+        "options": ["Anzahl der Wettbewerber", "Kostenstruktur", "Kundenzufriedenheit", "Austrittsbarrieren"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 8,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Bestandteile der Unternehmensvision nach ihrer Hierarchie:",
+        "options": ["Mission", "Werte", "Vision", "Ziele"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "Was ist ein Merkmal von taktischen Entscheidungen?",
+        "options": ["Langfristigkeit", "Schwer korrigierbar", "Inside-out-Perspektive", "Fokus auf Wettbewerbsposition"],
+        "correct": 2
+    },
+    {
+        "id": 10,
+        "type": "true_false",
+        "question": "SWOT-Analysen betrachten sowohl interne als auch externe Faktoren.",
+        "options": ["True", "False"],
+        "correct": 0
+    },{
+        "id": 11,
+        "type": "multiple_response",
+        "question": "Welche der folgenden gehören zu den Profilierungsinstrumenten?",
+        "options": ["Standort", "Preisstrategie", "Produktentwicklung", "Kundenzufriedenheit", "Technologie"],
+        "correct": [0, 1, 4]
+    },
+    {
+        "id": 12,
+        "type": "sequencing",
+        "question": "Bringen Sie die Schritte einer Kosten-Nutzen-Analyse in die richtige Reihenfolge:",
+        "options": ["Ziele definieren", "Daten sammeln", "Ergebnisse bewerten", "Empfehlungen ableiten"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 13,
+        "type": "true_false",
+        "question": "Die Makro-Umgebung eines Unternehmens umfasst Lieferanten und Wettbewerber.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Welche Strategie wird durch den Einsatz von Cross-Selling gefördert?",
+        "options": ["Marktpenetration", "Produktentwicklung", "Marktexpansion", "Diversifikation"],
+        "correct": 0
+    },
+    {
+        "id": 15,
+        "type": "multiple_response",
+        "question": "Welche Aspekte bestimmen die Verhandlungsstärke der Käufer?",
+        "options": ["Rückwärtsintegration", "Wechselkosten", "Profitabilität der Käufer", "Kundenzufriedenheit"],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 16,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Phasen der Marktanalyse:",
+        "options": ["Marktpotenzial bestimmen", "Marktvolumen analysieren", "Marktanteil berechnen", "Wettbewerbsverhalten untersuchen"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 17,
+        "type": "true_false",
+        "question": "Eine Differenzierungsstrategie fokussiert sich primär auf niedrige Preise.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 18,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die Bedrohung durch Ersatzprodukte im 5-Forces-Modell?",
+        "options": ["Ersatzprodukte haben schlechtere Qualität", "Ersatzprodukte sind teurer", "Ersatzprodukte bieten ein besseres Preis-Leistungs-Verhältnis", "Ersatzprodukte sind schwer zugänglich"],
+        "correct": 2
+    },
+    {
+        "id": 19,
+        "type": "multiple_response",
+        "question": "Welche Eigenschaften hat eine Wettbewerbsstrategie?",
+        "options": ["Langfristig", "Kurzfristig", "Fokus auf Wettbewerbsvorteile", "Orientierung an Marktchancen"],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 20,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Schritte der SWOT-Analyse:",
+        "options": ["Interne Analyse", "Externe Analyse", "Chancen und Risiken identifizieren", "Strategische Maßnahmen ableiten"],
+        "correct": [0, 1, 2, 3]
+    },{
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Welche Komponente gehört zur Mikroumgebung eines Unternehmens?",
+        "options": ["Kulturelle Faktoren", "Technologische Entwicklungen", "Lieferanten", "Wirtschaftliche Trends"],
+        "correct": 2
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Eine Unternehmensvision sollte auf kurzfristigen Zielen basieren.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 23,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Bedrohung durch neue Marktteilnehmer?",
+        "options": ["Kapitalbedarf", "Staatliche Regulierung", "Markentreue", "Ressourcenknappheit"],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 24,
+        "type": "sequencing",
+        "question": "Bringen Sie die Elemente der Differenzierungsstrategie in die richtige Reihenfolge:",
+        "options": ["Produktdifferenzierung", "Kundenservice verbessern", "Markenbindung aufbauen", "Wettbewerbsanalyse"],
+        "correct": [3, 0, 1, 2]
+    },
+    {
+        "id": 25,
+        "type": "multiple_choice",
+        "question": "Was ist das Ziel einer Profilierungsstrategie?",
+        "options": ["Kostensenkung", "Einzigartiges Marktprofil schaffen", "Neue Märkte erschließen", "Kundenzufriedenheit maximieren"],
+        "correct": 1
+    },
+    {
+        "id": 26,
+        "type": "true_false",
+        "question": "Eine SWOT-Analyse ist ausschließlich für interne Faktoren geeignet.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 27,
+        "type": "multiple_response",
+        "question": "Welche Strategien gehören zur Marktdurchdringung?",
+        "options": ["Rabattaktionen", "Intensivierung der Werbung", "Neue Zielgruppen erreichen", "Erweiterung des Produktportfolios"],
+        "correct": [0, 1]
+    },
+    {
+        "id": 28,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Schritte der Situationsanalyse nach Porter’s Five Forces:",
+        "options": ["Rivalität analysieren", "Lieferantenmacht bewerten", "Käufermacht analysieren", "Bedrohung durch Ersatzprodukte prüfen"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 29,
+        "type": "multiple_choice",
+        "question": "Welche Entscheidung fällt in die operative Ebene der Strategiekompetenz?",
+        "options": ["Festlegen der Vision", "Marktanalyse durchführen", "Leistung optimieren", "Langfristige Ziele definieren"],
+        "correct": 2
+    },
+    {
+        "id": 30,
+        "type": "true_false",
+        "question": "Die Outside-in-Perspektive betrachtet primär interne Ressourcen eines Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 1
+    },{
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Welche Rolle spielt die Vision in der Grundsatzstrategie?",
+        "options": ["Langfristige Ziele setzen", "Marktanalyse durchführen", "Operative Maßnahmen planen", "Kundenzufriedenheit erhöhen"],
+        "correct": 0
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Ein Wettbewerbsvorteil muss dauerhaft und für den Kunden relevant sein.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 33,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen können zur Profilierung beitragen?",
+        "options": ["Kundendienst verbessern", "Innovationen einführen", "Kosten minimieren", "Werbekampagnen starten"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 34,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Ebenen der Strategiekompetenz:",
+        "options": ["Grundsatzstrategie", "Positionierungsstrategie", "Profilierungsstrategie"],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 35,
+        "type": "multiple_choice",
+        "question": "Was ist das Ziel einer Differenzierungsstrategie?",
+        "options": ["Niedrigste Kosten erzielen", "Einzigartigkeit des Produkts betonen", "Marktanteile erweitern", "Wettbewerber eliminieren"],
+        "correct": 1
+    },
+    {
+        "id": 36,
+        "type": "true_false",
+        "question": "Eine taktische Entscheidung hat langfristige Auswirkungen.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 37,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zu einer operativen Strategie?",
+        "options": ["Marketingmaßnahmen", "Produktgestaltung", "Strategische Vision", "Kundendienst"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 38,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Phasen der Umsetzung einer Wettbewerbsstrategie:",
+        "options": ["Ziele definieren", "Maßnahmen planen", "Ergebnisse bewerten", "Strategie anpassen"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Welche Methode wird in der Situationsanalyse verwendet?",
+        "options": ["SWOT-Analyse", "Visionserstellung", "Produktentwicklung", "Marktdurchdringung"],
+        "correct": 0
+    },
+    {
+        "id": 40,
+        "type": "true_false",
+        "question": "Marktexpansion bedeutet, bestehende Produkte in bestehenden Märkten zu verkaufen.",
+        "options": ["True", "False"],
+        "correct": 1
+    },{
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Welche Analyse ist Teil der Makro-Umgebung?",
+        "options": ["Kundenanalyse", "Technologische Faktoren", "Lieferantenbewertung", "Marktsegmentierung"],
+        "correct": 1
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Differenzierungsstrategien umfassen sowohl Produkte als auch Dienstleistungen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 43,
+        "type": "multiple_response",
+        "question": "Welche Faktoren unterstützen eine langfristige Kostenführerschaft?",
+        "options": ["Effiziente Prozesse", "Zentralisierte Organisation", "Hohe Qualität", "Geringe Produktionskosten"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 44,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Schritte einer Marktanalyse:",
+        "options": ["Marktpotenzial prüfen", "Wettbewerber analysieren", "Kundenverhalten verstehen", "Strategie ableiten"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 45,
+        "type": "multiple_choice",
+        "question": "Welche Entscheidung wird durch eine SWOT-Analyse unterstützt?",
+        "options": ["Operative Maßnahmen", "Taktische Entscheidungen", "Langfristige Unternehmensstrategien", "Kundenspezifische Anpassungen"],
+        "correct": 2
+    },
+    {
+        "id": 46,
+        "type": "true_false",
+        "question": "Strategische Entscheidungen sind kurzfristig und leicht korrigierbar.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 47,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zu einer erfolgreichen Positionierungsstrategie?",
+        "options": ["Zielgruppenansprache", "Wettbewerbsanalyse", "Kostenreduzierung", "Differenzierung"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 48,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Elemente des 5-Forces-Modells:",
+        "options": ["Rivalität in der Branche", "Lieferantenmacht", "Käufermacht", "Bedrohung durch Ersatzprodukte"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 49,
+        "type": "multiple_choice",
+        "question": "Was beschreibt eine Inside-out-Perspektive?",
+        "options": ["Fokus auf externe Marktchancen", "Analyse der internen Ressourcen", "Bewertung des Kundennutzens", "Ausrichtung auf Konkurrenzstrategien"],
+        "correct": 1
+    },
+    {
+        "id": 50,
+        "type": "true_false",
+        "question": "Eine Marktsegmentierung berücksichtigt nur demografische Daten.",
+        "options": ["True", "False"],
+        "correct": 1
+    },{
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Strategie zielt darauf ab, bestehende Produkte in neuen Märkten anzubieten?",
+        "options": ["Marktdurchdringung", "Marktexpansion", "Produktentwicklung", "Diversifikation"],
+        "correct": 1
+    },
+    {
+        "id": 52,
+        "type": "true_false",
+        "question": "Taktische Entscheidungen basieren auf den strategischen Entscheidungen des Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 53,
+        "type": "multiple_response",
+        "question": "Welche Faktoren fördern den Erfolg einer SWOT-Analyse?",
+        "options": ["Ehrliche Einschätzungen", "Regelmäßige Aktualisierung", "Fokus auf operative Details", "Berücksichtigung externer Trends"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 54,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Phasen der Unternehmensstrategie:",
+        "options": ["Vision entwickeln", "Marktanalyse durchführen", "Strategie formulieren", "Umsetzung planen"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 55,
+        "type": "multiple_choice",
+        "question": "Welche Komponente der SWOT-Analyse ist Teil der externen Analyse?",
+        "options": ["Stärken", "Schwächen", "Chancen", "Ressourcen"],
+        "correct": 2
+    },
+    {
+        "id": 56,
+        "type": "true_false",
+        "question": "Kostenführerschaft und Qualitätsführerschaft können nicht gleichzeitig verfolgt werden.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 57,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen helfen bei der Differenzierung im Wettbewerb?",
+        "options": ["Einzigartige Produkte", "Hochwertiger Kundenservice", "Geringe Preise", "Exklusive Marken"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 58,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Ebenen der Strategieentwicklung:",
+        "options": ["Corporate Strategy", "Business Strategy", "Functional Strategy"],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 59,
+        "type": "multiple_choice",
+        "question": "Welche Analyse ist ein Bestandteil der Makro-Umgebung?",
+        "options": ["Kundenanalyse", "SWOT-Analyse", "Politische und rechtliche Faktoren", "Wettbewerbsanalyse"],
+        "correct": 2
+    },
+    {
+        "id": 60,
+        "type": "true_false",
+        "question": "Profilierungsstrategien konzentrieren sich ausschließlich auf Kostensenkung.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Welche Methode hilft bei der Bewertung der Marktattraktivität?",
+        "options": ["SWOT-Analyse", "Marktdurchdringung", "Marktanteilsberechnung", "Diversifikation"],
+        "correct": 0
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "Strategische Entscheidungen sind schwer korrigierbar und langfristig.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "multiple_response",
+        "question": "Welche Kriterien sind entscheidend für eine erfolgreiche Marktsegmentierung?",
+        "options": ["Demografische Merkmale", "Kaufverhalten", "Geografische Lage", "Produktvielfalt"],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 64,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Elemente der Wettbewerbsanalyse nach Porter’s Five Forces:",
+        "options": ["Rivalität in der Branche", "Verhandlungsstärke der Käufer", "Bedrohung durch neue Konkurrenten", "Verhandlungsstärke der Lieferanten"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 65,
+        "type": "multiple_choice",
+        "question": "Was ist das Ziel einer Grundsatzstrategie?",
+        "options": ["Taktische Entscheidungen treffen", "Kurzfristige Ziele setzen", "Langfristige Vision definieren", "Operative Maßnahmen planen"],
+        "correct": 2
+    },
+    {
+        "id": 66,
+        "type": "true_false",
+        "question": "Wettbewerbsvorteile entstehen nur durch Kostensenkung.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 67,
+        "type": "multiple_response",
+        "question": "Welche Faktoren erhöhen die Bedrohung durch neue Marktteilnehmer?",
+        "options": ["Niedrige Eintrittsbarrieren", "Geringe Wechselkosten", "Hohe Markentreue", "Staatliche Regulierung"],
+        "correct": [0, 1]
+    },
+    {
+        "id": 68,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Schritte einer erfolgreichen Strategieumsetzung:",
+        "options": ["Ziele festlegen", "Ressourcen zuweisen", "Strategie implementieren", "Ergebnisse überwachen"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 69,
+        "type": "multiple_choice",
+        "question": "Welche Perspektive ist typisch für taktische Entscheidungen?",
+        "options": ["Outside-in", "Inside-out", "Marktorientiert", "Kundenorientiert"],
+        "correct": 1
+    },
+    {
+        "id": 70,
+        "type": "true_false",
+        "question": "SWOT-Analysen sind ausschließlich für große Unternehmen geeignet.",
+        "options": ["True", "False"],
+        "correct": 1
+    }
+]
