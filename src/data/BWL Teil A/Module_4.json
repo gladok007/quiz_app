@@ -1,0 +1,821 @@
+[
+    {
+        "id": 1,
+        "type": "fill_in_the_blank",
+        "question": "Produktion ist der Prozess der ___.",
+        "options": ["Leistungserstellung", "Leistungsbewertung", "Leistungsreduktion"],
+        "correct": 0
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Der Absatzmarkt gibt die maximale Produktionsmenge vor.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Optionen beschreibt den Leistungsbereich der Produktion korrekt?",
+        "options": ["Input und Output koordinieren", "Nur Output maximieren", "Produkte lagern"],
+        "correct": 0
+    },
+    {
+        "id": 4,
+        "type": "multiple_response",
+        "question": "Welche Teilbereiche gehören zur Produktion?",
+        "options": ["Beschaffung", "Logistik", "Lagerhaltung", "Fertigung"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 5,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Beschaffung ist die ___ des Unternehmens mit notwendigen Gütern.",
+        "options": ["Versorgung", "Optimierung", "Schließung"],
+        "correct": 0
+    },
+    {
+        "id": 6,
+        "type": "true_false",
+        "question": "Die ABC-Analyse ist eine Methode zur Klassifikation von Einsatzgütern.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 7,
+        "type": "fill_in_the_blank",
+        "question": "A-Güter machen etwa ___% des Wertes und ___% der Menge aus.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["80", "70", "60"]
+            },
+            {
+                "blank": 2,
+                "choices": ["10", "20", "30"]
+            }
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 8,
+        "type": "multiple_choice",
+        "question": "Was ist eine Make-or-Buy-Entscheidung?",
+        "options": [
+            "Die Entscheidung, ob ein Produkt selbst hergestellt oder extern bezogen wird",
+            "Die Wahl des besten Lieferanten",
+            "Die Analyse von Lagerkosten"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 9,
+        "type": "true_false",
+        "question": "B- und C-Güter sollten in der Regel selbst hergestellt werden.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 10,
+        "type": "fill_in_the_blank",
+        "question": "Die optimale Bestellmenge minimiert ___ und ___ Kosten.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["Lagerkosten", "Transportkosten", "Materialkosten"]
+            },
+            {
+                "blank": 2,
+                "choices": ["Produktionskosten", "Beschaffungskosten", "Kapitalbindungskosten"]
+            }
+        ],
+        "correct": [0, 1]
+    },{
+        "id": 11,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben gehören zur Logistik?",
+        "options": [
+            "Bereitstellung von Einsatzgütern",
+            "Verteilung fertiger Produkte an Kunden",
+            "Optimierung der Produktionsplanung",
+            "Organisation der Lagerhaltung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Die Produktionslogistik umfasst den Material- und Warenstrom vom Eingangslager bis zur Produktion.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 13,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Lagerhaltung ist die sachgerechte und wirtschaftliche ___ von Waren.",
+        "options": ["Lagerung", "Verteilung", "Entsorgung"],
+        "correct": 0
+    },
+    {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Welche Lagerform wird für große Mengen homogener Waren bevorzugt?",
+        "options": ["Hochregallager", "Palettenlager", "Dezentrallager"],
+        "correct": 0
+    },
+    {
+        "id": 15,
+        "type": "true_false",
+        "question": "Die Entsorgungslogistik befasst sich mit der Rückführung nicht verwendeter Materialien.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 16,
+        "type": "fill_in_the_blank",
+        "question": "Die strategische Produktionsplanung legt den Fokus auf ___ und ___.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["Kapazitätsbedarf", "Ressourcenverwendung", "Produktionsmenge"]
+            },
+            {
+                "blank": 2,
+                "choices": ["Produktionsstandorte", "Lieferantenanalyse", "Marktanalyse"]
+            }
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 17,
+        "type": "multiple_response",
+        "question": "Welche Typen von Produktionsverfahren gibt es?",
+        "options": [
+            "Werkstattfertigung",
+            "Fließfertigung",
+            "Gruppenfertigung",
+            "Hybridfertigung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Bei der Einzelfertigung wird ein Produkt in großen Mengen ohne Anpassungen hergestellt.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 19,
+        "type": "fill_in_the_blank",
+        "question": "Die operative Produktionsplanung bestimmt, ___ und ___ produziert wird.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["wann", "wie oft", "womit"]
+            },
+            {
+                "blank": 2,
+                "choices": ["mit welchen Maschinen", "mit welchen Lieferanten", "in welcher Qualität"]
+            }
+        ],
+        "correct": [0, 0]
+    },
+    {
+        "id": 20,
+        "type": "multiple_choice",
+        "question": "Welche Methode wird zur Terminierung der Produktion verwendet?",
+        "options": [
+            "Gantt-Diagramm",
+            "SWOT-Analyse",
+            "ABC-Analyse"
+        ],
+        "correct": 0
+    },
+        {
+            "id": 21,
+            "type": "fill_in_the_blank",
+            "question": "Ein Vorteil der Fließfertigung ist die ___.",
+            "options": ["geringere Durchlaufzeit", "höhere Flexibilität", "reduzierte Investitionskosten"],
+            "correct": 0
+        },
+        {
+            "id": 22,
+            "type": "true_false",
+            "question": "Die Werkstattfertigung eignet sich für Produkte mit hoher Standardisierung.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },
+        {
+            "id": 23,
+            "type": "multiple_response",
+            "question": "Welche Faktoren beeinflussen die Wahl des Produktionsstandorts?",
+            "options": [
+                "Kosten",
+                "Infrastruktur",
+                "Personalverfügbarkeit",
+                "Lieferantentreue"
+            ],
+            "correct": [0, 1, 2]
+        },
+        {
+            "id": 24,
+            "type": "multiple_choice",
+            "question": "Was ist das Hauptziel der Losgrößenplanung?",
+            "options": [
+                "Minimierung von Rüst- und Lagerkosten",
+                "Maximierung der Produktionsmenge",
+                "Optimierung der Lieferantenauswahl"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 25,
+            "type": "fill_in_the_blank",
+            "question": "Die ABC-Analyse wird verwendet, um Materialien nach ihrem ___ und ___ zu klassifizieren.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Wert", "Gewicht", "Volumen"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Mengenanteil", "Transportweg", "Qualität"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 26,
+            "type": "true_false",
+            "question": "Die Produktionslogistik umfasst auch die Planung der Distribution zum Kunden.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },
+        {
+            "id": 27,
+            "type": "multiple_choice",
+            "question": "Welches Ziel verfolgt die strategische Produktionsplanung?",
+            "options": [
+                "Kostenoptimierung in der Fertigung",
+                "Langfristige Ausgestaltung des Produktionsprozesses",
+                "Reduktion von Lagerbeständen"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 28,
+            "type": "multiple_response",
+            "question": "Welche Teilbereiche gehören zur operativen Produktionsplanung?",
+            "options": [
+                "Losgrößenplanung",
+                "Maschinennutzung",
+                "Produktionsstandortwahl",
+                "Terminierung"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 29,
+            "type": "fill_in_the_blank",
+            "question": "Bei der ___ Produktionsplanung wird der langfristige Kapazitätsbedarf bestimmt.",
+            "options": ["strategischen", "operativen", "taktischen"],
+            "correct": 0
+        },
+        {
+            "id": 30,
+            "type": "true_false",
+            "question": "Die Gruppenfertigung kombiniert die Vorteile von Werkstatt- und Fließfertigung.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 31,
+            "type": "multiple_choice",
+            "question": "Was ist ein Nachteil der Massenfertigung?",
+            "options": [
+                "Hohe Produktionskosten",
+                "Geringe Flexibilität",
+                "Unvorhersehbare Nachfrage"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 32,
+            "type": "multiple_response",
+            "question": "Welche Ziele verfolgt die Lagerhaltung?",
+            "options": [
+                "Sicherung der Versorgung",
+                "Minimierung der Lagerkosten",
+                "Erhöhung der Durchlaufzeiten",
+                "Optimierung der Lagerorganisation"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 33,
+            "type": "fill_in_the_blank",
+            "question": "Die optimale Bestellmenge minimiert die ___ und ___ Kosten.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Lager", "Beschaffungs", "Transport"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Kapital", "Fix", "Variable"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 34,
+            "type": "true_false",
+            "question": "Die Distributionslogistik umfasst den Warenstrom vom Hersteller zum Kunden.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 35,
+            "type": "multiple_response",
+            "question": "Welche Aufgaben erfüllt die Lagerorganisation?",
+            "options": [
+                "Warenannahme",
+                "Wareneinlagerung",
+                "Produktionsplanung",
+                "Warenprüfung"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 36,
+            "type": "fill_in_the_blank",
+            "question": "Ein Ziel der Fertigung ist die Transformation von ___ in ___.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Input", "Output", "Prozesse"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Produkte", "Materialien", "Waren"]
+                }
+            ],
+            "correct": [0, 0]
+        },
+        {
+            "id": 37,
+            "type": "true_false",
+            "question": "Ein Nachteil der Serienfertigung ist die notwendige Umrüstung der Produktionsanlagen.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 38,
+            "type": "multiple_choice",
+            "question": "Welches Verfahren minimiert die Durchlaufzeit in der Produktion?",
+            "options": [
+                "Fließfertigung",
+                "Werkstattfertigung",
+                "Gruppenfertigung"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 39,
+            "type": "multiple_response",
+            "question": "Welche Aufgaben gehören zur strategischen Produktionsplanung?",
+            "options": [
+                "Standortwahl",
+                "Festlegung der Produktionskapazität",
+                "Losgrößenplanung",
+                "Auswahl des Produktionstyps"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 40,
+            "type": "fill_in_the_blank",
+            "question": "Die Produktionsplanung umfasst die ___ und ___ von Ressourcen.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Steuerung", "Kontrolle", "Optimierung"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Einsatz", "Entsorgung", "Verwendung"]
+                }
+            ],
+            "correct": [0, 1]
+        },{
+            "id": 41,
+            "type": "true_false",
+            "question": "Die Verbrauchsorientierte Bedarfsermittlung basiert auf dem Materialverbrauch vergangener Perioden.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 42,
+            "type": "multiple_choice",
+            "question": "Welches Ziel verfolgt die programmorientierte Bedarfsermittlung?",
+            "options": [
+                "Optimierung der Lagerkosten",
+                "Planung der Produktionsmengen basierend auf Absatzprogrammen",
+                "Reduktion von Transportkosten"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 43,
+            "type": "fill_in_the_blank",
+            "question": "Die optimale Bestellmenge wird durch die Minimierung der ___ und ___ Kosten berechnet.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Lager", "Transport", "Produktions"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Bestell", "Fix", "Variablen"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 44,
+            "type": "multiple_response",
+            "question": "Welche Faktoren beeinflussen die Lieferantenauswahl?",
+            "options": [
+                "Termintreue",
+                "Qualität",
+                "Materialkosten",
+                "Flexibilität"
+            ],
+            "correct": [0, 1, 2, 3]
+        },
+        {
+            "id": 45,
+            "type": "true_false",
+            "question": "Die ABC-Analyse dient der Klassifikation von Einsatzgütern nach Menge und Wert.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 46,
+            "type": "fill_in_the_blank",
+            "question": "Die ___ beschreibt den Materialstrom vom Beschaffungsmarkt bis zur Produktion.",
+            "options": ["Beschaffungslogistik", "Distributionslogistik", "Entsorgungslogistik"],
+            "correct": 0
+        },
+        {
+            "id": 47,
+            "type": "multiple_choice",
+            "question": "Was beschreibt die Distributionslogistik?",
+            "options": [
+                "Den Warenstrom vom Hersteller zum Kunden",
+                "Den Materialstrom innerhalb der Produktion",
+                "Die Organisation des Materiallagers"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 48,
+            "type": "multiple_response",
+            "question": "Welche Kriterien werden in einer Make-or-Buy-Entscheidung berücksichtigt?",
+            "options": [
+                "Fixkosten",
+                "Variable Kosten",
+                "Transportkosten",
+                "Produktionskapazität"
+            ],
+            "correct": [0, 1, 2]
+        },
+        {
+            "id": 49,
+            "type": "true_false",
+            "question": "A-Güter sollten häufig selbst hergestellt werden, um Kosteneinsparungen zu erzielen.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 50,
+            "type": "fill_in_the_blank",
+            "question": "Die Lagerhaltung hat das Ziel, eine ausreichende ___ der Einsatzgüter sicherzustellen.",
+            "options": ["Bevorratung", "Optimierung", "Produktion"],
+            "correct": 0
+        },
+        {
+            "id": 51,
+            "type": "multiple_choice",
+            "question": "Welche Aussage trifft auf die strategische Produktionsplanung zu?",
+            "options": [
+                "Sie befasst sich mit kurzfristigen Produktionsmengen.",
+                "Sie entscheidet über langfristige Produktionsstandorte.",
+                "Sie optimiert die Maschinenbelegung."
+            ],
+            "correct": 1
+        },
+        {
+            "id": 52,
+            "type": "multiple_response",
+            "question": "Welche Entscheidungen werden im Rahmen der operativen Produktionsplanung getroffen?",
+            "options": [
+                "Maschinenbelegung",
+                "Losgrößenplanung",
+                "Standortwahl",
+                "Terminierung"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 53,
+            "type": "true_false",
+            "question": "Die Gruppenfertigung kombiniert Werkstatt- und Fließfertigung.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 54,
+            "type": "fill_in_the_blank",
+            "question": "Bei der ___ Fertigung werden Produkte in unbegrenzter Stückzahl hergestellt.",
+            "options": ["Massen", "Serien", "Sorten"],
+            "correct": 0
+        },
+        {
+            "id": 55,
+            "type": "multiple_choice",
+            "question": "Welches Ziel verfolgt die operative Produktionsplanung?",
+            "options": [
+                "Minimierung der Durchlaufzeiten",
+                "Bestimmung der langfristigen Produktionskapazität",
+                "Klassifikation von Produktionsgütern"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 56,
+            "type": "multiple_response",
+            "question": "Welche Verfahren gehören zur Produktionsplanung?",
+            "options": [
+                "Gantt-Diagramm",
+                "Losgrößenplanung",
+                "SWOT-Analyse",
+                "Terminierung"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 57,
+            "type": "true_false",
+            "question": "Die Werkstattfertigung ermöglicht eine hohe Flexibilität bei der Produktion.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 58,
+            "type": "fill_in_the_blank",
+            "question": "Die optimale Bestellmenge wird berechnet, indem ___ und ___ aufeinander abgestimmt werden.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Beschaffungskosten", "Lagerkosten", "Transportkosten"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Fixkosten", "Variable Kosten", "Produktionskosten"]
+                }
+            ],
+            "correct": [0, 0]
+        },
+        {
+            "id": 59,
+            "type": "multiple_choice",
+            "question": "Welche Aussage beschreibt die Losgrößenplanung korrekt?",
+            "options": [
+                "Sie minimiert Umrüst- und Lagerkosten.",
+                "Sie optimiert die Durchlaufzeiten.",
+                "Sie klassifiziert Produkte nach Wert."
+            ],
+            "correct": 0
+        },
+        {
+            "id": 60,
+            "type": "true_false",
+            "question": "Die Fließfertigung ermöglicht eine Reduktion der Durchlaufzeiten.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },{
+            "id": 61,
+            "type": "fill_in_the_blank",
+            "question": "Die Losgrößenplanung hat das Ziel, ___ und ___ Kosten zu minimieren.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Lager", "Rüst", "Transport"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Beschaffungs", "Produktions", "Variable"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 62,
+            "type": "true_false",
+            "question": "Die Massenfertigung eignet sich für Produkte mit sehr unterschiedlichen Designs.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },
+        {
+            "id": 63,
+            "type": "multiple_response",
+            "question": "Welche Faktoren beeinflussen die Wahl des Produktionstyps?",
+            "options": [
+                "Produktionsvolumen",
+                "Produktdesign",
+                "Verfügbarkeit von Betriebsmitteln",
+                "Kostenstruktur"
+            ],
+            "correct": [0, 1, 2]
+        },
+        {
+            "id": 64,
+            "type": "multiple_choice",
+            "question": "Was beschreibt die strategische Produktionsplanung?",
+            "options": [
+                "Kurzfristige Anpassungen der Produktionsmenge",
+                "Langfristige Entscheidungen zu Standorten und Kapazitäten",
+                "Optimierung der Maschinenbelegung"
+            ],
+            "correct": 1
+        },
+        {
+            "id": 65,
+            "type": "true_false",
+            "question": "Die Werkstattfertigung ermöglicht eine bessere Anpassung an individuelle Kundenwünsche.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 66,
+            "type": "fill_in_the_blank",
+            "question": "Die operative Produktionsplanung umfasst ___ und ___.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Losgrößenplanung", "Standortwahl", "Lieferantenauswahl"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Terminierung", "Maschinenwahl", "Produktklassifikation"]
+                }
+            ],
+            "correct": [0, 0]
+        },
+        {
+            "id": 67,
+            "type": "multiple_response",
+            "question": "Welche Entscheidungen gehören zur Fertigungssteuerung?",
+            "options": [
+                "Maschinenbelegung",
+                "Losgrößenplanung",
+                "Produktionskapazitätsplanung",
+                "Produktionszeitplanung"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 68,
+            "type": "true_false",
+            "question": "Die Fließfertigung ist besonders geeignet für Produkte mit hohem Standardisierungsgrad.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 69,
+            "type": "fill_in_the_blank",
+            "question": "Die Distributionslogistik hat das Ziel, fertige Produkte an ___ zu liefern.",
+            "options": ["Kunden", "Lieferanten", "Produktion"],
+            "correct": 0
+        },
+        {
+            "id": 70,
+            "type": "multiple_choice",
+            "question": "Was ist ein Hauptziel der Fertigung?",
+            "options": [
+                "Die Transformation von Input in Output",
+                "Die Minimierung von Transportkosten",
+                "Die Maximierung der Lagerbestände"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 71,
+            "type": "true_false",
+            "question": "Eine Make-or-Buy-Entscheidung wird basierend auf der ABC-Analyse getroffen.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 72,
+            "type": "multiple_response",
+            "question": "Welche Methoden gehören zur Bedarfsermittlung?",
+            "options": [
+                "Programmorientierte Bedarfsermittlung",
+                "Verbrauchsorientierte Bedarfsermittlung",
+                "Losgrößenplanung",
+                "Produktklassifikation"
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 73,
+            "type": "fill_in_the_blank",
+            "question": "Die optimale Bestellmenge wird berechnet, indem die ___ und ___ Kosten minimiert werden.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Lager", "Transport", "Produktion"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Fix", "Variable", "Beschaffungs"]
+                }
+            ],
+            "correct": [0, 2]
+        },
+        {
+            "id": 74,
+            "type": "multiple_choice",
+            "question": "Welche Aussage trifft auf die Losgrößenplanung zu?",
+            "options": [
+                "Sie minimiert Lager- und Rüstkosten.",
+                "Sie optimiert die Lieferantenauswahl.",
+                "Sie klassifiziert Produkte nach Menge."
+            ],
+            "correct": 0
+        },
+        {
+            "id": 75,
+            "type": "true_false",
+            "question": "Die strategische Produktionsplanung befasst sich mit kurzfristigen Entscheidungen.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },
+        {
+            "id": 76,
+            "type": "fill_in_the_blank",
+            "question": "Bei der ___ Planung wird der langfristige Kapazitätsbedarf eines Unternehmens festgelegt.",
+            "options": ["strategischen", "operativen", "taktischen"],
+            "correct": 0
+        },
+        {
+            "id": 77,
+            "type": "multiple_response",
+            "question": "Welche Aufgaben gehören zur Lagerhaltung?",
+            "options": [
+                "Warenannahme",
+                "Wareneinlagerung",
+                "Produktionsplanung",
+                "Warenprüfung"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 78,
+            "type": "multiple_choice",
+            "question": "Was ist das Hauptziel der Distributionslogistik?",
+            "options": [
+                "Die Lieferung von Produkten an Kunden",
+                "Die Lagerung von Rohstoffen",
+                "Die Optimierung der Produktionsabläufe"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 79,
+            "type": "true_false",
+            "question": "Die Werkstattfertigung führt zu kürzeren Durchlaufzeiten als die Fließfertigung.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },
+        {
+            "id": 80,
+            "type": "fill_in_the_blank",
+            "question": "Die operative Produktionsplanung bestimmt, ___ und ___ produziert wird.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["wann", "wie oft", "womit"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["mit welchen Maschinen", "in welchem Umfang", "mit welchen Ressourcen"]
+                }
+            ],
+            "correct": [0, 0]
+        }
+    
+]

@@ -125,5 +125,538 @@
         "question": "SWOT-Analyse ist ein Werkzeug zur Identifikation von Stärken, Schwächen, Chancen und Risiken.",
         "options": ["Richtig", "Falsch"],
         "correct": 0
-    }
+    },{
+            "id": 16,
+            "type": "fill_in_the_blank",
+            "question": "Entscheidungen unter Risiko basieren auf ___.",
+            "options": ["Szenarioanalyse", "Erwartungswertberechnung", "Zufallsgenerator"],
+            "correct": 1
+        },
+        {
+            "id": 17,
+            "type": "true_false",
+            "question": "Eine Entscheidung unter Unsicherheit erfordert genaue Wahrscheinlichkeiten der Umweltzustände.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },
+        {
+            "id": 18,
+            "type": "fill_in_the_blank",
+            "question": "Die Alternative mit dem ___ Erwartungswert wird gewählt, wenn Risiko vorliegt.",
+            "options": ["niedrigsten", "höchsten", "durchschnittlichen"],
+            "correct": 1
+        },
+        {
+            "id": 19,
+            "type": "multiple_choice",
+            "question": "Was beschreibt eine Entscheidung unter Sicherheit?",
+            "options": [
+                "Die Umweltzustände sind bekannt.",
+                "Die Alternativen haben keine Konsequenzen.",
+                "Die Entscheidung basiert auf Szenarien."
+            ],
+            "correct": 0
+        },
+        {
+            "id": 20,
+            "type": "true_false",
+            "question": "Das strategische Planungsniveau hat einen Zeithorizont von mehr als fünf Jahren.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 21,
+            "type": "fill_in_the_blank",
+            "question": "Die operative Planung umfasst kurzfristige Maßnahmen und hat einen Zeithorizont von ___.",
+            "options": ["einem Jahr oder weniger", "zwei bis fünf Jahren", "mehr als fünf Jahren"],
+            "correct": 0
+        },
+        {
+            "id": 22,
+            "type": "fill_in_the_blank",
+            "question": "Die ___ Organisation beschreibt die Struktur der Aufgabenverteilung, während die ___ Organisation den Ablauf regelt.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["operative", "strategische", "Aufbau-"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Ablauf-", "interne", "externe"]
+                }
+            ],
+            "correct": [2, 0]
+        },
+        {
+            "id": 23,
+            "type": "true_false",
+            "question": "Eine Matrixorganisation kombiniert Elemente der funktionalen und divisionalen Organisation.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 24,
+            "type": "fill_in_the_blank",
+            "question": "Ein Vorteil interner Personalbeschaffung ist ___.",
+            "options": ["höhere Kosten", "kürzere Einarbeitungszeit", "geringere Motivation"],
+            "correct": 1
+        },
+        {
+            "id": 25,
+            "type": "true_false",
+            "question": "Personalentwicklung zielt darauf ab, die Qualifikation der Mitarbeiter zu steigern und langfristig an das Unternehmen zu binden.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 26,
+            "type": "multiple_response",
+            "question": "Welche Kennzahlen gehören zum finanziellen Controlling?",
+            "options": ["Umsatz", "Gewinn", "Mitarbeiterzufriedenheit", "Produktionszeit"],
+            "correct": [0, 1]
+        },
+        {
+            "id": 27,
+            "type": "true_false",
+            "question": "Strategisches Controlling konzentriert sich ausschließlich auf kurzfristige Zielsetzungen.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },
+        {
+            "id": 28,
+            "type": "fill_in_the_blank",
+            "question": "Eine SWOT-Analyse identifiziert ___ und ___ eines Unternehmens.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Stärken", "Chancen", "Schwächen"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Risiken", "Markttrends", "Produktion"]
+                }
+            ],
+            "correct": [0, 0]
+        },
+        {
+            "id": 29,
+            "type": "true_false",
+            "question": "Die TOWS-Matrix hilft Unternehmen, Strategien basierend auf einer SWOT-Analyse zu entwickeln.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 30,
+            "type": "fill_in_the_blank",
+            "question": "Eine ___ Führungsspanne beschreibt eine große Anzahl von Mitarbeitern pro Führungskraft, während eine ___ Führungsspanne weniger direkte Mitarbeiter bedeutet.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["breite", "schmale", "mittlere"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["breite", "schmale", "mittlere"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 31,
+            "type": "true_false",
+            "question": "Eine divisional Organisation ist besonders geeignet für Unternehmen mit internationalen Geschäftseinheiten.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 32,
+            "type": "fill_in_the_blank",
+            "question": "Die Corporate Governance hat das Ziel, ___ und ___ im Unternehmen sicherzustellen.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Transparenz", "Effizienz", "Profit"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Machtverteilung", "Kundenzufriedenheit", "Ressourcenschonung"]
+                }
+            ],
+            "correct": [0, 0]
+        },
+        {
+            "id": 33,
+            "type": "multiple_response",
+            "question": "Welche Ziele sind typisch für die Personalentwicklung?",
+            "options": [
+                "Steigerung der Mitarbeiterleistung",
+                "Verbesserung der Motivation",
+                "Kostenreduktion",
+                "Bindung der Mitarbeiter an das Unternehmen"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 34,
+            "type": "true_false",
+            "question": "Das Ziel der Personalwirtschaft ist die Anpassung der Personalkapazität an betriebliche Anforderungen.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 35,
+            "type": "fill_in_the_blank",
+            "question": "Ein ökologisches Ziel eines Unternehmens könnte die ___ von Ressourcen sein.",
+            "options": ["Schonung", "Maximierung", "Nutzung"],
+            "correct": 0
+        },
+        {
+            "id": 36,
+            "type": "multiple_choice",
+            "question": "Welche Phase gehört nicht zur SWOT-Analyse?",
+            "options": [
+                "Stärken identifizieren",
+                "Schwächen analysieren",
+                "Produktion optimieren"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 37,
+            "type": "fill_in_the_blank",
+            "question": "Ein Vorteil externer Personalbeschaffung ist die ___ von neuen Perspektiven.",
+            "options": ["Integration", "Vermeidung", "Minimierung"],
+            "correct": 0
+        },
+        {
+            "id": 38,
+            "type": "true_false",
+            "question": "Die Ansoff-Matrix hilft bei der Entwicklung von Marktdurchdringungsstrategien.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 39,
+            "type": "fill_in_the_blank",
+            "question": "Im Rahmen des Controllings werden ___ und ___ analysiert, um Abweichungen zu erkennen.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Umsatz", "Zufriedenheit", "Produktion"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Gewinn", "Kosten", "Ressourcen"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 40,
+            "type": "multiple_response",
+            "question": "Welche der folgenden Punkte gehören zur TOWS-Matrix?",
+            "options": ["Stärken", "Schwächen", "Chancen", "Risiken"],
+            "correct": [0, 1, 2, 3]
+        },
+        {
+            "id": 41,
+            "type": "true_false",
+            "question": "Eine SWOT-Analyse berücksichtigt ausschließlich interne Faktoren eines Unternehmens.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },{
+            "id": 42,
+            "type": "fill_in_the_blank",
+            "question": "Ein Unternehmen plant eine Expansion und führt eine SWOT-Analyse durch. Welche der folgenden Optionen gehört zu den Stärken (S) und welche zu den Schwächen (W)?",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Technologische Innovationsfähigkeit", "Hohe Produktionskosten", "Geringe Markenbekanntheit"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Technologische Innovationsfähigkeit", "Hohe Produktionskosten", "Geringe Markenbekanntheit"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 43,
+            "type": "true_false",
+            "question": "Eine breite Führungsspanne fördert eine flache Hierarchie und kurze Entscheidungswege.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 44,
+            "type": "multiple_choice",
+            "question": "Welche Ziele gehören zu ökologischen Unternehmenszielen?",
+            "options": ["Ressourcenschonung", "Gewinnmaximierung", "Mitarbeiterzufriedenheit"],
+            "correct": 0
+        },
+        {
+            "id": 45,
+            "type": "fill_in_the_blank",
+            "question": "Ein Unternehmen setzt sich das Ziel, den Umsatz um 20 % zu steigern. Dies entspricht der SMART-Komponente ___.",
+            "options": ["Spezifisch", "Messbar", "Erreichbar"],
+            "correct": 1
+        },
+        {
+            "id": 46,
+            "type": "true_false",
+            "question": "Eine schmale Führungsspanne bedeutet, dass eine Führungskraft viele Mitarbeiter direkt beaufsichtigt.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },
+        {
+            "id": 47,
+            "type": "multiple_response",
+            "question": "Welche Aspekte werden im Rahmen der Personalentwicklung gefördert?",
+            "options": ["Schulungen", "Mentoring", "Karriereplanung", "Kostensenkung"],
+            "correct": [0, 1, 2]
+        },
+        {
+            "id": 48,
+            "type": "fill_in_the_blank",
+            "question": "Die Zielbildung ist der ___ Schritt im Phasenschema der Planung.",
+            "options": ["erste", "letzte", "mittlere"],
+            "correct": 0
+        },
+        {
+            "id": 49,
+            "type": "true_false",
+            "question": "Ein Unternehmen kann immer alle seine Ziele gleichzeitig erreichen.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },
+        {
+            "id": 50,
+            "type": "multiple_choice",
+            "question": "Welche Methode wird häufig für Entscheidungen unter Risiko verwendet?",
+            "options": ["Szenarioanalyse", "Erwartungswertberechnung", "Zufallsgenerator"],
+            "correct": 1
+        },{
+            "id": 51,
+            "type": "fill_in_the_blank",
+            "question": "Die Corporate Governance sorgt für ___ und ___ im Unternehmen.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Transparenz", "Machtverteilung", "Effizienz"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Verantwortung", "Ressourcenschonung", "Stabilität"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 52,
+            "type": "true_false",
+            "question": "Personalentwicklung umfasst auch die Planung individueller Karrieren.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 53,
+            "type": "multiple_response",
+            "question": "Welche der folgenden Maßnahmen gehören zur internen Personalbeschaffung?",
+            "options": ["Versetzungen", "Beförderungen", "Stellenanzeigen", "Karriereplanung"],
+            "correct": [0, 1]
+        },
+        {
+            "id": 54,
+            "type": "fill_in_the_blank",
+            "question": "Das Ziel der operativen Planung ist die ___ und ___ von Prozessen.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Optimierung", "Durchführung", "Delegation"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Kontrolle", "Überwachung", "Organisation"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 55,
+            "type": "true_false",
+            "question": "Strategisches Controlling konzentriert sich auf langfristige Ziele eines Unternehmens.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 56,
+            "type": "multiple_choice",
+            "question": "Welche Option beschreibt eine Entscheidung unter Unsicherheit?",
+            "options": [
+                "Es gibt genaue Wahrscheinlichkeiten für alle Umweltzustände.",
+                "Die Alternativen sind vollständig bekannt.",
+                "Die Umweltzustände sind unvorhersehbar."
+            ],
+            "correct": 2
+        },
+        {
+            "id": 57,
+            "type": "fill_in_the_blank",
+            "question": "Im Controlling spielen ___ und ___ eine wichtige Rolle bei der Analyse von Abweichungen.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Kosten", "Ressourcen", "Umsatz"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Gewinn", "Zeit", "Qualität"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 58,
+            "type": "true_false",
+            "question": "Die SWOT-Analyse betrachtet sowohl interne als auch externe Faktoren eines Unternehmens.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 59,
+            "type": "multiple_response",
+            "question": "Welche Strategien gehören zur Ansoff-Matrix?",
+            "options": ["Marktdurchdringung", "Diversifikation", "Produktentwicklung", "Kostenkontrolle"],
+            "correct": [0, 1, 2]
+        },
+        {
+            "id": 60,
+            "type": "fill_in_the_blank",
+            "question": "Ein Vorteil externer Personalbeschaffung ist die ___ neuer Ideen und Perspektiven.",
+            "options": ["Integration", "Reduktion", "Kontrolle"],
+            "correct": 0
+        },{
+            "id": 61,
+            "type": "true_false",
+            "question": "Eine flache Hierarchie fördert schnellere Entscheidungsprozesse.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 62,
+            "type": "fill_in_the_blank",
+            "question": "Ein langfristiges Ziel eines Unternehmens wird auch als ___ bezeichnet.",
+            "options": ["Oberziel", "Teilziel", "Nebenaufgabe"],
+            "correct": 0
+        },
+        {
+            "id": 63,
+            "type": "multiple_choice",
+            "question": "Welche Kennzahlen gehören zum sozialen Controlling?",
+            "options": ["Mitarbeiterzufriedenheit", "Umsatz", "Kundentreue"],
+            "correct": 0
+        },
+        {
+            "id": 64,
+            "type": "multiple_response",
+            "question": "Welche Aufgaben fallen typischerweise unter die Unternehmensführung?",
+            "options": [
+                "Zielsetzung",
+                "Ressourcenplanung",
+                "Maschinenwartung",
+                "Controlling"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 65,
+            "type": "fill_in_the_blank",
+            "question": "Die Personalwirtschaft zielt auf die ___ und ___ der Mitarbeiter ab.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["Motivation", "Integration", "Reduktion"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Entwicklung", "Kontrolle", "Motivation"]
+                }
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 66,
+            "type": "true_false",
+            "question": "Die TOWS-Matrix entwickelt strategische Optionen basierend auf einer SWOT-Analyse.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 67,
+            "type": "fill_in_the_blank",
+            "question": "Die operative Planung fokussiert sich auf ___ und ___ Maßnahmen.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["kurzfristige", "langfristige", "strategische"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["konkrete", "allgemeine", "flexible"]
+                }
+            ],
+            "correct": [0, 0]
+        },
+        {
+            "id": 68,
+            "type": "multiple_response",
+            "question": "Welche der folgenden Maßnahmen zählen zur Förderung im Rahmen der Personalentwicklung?",
+            "options": ["Mentoring", "Coaching", "Schulung", "Zielkontrolle"],
+            "correct": [0, 1, 2]
+        },
+        {
+            "id": 69,
+            "type": "true_false",
+            "question": "Die Matrixorganisation kombiniert funktionale und divisionale Strukturen.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 70,
+            "type": "fill_in_the_blank",
+            "question": "Ein Beispiel für ein SMART-Ziel ist die ___ von Verkaufszahlen um 10 % innerhalb eines Jahres.",
+            "options": ["Steigerung", "Reduktion", "Überprüfung"],
+            "correct": 0
+        },
+        {
+            "id": 71,
+            "type": "true_false",
+            "question": "Die SWOT-Analyse dient ausschließlich der Analyse interner Schwächen eines Unternehmens.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 1
+        },
+        {
+            "id": 72,
+            "type": "multiple_choice",
+            "question": "Welche Phase gehört zur Planung?",
+            "options": ["Zielsetzung", "Produktion", "Kontrolle"],
+            "correct": 0
+        },
+        {
+            "id": 73,
+            "type": "fill_in_the_blank",
+            "question": "Strategisches Controlling analysiert ___ Ziele und überwacht langfristige ___.",
+            "options": [
+                {
+                    "blank": 1,
+                    "choices": ["operative", "strategische", "kurzfristige"]
+                },
+                {
+                    "blank": 2,
+                    "choices": ["Prozesse", "Ergebnisse", "Pläne"]
+                }
+            ],
+            "correct": [1, 0]
+        }
+    
 ]
