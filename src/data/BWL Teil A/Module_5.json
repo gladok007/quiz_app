@@ -1,0 +1,883 @@
+[
+    {
+        "id": 1,
+        "type": "fill_in_the_blank",
+        "question": "Marketing ist die konsequente Ausrichtung eines Unternehmens an den ___.",
+        "options": ["Bedürfnissen des Marktes", "internen Zielen", "Kapazitäten"],
+        "correct": 0
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Im Preiswettbewerb stehen heterogene Produkte im Mittelpunkt.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Welche Phase gehört zur Marketing-Planung?",
+        "options": [
+            "Marktanalyse",
+            "Produktentwicklung",
+            "Absatzplanung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 4,
+        "type": "multiple_response",
+        "question": "Welche Arten des Wettbewerbs gibt es?",
+        "options": [
+            "Preiswettbewerb",
+            "Produktwettbewerb",
+            "Distributionswettbewerb",
+            "Marktwettbewerb"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 5,
+        "type": "fill_in_the_blank",
+        "question": "Im Preiswettbewerb erfolgt der Wettbewerb vor allem über den ___.",
+        "options": ["Preis", "Service", "Produktdesign"],
+        "correct": 0
+    },
+    {
+        "id": 6,
+        "type": "true_false",
+        "question": "Die Produktentwicklung ist eine Strategie der Ansoff-Matrix.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Marktsegmentierung?",
+        "options": [
+            "Differenzierte Ansprache homogener Zielgruppen",
+            "Optimierung der internen Ressourcen",
+            "Steigerung der Lagerbestände"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 8,
+        "type": "fill_in_the_blank",
+        "question": "Das SOR-Modell erklärt das Kaufverhalten durch Stimulus, ___ und Response.",
+        "options": ["Organismus", "Ergebnis", "Strategie"],
+        "correct": 0
+    },
+    {
+        "id": 9,
+        "type": "true_false",
+        "question": "Aktivierende Prozesse im SOR-Modell umfassen Emotionen, Motivation und Anreize.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 10,
+        "type": "fill_in_the_blank",
+        "question": "Die Preis-Absatz-Funktion zeigt, dass ein höherer Preis zu ___ führt.",
+        "options": ["weniger Käufern", "mehr Käufern", "konstanten Käufern"],
+        "correct": 0
+    },
+    {
+        "id": 11,
+        "type": "multiple_response",
+        "question": "Welche Informationen werden in der Marktanalyse betrachtet?",
+        "options": [
+            "Ressourcenverfügbarkeit",
+            "Kundendaten",
+            "Marktbedingungen",
+            "Verhaltensmuster von Konkurrenten"
+        ],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Die Marktsegmentierung dient dazu, Kunden in homogene Gruppen aufzuteilen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 13,
+        "type": "fill_in_the_blank",
+        "question": "Ein Ziel der Preisführerschaft ist die ___ der Kosten.",
+        "options": ["Reduktion", "Erhöhung", "Optimierung"],
+        "correct": 0
+    },
+    {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Welche Strategie der Ansoff-Matrix wird gewählt, um bestehende Produkte in neue Märkte zu bringen?",
+        "options": [
+            "Marktentwicklung",
+            "Marktdurchdringung",
+            "Diversifikation"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 15,
+        "type": "true_false",
+        "question": "Die Differenzierungsstrategie zielt darauf ab, Produkte durch einzigartige Merkmale abzuheben.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 16,
+        "type": "fill_in_the_blank",
+        "question": "Die 4 P’s des Marketing-Mix umfassen Produkt, Preis, Kommunikation und ___.",
+        "options": ["Distribution", "Werbung", "Verkauf"],
+        "correct": 0
+    },
+    {
+        "id": 17,
+        "type": "multiple_response",
+        "question": "Welche Instrumente gehören zur Preispolitik?",
+        "options": [
+            "Preisdifferenzierung",
+            "Rabattaktionen",
+            "Produktdesign",
+            "Markenpolitik"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Direkte Absatzwege umfassen Werksverkäufe und eigene Läden.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 19,
+        "type": "fill_in_the_blank",
+        "question": "Die Kommunikationspolitik vermittelt ein ___ der Produkte an die Öffentlichkeit.",
+        "options": ["gewünschtes Image", "Preis-Leistungs-Verhältnis", "Verfügbarkeit"],
+        "correct": 0
+    },
+    {
+        "id": 20,
+        "type": "multiple_choice",
+        "question": "Welche Maßnahme gehört zur klassischen Werbung?",
+        "options": [
+            "Werbeträger wie Radio oder Internet",
+            "Schulungen für Händler",
+            "Optimierung der Transportwege"
+        ],
+        "correct": 0
+    },{
+        "id": 21,
+        "type": "true_false",
+        "question": "Die Marktstrategie definiert, wie ein Unternehmen seine Produkte in den Marktsegmenten positioniert.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 22,
+        "type": "fill_in_the_blank",
+        "question": "Die Marktentwicklung zielt auf die Erschließung neuer ___.",
+        "options": ["Märkte", "Produkte", "Strategien"],
+        "correct": 0
+    },
+    {
+        "id": 23,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Diversifikationsstrategie?",
+        "options": [
+            "Marktdurchdringung",
+            "Neue Produkte in neuen Märkten",
+            "Kostensenkung durch Preisführerschaft"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 24,
+        "type": "multiple_response",
+        "question": "Welche Informationen werden für die Marktanalyse benötigt?",
+        "options": [
+            "Produktionskapazitäten",
+            "Reaktionen der Kunden auf Marketingmaßnahmen",
+            "Rechtsvorschriften und wirtschaftliche Rahmenbedingungen",
+            "Verfügbarkeit von Ressourcen"
+        ],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 25,
+        "type": "true_false",
+        "question": "Ein hoher Preis führt laut der Preis-Absatz-Funktion zu einer geringeren Verkaufsmenge.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 26,
+        "type": "fill_in_the_blank",
+        "question": "Kontrollierte Stimuli umfassen Produkt, Preis, Kommunikation und ___.",
+        "options": ["Distribution", "Innovation", "Design"],
+        "correct": 0
+    },
+    {
+        "id": 27,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Maßnahmen gehört zur Absatzförderung?",
+        "options": [
+            "Produktproben",
+            "Optimierung der Produktionskosten",
+            "Ausbau der Lieferkette"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 28,
+        "type": "true_false",
+        "question": "Der Marketing-Mix umfasst die strategische Ausgestaltung von Produkt, Preis, Kommunikation und Distribution.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 29,
+        "type": "fill_in_the_blank",
+        "question": "Die Preisführerschaft erfordert die ___ der Produktions- und Distributionskosten.",
+        "options": ["Reduktion", "Erhöhung", "Analyse"],
+        "correct": 0
+    },
+    {
+        "id": 30,
+        "type": "multiple_response",
+        "question": "Welche Kriterien können zur Marktsegmentierung verwendet werden?",
+        "options": [
+            "Demografische Merkmale",
+            "Verhaltensmerkmale",
+            "Geografische Merkmale",
+            "Sozio-ökonomische Merkmale"
+        ],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 31,
+        "type": "true_false",
+        "question": "Die Differenzierung zielt darauf ab, höhere Preise durch einzigartige Produkteigenschaften zu rechtfertigen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 32,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Marktsegmentierung ist die Bildung homogener ___.",
+        "options": ["Käufergruppen", "Preisklassen", "Absatzkanäle"],
+        "correct": 0
+    },
+    {
+        "id": 33,
+        "type": "multiple_choice",
+        "question": "Was wird bei der Marktanalyse untersucht?",
+        "options": [
+            "Marktteilnehmer wie Kunden und Wettbewerber",
+            "Qualität der Produktionsanlagen",
+            "Optimierung der Lieferkette"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 34,
+        "type": "multiple_response",
+        "question": "Welche internen Informationen werden für die Marktanalyse verwendet?",
+        "options": [
+            "Ressourcenverfügbarkeit",
+            "Produktionskapazitäten",
+            "Kosten und Erlöse",
+            "Gewinnmarge"
+        ],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 35,
+        "type": "true_false",
+        "question": "Primäre Informationsquellen umfassen die Erhebung neuer Daten wie Umfragen oder Beobachtungen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 36,
+        "type": "fill_in_the_blank",
+        "question": "Bei der Generischen Strategie der ___ steht der niedrigste Preis im Vordergrund.",
+        "options": ["Preisführerschaft", "Differenzierung", "Fokussierung"],
+        "correct": 0
+    },
+    {
+        "id": 37,
+        "type": "multiple_choice",
+        "question": "Welche Form der Generischen Strategie nutzt die Konzentration auf eine Nische?",
+        "options": [
+            "Fokussierung",
+            "Differenzierung",
+            "Preisführerschaft"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 38,
+        "type": "multiple_response",
+        "question": "Welche Kommunikationsmaßnahmen gehören zum Marketing-Mix?",
+        "options": [
+            "Werbung",
+            "Sponsoring",
+            "Verkaufsförderung",
+            "Preisgestaltung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 39,
+        "type": "true_false",
+        "question": "Multi-Channel-Strategien kombinieren mehrere Absatzwege wie Online- und Direktverkauf.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 40,
+        "type": "fill_in_the_blank",
+        "question": "Die Distributionspolitik legt fest, wie Produkte zum ___ gelangen.",
+        "options": ["Kunden", "Markt", "Hersteller"],
+        "correct": 0
+    },{
+        "id": 41,
+        "type": "true_false",
+        "question": "Eine Marktdurchdringung zielt darauf ab, mehr Verkäufe bei bestehenden Kunden zu erzielen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 42,
+        "type": "fill_in_the_blank",
+        "question": "Ein Ziel der Differenzierung ist die Schaffung einzigartiger ___.",
+        "options": ["Produkteigenschaften", "Preispolitiken", "Distributionswege"],
+        "correct": 0
+    },
+    {
+        "id": 43,
+        "type": "multiple_choice",
+        "question": "Welche Strategie der Generischen Strategien konzentriert sich auf Kostensenkungen?",
+        "options": [
+            "Preisführerschaft",
+            "Differenzierung",
+            "Fokussierung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 44,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Kaufentscheidung laut SOR-Modell?",
+        "options": [
+            "Emotionen",
+            "Preisgestaltung",
+            "Werbung",
+            "Verfügbarkeit von Produkten"
+        ],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 45,
+        "type": "true_false",
+        "question": "Die Marktstrategie legt fest, welche Segmente durch welche Produkte bedient werden.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 46,
+        "type": "fill_in_the_blank",
+        "question": "Die Preis-Absatz-Funktion zeigt, dass ein höheres Budget für Werbung die ___ erhöht.",
+        "options": ["Verkaufsmenge", "Produktionskapazität", "Gewinnmarge"],
+        "correct": 0
+    },
+    {
+        "id": 47,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe hat die Kommunikationspolitik?",
+        "options": [
+            "Vermittlung eines positiven Images",
+            "Optimierung der Lagerkosten",
+            "Steuerung der Produktionsprozesse"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 48,
+        "type": "multiple_response",
+        "question": "Welche Distributionswege gehören zur direkten Distribution?",
+        "options": [
+            "Werksverkauf",
+            "Online-Handel",
+            "Großhandel",
+            "Eigene Filialen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 49,
+        "type": "true_false",
+        "question": "Die Produktpolitik umfasst Design, Qualität und Zusatzleistungen eines Produkts.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 50,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ Informationen einer Marktanalyse beziehen sich auf Kunden und Wettbewerber.",
+        "options": ["externen", "internen", "direkten"],
+        "correct": 0
+    },
+    {
+        "id": 51,
+        "type": "true_false",
+        "question": "Rahmenbedingungen wie gesellschaftliche Trends gehören zu den externen Informationen einer Marktanalyse.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 52,
+        "type": "fill_in_the_blank",
+        "question": "Bei der Produktentwicklung geht es darum, neue Produkte für bestehende ___ zu schaffen.",
+        "options": ["Märkte", "Kunden", "Strategien"],
+        "correct": 0
+    },
+    {
+        "id": 53,
+        "type": "multiple_choice",
+        "question": "Welche Maßnahme zählt zur Kommunikationspolitik?",
+        "options": [
+            "Werbung über Social Media",
+            "Reduktion der Produktionskosten",
+            "Analyse von Kundendaten"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 54,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben erfüllt der Marketing-Mix?",
+        "options": [
+            "Strategische Ausrichtung des Produkts",
+            "Festlegung der Preispolitik",
+            "Optimierung der Distributionswege",
+            "Entwicklung von Werbekampagnen"
+        ],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 55,
+        "type": "true_false",
+        "question": "Eine Marktanalyse ist die Grundlage für die Entwicklung von Marketingstrategien.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 56,
+        "type": "fill_in_the_blank",
+        "question": "Bei der Marktsegmentierung wird der Markt in homogene ___ aufgeteilt.",
+        "options": ["Käufergruppen", "Preisklassen", "Absatzwege"],
+        "correct": 0
+    },
+    {
+        "id": 57,
+        "type": "multiple_choice",
+        "question": "Welche Art der Werbung ist ein Beispiel für klassische Werbung?",
+        "options": [
+            "Fernsehspots",
+            "Product Placement",
+            "Influencer-Marketing"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 58,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen gehören zur Verkaufsförderung?",
+        "options": [
+            "Produktproben",
+            "Schaufensteraktionen",
+            "Rabattaktionen",
+            "Verbesserung der Produktionskapazität"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 59,
+        "type": "true_false",
+        "question": "Die Ansoff-Matrix wird zur Definition von Wachstumsstrategien verwendet.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 60,
+        "type": "fill_in_the_blank",
+        "question": "Die Strategie der Fokussierung konzentriert sich auf spezifische ___.",
+        "options": ["Zielgruppen", "Produkte", "Preisklassen"],
+        "correct": 0
+    },{
+        "id": 61,
+        "type": "true_false",
+        "question": "Die Marktentwicklung ist eine Strategie der Ansoff-Matrix.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 62,
+        "type": "fill_in_the_blank",
+        "question": "Die Generische Strategie der ___ zielt auf Nischenmärkte ab.",
+        "options": ["Fokussierung", "Preisführerschaft", "Diversifikation"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "multiple_choice",
+        "question": "Welche Strategie wird eingesetzt, um neue Märkte mit bestehenden Produkten zu erschließen?",
+        "options": [
+            "Marktentwicklung",
+            "Produktentwicklung",
+            "Marktdurchdringung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 64,
+        "type": "multiple_response",
+        "question": "Welche Faktoren zählen zu unkontrollierten Stimuli im SOR-Modell?",
+        "options": [
+            "Gesellschaftliche Trends",
+            "Soziales Umfeld",
+            "Werbung",
+            "Preisgestaltung"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 65,
+        "type": "true_false",
+        "question": "Die Preis-Absatz-Funktion zeigt eine negative Beziehung zwischen Preis und Verkaufsmenge.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 66,
+        "type": "fill_in_the_blank",
+        "question": "Der Marketing-Mix kombiniert Produkt-, Preis-, ___ und Distributionspolitik.",
+        "options": ["Kommunikations", "Kosten", "Fertigungs"],
+        "correct": 0
+    },
+    {
+        "id": 67,
+        "type": "multiple_choice",
+        "question": "Was ist das Ziel der Distributionspolitik?",
+        "options": [
+            "Effiziente Lieferung von Produkten an Kunden",
+            "Verbesserung der Produktionskapazität",
+            "Analyse von Marktsegmenten"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 68,
+        "type": "multiple_response",
+        "question": "Welche Instrumente gehören zur Preispolitik?",
+        "options": [
+            "Preisdifferenzierung",
+            "Rabatte",
+            "Festlegung der Gewinnmargen",
+            "Reduktion der Werbekosten"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 69,
+        "type": "true_false",
+        "question": "Die Differenzierung ermöglicht höhere Preise durch einzigartige Merkmale.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 70,
+        "type": "fill_in_the_blank",
+        "question": "Das SOR-Modell erklärt das Kaufverhalten durch Stimulus, Organismus und ___.",
+        "options": ["Response", "Emotionen", "Strategien"],
+        "correct": 0
+    },
+    {
+        "id": 71,
+        "type": "true_false",
+        "question": "Die Marktanalyse umfasst die Untersuchung interner und externer Informationen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 72,
+        "type": "multiple_choice",
+        "question": "Welche Phase der Marketingplanung legt die Marktsegmente fest?",
+        "options": [
+            "Marktsegmentierung",
+            "Marktanalyse",
+            "Marketing-Mix"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 73,
+        "type": "multiple_response",
+        "question": "Welche Informationen sind Teil der internen Marktanalyse?",
+        "options": [
+            "Produktionskapazitäten",
+            "Kundendaten",
+            "Gewinnmargen",
+            "Rechtsvorschriften"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 74,
+        "type": "fill_in_the_blank",
+        "question": "Die Ansoff-Matrix hilft bei der Planung von Strategien zur ___.",
+        "options": ["Markterschließung", "Kundensegmentierung", "Produktanalyse"],
+        "correct": 0
+    },
+    {
+        "id": 75,
+        "type": "true_false",
+        "question": "Primäre Informationsquellen umfassen bestehende Unternehmensdaten.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 76,
+        "type": "multiple_choice",
+        "question": "Welche Strategie nutzt bestehende Produkte in neuen Märkten?",
+        "options": [
+            "Marktentwicklung",
+            "Diversifikation",
+            "Marktdurchdringung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 77,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen gehören zur Distributionspolitik?",
+        "options": [
+            "Transport",
+            "Lagerung",
+            "Werbung",
+            "Lieferwege"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 78,
+        "type": "fill_in_the_blank",
+        "question": "Bei der Generischen Strategie der Preisführerschaft steht der ___ Preis im Mittelpunkt.",
+        "options": ["niedrigste", "höchste", "variable"],
+        "correct": 0
+    },
+    {
+        "id": 79,
+        "type": "true_false",
+        "question": "Eine Multi-Channel-Strategie kombiniert direkte und indirekte Absatzwege.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 80,
+        "type": "fill_in_the_blank",
+        "question": "Die Marktsegmentierung basiert oft auf demografischen und ___ Kriterien.",
+        "options": ["verhaltensbezogenen", "finanziellen", "operativen"],
+        "correct": 0
+    },
+    {
+        "id": 81,
+        "type": "multiple_choice",
+        "question": "Was beschreibt eine direkte Absatzstrategie?",
+        "options": [
+            "Eigene Filialen",
+            "Großhandel",
+            "Handelsketten"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 82,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen gehören zur Kommunikationspolitik?",
+        "options": [
+            "Sponsoring",
+            "Messen",
+            "Social Media Werbung",
+            "Preisgestaltung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 83,
+        "type": "true_false",
+        "question": "Werbung verschiebt die Preis-Absatz-Funktion und ermöglicht höhere Preise bei gleichem Absatz.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 84,
+        "type": "fill_in_the_blank",
+        "question": "Die Produktpolitik umfasst Design, Qualität und ___.",
+        "options": ["Zusatzleistungen", "Distributionswege", "Kundendaten"],
+        "correct": 0
+    },
+    {
+        "id": 85,
+        "type": "multiple_choice",
+        "question": "Welche Strategie wird gewählt, um neue Produkte in bestehenden Märkten zu platzieren?",
+        "options": [
+            "Produktentwicklung",
+            "Diversifikation",
+            "Marktdurchdringung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 86,
+        "type": "multiple_response",
+        "question": "Welche Kriterien gehören zu unkontrollierten Stimuli im SOR-Modell?",
+        "options": [
+            "Soziales Umfeld",
+            "Gesellschaftliche Trends",
+            "Marktanalysen",
+            "Preisgestaltung"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 87,
+        "type": "true_false",
+        "question": "Die Fokussierungsstrategie zielt auf spezifische Zielgruppen und Nischenmärkte.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 88,
+        "type": "fill_in_the_blank",
+        "question": "Bei der Differenzierungsstrategie liegt der Fokus auf einzigartigen ___.",
+        "options": ["Produkten", "Preisen", "Distributionswegen"],
+        "correct": 0
+    },
+    {
+        "id": 89,
+        "type": "multiple_choice",
+        "question": "Welche Maßnahme unterstützt die Absatzförderung?",
+        "options": [
+            "Produktproben",
+            "Kostenreduktion",
+            "Produktionsoptimierung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 90,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Preispolitik?",
+        "options": [
+            "Wettbewerbsdruck",
+            "Produktionskosten",
+            "Marktnachfrage",
+            "Distributionswege"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 91,
+        "type": "true_false",
+        "question": "Die Ansoff-Matrix hilft, bestehende Produkte besser zu positionieren.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 92,
+        "type": "fill_in_the_blank",
+        "question": "Die Kommunikationspolitik zielt darauf ab, ein positives ___ zu vermitteln.",
+        "options": ["Image", "Preismodell", "Verkaufserlebnis"],
+        "correct": 0
+    },
+    {
+        "id": 93,
+        "type": "multiple_choice",
+        "question": "Welche Strategie wird gewählt, um bestehende Märkte mit neuen Produkten zu erschließen?",
+        "options": [
+            "Produktentwicklung",
+            "Marktentwicklung",
+            "Diversifikation"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 94,
+        "type": "multiple_response",
+        "question": "Welche Phasen gehören zur Marketing-Planung?",
+        "options": [
+            "Marktanalyse",
+            "Marktsegmentierung",
+            "Marketing-Mix",
+            "Logistikoptimierung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 95,
+        "type": "true_false",
+        "question": "Die Generischen Strategien umfassen Preisführerschaft, Differenzierung und Fokussierung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 96,
+        "type": "fill_in_the_blank",
+        "question": "Marktsegmentierung hilft bei der Bildung homogener ___.",
+        "options": ["Zielgruppen", "Produkte", "Preismodelle"],
+        "correct": 0
+    },
+    {
+        "id": 97,
+        "type": "multiple_choice",
+        "question": "Welche Strategie konzentriert sich auf eine spezifische Zielgruppe?",
+        "options": [
+            "Fokussierung",
+            "Preisführerschaft",
+            "Marktdurchdringung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 98,
+        "type": "multiple_response",
+        "question": "Welche Quellen gehören zu sekundären Informationsquellen?",
+        "options": [
+            "Unternehmensdaten",
+            "Öffentliche Statistiken",
+            "Kundenbefragungen",
+            "Social Media Likes"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 99,
+        "type": "true_false",
+        "question": "Die Marktanalyse umfasst auch die Untersuchung von Konkurrenten.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 100,
+        "type": "fill_in_the_blank",
+        "question": "Die Preisführerschaft erfordert die Reduktion der ___.",
+        "options": ["Kosten", "Produkte", "Segmentierung"],
+        "correct": 0
+    }
+]

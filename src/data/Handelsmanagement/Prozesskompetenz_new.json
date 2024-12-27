@@ -1,0 +1,211 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Was versteht man unter der „Prozesskompetenz“ im Handelsmanagement?",
+        "options": ["Die Fähigkeit, Produkte zu optimieren", "Die Fähigkeit, komplexe Prozesse zu planen und umzusetzen", "Die Fähigkeit, finanzielle Ressourcen zu sichern", "Die Fähigkeit, Kundenbeziehungen zu pflegen"],
+        "correct": 1
+    },
+    {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Welche Dimension des Sortiments beschreibt die Anzahl der angebotenen Warenarten?",
+        "options": ["Sortimentstiefe", "Sortimentsumfang", "Sortimentsbreite", "Sortimentsstrategie"],
+        "correct": 2
+    },
+    {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Was ist ein typisches Merkmal eines Discounters?",
+        "options": ["Tiefes Sortiment und hoher Preis", "Begrenztes Sortiment und niedriger Preis", "Breites Sortiment und hoher Servicegrad", "Hoher Preis und limitierte Verkaufsfläche"],
+        "correct": 1
+    },
+    {
+        "id": 4,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben hat die Logistikkompetenz im Handelsmanagement?",
+        "options": ["Diebstahlsicherung", "Optimierung der Lieferkette", "Sicherstellung von Geschwindigkeit und Vollständigkeit", "Verbesserung der Kundenbindung"],
+        "correct": [1, 2]
+    },
+    {
+        "id": 5,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet Omni-Channel-Retailing?",
+        "options": ["Bessere Integration der Vertriebskanäle", "Höhere Flexibilität für Kunden", "Geringere Kosten für die Logistik", "Verbesserte Kundenerfahrung"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 6,
+        "type": "true_false",
+        "question": "Ein breites Sortiment bedeutet viele Artikel innerhalb einer Kategorie.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 7,
+        "type": "true_false",
+        "question": "Omni-Channel-Retailing bedeutet, dass alle Vertriebskanäle unabhängig voneinander arbeiten.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 8,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Phasen des Kaufprozesses in die richtige Reihenfolge:",
+        "options": ["Bedürfnisse konkretisieren", "Interesse wecken", "Kaufen und verwenden"],
+        "correct": [1, 0, 2]
+    },
+    {
+        "id": 9,
+        "type": "sequencing",
+        "question": "Bringen Sie die Phasen der digitalen Transformation im Handel in die richtige Reihenfolge:",
+        "options": ["Analyse der Kundenanforderungen", "Implementierung von Technologien", "Entwicklung einer Digitalstrategie", "Evaluierung der Ergebnisse"],
+        "correct": [0, 2, 1, 3]
+    },
+    {
+        "id": 10,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Sortimentsstrategie?",
+        "options": ["Zielgruppe", "Konkurrenzanalyse", "Markttrends", "Logistikkosten"],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Welche Vertriebsform passt zu großen Verkaufsflächen und breitem Sortiment?",
+        "options": ["Supermärkte", "SB-Warenhäuser", "Discounter", "Online-Handel"],
+        "correct": 1
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "SB-Warenhäuser haben in der Regel eine Verkaufsfläche unter 1.000 m².",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 13,
+        "type": "multiple_response",
+        "question": "Welche Schritte gehören zur Multi-Channel-Integration?",
+        "options": ["Strategieentwicklung", "Technologieimplementierung", "Marktforschung", "Kundenkommunikation"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 14,
+        "type": "sequencing",
+        "question": "Stellen Sie die Schritte der Sortimentsgestaltung in die richtige Reihenfolge:",
+        "options": ["Zielgruppenanalyse", "Auswahl der Produkte", "Festlegung von Breite und Tiefe", "Marktanalyse"],
+        "correct": [3, 0, 2, 1]
+    },
+    {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die Wertkette von Porter?",
+        "options": ["Den Kundenservice eines Unternehmens", "Die primären und unterstützenden Aktivitäten eines Unternehmens", "Die Finanzierungsstrategie eines Unternehmens", "Die Marketingmaßnahmen eines Unternehmens"],
+        "correct": 1
+    },{
+        "id": 16,
+        "type": "multiple_choice",
+        "question": "Welche Epochen des Handels wurden durch die Industrialisierung geprägt?",
+        "options": ["Traditioneller Handel", "Digitaler Handel", "Stationärer Handel", "Großhandelsstrukturen"],
+        "correct": 3
+    },
+    {
+        "id": 17,
+        "type": "multiple_response",
+        "question": "Welche Herausforderungen bringt die digitale Transformation im Handel?",
+        "options": ["Schnellere Innovationszyklen", "Höhere IT-Kosten", "Geringere Kundenbindung", "Konkurrenz durch Online-Plattformen"],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Ein tiefes Sortiment bietet viele unterschiedliche Artikel innerhalb einer Kategorie.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 19,
+        "type": "true_false",
+        "question": "Die Prozesskompetenz umfasst die Fähigkeit, strategische Ziele in operative Prozesse umzusetzen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 20,
+        "type": "sequencing",
+        "question": "Bringen Sie die Phasen der Einführung eines neuen Produktes in die richtige Reihenfolge:",
+        "options": ["Marktforschung", "Produktion", "Markteinführung", "Feedbackanalyse"],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 21,
+        "type": "multiple_response",
+        "question": "Welche Kompetenzen sind in der Prozesskette besonders wichtig?",
+        "options": ["Verkaufs- und Kundenkompetenz", "Logistik- und Beschaffungskompetenz", "Controlling- und Finanzkompetenz", "Strategische und Informationskompetenz"],
+        "correct": [1, 2, 3]
+    },
+    {
+        "id": 22,
+        "type": "multiple_choice",
+        "question": "Welche Aufgaben hat der Einzelhandel in der Wertschöpfungskette?",
+        "options": ["Nur den Warenfluss koordinieren", "Sortimente erstellen, Waren verkaufen und Kundenservice bieten", "Logistische Prozesse übernehmen", "Die Wettbewerbsanalyse durchführen"],
+        "correct": 1
+    },
+    {
+        "id": 23,
+        "type": "multiple_response",
+        "question": "Welche Prozesse gehören zu den Kernaktivitäten in der Wertkette?",
+        "options": ["Eingangslogistik", "Beschaffung", "Produktion", "Marketing und Vertrieb"],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 24,
+        "type": "true_false",
+        "question": "Omni-Channel-Retailing ist eine Strategie, bei der alle Vertriebskanäle unabhängig voneinander arbeiten.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 25,
+        "type": "sequencing",
+        "question": "Ordnen Sie die Phasen der Wertschöpfungskette in die richtige Reihenfolge:",
+        "options": ["Produktion", "Eingangslogistik", "Ausgangslogistik", "Marketing und Vertrieb"],
+        "correct": [1, 0, 2, 3]
+    },
+    {
+        "id": 26,
+        "type": "multiple_choice",
+        "question": "Welche Kompetenzen werden benötigt, um Kundenloyalität zu fördern?",
+        "options": ["Logistik- und Controllingkompetenz", "Verkaufs- und Kundenkompetenz", "Finanzierungs- und Prozesskompetenz", "Informations- und Beschaffungskompetenz"],
+        "correct": 1
+    },
+    {
+        "id": 27,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Kanalwahl im Handel?",
+        "options": ["Produktart", "Kundenpräferenzen", "Marktbedingungen", "Sortimentspolitik"],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 28,
+        "type": "true_false",
+        "question": "Die Industrialisierung hatte keine Auswirkungen auf die Entwicklung des Handels.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 29,
+        "type": "true_false",
+        "question": "Die Logistikkompetenz fokussiert sich nur auf die Reduktion von Kosten.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 30,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet ein breites Sortiment?",
+        "options": ["Höhere Kundenbindung", "Mehr Auswahlmöglichkeiten für Kunden", "Geringere Lagerkosten", "Fokus auf Nischenmärkte"],
+        "correct": [0, 1]
+    }
+]
