@@ -1,0 +1,935 @@
+[
+    {
+        "id": 1,
+        "type": "fill_in_the_blank",
+        "question": "Die Personalwirtschaft betrachtet Personal sowohl als Leistungsfaktor als auch als ___.",
+        "options": ["Kostenfaktor", "Motivationsfaktor", "Ressourcenfaktor"],
+        "correct": 0
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Das Ziel der Personalwirtschaft ist die Anpassung der Personalkapazität an betriebliche Anforderungen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Maßnahmen gehört zur Personalbedarfsplanung?",
+        "options": [
+            "Ermittlung des zukünftigen Bedarfs an Mitarbeitern",
+            "Planung von Weiterbildungskursen",
+            "Analyse der Unternehmensstrategie"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 4,
+        "type": "multiple_response",
+        "question": "Welche Schritte gehören zur Personalbedarfsplanung?",
+        "options": [
+            "Geplante Abgänge analysieren",
+            "Voraussichtlichen Bestand ermitteln",
+            "Geplante Zugänge berücksichtigen",
+            "Marktstrategie entwickeln"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 5,
+        "type": "fill_in_the_blank",
+        "question": "Bei der Wahl des Personalbeschaffungsweges unterscheidet man zwischen ___ und ___ Beschaffung.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["interner", "externer", "direkter"]
+            },
+            {
+                "blank": 2,
+                "choices": ["externer", "indirekter", "mittlerer"]
+            }
+        ],
+        "correct": [0, 0]
+    },
+    {
+        "id": 6,
+        "type": "true_false",
+        "question": "Die Personalwerbung kann mittelbar oder unmittelbar erfolgen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "Welche Zielgruppe wird bei der mittelbaren Personalwerbung angesprochen?",
+        "options": [
+            "Alle potenziellen Bewerber",
+            "Konkret gesuchte Fachkräfte",
+            "Aktuelle Mitarbeiter"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 8,
+        "type": "multiple_response",
+        "question": "Welche Schritte gehören zur Personalauswahl?",
+        "options": [
+            "Sichtung von Bewerbungen",
+            "Durchführung von Tests",
+            "Anpassung von Arbeitsverträgen",
+            "Assessment Center für Führungskräfte"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 9,
+        "type": "fill_in_the_blank",
+        "question": "Personalabbau ohne Änderung von Arbeitsverträgen umfasst den ___ von Überstunden und den Einstellungsstopp.",
+        "options": ["Abbau", "Aufbau", "Verzicht"],
+        "correct": 0
+    },
+    {
+        "id": 10,
+        "type": "true_false",
+        "question": "Kurzarbeit ist ein Instrument des Personalabbaus mit Änderung von Arbeitsverträgen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Welche Maßnahme gehört zum Personalabbau mit Vertragsbeendigung?",
+        "options": [
+            "Aufhebungsvertrag",
+            "Kurzarbeit",
+            "Interne Versetzung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 12,
+        "type": "multiple_response",
+        "question": "Welche Bereiche gehören zur Personaleinsatzplanung?",
+        "options": [
+            "Arbeitsorganisation",
+            "Arbeitszeitplanung",
+            "Entwicklung von Motivationsstrategien",
+            "Ausstattung mit Arbeitsmitteln"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 13,
+        "type": "fill_in_the_blank",
+        "question": "Die Personalentwicklung umfasst ___ (fachliche Fähigkeiten) und Förderung (persönliche Entwicklung).",
+        "options": ["Bildung", "Motivation", "Führung"],
+        "correct": 0
+    },
+    {
+        "id": 14,
+        "type": "true_false",
+        "question": "Ein monetäres Motivationsinstrument ist die Erfolgsbeteiligung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "Welche Entlohnungsform basiert auf der erbrachten Leistung?",
+        "options": [
+            "Akkordlohn",
+            "Zeitlohn",
+            "Prämienlohn"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 16,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben hat die Kontrolle im Unternehmen?",
+        "options": [
+            "Dokumentation von Informationen",
+            "Sammeln von Erfahrung",
+            "Planung von Weiterbildungsmaßnahmen",
+            "Disziplinierung der Mitarbeiter"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 17,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der wertorientierten Unternehmensführung ist eine höhere Verzinsung des eingesetzten Kapitals im Vergleich zu einer ___.",
+        "options": ["Alternativanlage", "Investition", "Rendite"],
+        "correct": 0
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Der Economic Value Added (EVA) berücksichtigt die Kosten des eingesetzten Kapitals.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 19,
+        "type": "multiple_choice",
+        "question": "Welche Komponente wird bei der Berechnung des EVA NICHT berücksichtigt?",
+        "options": [
+            "Betriebsnotwendiges Kapital",
+            "WACC",
+            "Umsatzwachstum"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 20,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben gehören zum Controlling?",
+        "options": [
+            "Koordination des Planungsprozesses",
+            "Steuerung des Verhaltens der Mitarbeiter",
+            "Durchführung von Soll-Ist-Vergleichen",
+            "Einstellung von Personal"
+        ],
+        "correct": [0, 1, 2]
+    },{
+        "id": 21,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Personaleinsatzplanung ist die optimale Zuordnung des Personals zu den ___.",
+        "options": ["Aufgaben", "Ressourcen", "Kostenstellen"],
+        "correct": 0
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Die Personalwerbung hat das Ziel, potenzielle Bewerber zur Bewerbung zu motivieren.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 23,
+        "type": "multiple_choice",
+        "question": "Welche Maßnahme gehört zur unmittelbaren Personalwerbung?",
+        "options": [
+            "Erstellung eines allgemeinen Unternehmensprofils",
+            "Veröffentlichung eines Stellenangebots",
+            "Förderung der Markenbekanntheit"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 24,
+        "type": "multiple_response",
+        "question": "Welche Instrumente gehören zum Personalabbau ohne Vertragsänderung?",
+        "options": [
+            "Abbau von Überstunden",
+            "Einstellungsstopp",
+            "Kurzarbeit",
+            "Beendigung befristeter Verträge"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 25,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ beschäftigt sich mit der Einführung neuer Mitarbeiter und der Organisation von Arbeitsplätzen.",
+        "options": ["Arbeitsaufnahme", "Arbeitsorganisation", "Personalentwicklung"],
+        "correct": 0
+    },
+    {
+        "id": 26,
+        "type": "true_false",
+        "question": "Bildung und Förderung sind die zwei Hauptbereiche der Personalentwicklung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 27,
+        "type": "multiple_choice",
+        "question": "Welches Motivationsinstrument zählt zu den nicht monetären?",
+        "options": [
+            "Erfolgsbeteiligung",
+            "Arbeitsinhalte",
+            "Lohnerhöhung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 28,
+        "type": "multiple_response",
+        "question": "Welche Entlohnungsformen gibt es in der Personalführung?",
+        "options": [
+            "Zeitlohn",
+            "Akkordlohn",
+            "Prämienlohn",
+            "Variabellohn"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 29,
+        "type": "fill_in_the_blank",
+        "question": "___ beschreibt die Strukturierung der Aufgaben und Prozesse in einem Unternehmen.",
+        "options": ["Organisation", "Planung", "Kontrolle"],
+        "correct": 0
+    },
+    {
+        "id": 30,
+        "type": "true_false",
+        "question": "Die Kontrolle dient der Überwachung und Dokumentation des unternehmerischen Handelns.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe hat die Kontrolle im Unternehmen?",
+        "options": [
+            "Überwachung der Zielerreichung",
+            "Entwicklung neuer Produkte",
+            "Analyse von Marktchancen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 32,
+        "type": "multiple_response",
+        "question": "Welche Schritte umfasst die Personalbedarfsplanung?",
+        "options": [
+            "Geplante Abgänge analysieren",
+            "Voraussichtlichen Bestand berechnen",
+            "Strategien zur Kostenreduktion entwickeln",
+            "Vergleich von Bestand und Bedarf durchführen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 33,
+        "type": "fill_in_the_blank",
+        "question": "___ umfasst die Sammlung und Verarbeitung von Daten zur Unterstützung des Managements.",
+        "options": ["Controlling", "Planung", "Zielbildung"],
+        "correct": 0
+    },
+    {
+        "id": 34,
+        "type": "true_false",
+        "question": "Das Ziel des Controllings ist die Unterstützung des Managements bei der Zielsetzung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 35,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl zeigt den wirtschaftlichen Mehrwert eines Unternehmens?",
+        "options": [
+            "Economic Value Added (EVA)",
+            "Return on Investment (ROI)",
+            "Net Profit Margin"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 36,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben hat das Controlling?",
+        "options": [
+            "Planungsprozess koordinieren",
+            "Ziele setzen",
+            "Daten bereitstellen",
+            "Soll-Ist-Vergleiche durchführen"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 37,
+        "type": "fill_in_the_blank",
+        "question": "Die Kennzahl EVA berücksichtigt das ___ und die Kapitalkosten.",
+        "options": ["betriebsnotwendige Kapital", "Umsatzwachstum", "Gewinn"],
+        "correct": 0
+    },
+    {
+        "id": 38,
+        "type": "true_false",
+        "question": "Ein positiver EVA zeigt, dass das Unternehmen Wert geschaffen hat.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Welche Komponente wird bei der Berechnung des EVA verwendet?",
+        "options": [
+            "Net Operating Profit After Taxes (NOPAT)",
+            "Return on Assets (ROA)",
+            "Current Ratio"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 40,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zur wertorientierten Unternehmensführung?",
+        "options": [
+            "Höhere Rendite als Alternativanlage",
+            "Effiziente Nutzung von Kapital",
+            "Maximierung des Umsatzes",
+            "Berücksichtigung der Kapitalkosten"
+        ],
+        "correct": [0, 1, 3]
+    }, {
+        "id": 41,
+        "type": "fill_in_the_blank",
+        "question": "Personalführung beschäftigt sich mit den ___ der Mitarbeiter, um deren Zufriedenheit zu steigern.",
+        "options": ["Bedürfnissen", "Kosten", "Zielen"],
+        "correct": 0
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Das Ziel der Personalentwicklung ist die Verbesserung der beruflichen Fähigkeiten der Mitarbeiter.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 43,
+        "type": "multiple_choice",
+        "question": "Welche Form der Entlohnung basiert auf einem fixen Gehalt und variablen Prämien?",
+        "options": [
+            "Prämienlohn",
+            "Akkordlohn",
+            "Zeitlohn"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 44,
+        "type": "multiple_response",
+        "question": "Welche Bereiche umfasst die Personaleinsatzplanung?",
+        "options": [
+            "Arbeitsorganisation",
+            "Arbeitsplatzgestaltung",
+            "Festlegung von Arbeitszeiten",
+            "Entwicklung von Weiterbildungskursen"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 45,
+        "type": "fill_in_the_blank",
+        "question": "Die ___-Analyse identifiziert Stärken, Schwächen, Chancen und Risiken eines Unternehmens.",
+        "options": ["SWOT", "BCG", "STEP"],
+        "correct": 0
+    },
+    {
+        "id": 46,
+        "type": "true_false",
+        "question": "Die Kontrolle dient dazu, Abweichungen zwischen Soll- und Ist-Werten zu erkennen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 47,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe hat die Kontrolle im Rahmen der Unternehmensführung?",
+        "options": [
+            "Sammeln von Erfahrungswerten",
+            "Festlegung von Strategien",
+            "Steigerung der Mitarbeitermotivation"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 48,
+        "type": "multiple_response",
+        "question": "Welche Schritte umfasst die Personalauswahl?",
+        "options": [
+            "Sichtung von Bewerbungen",
+            "Assessment Center",
+            "Planung von Weiterbildungen",
+            "Vorstellungsgespräche"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 49,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ ist ein Instrument der Personalentwicklung zur individuellen Förderung der Mitarbeiter.",
+        "options": ["Karriereplanung", "Arbeitszeitgestaltung", "Erfolgsbeteiligung"],
+        "correct": 0
+    },
+    {
+        "id": 50,
+        "type": "true_false",
+        "question": "Ein Assessment Center wird häufig für die Auswahl von Führungskräften eingesetzt.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Maßnahme gehört zur nicht monetären Motivation?",
+        "options": [
+            "Betriebsklima",
+            "Lohnerhöhung",
+            "Erfolgsbeteiligung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 52,
+        "type": "multiple_response",
+        "question": "Welche Instrumente gehören zur Personalwerbung?",
+        "options": [
+            "Mittelbare Werbung",
+            "Unmittelbare Werbung",
+            "Kurzarbeit",
+            "Einstellungsstopp"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 53,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der ___ Unternehmensführung ist die Maximierung des Shareholder Value.",
+        "options": ["wertorientierten", "strategischen", "operativen"],
+        "correct": 0
+    },
+    {
+        "id": 54,
+        "type": "true_false",
+        "question": "Wertorientierte Unternehmensführung berücksichtigt die Kapitalkosten in Entscheidungsprozessen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 55,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl wird zur Bewertung der Unternehmensleistung genutzt?",
+        "options": [
+            "Economic Value Added (EVA)",
+            "Cash Conversion Cycle (CCC)",
+            "Break-Even-Point (BEP)"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 56,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben erfüllt das Controlling?",
+        "options": [
+            "Planungskoordination",
+            "Datenanalyse",
+            "Zielsetzung",
+            "Kontrollprozessgestaltung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 57,
+        "type": "fill_in_the_blank",
+        "question": "Die EVA-Berechnung umfasst NOPAT, WACC und das ___.",
+        "options": ["betriebsnotwendige Kapital", "Umsatzwachstum", "Risikokapital"],
+        "correct": 0
+    },
+    {
+        "id": 58,
+        "type": "true_false",
+        "question": "Ein negativer EVA bedeutet, dass das Unternehmen keine Rendite oberhalb der Kapitalkosten erwirtschaftet.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 59,
+        "type": "multiple_choice",
+        "question": "Welche Komponente wird in der EVA-Formel nicht verwendet?",
+        "options": [
+            "Return on Assets",
+            "Net Operating Profit After Taxes",
+            "Weighted Average Cost of Capital"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 60,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben fallen in den Bereich der wertorientierten Unternehmensführung?",
+        "options": [
+            "Kapital effizient nutzen",
+            "Kapitalkosten berücksichtigen",
+            "Maximierung des Umsatzes",
+            "Steigerung der Kapitalrendite"
+        ],
+        "correct": [0, 1, 3]
+    },
+        {
+            "id": 61,
+            "type": "fill_in_the_blank",
+            "question": "Die Personalentwicklung umfasst ___ und Förderung, um die Fähigkeiten der Mitarbeiter zu verbessern.",
+            "options": ["Bildung", "Motivation", "Leistungsbewertung"],
+            "correct": 0
+        },
+        {
+            "id": 62,
+            "type": "true_false",
+            "question": "Der Zeitlohn eignet sich für Tätigkeiten, bei denen die Leistung nicht direkt messbar ist.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 63,
+            "type": "multiple_choice",
+            "question": "Welche Aufgabe gehört NICHT zur Personaleinsatzplanung?",
+            "options": [
+                "Einführung neuer Mitarbeiter",
+                "Planung von Arbeitszeiten",
+                "Entwicklung von Weiterbildungsprogrammen"
+            ],
+            "correct": 2
+        },
+        {
+            "id": 64,
+            "type": "multiple_response",
+            "question": "Welche Instrumente der Kontrolle werden in Unternehmen eingesetzt?",
+            "options": [
+                "Plan-Ist-Vergleich",
+                "Abweichungsanalysen",
+                "Kostennutzen-Analyse",
+                "Zufriedenheitsumfragen"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 65,
+            "type": "fill_in_the_blank",
+            "question": "Die ___ ermöglicht die Bewertung der Unternehmensleistung unter Berücksichtigung der Kapitalkosten.",
+            "options": ["EVA", "ROI", "BCG-Matrix"],
+            "correct": 0
+        },
+        {
+            "id": 66,
+            "type": "true_false",
+            "question": "Ein hoher EVA zeigt, dass das Unternehmen überdurchschnittliche Gewinne erzielt.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 67,
+            "type": "multiple_choice",
+            "question": "Welche Komponente ist Teil der EVA-Berechnung?",
+            "options": [
+                "NOPAT",
+                "Marktanteil",
+                "Liquiditätskennzahl"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 68,
+            "type": "multiple_response",
+            "question": "Welche Maßnahmen gehören zur Personalbeschaffung?",
+            "options": [
+                "Erstellung eines Anforderungsprofils",
+                "Veröffentlichung einer Stellenausschreibung",
+                "Durchführung von Vorstellungsgesprächen",
+                "Optimierung der Arbeitsorganisation"
+            ],
+            "correct": [0, 1, 2]
+        },
+        {
+            "id": 69,
+            "type": "fill_in_the_blank",
+            "question": "Die ___ regelt, wie Arbeitsprozesse organisiert und koordiniert werden.",
+            "options": ["Ablauforganisation", "Aufbauorganisation", "Personalentwicklung"],
+            "correct": 0
+        },
+        {
+            "id": 70,
+            "type": "true_false",
+            "question": "Mittelbare Personalwerbung richtet sich an eine breite Zielgruppe, nicht an eine spezifische Stelle.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 71,
+            "type": "multiple_choice",
+            "question": "Welche Maßnahme gehört zur Beendigung von Arbeitsverträgen?",
+            "options": [
+                "Aufhebungsvertrag",
+                "Kurzarbeit",
+                "Interne Versetzung"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 72,
+            "type": "multiple_response",
+            "question": "Welche Arten von Motivation gibt es im Unternehmen?",
+            "options": [
+                "Monetär",
+                "Nicht monetär",
+                "Individuell",
+                "Strategisch"
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 73,
+            "type": "fill_in_the_blank",
+            "question": "Ein ___ ist ein Instrument der Kontrolle, das Planabweichungen dokumentiert.",
+            "options": ["Plan-Ist-Vergleich", "Performance-Review", "Zielanalyse"],
+            "correct": 0
+        },
+        {
+            "id": 74,
+            "type": "true_false",
+            "question": "Der Akkordlohn basiert auf der erbrachten Leistung.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 75,
+            "type": "multiple_choice",
+            "question": "Welche Art der Unternehmensführung fokussiert auf die Maximierung des Shareholder Value?",
+            "options": [
+                "Wertorientierte Unternehmensführung",
+                "Operative Planung",
+                "Strategisches Controlling"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 76,
+            "type": "multiple_response",
+            "question": "Welche Ziele verfolgt die Personalwirtschaft?",
+            "options": [
+                "Anpassung der Personalkapazität",
+                "Steigerung der Mitarbeitermotivation",
+                "Entwicklung neuer Produkte",
+                "Reduzierung von Arbeitsverträgen"
+            ],
+            "correct": [0, 1]
+        },
+        {
+            "id": 77,
+            "type": "fill_in_the_blank",
+            "question": "Die ___-Regel hilft, klare und erreichbare Ziele für Unternehmen zu setzen.",
+            "options": ["SMART", "BCG", "STEP"],
+            "correct": 0
+        },
+        {
+            "id": 78,
+            "type": "true_false",
+            "question": "Die Personalwerbung unterscheidet zwischen mittelbarer und unmittelbarer Ansprache.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 79,
+            "type": "multiple_choice",
+            "question": "Welche Kennzahl berücksichtigt die Kapitalkosten bei der Bewertung von Unternehmen?",
+            "options": [
+                "Economic Value Added (EVA)",
+                "Return on Investment (ROI)",
+                "Liquiditätsquote"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 80,
+            "type": "multiple_response",
+            "question": "Welche Schritte umfasst der Personalbeschaffungsprozess?",
+            "options": [
+                "Erstellung von Anforderungsprofilen",
+                "Veröffentlichung von Stellenanzeigen",
+                "Planung von Team-Workshops",
+                "Durchführung von Bewerbergesprächen"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 81,
+            "type": "fill_in_the_blank",
+            "question": "Die ___ beschreibt die Struktur des Unternehmens und legt Zuständigkeiten fest.",
+            "options": ["Aufbauorganisation", "Ablauforganisation", "Personalführung"],
+            "correct": 0
+        },
+        {
+            "id": 82,
+            "type": "true_false",
+            "question": "Ein Aufhebungsvertrag kann Teil des Personalabbaus sein.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 83,
+            "type": "multiple_choice",
+            "question": "Welche Aufgabe gehört zur Kontrolle im Unternehmen?",
+            "options": [
+                "Ermittlung von Abweichungen",
+                "Entwicklung von Weiterbildungsprogrammen",
+                "Steigerung der Produktqualität"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 84,
+            "type": "multiple_response",
+            "question": "Welche nicht monetären Motivationsinstrumente gibt es?",
+            "options": [
+                "Betriebsklima",
+                "Führungsstil",
+                "Lohnerhöhung",
+                "Karrierechancen"
+            ],
+            "correct": [0, 1, 3]
+        },
+        {
+            "id": 85,
+            "type": "fill_in_the_blank",
+            "question": "Die ___ regelt die Reihenfolge der Aufgabenbearbeitung im Unternehmen.",
+            "options": ["Ablauforganisation", "Aufbauorganisation", "Personalplanung"],
+            "correct": 0
+        },
+        {
+            "id": 86,
+            "type": "true_false",
+            "question": "Die SMART-Regel hilft bei der Definition von Unternehmenszielen.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 87,
+            "type": "multiple_choice",
+            "question": "Welche Funktion hat die Kontrolle im Unternehmen?",
+            "options": [
+                "Disziplinierung der Mitarbeiter",
+                "Entwicklung von Strategien",
+                "Optimierung von Arbeitszeiten"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 88,
+            "type": "multiple_response",
+            "question": "Welche Schritte gehören zur Personaleinsatzplanung?",
+            "options": [
+                "Festlegung von Arbeitszeiten",
+                "Gestaltung von Arbeitsplätzen",
+                "Planung von Schichten",
+                "Steuerung des Verhaltens"
+            ],
+            "correct": [0, 1, 2]
+        },
+        {
+            "id": 89,
+            "type": "fill_in_the_blank",
+            "question": "Die ___ dient dazu, die Zufriedenheit und Leistung der Mitarbeiter zu steigern.",
+            "options": ["Personalführung", "Arbeitsorganisation", "Motivationsanalyse"],
+            "correct": 0
+        },
+        {
+            "id": 90,
+            "type": "true_false",
+            "question": "Monetäre Motivation umfasst Gehaltserhöhungen und Boni.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 91,
+            "type": "multiple_choice",
+            "question": "Welche Aufgabe gehört zur wertorientierten Unternehmensführung?",
+            "options": [
+                "Erhöhung der Kapitalrendite",
+                "Steigerung der Mitarbeitermotivation",
+                "Optimierung der Produktionsprozesse"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 92,
+            "type": "multiple_response",
+            "question": "Welche Aspekte umfasst die wertorientierte Unternehmensführung?",
+            "options": [
+                "Rendite auf eingesetztes Kapital",
+                "Kostenreduzierung",
+                "Berücksichtigung der Kapitalkosten",
+                "Maximierung des Marktanteils"
+            ],
+            "correct": [0, 2]
+        },
+        {
+            "id": 93,
+            "type": "fill_in_the_blank",
+            "question": "Die ___ analysiert den Soll-Ist-Zustand und identifiziert Abweichungen.",
+            "options": ["Kontrolle", "Planung", "Organisation"],
+            "correct": 0
+        },
+        {
+            "id": 94,
+            "type": "true_false",
+            "question": "Eine hohe Führungsspanne bedeutet viele direkt unterstellte Mitarbeiter.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 95,
+            "type": "multiple_choice",
+            "question": "Welche Rolle hat das Controlling im Unternehmen?",
+            "options": [
+                "Bereitstellung von Daten",
+                "Steuerung der Abteilungen",
+                "Reduzierung der Produktionskosten"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 96,
+            "type": "multiple_response",
+            "question": "Welche Instrumente helfen bei der Bewertung der Unternehmensleistung?",
+            "options": [
+                "EVA",
+                "ROI",
+                "NOPAT",
+                "Liquiditätskennzahlen"
+            ],
+            "correct": [0, 1, 2]
+        },
+        {
+            "id": 97,
+            "type": "fill_in_the_blank",
+            "question": "Die ___-Matrix unterstützt die Analyse von Marktanteil und Wachstum.",
+            "options": ["BCG", "SWOT", "TOWS"],
+            "correct": 0
+        },
+        {
+            "id": 98,
+            "type": "true_false",
+            "question": "Die Aufbauorganisation regelt die Verantwortlichkeiten im Unternehmen.",
+            "options": ["Richtig", "Falsch"],
+            "correct": 0
+        },
+        {
+            "id": 99,
+            "type": "multiple_choice",
+            "question": "Welche Zielbeziehung beschreibt Ziele, die sich gegenseitig verstärken?",
+            "options": [
+                "Komplementär",
+                "Indifferent",
+                "Konkurrent"
+            ],
+            "correct": 0
+        },
+        {
+            "id": 100,
+            "type": "multiple_response",
+            "question": "Welche Phasen gehören zur Planung im Unternehmen?",
+            "options": [
+                "Zielbildung",
+                "Situationsanalyse",
+                "Alternativenbewertung",
+                "Ressourcenallokation"
+            ],
+            "correct": [0, 1, 2]
+        }
+    
+]

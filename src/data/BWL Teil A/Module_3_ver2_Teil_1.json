@@ -1,0 +1,661 @@
+[
+    {
+        "id": 1,
+        "type": "fill_in_the_blank",
+        "question": "Die Unternehmensführung hat die Aufgabe, den Prozess der betrieblichen Leistungserstellung und -verwertung zu organisieren, um die ___ des Unternehmens bestmöglich zu erreichen.",
+        "options": ["Ziele", "Ressourcen", "Marktanteile"],
+        "correct": 0
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Die Zielbildung ist der erste Schritt im Phasenschema der Planung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe gehört NICHT zur Unternehmensführung?",
+        "options": [
+            "Koordination durch Controlling",
+            "Festlegung der langfristigen Ziele",
+            "Produktentwicklung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 4,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben umfasst die Unternehmensführung?",
+        "options": [
+            "Planung",
+            "Zielbildung",
+            "Entscheidungsfindung",
+            "Marktforschung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 5,
+        "type": "fill_in_the_blank",
+        "question": "Die Eigenkapitalgeber (Shareholder) tragen das volle ___ eines Unternehmens und haben das Recht auf uneingeschränkte Führungskompetenz.",
+        "options": ["Risiko", "Management", "Gewinn"],
+        "correct": 0
+    },
+    {
+        "id": 6,
+        "type": "true_false",
+        "question": "In einer Aktiengesellschaft ist der Vorstand das Kontrollorgan.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe hat die Hauptversammlung in einer Aktiengesellschaft?",
+        "options": [
+            "Überwachung der Geschäftsführung",
+            "Wahl des Aufsichtsrats",
+            "Berichterstattung an den Vorstand"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 8,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Corporate Governance ist die Wahrung der Interessen der ___ und ___.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["Stakeholder", "Kunden", "Lieferanten"]
+            },
+            {
+                "blank": 2,
+                "choices": ["Shareholder", "Investoren", "Mitarbeiter"]
+            }
+        ],
+        "correct": [0, 0]
+    },
+    {
+        "id": 9,
+        "type": "true_false",
+        "question": "Die Transparenz ist ein Instrument der Corporate Governance.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 10,
+        "type": "multiple_response",
+        "question": "Welche Instrumente gehören zur Corporate Governance?",
+        "options": [
+            "Transparenz",
+            "Kontrolle",
+            "Gewaltenteilung",
+            "Wettbewerbsanalyse"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 11,
+        "type": "fill_in_the_blank",
+        "question": "Die langfristigen Ziele eines Unternehmens umfassen ökonomische, soziale und ___ Aspekte.",
+        "options": ["ökologische", "rechtliche", "technologische"],
+        "correct": 0
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Ein komplementäres Ziel bedeutet, dass zwei Ziele sich gegenseitig verstärken.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 13,
+        "type": "multiple_choice",
+        "question": "Was versteht man unter einer indifferenten Zielbeziehung?",
+        "options": [
+            "Ziele behindern sich gegenseitig",
+            "Ziele sind unabhängig voneinander",
+            "Ziele verstärken sich gegenseitig"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 14,
+        "type": "multiple_response",
+        "question": "Welche Beziehungen zwischen Unternehmenszielen gibt es?",
+        "options": [
+            "Komplementär",
+            "Indifferent",
+            "Konkurrent",
+            "Synchron"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 15,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der strategischen Planung ist die Entwicklung langfristiger ___ für das Unternehmen.",
+        "options": ["Strategien", "Produkte", "Prozesse"],
+        "correct": 0
+    },
+    {
+        "id": 16,
+        "type": "true_false",
+        "question": "Die operative Planung ist kurzfristig und betrifft einen Zeitraum von maximal 12 Monaten.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe gehört zur taktischen Planung?",
+        "options": [
+            "Langfristige Zielbildung",
+            "Mittelfristige Absatzplanung",
+            "Kurzfristige Produktionsaufträge"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 18,
+        "type": "fill_in_the_blank",
+        "question": "Das Phasenschema der Planung umfasst die Phasen Zielbildung, Situationsanalyse, Alternativenermittlung und ___.",
+        "options": ["Alternativenbewertung", "Planung", "Umsetzung"],
+        "correct": 0
+    },
+    {
+        "id": 19,
+        "type": "true_false",
+        "question": "Die SWOT-Analyse betrachtet ausschließlich die internen Stärken und Schwächen eines Unternehmens.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 20,
+        "type": "multiple_response",
+        "question": "Welche Phasen gehören zum Produktlebenszyklus?",
+        "options": [
+            "Einführung",
+            "Wachstum",
+            "Reife",
+            "Relaunch"
+        ],
+        "correct": [0, 1, 2, 3]
+    },{
+        "id": 21,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Corporate Governance ist die Wahrung der Interessen der ___ und ___.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["Shareholder", "Kunden", "Lieferanten"]
+            },
+            {
+                "blank": 2,
+                "choices": ["Stakeholder", "Investoren", "Mitarbeiter"]
+            }
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Die taktische Planung umfasst einen Zeitraum von 1 bis 5 Jahren.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 23,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe gehört zur strategischen Planung?",
+        "options": [
+            "Langfristige Zielsetzung",
+            "Mitarbeiterzuteilung",
+            "Festlegung der Produktionsaufträge"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 24,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben fallen in den Bereich der Corporate Governance?",
+        "options": [
+            "Transparenz schaffen",
+            "Kontrolle stärken",
+            "Gewaltenteilung gewährleisten",
+            "Produktdesign optimieren"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 25,
+        "type": "fill_in_the_blank",
+        "question": "Die SMART-Regel definiert Ziele als spezifisch, messbar, akzeptiert, realistisch und ___.",
+        "options": ["terminiert", "strategisch", "taktisch"],
+        "correct": 0
+    },
+    {
+        "id": 26,
+        "type": "true_false",
+        "question": "Im Rahmen der SWOT-Analyse betrachtet man interne Stärken und Schwächen sowie externe Chancen und Risiken.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 27,
+        "type": "multiple_choice",
+        "question": "Welche Phase gehört NICHT zum Produktlebenszyklus?",
+        "options": [
+            "Einführung",
+            "Reife",
+            "Restrukturierung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 28,
+        "type": "fill_in_the_blank",
+        "question": "Die Einführung eines Produkts im Produktlebenszyklus ist oft mit hohen ___ und geringen ___ verbunden.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["Kosten", "Gewinnen", "Absätzen"]
+            },
+            {
+                "blank": 2,
+                "choices": ["Umsätzen", "Investitionen", "Preisen"]
+            }
+        ],
+        "correct": [0, 0]
+    },
+    {
+        "id": 29,
+        "type": "true_false",
+        "question": "Die SWOT-Analyse dient ausschließlich der internen Bewertung eines Unternehmens.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 30,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zur Aufbauorganisation eines Unternehmens?",
+        "options": [
+            "Hierarchiestruktur",
+            "Organigramm",
+            "Arbeitsabläufe",
+            "Führungstiefe"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 31,
+        "type": "fill_in_the_blank",
+        "question": "Die Ablauforganisation regelt, wie ___ tatsächlich durchgeführt werden.",
+        "options": ["Aufgaben", "Ziele", "Projekte"],
+        "correct": 0
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Die Führungstiefe bezeichnet die Anzahl der direkt unterstellten Mitarbeiter.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 33,
+        "type": "multiple_choice",
+        "question": "Welche Funktion hat die Aufbauorganisation?",
+        "options": [
+            "Festlegung von Hierarchien",
+            "Koordination von Abläufen",
+            "Festlegung von Zielen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 34,
+        "type": "fill_in_the_blank",
+        "question": "Die TOWS-Matrix ist eine erweiterte Form der ___-Analyse.",
+        "options": ["SWOT", "STEP", "BCG"],
+        "correct": 0
+    },
+    {
+        "id": 35,
+        "type": "true_false",
+        "question": "Die operative Planung setzt strategische Ziele in konkrete Handlungen um.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 36,
+        "type": "multiple_response",
+        "question": "Welche Schritte umfasst das Phasenschema der Planung?",
+        "options": [
+            "Zielbildung",
+            "Situationsanalyse",
+            "Alternativenermittlung",
+            "Kontrollprozess"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 37,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ beschreibt die hierarchische Struktur eines Unternehmens, während die ___ die Reihenfolge von Arbeitsabläufen regelt.",
+        "options": [
+            {
+                "blank": 1,
+                "choices": ["Aufbauorganisation", "Ablauforganisation", "Strategie"]
+            },
+            {
+                "blank": 2,
+                "choices": ["Ablauforganisation", "Führungsspanne", "Prozesse"]
+            }
+        ],
+        "correct": [0, 0]
+    },
+    {
+        "id": 38,
+        "type": "true_false",
+        "question": "Die Führungsspanne gibt die Anzahl der direkt unterstellten Mitarbeiter an.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe hat die Situationsanalyse im Phasenschema der Planung?",
+        "options": [
+            "Identifikation von Stärken und Schwächen",
+            "Festlegung der Ziele",
+            "Bewertung von Alternativen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 40,
+        "type": "multiple_response",
+        "question": "Welche Zielbeziehungen gibt es in der Unternehmensführung?",
+        "options": [
+            "Komplementär",
+            "Indifferent",
+            "Konkurrent",
+            "Strategisch"
+        ],
+        "correct": [0, 1, 2]
+    },{
+        "id": 41,
+        "type": "fill_in_the_blank",
+        "question": "Die ___-Analyse hilft, interne Stärken und Schwächen sowie externe Chancen und Risiken zu identifizieren.",
+        "options": ["SWOT", "BCG", "TOWS"],
+        "correct": 0
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Die taktische Planung setzt strategische Ziele in operative Maßnahmen um.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 43,
+        "type": "multiple_choice",
+        "question": "Welche Phase des Produktlebenszyklus ist durch hohe Umsätze und den höchsten Gewinn gekennzeichnet?",
+        "options": [
+            "Einführung",
+            "Reife",
+            "Sättigung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 44,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben erfüllt die Ablauforganisation?",
+        "options": [
+            "Festlegung von Arbeitsabläufen",
+            "Definition von Verantwortlichkeiten",
+            "Optimierung von Prozessen",
+            "Hierarchische Strukturierung"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 45,
+        "type": "fill_in_the_blank",
+        "question": "Die SMART-Regel fordert, dass Ziele spezifisch, messbar, akzeptiert, realistisch und ___ sein müssen.",
+        "options": ["terminiert", "operativ", "strategisch"],
+        "correct": 0
+    },
+    {
+        "id": 46,
+        "type": "true_false",
+        "question": "Die Aufbauorganisation beschreibt die Reihenfolge der Aufgabenbearbeitung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 47,
+        "type": "multiple_choice",
+        "question": "Welche Zielbeziehung beschreibt Ziele, die sich gegenseitig verstärken?",
+        "options": [
+            "Komplementär",
+            "Indifferent",
+            "Konkurrent"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 48,
+        "type": "multiple_response",
+        "question": "Welche Schritte umfasst die Entscheidungsfindung bei Risiko?",
+        "options": [
+            "Schätzung der Wahrscheinlichkeiten",
+            "Berechnung der Erwartungswerte",
+            "Wahl der Alternative mit dem höchsten möglichen Gewinn",
+            "Analyse der Marktbedingungen"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 49,
+        "type": "fill_in_the_blank",
+        "question": "Im Phasenschema der Planung erfolgt nach der Alternativenermittlung die ___.",
+        "options": ["Alternativenbewertung", "Situationsanalyse", "Zielbildung"],
+        "correct": 0
+    },
+    {
+        "id": 50,
+        "type": "true_false",
+        "question": "Die Aufbauorganisation regelt die Zuständigkeiten und Hierarchien im Unternehmen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe hat der Aufsichtsrat in einer Aktiengesellschaft?",
+        "options": [
+            "Bestellung des Vorstands",
+            "Genehmigung der Jahresabschlüsse",
+            "Entscheidung über Dividenden"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 52,
+        "type": "multiple_response",
+        "question": "Welche Elemente umfasst die Corporate Governance?",
+        "options": [
+            "Transparenz",
+            "Gewaltenteilung",
+            "Kontrolle",
+            "Kundenzufriedenheit"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 53,
+        "type": "fill_in_the_blank",
+        "question": "Die ___-Matrix erweitert die SWOT-Analyse und hilft bei der Ableitung strategischer Maßnahmen.",
+        "options": ["TOWS", "BCG", "STEP"],
+        "correct": 0
+    },
+    {
+        "id": 54,
+        "type": "true_false",
+        "question": "Eine komplementäre Zielbeziehung bedeutet, dass Ziele unabhängig voneinander sind.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 55,
+        "type": "multiple_choice",
+        "question": "Welche Art der Planung hat den längsten Zeithorizont?",
+        "options": [
+            "Strategische Planung",
+            "Taktische Planung",
+            "Operative Planung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 56,
+        "type": "multiple_response",
+        "question": "Welche Merkmale hat die strategische Planung?",
+        "options": [
+            "Langfristig",
+            "Qualitative Ziele",
+            "Hohes Maß an Unsicherheit",
+            "Detailgenaue Umsetzung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 57,
+        "type": "fill_in_the_blank",
+        "question": "Die ___-Matrix teilt Produkte nach Marktanteil und Marktwachstum ein.",
+        "options": ["BCG", "TOWS", "STEP"],
+        "correct": 0
+    },
+    {
+        "id": 58,
+        "type": "true_false",
+        "question": "Die Situationsanalyse dient dazu, die aktuelle Lage eines Unternehmens zu bewerten.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 59,
+        "type": "multiple_choice",
+        "question": "Welche Zielbeziehung beschreibt Ziele, die sich gegenseitig behindern?",
+        "options": [
+            "Konkurrent",
+            "Indifferent",
+            "Komplementär"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 60,
+        "type": "multiple_response",
+        "question": "Welche Phasen gehören zum Produktlebenszyklus?",
+        "options": [
+            "Einführung",
+            "Wachstum",
+            "Sättigung",
+            "Restrukturierung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 61,
+        "type": "fill_in_the_blank",
+        "question": "Im Produktlebenszyklus ist die ___ die Phase mit den höchsten Umsätzen.",
+        "options": ["Reife", "Einführung", "Wachstum"],
+        "correct": 0
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "Die operative Planung ist für kurzfristige Maßnahmen zuständig.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "multiple_choice",
+        "question": "Welche Phase der Planung befasst sich mit der Entwicklung alternativer Maßnahmen?",
+        "options": [
+            "Alternativenermittlung",
+            "Alternativenbewertung",
+            "Zielbildung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 64,
+        "type": "multiple_response",
+        "question": "Welche Zielkategorien berücksichtigt die langfristige Planung?",
+        "options": [
+            "Ökonomische Ziele",
+            "Soziale Ziele",
+            "Ökologische Ziele",
+            "Operative Ziele"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 65,
+        "type": "fill_in_the_blank",
+        "question": "Die ___-Regel hilft, klare und erreichbare Ziele zu setzen.",
+        "options": ["SMART", "TOWS", "STEP"],
+        "correct": 0
+    },
+    {
+        "id": 66,
+        "type": "true_false",
+        "question": "Die SWOT-Analyse untersucht ausschließlich externe Faktoren.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 67,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe gehört zur Kontrollfunktion im Unternehmen?",
+        "options": [
+            "Überwachung der Zielerreichung",
+            "Entwicklung von Strategien",
+            "Definition von Alternativen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 68,
+        "type": "multiple_response",
+        "question": "Welche Faktoren werden in der STEP-Analyse untersucht?",
+        "options": [
+            "Soziale Faktoren",
+            "Technologische Faktoren",
+            "Ökonomische Faktoren",
+            "Politische Faktoren"
+        ],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 69,
+        "type": "fill_in_the_blank",
+        "question": "Im Produktlebenszyklus folgt auf die Wachstumsphase die ___.",
+        "options": ["Reifephase", "Einführungsphase", "Sättigungsphase"],
+        "correct": 0
+    },
+    {
+        "id": 70,
+        "type": "true_false",
+        "question": "Die TOWS-Matrix hilft bei der Entwicklung strategischer Maßnahmen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    }
+]
