@@ -2,912 +2,912 @@
     {
         "id": 1,
         "type": "multiple_choice",
-        "question": "Welches Ziel verfolgt die ABC-Analyse in der Materialwirtschaft?",
+        "question": "Welche Aussage beschreibt den Preiswettbewerb korrekt?",
         "options": [
-            "Ermittlung des optimalen Lagerorts",
-            "Klassifizierung von Gütern nach ihrem Wertanteil",
-            "Reduzierung der variablen Kosten"
+            "Er bezieht sich auf heterogene Güter mit einzigartigen Eigenschaften.",
+            "Er basiert hauptsächlich auf der Differenzierung durch Qualität.",
+            "Er konzentriert sich auf Produkte, die sich kaum voneinander unterscheiden."
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "id": 2,
         "type": "true_false",
-        "question": "Die Just-in-Time-Beschaffung reduziert Lagerbestände und erfordert eine hohe Lieferzuverlässigkeit.",
+        "question": "Im Produktwettbewerb wird der Wettbewerb hauptsächlich durch den Preis bestimmt.",
         "options": ["Richtig", "Falsch"],
-        "correct": 0
+        "correct": 1
     },
     {
         "id": 3,
-        "type": "multiple_response",
-        "question": "Welche der folgenden Faktoren können die Lieferantenauswahl beeinflussen?",
-        "options": [
-            "Lieferzeit",
-            "Qualität der Ware",
-            "Zahlungsbedingungen",
-            "Kapitalstruktur des Unternehmens"
-        ],
-        "correct": [0, 1, 2]
+        "type": "fill_in_the_blank",
+        "question": "Die 4 P’s des Marketing-Mix sind Produkt, Preis, Kommunikation und ___.",
+        "options": ["Distribution", "Produktion", "Marktanalyse"],
+        "correct": 0
     },
     {
         "id": 4,
-        "type": "fill_in_the_blank",
-        "question": "Die kritische Menge wird berechnet, um die Entscheidung zwischen ___ und Fremdbezug zu treffen.",
-        "options": ["Eigenfertigung", "Lagerhaltung", "Personalplanung"],
-        "correct": 0
+        "type": "multiple_response",
+        "question": "Welche Aufgaben gehören zur Marktanalyse?",
+        "options": [
+            "Untersuchung von Kunden und Wettbewerbern",
+            "Analyse der Rahmenbedingungen",
+            "Definition der Marktsegmente",
+            "Entwicklung neuer Produkte"
+        ],
+        "correct": [0, 1]
     },
     {
         "id": 5,
         "type": "multiple_choice",
-        "question": "Welche Aussage beschreibt den Sicherheitsbestand korrekt?",
+        "question": "Welche Phase der Marketing-Planung beschäftigt sich mit der Aufteilung des Marktes in homogene Gruppen?",
         "options": [
-            "Er dient zur Vermeidung von Überproduktion.",
-            "Er minimiert das Risiko von Lieferengpässen.",
-            "Er optimiert die Lagerhaltungskosten."
+            "Marktanalyse",
+            "Marktsegmentierung",
+            "Marketing-Mix"
         ],
         "correct": 1
     },
     {
         "id": 6,
         "type": "true_false",
-        "question": "Der Bruttobedarf berücksichtigt bereits verfügbare Lagerbestände.",
+        "question": "Die Marktstrategie legt fest, wie Produkte erfolgreich in bestimmten Segmenten positioniert werden.",
         "options": ["Richtig", "Falsch"],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 7,
-        "type": "multiple_response",
-        "question": "Welche Elemente gehören zum Marketing-Mix?",
-        "options": [
-            "Produktpolitik",
-            "Preispolitik",
-            "Kommunikationspolitik",
-            "Lagerverwaltung"
-        ],
-        "correct": [0, 1, 2]
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Marktsegmentierung ist die Entwicklung einer differenzierten ___.",
+        "options": ["Marketingstrategie", "Produktpolitik", "Preisanalyse"],
+        "correct": 0
     },
     {
         "id": 8,
-        "type": "fill_in_the_blank",
-        "question": "Die SWOT-Analyse untersucht Stärken, Schwächen, Chancen und ___.",
-        "options": ["Risiken", "Potenziale", "Kundenbedürfnisse"],
-        "correct": 0
+        "type": "multiple_response",
+        "question": "Welche der folgenden Elemente sind Bestandteile des SOR-Modells?",
+        "options": [
+            "Stimulus",
+            "Organismus",
+            "Reaktion",
+            "Strategie"
+        ],
+        "correct": [0, 1, 2]
     },
     {
         "id": 9,
         "type": "multiple_choice",
-        "question": "Welches der folgenden Instrumente wird zur Kontrolle in Unternehmen verwendet?",
+        "question": "Welche Aussage beschreibt den Nutzen des Marketing-Mix?",
         "options": [
-            "Abweichungsanalyse",
-            "SWOT-Analyse",
-            "Balanced Scorecard"
+            "Er hilft bei der Definition der Zielgruppe.",
+            "Er koordiniert Produkt-, Preis-, Kommunikations- und Distributionspolitik.",
+            "Er analysiert die Wettbewerbssituation."
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "id": 10,
         "type": "true_false",
-        "question": "Der Deckungsbeitrag wird berechnet, indem Fixkosten von den variablen Kosten abgezogen werden.",
+        "question": "Die Ansoff-Matrix dient zur Analyse bestehender Kundenbeziehungen.",
         "options": ["Richtig", "Falsch"],
         "correct": 1
     },{
         "id": 11,
-        "type": "fill_in_the_blank",
-        "question": "Die Entscheidung zwischen Eigenfertigung und Fremdbezug wird auch als ___ bezeichnet.",
-        "options": ["Make-or-Buy", "Outsourcing", "Diversifikation"],
+        "type": "multiple_choice",
+        "question": "Welche Strategie der Ansoff-Matrix fokussiert sich auf die Erschließung neuer Märkte für bestehende Produkte?",
+        "options": [
+            "Marktentwicklung",
+            "Produktentwicklung",
+            "Marktdurchdringung"
+        ],
         "correct": 0
     },
     {
         "id": 12,
-        "type": "multiple_choice",
-        "question": "Welche Aussage beschreibt die Produktpolitik korrekt?",
-        "options": [
-            "Sie umfasst die Gestaltung und Verbesserung von Produkten.",
-            "Sie zielt auf die Optimierung der Vertriebskanäle ab.",
-            "Sie konzentriert sich auf die Preissetzung."
-        ],
-        "correct": 0
+        "type": "true_false",
+        "question": "Der Preiswettbewerb konzentriert sich auf die Qualität der Produkte.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
     },
     {
         "id": 13,
-        "type": "multiple_response",
-        "question": "Welche der folgenden Aufgaben gehören zur Logistik?",
-        "options": [
-            "Transportmanagement",
-            "Lagerhaltung",
-            "Wareneingang",
-            "Kundenakquise"
-        ],
-        "correct": [0, 1, 2]
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Differenzierungsstrategie ist es, durch ___ einen Wettbewerbsvorteil zu erzielen.",
+        "options": ["Einzigartigkeit", "Kostenreduktion", "Marktanteile"],
+        "correct": 0
     },
     {
         "id": 14,
-        "type": "true_false",
-        "question": "Die Zielsetzung der Unternehmensführung ist die langfristige Gewinnmaximierung.",
-        "options": ["Richtig", "Falsch"],
-        "correct": 0
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Kaufentscheidung laut dem SOR-Modell?",
+        "options": [
+            "Kontrollierte Stimuli",
+            "Nicht kontrollierte Stimuli",
+            "Interne Unternehmensdaten",
+            "Externe Marktanalysen"
+        ],
+        "correct": [0, 1]
     },
     {
         "id": 15,
         "type": "multiple_choice",
-        "question": "Welche Phase gehört nicht zum Produktlebenszyklus?",
+        "question": "Welche Aussage beschreibt den Produktwettbewerb korrekt?",
         "options": [
-            "Einführungsphase",
-            "Sättigungsphase",
-            "Diversifikationsphase"
+            "Produkte sind nahezu identisch und der Wettbewerb erfolgt über den Preis.",
+            "Produkte haben deutliche Unterschiede und der Wettbewerb erfolgt über deren Eigenschaften.",
+            "Produkte sind austauschbar und der Wettbewerb erfolgt über die Lieferzeit."
         ],
-        "correct": 2
-    },
-    {
-        "id": 16,
-        "type": "fill_in_the_blank",
-        "question": "Die Balanced Scorecard misst die Leistung eines Unternehmens aus finanzieller, interner Prozess-, Kunden- und ___ Perspektive.",
-        "options": ["Wettbewerbs-", "Lern-", "Produktions-"],
         "correct": 1
     },
     {
-        "id": 17,
-        "type": "multiple_response",
-        "question": "Welche Maßnahmen können den Cashflow eines Unternehmens erhöhen?",
-        "options": [
-            "Verkauf von Vermögenswerten",
-            "Verlängerung von Zahlungsfristen",
-            "Erhöhung der Lagerbestände",
-            "Reduzierung der Ausgaben"
-        ],
-        "correct": [0, 3]
-    },
-    {
-        "id": 18,
+        "id": 16,
         "type": "true_false",
-        "question": "Ein hoher Verschuldungsgrad erhöht das finanzielle Risiko eines Unternehmens.",
+        "question": "Eine differenzierte Marktstrategie ist das Ziel der Marktsegmentierung.",
         "options": ["Richtig", "Falsch"],
         "correct": 0
     },
     {
+        "id": 17,
+        "type": "fill_in_the_blank",
+        "question": "Die Kommunikationspolitik umfasst Werbung, Verkaufsförderung und ___.",
+        "options": ["Public Relations", "Produktionsmanagement", "Vertrieb"],
+        "correct": 0
+    },
+    {
+        "id": 18,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben erfüllt die Distributionspolitik?",
+        "options": [
+            "Organisation der Absatzwege",
+            "Festlegung der Produktpreise",
+            "Optimierung der Lagerhaltung",
+            "Logistische Abwicklung"
+        ],
+        "correct": [0, 3]
+    },
+    {
         "id": 19,
         "type": "multiple_choice",
-        "question": "Welche Strategie gehört zur Ansoff-Matrix?",
+        "question": "Welche Phase der Marketing-Planung definiert die Zielgruppe und deren Bedürfnisse?",
         "options": [
-            "Kostenführerschaft",
-            "Produktentwicklung",
-            "SWOT-Analyse"
+            "Marktanalyse",
+            "Marketing-Mix",
+            "Marktstrategie"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 20,
-        "type": "fill_in_the_blank",
-        "question": "Das Ziel der Corporate Governance ist die Wahrung der Interessen von Stakeholdern und ___.",
-        "options": ["Shareholdern", "Mitarbeitern", "Kunden"],
-        "correct": 0
+        "type": "true_false",
+        "question": "Die Produktpolitik umfasst die Gestaltung von Preisstrategien.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
     },{
         "id": 21,
         "type": "multiple_choice",
-        "question": "Welche Kennzahl zeigt die kurzfristige Liquidität eines Unternehmens an?",
+        "question": "Welche der folgenden Strategien zielt darauf ab, bestehende Produkte intensiver in einem bekannten Markt zu verkaufen?",
         "options": [
-            "Eigenkapitalquote",
-            "Liquiditätsgrad 1. Grades",
-            "Kapitalumschlag"
+            "Marktdurchdringung",
+            "Diversifikation",
+            "Produktentwicklung"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 22,
         "type": "true_false",
-        "question": "Die Sättigungsphase des Produktlebenszyklus ist durch einen Rückgang der Umsätze gekennzeichnet.",
+        "question": "Die Marktanalyse dient der Untersuchung interner Unternehmensprozesse.",
         "options": ["Richtig", "Falsch"],
         "correct": 1
     },
     {
         "id": 23,
         "type": "fill_in_the_blank",
-        "question": "Die Corporate Governance umfasst die Steuerung und ___ der Unternehmensführung.",
-        "options": ["Kontrolle", "Optimierung", "Motivation"],
+        "question": "Ein wichtiges Ziel des Marketings ist es, absatzmarktorientierte ___ zu erreichen.",
+        "options": ["Unternehmensziele", "Produkte", "Preisstrategien"],
         "correct": 0
     },
     {
         "id": 24,
         "type": "multiple_response",
-        "question": "Welche Ziele können durch eine effiziente Lagerhaltung erreicht werden?",
+        "question": "Welche der folgenden Aufgaben gehören zur Produktpolitik?",
         "options": [
-            "Minimierung der Lagerkosten",
-            "Erhöhung der Lieferfähigkeit",
-            "Reduktion der Kapitalbindung",
-            "Verbesserung der Produktqualität"
+            "Markenpolitik",
+            "Verpackungsgestaltung",
+            "Preisdifferenzierung",
+            "Produktentwicklung"
         ],
-        "correct": [0, 1, 2]
+        "correct": [0, 1, 3]
     },
     {
         "id": 25,
         "type": "multiple_choice",
-        "question": "Welche der folgenden Aussagen beschreibt den Unterschied zwischen Primär- und Sekundärbedarf korrekt?",
+        "question": "Welche der folgenden Aussagen beschreibt das Ziel der Kommunikationspolitik korrekt?",
         "options": [
-            "Der Primärbedarf berücksichtigt bereits Lagerbestände.",
-            "Der Sekundärbedarf umfasst Rohstoffe und Einzelteile.",
-            "Primär- und Sekundärbedarf sind identisch."
+            "Festlegung der Absatzwege für Produkte",
+            "Vermittlung eines gewünschten Images an Kunden",
+            "Reduktion der Produktionskosten"
         ],
         "correct": 1
     },
     {
         "id": 26,
         "type": "true_false",
-        "question": "Ein hoher Lagerumschlag ist ein Indikator für eine effiziente Lagerhaltung.",
+        "question": "Die Preiselastizität der Nachfrage beschreibt die Reaktion der Nachfrage auf Preisänderungen.",
         "options": ["Richtig", "Falsch"],
         "correct": 0
     },
     {
         "id": 27,
-        "type": "multiple_response",
-        "question": "Welche der folgenden Phasen gehören zur strategischen Planung?",
-        "options": [
-            "Zielbildung",
-            "Situationsanalyse",
-            "Alternativenbewertung",
-            "Operative Umsetzung"
-        ],
-        "correct": [0, 1, 2]
+        "type": "fill_in_the_blank",
+        "question": "Die Differenzierungsstrategie zielt darauf ab, durch ___ und Design Wettbewerbsvorteile zu schaffen.",
+        "options": ["Qualität", "Kostenreduktion", "Markenbekanntheit"],
+        "correct": 0
     },
     {
         "id": 28,
-        "type": "fill_in_the_blank",
-        "question": "Die SWOT-Analyse ist ein Werkzeug der ___ Planung.",
-        "options": ["strategischen", "operativen", "taktischen"],
-        "correct": 0
-    },
-    {
-        "id": 29,
-        "type": "multiple_choice",
-        "question": "Welche der folgenden Strategien beschreibt die Marktdurchdringung?",
-        "options": [
-            "Einführung bestehender Produkte in neue Märkte",
-            "Erhöhung der Verkäufe im bestehenden Markt",
-            "Entwicklung neuer Produkte für bestehende Märkte"
-        ],
-        "correct": 1
-    },
-    {
-        "id": 30,
-        "type": "true_false",
-        "question": "Die Kostenführerschaft ist eine Strategie, die sich auf die Differenzierung durch Qualität konzentriert.",
-        "options": ["Richtig", "Falsch"],
-        "correct": 1
-    },{
-        "id": 31,
-        "type": "fill_in_the_blank",
-        "question": "Die SMART-Regel beschreibt Ziele, die spezifisch, messbar, akzeptiert, realistisch und ___ sind.",
-        "options": ["terminiert", "optimiert", "priorisiert"],
-        "correct": 0
-    },
-    {
-        "id": 32,
-        "type": "multiple_choice",
-        "question": "Welche Aussage beschreibt die taktische Planung korrekt?",
-        "options": [
-            "Sie ist kurzfristig ausgerichtet und operativ.",
-            "Sie konkretisiert strategische Vorgaben in mittelfristige Maßnahmen.",
-            "Sie fokussiert sich auf langfristige Unternehmensziele."
-        ],
-        "correct": 1
-    },
-    {
-        "id": 33,
         "type": "multiple_response",
-        "question": "Welche der folgenden Maßnahmen sind Bestandteile des Marketing-Mix?",
+        "question": "Welche der folgenden Punkte gehören zu den primären Informationsquellen in der Marktanalyse?",
         "options": [
-            "Preispolitik",
-            "Kommunikationspolitik",
-            "Produktpolitik",
-            "Distributionspolitik"
-        ],
-        "correct": [0, 1, 2, 3]
-    },
-    {
-        "id": 34,
-        "type": "true_false",
-        "question": "Eine SWOT-Analyse dient der Bewertung interner und externer Faktoren.",
-        "options": ["Richtig", "Falsch"],
-        "correct": 0
-    },
-    {
-        "id": 35,
-        "type": "multiple_choice",
-        "question": "Welche Kennzahl gibt an, wie effizient ein Unternehmen mit seinem Kapital arbeitet?",
-        "options": [
-            "Eigenkapitalquote",
-            "Kapitalumschlagshäufigkeit",
-            "Deckungsbeitrag"
-        ],
-        "correct": 1
-    },
-    {
-        "id": 36,
-        "type": "fill_in_the_blank",
-        "question": "Das Ziel der Corporate Social Responsibility (CSR) ist die Übernahme von ___ Verantwortung.",
-        "options": ["sozialer", "rechtlicher", "finanzieller"],
-        "correct": 0
-    },
-    {
-        "id": 37,
-        "type": "multiple_response",
-        "question": "Welche der folgenden Elemente gehören zur Aufbauorganisation eines Unternehmens?",
-        "options": [
-            "Hierarchieebenen",
-            "Führungsspanne",
-            "Zielbildungsprozess",
-            "Organigramm"
+            "Umfragen",
+            "Fokusgruppen",
+            "Unternehmensdatenbanken",
+            "Beobachtungen"
         ],
         "correct": [0, 1, 3]
     },
     {
-        "id": 38,
+        "id": 29,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Strategie der Diversifikation korrekt?",
+        "options": [
+            "Entwicklung neuer Produkte für bestehende Märkte",
+            "Eintritt in neue Märkte mit bestehenden Produkten",
+            "Einführung neuer Produkte in neue Märkte"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 30,
         "type": "true_false",
-        "question": "Ein hoher Marktanteil bedeutet immer eine hohe Profitabilität.",
+        "question": "Die Produktwettbewerbsstrategie konzentriert sich auf homogene Güter.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Welche Komponente gehört NICHT zu den 4 P’s des Marketing-Mix?",
+        "options": [
+            "Produktpolitik",
+            "Preispolitik",
+            "Finanzierungspolitik"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Die Marktsegmentierung zielt darauf ab, den Markt in heterogene Käufergruppen aufzuteilen.",
         "options": ["Richtig", "Falsch"],
         "correct": 1
     },
     {
-        "id": 39,
-        "type": "multiple_choice",
-        "question": "Welche Aussage trifft auf die Einführung eines neuen Produkts zu?",
-        "options": [
-            "Hohe Umsätze bei niedrigen Kosten",
-            "Hohe Investitionen mit geringen Einnahmen",
-            "Maximaler Gewinn"
-        ],
-        "correct": 1
+        "id": 33,
+        "type": "fill_in_the_blank",
+        "question": "Die Preis-Absatz-Funktion zeigt, dass ein niedrigerer Preis zu einer ___ Verkaufsmenge führt.",
+        "options": ["höheren", "geringeren", "stabilen"],
+        "correct": 0
     },
     {
-        "id": 40,
-        "type": "fill_in_the_blank",
-        "question": "Die Zielkostenrechnung wird häufig bei der Entwicklung neuer ___ verwendet.",
-        "options": ["Produkte", "Märkte", "Strategien"],
-        "correct": 0
-    },{
-        "id": 41,
+        "id": 34,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zur Analyse des Kaufverhaltens nach dem SOR-Modell?",
+        "options": [
+            "Stimulus",
+            "Organismus",
+            "Response",
+            "Preisgestaltung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 35,
         "type": "multiple_choice",
         "question": "Welche Aufgabe erfüllt die Distributionspolitik?",
         "options": [
-            "Optimierung der Lagerbestände",
-            "Gestaltung der Absatzwege zum Kunden",
-            "Steigerung der Produktionskapazität"
+            "Optimierung der Lieferwege",
+            "Reduzierung der Produktionskosten",
+            "Analyse der Marktsegmente"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 36,
+        "type": "true_false",
+        "question": "Die Werbewirkung nimmt bei steigendem Budget immer linear zu.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 37,
+        "type": "fill_in_the_blank",
+        "question": "Die Marktanalyse betrachtet sowohl interne als auch ___ Informationen.",
+        "options": ["externe", "strategische", "operative"],
+        "correct": 0
+    },
+    {
+        "id": 38,
+        "type": "multiple_response",
+        "question": "Welche Strategien gehören zu den generischen Strategien nach Porter?",
+        "options": [
+            "Kostenführerschaft",
+            "Diversifikation",
+            "Differenzierung",
+            "Fokussierung"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Welche Phase der Marketing-Planung beschäftigt sich mit der Festlegung der Marketinginstrumente?",
+        "options": [
+            "Marketing-Mix",
+            "Marktsegmentierung",
+            "Marktstrategie"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 40,
+        "type": "true_false",
+        "question": "Das Ziel der Kommunikationspolitik ist es, den Absatzweg der Produkte zu optimieren.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Welche Strategie der Ansoff-Matrix fokussiert sich auf die Entwicklung neuer Produkte für bestehende Märkte?",
+        "options": [
+            "Marktentwicklung",
+            "Produktentwicklung",
+            "Diversifikation"
         ],
         "correct": 1
     },
     {
         "id": 42,
         "type": "true_false",
-        "question": "Die Marktentwicklung ist eine Strategie, bei der neue Produkte für bestehende Märkte entwickelt werden.",
+        "question": "Die Marktanalyse ist die Grundlage für die Entwicklung des Marketing-Mix.",
         "options": ["Richtig", "Falsch"],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 43,
         "type": "fill_in_the_blank",
-        "question": "Die Personalbedarfsplanung berücksichtigt den zukünftigen Bedarf an ___ Mitarbeitern.",
-        "options": ["qualifizierten", "erfahrenen", "neuen"],
-        "correct": 0
+        "question": "Der ___ Wettbewerb basiert auf dem Vergleich von Preis-Leistungs-Verhältnissen verschiedener Anbieter.",
+        "options": ["Marketing", "Produkt", "Preis"],
+        "correct": 2
     },
     {
         "id": 44,
         "type": "multiple_response",
-        "question": "Welche der folgenden Aufgaben zählen zur Personalwirtschaft?",
+        "question": "Welche der folgenden Merkmale betreffen den Produktwettbewerb?",
         "options": [
-            "Personalbeschaffung",
-            "Personaleinsatzplanung",
-            "Mitarbeitermotivation",
-            "Produktentwicklung"
+            "Heterogene Güter",
+            "Leistungsdifferenzierung",
+            "Homogene Güter",
+            "Preisgarantien"
         ],
-        "correct": [0, 1, 2]
+        "correct": [0, 1]
     },
     {
         "id": 45,
         "type": "multiple_choice",
-        "question": "Welche Phase gehört zur operativen Planung?",
+        "question": "Welche der folgenden Aussagen beschreibt das Ziel des Marketing?",
         "options": [
-            "Alternativenbewertung",
-            "Festlegung von Tages- und Wochenplänen",
-            "Entwicklung langfristiger Ziele"
+            "Maximierung der Produktionskosten",
+            "Orientierung an den Bedürfnissen des Marktes",
+            "Minimierung der Kundenbindung"
         ],
         "correct": 1
     },
     {
         "id": 46,
         "type": "true_false",
-        "question": "Ein geringerer Sicherheitsbestand erhöht die Versorgungssicherheit.",
+        "question": "Der Marketing-Mix kombiniert die Distributions- und Kommunikationspolitik.",
         "options": ["Richtig", "Falsch"],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 47,
         "type": "fill_in_the_blank",
-        "question": "Die Zielgruppe einer Marketingstrategie wird durch die ___ Analyse definiert.",
-        "options": ["Markt-", "Konkurrenz-", "Kosten-"],
+        "question": "Die SMART-Regel hilft, ___ Ziele zu definieren.",
+        "options": ["realistische", "qualitative", "strategische"],
         "correct": 0
     },
     {
         "id": 48,
         "type": "multiple_response",
-        "question": "Welche der folgenden Faktoren beeinflussen die Preisstrategie eines Unternehmens?",
+        "question": "Welche der folgenden Faktoren zählen zu den internen Informationen der Marktanalyse?",
         "options": [
-            "Produktionskosten",
-            "Nachfrageelastizität",
-            "Markttrends",
-            "Lieferantenverfügbarkeit"
+            "Produktionskapazitäten",
+            "Rahmenbedingungen",
+            "Gewinnmargen",
+            "Marktreaktionen"
         ],
-        "correct": [0, 1, 2]
+        "correct": [0, 2]
     },
     {
         "id": 49,
         "type": "multiple_choice",
-        "question": "Welches Instrument wird zur Motivation der Mitarbeiter eingesetzt?",
+        "question": "Welche Art von Wettbewerb betrifft homogene Güter wie Salz?",
         "options": [
-            "Leistungslohn",
-            "Marktanalyse",
-            "Lagerhaltung"
+            "Produktwettbewerb",
+            "Preiswettbewerb",
+            "Innovationswettbewerb"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "id": 50,
         "type": "true_false",
-        "question": "Die Deckungsbeitragsrechnung hilft bei der Bestimmung der profitabelsten Produkte.",
+        "question": "Die Differenzierungsstrategie basiert auf einzigartigen Produkteigenschaften.",
         "options": ["Richtig", "Falsch"],
         "correct": 0
     },{
         "id": 51,
-        "type": "fill_in_the_blank",
-        "question": "Der Produktlebenszyklus besteht aus Einführung, Wachstum, Reife, Sättigung und ___.",
-        "options": ["Rückgang", "Expansion", "Differenzierung"],
-        "correct": 0
+        "type": "multiple_choice",
+        "question": "Welche Phase des Produktlebenszyklus ist durch eine starke Umsatzsteigerung gekennzeichnet?",
+        "options": [
+            "Einführungsphase",
+            "Wachstumsphase",
+            "Reifephase"
+        ],
+        "correct": 1
     },
     {
         "id": 52,
-        "type": "multiple_choice",
-        "question": "Welche Aufgabe gehört NICHT zur Logistik eines Unternehmens?",
-        "options": [
-            "Transportmanagement",
-            "Lagerhaltung",
-            "Produktentwicklung"
-        ],
-        "correct": 2
+        "type": "true_false",
+        "question": "Die Marktentwicklung ist eine Strategie der Ansoff-Matrix, die sich auf neue Produkte für bestehende Märkte konzentriert.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
     },
     {
         "id": 53,
-        "type": "multiple_response",
-        "question": "Welche Elemente gehören zur SWOT-Analyse?",
-        "options": [
-            "Stärken",
-            "Schwächen",
-            "Mitarbeiterzufriedenheit",
-            "Risiken"
-        ],
-        "correct": [0, 1, 3]
+        "type": "fill_in_the_blank",
+        "question": "Die Aufgabe der Preisstrategie im Marketing ist es, die Preise an den ___ und die Konkurrenz anzupassen.",
+        "options": ["Kundenbedarf", "Produktqualität", "Marktwert"],
+        "correct": 0
     },
     {
         "id": 54,
-        "type": "true_false",
-        "question": "Die Preiselastizität der Nachfrage misst, wie stark die Nachfrage auf Preisänderungen reagiert.",
-        "options": ["Richtig", "Falsch"],
-        "correct": 0
+        "type": "multiple_response",
+        "question": "Welche Faktoren können die Marktstrategie eines Unternehmens beeinflussen?",
+        "options": [
+            "Wettbewerb",
+            "Kundenbedürfnisse",
+            "Rahmenbedingungen",
+            "Innovationskapazität"
+        ],
+        "correct": [0, 1, 2, 3]
     },
     {
         "id": 55,
-        "type": "fill_in_the_blank",
-        "question": "Die Kostenführerschaft zielt darauf ab, durch niedrige Kosten einen Wettbewerbsvorteil zu ___.",
-        "options": ["erzielen", "reduzieren", "verhindern"],
-        "correct": 0
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt das Ziel der Distributionspolitik?",
+        "options": [
+            "Optimale Gestaltung der Produktverpackung",
+            "Effiziente Organisation der Lieferwege",
+            "Steigerung der Produktionskapazität"
+        ],
+        "correct": 1
     },
     {
         "id": 56,
-        "type": "multiple_choice",
-        "question": "Welche der folgenden Aussagen beschreibt die Funktion der Zielbildung in der Planung?",
-        "options": [
-            "Erarbeitung von Alternativen",
-            "Definition von gewünschten Ergebnissen",
-            "Vergleich von Handlungsoptionen"
-        ],
+        "type": "true_false",
+        "question": "Die SWOT-Analyse konzentriert sich ausschließlich auf externe Marktbedingungen.",
+        "options": ["Richtig", "Falsch"],
         "correct": 1
     },
     {
         "id": 57,
+        "type": "fill_in_the_blank",
+        "question": "Der Erfolg einer Marketingstrategie wird durch die ___ der Zielgruppe gemessen.",
+        "options": ["Zufriedenheit", "Kaufhäufigkeit", "Produktqualität"],
+        "correct": 0
+    },
+    {
+        "id": 58,
         "type": "multiple_response",
-        "question": "Welche Vorteile bietet die Einführung von Just-in-Time (JIT)?",
+        "question": "Welche der folgenden Faktoren beeinflussen das Kaufverhalten nach dem SOR-Modell?",
         "options": [
-            "Reduzierte Lagerkosten",
-            "Erhöhte Produktionsflexibilität",
-            "Bessere Kundenkommunikation",
-            "Optimierte Materialflüsse"
+            "Stimuli",
+            "Emotionen",
+            "Preisgestaltung",
+            "Kognitive Prozesse"
         ],
         "correct": [0, 1, 3]
     },
     {
-        "id": 58,
-        "type": "true_false",
-        "question": "Die Balanced Scorecard kombiniert finanzielle und nicht-finanzielle Kennzahlen.",
-        "options": ["Richtig", "Falsch"],
-        "correct": 0
-    },
-    {
         "id": 59,
-        "type": "fill_in_the_blank",
-        "question": "Die Lieferantenauswahl basiert auf Kriterien wie Qualität, Preis und ___.",
-        "options": ["Zuverlässigkeit", "Nachfrage", "Kapital"],
-        "correct": 0
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Aussagen beschreibt die Aufgabe der Preispolitik?",
+        "options": [
+            "Optimierung der Lieferzeiten",
+            "Festlegung eines wettbewerbsfähigen Preises",
+            "Erhöhung der Produktionsmengen"
+        ],
+        "correct": 1
     },
     {
         "id": 60,
-        "type": "multiple_choice",
-        "question": "Welche Phase der Planung umfasst die Bewertung verschiedener Handlungsalternativen?",
-        "options": [
-            "Situationsanalyse",
-            "Alternativenbewertung",
-            "Zielbildung"
-        ],
+        "type": "true_false",
+        "question": "Die Marktsegmentierung ist der letzte Schritt in der Marketing-Planung.",
+        "options": ["Richtig", "Falsch"],
         "correct": 1
     },{
         "id": 61,
         "type": "multiple_choice",
-        "question": "Welche der folgenden Aussagen beschreibt die operative Planung korrekt?",
+        "question": "Welche Rolle spielt die Distributionslogistik in der Marketingstrategie?",
         "options": [
-            "Sie umfasst langfristige strategische Ziele.",
-            "Sie konzentriert sich auf kurzfristige und detaillierte Maßnahmen.",
-            "Sie dient der Analyse von Marktchancen."
+            "Verkürzung der Lieferketten",
+            "Steigerung der Werbewirksamkeit",
+            "Optimierung der Produktionsprozesse"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 62,
         "type": "true_false",
-        "question": "Die Einführung eines neuen Produkts geht in der Regel mit hohen Marketingkosten einher.",
+        "question": "Die Kommunikationspolitik umfasst auch Maßnahmen wie Sponsoring und Influencer-Marketing.",
         "options": ["Richtig", "Falsch"],
         "correct": 0
     },
     {
         "id": 63,
         "type": "fill_in_the_blank",
-        "question": "Die Just-in-Time-Beschaffung erfordert eine hohe ___ von Lieferanten.",
-        "options": ["Zuverlässigkeit", "Flexibilität", "Motivation"],
+        "question": "Die Marktsegmentierung basiert auf demografischen, sozio-ökonomischen und ___ Merkmalen.",
+        "options": ["psychografischen", "technischen", "rechtlichen"],
         "correct": 0
     },
     {
         "id": 64,
         "type": "multiple_response",
-        "question": "Welche Faktoren spielen eine Rolle bei der Produktentwicklung?",
+        "question": "Welche der folgenden Informationen werden bei der internen Marktanalyse genutzt?",
         "options": [
-            "Innovationsfähigkeit",
-            "Kundenbedürfnisse",
+            "Kosten und Erlöse",
             "Markttrends",
-            "Lagerkapazität"
+            "Produktionskapazitäten",
+            "Ressourcenverfügbarkeit"
         ],
-        "correct": [0, 1, 2]
+        "correct": [0, 2, 3]
     },
     {
         "id": 65,
         "type": "multiple_choice",
-        "question": "Welche Aufgabe hat die Kontrolle im Unternehmen?",
+        "question": "Welche Phase des Kaufverhaltens wird im SOR-Modell als \"Organismus\" bezeichnet?",
         "options": [
-            "Abweichungen vom Plan erkennen",
-            "Marktchancen analysieren",
-            "Langfristige Ziele definieren"
+            "Stimulus",
+            "Entscheidungsfindung",
+            "Innere Prozesse des Käufers"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "id": 66,
         "type": "true_false",
-        "question": "Die SWOT-Analyse ist ein Werkzeug zur internen Bewertung von Unternehmen.",
+        "question": "Ein Produkt mit hohem Marktanteil in einem stagnierenden Markt wird in der BCG-Matrix als Cash Cow bezeichnet.",
         "options": ["Richtig", "Falsch"],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 67,
         "type": "fill_in_the_blank",
-        "question": "Die Mitarbeiterzufriedenheit wird durch monetäre und ___ Motivationsinstrumente beeinflusst.",
-        "options": ["nicht-monetäre", "technische", "finanzielle"],
+        "question": "Die strategische Planung richtet sich langfristig auf einen Zeitraum von mehr als ___ Jahren aus.",
+        "options": ["5", "3", "10"],
         "correct": 0
     },
     {
         "id": 68,
         "type": "multiple_response",
-        "question": "Welche der folgenden Strategien gehören zur Ansoff-Matrix?",
+        "question": "Welche der folgenden Aspekte gehören zur Preisdifferenzierung?",
         "options": [
-            "Marktdurchdringung",
-            "Marktentwicklung",
-            "Produktentwicklung",
-            "Diversifikation"
-        ],
-        "correct": [0, 1, 2, 3]
-    },
-    {
-        "id": 69,
-        "type": "multiple_choice",
-        "question": "Welche Kennzahl misst die Rentabilität eines Unternehmens?",
-        "options": [
-            "Eigenkapitalquote",
-            "Return on Investment (ROI)",
-            "Liquiditätsgrad 1. Grades"
-        ],
-        "correct": 1
-    },
-    {
-        "id": 70,
-        "type": "true_false",
-        "question": "Eine hohe Kapitalbindung erhöht die finanzielle Flexibilität eines Unternehmens.",
-        "options": ["Richtig", "Falsch"],
-        "correct": 1
-    },{
-        "id": 71,
-        "type": "fill_in_the_blank",
-        "question": "Ein niedriger Lagerumschlag deutet auf eine ineffiziente Nutzung der ___ hin.",
-        "options": ["Lagerkapazität", "Arbeitskräfte", "Produktionsmittel"],
-        "correct": 0
-    },
-    {
-        "id": 72,
-        "type": "multiple_choice",
-        "question": "Welche Aussage trifft auf die Balanced Scorecard zu?",
-        "options": [
-            "Sie fokussiert sich ausschließlich auf finanzielle Kennzahlen.",
-            "Sie kombiniert finanzielle und nicht-finanzielle Perspektiven.",
-            "Sie analysiert ausschließlich interne Prozesse."
-        ],
-        "correct": 1
-    },
-    {
-        "id": 73,
-        "type": "multiple_response",
-        "question": "Welche der folgenden Ziele gehören zur langfristigen Unternehmensstrategie?",
-        "options": [
-            "Marktführerschaft",
-            "Nachhaltigkeit",
-            "Kurzfristige Gewinnmaximierung",
-            "Innovationsfähigkeit"
+            "Zeitliche Differenzierung",
+            "Räumliche Differenzierung",
+            "Produktionskostenreduktion",
+            "Kundenspezifische Anpassung"
         ],
         "correct": [0, 1, 3]
     },
     {
-        "id": 74,
-        "type": "true_false",
-        "question": "Die Distributionspolitik umfasst alle Maßnahmen, die den Weg eines Produkts zum Kunden betreffen.",
-        "options": ["Richtig", "Falsch"],
-        "correct": 0
-    },
-    {
-        "id": 75,
-        "type": "fill_in_the_blank",
-        "question": "Die Führungsspanne bezeichnet die Anzahl der ___, die einer Führungskraft direkt unterstellt sind.",
-        "options": ["Mitarbeiter", "Abteilungen", "Ziele"],
-        "correct": 0
-    },
-    {
-        "id": 76,
+        "id": 69,
         "type": "multiple_choice",
-        "question": "Welche der folgenden Maßnahmen dient zur Verbesserung der Liquidität?",
+        "question": "Welche Aussage beschreibt das Ziel der Diversifikationsstrategie korrekt?",
         "options": [
-            "Erhöhung der Lagerbestände",
-            "Verkürzung der Zahlungsziele für Kunden",
-            "Erhöhung der Fixkosten"
-        ],
-        "correct": 1
-    },
-    {
-        "id": 77,
-        "type": "multiple_response",
-        "question": "Welche Instrumente gehören zur Kommunikationspolitik?",
-        "options": [
-            "Werbung",
-            "Public Relations",
-            "Verkaufsförderung",
-            "Lagerhaltung"
-        ],
-        "correct": [0, 1, 2]
-    },
-    {
-        "id": 78,
-        "type": "true_false",
-        "question": "Die Produktdifferenzierung zielt darauf ab, Produkte einzigartig zu machen und sich von Wettbewerbern abzuheben.",
-        "options": ["Richtig", "Falsch"],
-        "correct": 0
-    },
-    {
-        "id": 79,
-        "type": "fill_in_the_blank",
-        "question": "Die Einführungsphase eines Produkts ist durch hohe ___ und geringe Umsätze gekennzeichnet.",
-        "options": ["Kosten", "Gewinne", "Marktanteile"],
-        "correct": 0
-    },
-    {
-        "id": 80,
-        "type": "multiple_choice",
-        "question": "Welche der folgenden Aussagen beschreibt das Ziel der Personalbedarfsplanung?",
-        "options": [
-            "Maximierung der Mitarbeiterzufriedenheit",
-            "Anpassung der Personalkapazität an den Bedarf",
-            "Steigerung der Innovationsfähigkeit"
-        ],
-        "correct": 1
-    },{
-        "id": 81,
-        "type": "multiple_choice",
-        "question": "Welche Phase des Produktlebenszyklus ist durch den höchsten Gewinn gekennzeichnet?",
-        "options": [
-            "Einführungsphase",
-            "Wachstumsphase",
-            "Reifephase"
+            "Neue Märkte mit bestehenden Produkten erschließen",
+            "Neue Produkte in bestehenden Märkten einführen",
+            "Neue Produkte in neuen Märkten entwickeln"
         ],
         "correct": 2
     },
     {
+        "id": 70,
+        "type": "true_false",
+        "question": "Die Produktpolitik umfasst die Gestaltung von technischen und ästhetischen Produkteigenschaften.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 71,
+        "type": "multiple_choice",
+        "question": "Welche Phase der Marketing-Planung beschäftigt sich mit der Definition geeigneter Zielgruppen?",
+        "options": [
+            "Marktanalyse",
+            "Marktsegmentierung",
+            "Marketing-Mix"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 72,
+        "type": "true_false",
+        "question": "Im Preiswettbewerb stehen die Eigenschaften des Produkts im Vordergrund.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 73,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ beschreibt die Verfügbarkeit von Ressourcen und Produktionskapazitäten in der internen Marktanalyse.",
+        "options": ["Ressourcenanalyse", "Rahmenanalyse", "SWOT-Analyse"],
+        "correct": 0
+    },
+    {
+        "id": 74,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Strategien gehören zu den generischen Wettbewerbsstrategien?",
+        "options": [
+            "Fokussierung",
+            "Preisführerschaft",
+            "Marktentwicklung",
+            "Differenzierung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 75,
+        "type": "multiple_choice",
+        "question": "Welche Art von Wettbewerb konzentriert sich auf heterogene Güter wie Sportwagen?",
+        "options": [
+            "Preiswettbewerb",
+            "Produktwettbewerb",
+            "Kostenwettbewerb"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 76,
+        "type": "true_false",
+        "question": "Die Kommunikationspolitik ist Teil des Marketing-Mix.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 77,
+        "type": "fill_in_the_blank",
+        "question": "Die Ansoff-Matrix analysiert mögliche ___ zur Erschließung neuer Märkte und Produkte.",
+        "options": ["Strategien", "Rahmenbedingungen", "Produkteigenschaften"],
+        "correct": 0
+    },
+    {
+        "id": 78,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zur Distributionspolitik?",
+        "options": [
+            "Absatzwege",
+            "Transport",
+            "Lagerung",
+            "Produktqualität"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 79,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Differenzierungsstrategie?",
+        "options": [
+            "Kostenreduktion",
+            "Einzigartigkeit und Qualität",
+            "Erhöhung des Marktanteils durch Preissenkungen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 80,
+        "type": "true_false",
+        "question": "Die SMART-Regel wird genutzt, um realistische und klare Ziele zu formulieren.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 81,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Aufgabe der Produktpolitik?",
+        "options": [
+            "Optimierung der Lieferwege",
+            "Gestaltung von Produkteigenschaften wie Design und Qualität",
+            "Reduzierung der Produktionskosten"
+        ],
+        "correct": 1
+    },
+    {
         "id": 82,
         "type": "true_false",
-        "question": "Die Organisationsform eines Unternehmens beeinflusst seine Effizienz und Kommunikationswege.",
+        "question": "Die Marktstrategie legt fest, wie ein Produkt in einem spezifischen Marktsegment positioniert wird.",
         "options": ["Richtig", "Falsch"],
         "correct": 0
     },
     {
         "id": 83,
         "type": "fill_in_the_blank",
-        "question": "Die SWOT-Analyse identifiziert Chancen und ___ in der externen Umgebung.",
-        "options": ["Risiken", "Schwächen", "Trends"],
+        "question": "Die BCG-Matrix bewertet Produkte basierend auf ihrem Marktanteil und ___.",
+        "options": ["Marktwachstum", "Produktqualität", "Verkaufspreis"],
         "correct": 0
     },
     {
         "id": 84,
         "type": "multiple_response",
-        "question": "Welche Aufgaben gehören zur Beschaffung?",
+        "question": "Welche Faktoren spielen eine Rolle in der Kommunikationspolitik?",
         "options": [
-            "Lieferantenauswahl",
-            "Bedarfsermittlung",
-            "Produktdesign",
-            "Preisverhandlung"
+            "Werbebudget",
+            "Botschaften",
+            "Absatzkanäle",
+            "Werbeträger"
         ],
         "correct": [0, 1, 3]
     },
     {
         "id": 85,
         "type": "multiple_choice",
-        "question": "Welche Strategie ist keine generische Wettbewerbsstrategie nach Porter?",
+        "question": "Welche Phase des Produktlebenszyklus ist durch einen maximalen Gewinn gekennzeichnet?",
         "options": [
-            "Kostenführerschaft",
-            "Differenzierung",
-            "Produktbündelung"
+            "Einführungsphase",
+            "Reifephase",
+            "Sättigungsphase"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "id": 86,
         "type": "true_false",
-        "question": "Ein hoher Sicherheitsbestand reduziert die Kapitalbindung im Lager.",
+        "question": "Das Ziel der Preispolitik ist es, die maximal mögliche Gewinnspanne zu erzielen.",
         "options": ["Richtig", "Falsch"],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 87,
         "type": "fill_in_the_blank",
-        "question": "Die Matrixorganisation kombiniert die funktionale Organisation und die ___ Organisation.",
-        "options": ["divisionale", "operative", "strategische"],
+        "question": "Die Marktsegmentierung basiert auf ___ wie Alter, Einkommen oder Lebensstil.",
+        "options": ["Kriterien", "Datenbanken", "Produkteigenschaften"],
         "correct": 0
     },
     {
         "id": 88,
         "type": "multiple_response",
-        "question": "Welche der folgenden Faktoren beeinflussen die Entscheidung für eine Make-or-Buy-Strategie?",
+        "question": "Welche der folgenden Instrumente gehören zum Marketing-Mix?",
         "options": [
-            "Kosten",
-            "Know-how",
-            "Markenbekanntheit",
-            "Produktionskapazitäten"
+            "Produktpolitik",
+            "Preispolitik",
+            "Distributionspolitik",
+            "Marktanalyse"
         ],
-        "correct": [0, 1, 3]
+        "correct": [0, 1, 2]
     },
     {
         "id": 89,
         "type": "multiple_choice",
-        "question": "Welches Ziel verfolgt die Corporate Governance?",
+        "question": "Welcher Aspekt ist KEIN Bestandteil der SMART-Regel?",
         "options": [
-            "Erhöhung der Mitarbeiterzufriedenheit",
-            "Transparente und nachhaltige Unternehmensführung",
-            "Optimierung der Produktionskosten"
+            "Messbar",
+            "Terminiert",
+            "Profitabel"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "id": 90,
         "type": "true_false",
-        "question": "Die taktische Planung ist langfristiger ausgerichtet als die strategische Planung.",
+        "question": "Eine erfolgreiche Marktsegmentierung führt zu einer undifferenzierten Zielgruppenansprache.",
         "options": ["Richtig", "Falsch"],
         "correct": 1
     },{
         "id": 91,
-        "type": "fill_in_the_blank",
-        "question": "Der Rückgang der Verkaufszahlen in der letzten Phase des Produktlebenszyklus wird als ___ bezeichnet.",
-        "options": ["Degeneration", "Sättigung", "Reife"],
-        "correct": 0
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Phasen gehört NICHT zum Produktlebenszyklus?",
+        "options": [
+            "Einführungsphase",
+            "Wachstumsphase",
+            "Preisreduktionsphase"
+        ],
+        "correct": 2
     },
     {
         "id": 92,
-        "type": "multiple_choice",
-        "question": "Welche Aussage beschreibt die Produktentwicklung als Strategie der Ansoff-Matrix?",
-        "options": [
-            "Neue Produkte für bestehende Märkte entwickeln",
-            "Bestehende Produkte in neue Märkte einführen",
-            "Produkte mit geringeren Kosten anbieten"
-        ],
+        "type": "true_false",
+        "question": "Die Marktdurchdringung ist eine Strategie zur Gewinnung neuer Kunden in einem bestehenden Markt.",
+        "options": ["Richtig", "Falsch"],
         "correct": 0
     },
     {
         "id": 93,
+        "type": "fill_in_the_blank",
+        "question": "Die Zielgruppe im Marketing wird oft durch ___ Kriterien wie Alter oder Einkommen definiert.",
+        "options": ["demografische", "technische", "ökonomische"],
+        "correct": 0
+    },
+    {
+        "id": 94,
         "type": "multiple_response",
-        "question": "Welche Faktoren können die Wahl der Distributionskanäle beeinflussen?",
+        "question": "Welche Aspekte können im Rahmen der SWOT-Analyse als externe Risiken identifiziert werden?",
         "options": [
-            "Zielgruppe",
-            "Produktart",
+            "Wettbewerb",
             "Markttrends",
-            "Lagerkosten"
+            "Regulierungen",
+            "Produktqualität"
         ],
         "correct": [0, 1, 2]
     },
     {
-        "id": 94,
-        "type": "true_false",
-        "question": "Die Einführung neuer Technologien gehört zur taktischen Planung.",
-        "options": ["Richtig", "Falsch"],
-        "correct": 1
-    },
-    {
         "id": 95,
-        "type": "fill_in_the_blank",
-        "question": "Die ___ beschreibt die Anzahl der direkten Unterstellten einer Führungskraft.",
-        "options": ["Führungsspanne", "Hierarchieebene", "Organisationsstruktur"],
+        "type": "multiple_choice",
+        "question": "Welche Strategie der Ansoff-Matrix konzentriert sich auf die Einführung bestehender Produkte in neue Märkte?",
+        "options": [
+            "Marktentwicklung",
+            "Diversifikation",
+            "Produktentwicklung"
+        ],
         "correct": 0
     },
     {
         "id": 96,
-        "type": "multiple_choice",
-        "question": "Welche Aufgabe hat die Personalentwicklung?",
-        "options": [
-            "Erhöhung der Produktionsleistung",
-            "Förderung der beruflichen Qualifikationen der Mitarbeiter",
-            "Optimierung der Lagerbestände"
-        ],
-        "correct": 1
-    },
-    {
-        "id": 97,
-        "type": "multiple_response",
-        "question": "Welche Phasen gehören zum Phasenschema der Planung?",
-        "options": [
-            "Zielbildung",
-            "Situationsanalyse",
-            "Alternativenbewertung",
-            "Marktforschung"
-        ],
-        "correct": [0, 1, 2]
-    },
-    {
-        "id": 98,
         "type": "true_false",
-        "question": "Die SWOT-Analyse hilft bei der Identifikation von internen und externen Chancen.",
+        "question": "Der Marketing-Mix kombiniert die strategischen Maßnahmen eines Unternehmens, um den Kundennutzen zu maximieren.",
         "options": ["Richtig", "Falsch"],
         "correct": 0
     },
     {
-        "id": 99,
+        "id": 97,
         "type": "fill_in_the_blank",
-        "question": "Ein niedriger Deckungsbeitrag deutet darauf hin, dass die variablen Kosten im Vergleich zu den ___ zu hoch sind.",
-        "options": ["Verkaufspreisen", "Fixkosten", "Lagerbeständen"],
+        "question": "Die Wettbewerbsstrategie der Preisführerschaft basiert auf der ___ von Kosten.",
+        "options": ["Reduktion", "Steigerung", "Erhaltung"],
         "correct": 0
     },
     {
-        "id": 100,
-        "type": "multiple_choice",
-        "question": "Welche Aussage beschreibt die Bedeutung der Eigenkapitalquote?",
+        "id": 98,
+        "type": "multiple_response",
+        "question": "Welche Faktoren werden bei der Analyse des Kaufverhaltens im SOR-Modell berücksichtigt?",
         "options": [
-            "Sie zeigt das Verhältnis von Eigenkapital zu Gesamtkapital.",
-            "Sie misst die Rentabilität des Unternehmens.",
-            "Sie beschreibt die Liquidität des Unternehmens."
+            "Emotionen",
+            "Kognitive Prozesse",
+            "Marktbedingungen",
+            "Preisgestaltung"
         ],
-        "correct": 0
+        "correct": [0, 1]
+    },
+    {
+        "id": 99,
+        "type": "multiple_choice",
+        "question": "Welche Phase des Kaufverhaltens beschreibt die Reaktion des Kunden auf einen Stimulus?",
+        "options": [
+            "Stimulus",
+            "Organismus",
+            "Response"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 100,
+        "type": "true_false",
+        "question": "Die Distributionspolitik konzentriert sich ausschließlich auf die Kostenoptimierung der Lieferwege.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
     }
 ]
