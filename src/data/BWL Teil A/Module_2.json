@@ -1,0 +1,913 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Welche Entscheidung zählt zu den konstitutiven Entscheidungen eines Unternehmens?",
+        "options": [
+            "Wahl des Unternehmensstandorts",
+            "Planung der Marketingstrategie",
+            "Festlegung der Jahresziele"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Ein Einzelunternehmen haftet nur mit seinem Gesellschaftsvermögen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 3,
+        "type": "fill_in_the_blank",
+        "question": "Ein Hauptkriterium für die Standortwahl ist die Verfügbarkeit qualifizierter ___.",
+        "options": ["Arbeitskräfte", "Energiequellen", "Anlagegüter"],
+        "correct": 0
+    },
+    {
+        "id": 4,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Ziele gehören zu den Unterzielen von Unternehmenszusammenschlüssen?",
+        "options": [
+            "Rationalisierung",
+            "Diversifizierung",
+            "Kundennähe",
+            "Konzentration"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "Was ist ein typisches Merkmal einer Kapitalgesellschaft?",
+        "options": [
+            "Unbeschränkte Haftung aller Gesellschafter",
+            "Haftung auf das Gesellschaftsvermögen beschränkt",
+            "Leitung durch alle Gesellschafter"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 6,
+        "type": "true_false",
+        "question": "Ein Kartell ist eine Form der Kooperation zwischen Unternehmen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 7,
+        "type": "fill_in_the_blank",
+        "question": "Eine ___ Gesellschaft haftet nur mit dem eingebrachten Kapital und nicht mit dem Privatvermögen der Gesellschafter.",
+        "options": ["Kapital-", "Personen-", "stillen"],
+        "correct": 0
+    },
+    {
+        "id": 8,
+        "type": "multiple_response",
+        "question": "Welche Arten der Liquidation gibt es?",
+        "options": [
+            "Freiwillige Liquidation",
+            "Zwangsweise Liquidation",
+            "Strategische Liquidation",
+            "Gesetzliche Liquidation"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "Welche Gesellschaftsform hat ein Mindestkapital von 50.000 €?",
+        "options": [
+            "GmbH",
+            "AG",
+            "GbR"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 10,
+        "type": "true_false",
+        "question": "Die Standortwahl beeinflusst sowohl den Gütereinsatz (Input) als auch den Güterabsatz (Output).",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Was versteht man unter einer Fusion?",
+        "options": [
+            "Die Zusammenarbeit von Unternehmen auf vertraglicher Basis",
+            "Den Zusammenschluss zweier Unternehmen zu einer rechtlichen Einheit",
+            "Den Kauf von Unternehmensanteilen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Eine Gelegenheitsgesellschaft ist auf eine langfristige Zusammenarbeit ausgelegt.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 13,
+        "type": "fill_in_the_blank",
+        "question": "Eine Interessengemeinschaft hat häufig die Rechtsform einer ___.",
+        "options": ["GbR", "AG", "GmbH"],
+        "correct": 0
+    },
+    {
+        "id": 14,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Wahl der Rechtsform eines Unternehmens?",
+        "options": [
+            "Haftung",
+            "Steuern",
+            "Marktanteile",
+            "Leitung und Kontrolle"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "Welche Art der Kooperation ist durch die Gründung eines neuen gemeinsamen Unternehmens charakterisiert?",
+        "options": [
+            "Kartell",
+            "Interessengemeinschaft",
+            "Joint Venture"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 16,
+        "type": "true_false",
+        "question": "Bei einer OHG haften alle Gesellschafter gesamtschuldnerisch.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 17,
+        "type": "fill_in_the_blank",
+        "question": "Ein wichtiger Vorteil eines Joint Ventures ist die gemeinsame Nutzung von ___.",
+        "options": ["Kapital", "Ressourcen", "Marktanteilen"],
+        "correct": 1
+    },
+    {
+        "id": 18,
+        "type": "multiple_response",
+        "question": "Welche Ziele verfolgt die Rationalisierung als Unterziel von Unternehmenszusammenschlüssen?",
+        "options": [
+            "Effizientere Ressourcennutzung",
+            "Optimierung von Prozessen",
+            "Erweiterung des Geschäftsfelds",
+            "Kostensenkung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 19,
+        "type": "multiple_choice",
+        "question": "Was ist ein typisches Ziel einer Diversifizierung?",
+        "options": [
+            "Bildung größerer Wirtschaftseinheiten",
+            "Erweiterung des Geschäftsfelds",
+            "Optimierung der Prozesse"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 20,
+        "type": "true_false",
+        "question": "Ein Kartell ist in den meisten Ländern rechtlich erlaubt.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Was versteht man unter einer freiwilligen Liquidation?",
+        "options": [
+            "Die Auflösung des Unternehmens aufgrund gesetzlicher Vorschriften",
+            "Die Entscheidung der Gesellschafter, das Unternehmen aufzulösen",
+            "Die Auflösung aufgrund von Zahlungsunfähigkeit"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Eine Überschuldung kann zur zwangsweisen Liquidation führen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 23,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ beschreibt die Auflösung eines Unternehmens durch Verkauf aller Vermögensgegenstände.",
+        "options": ["Liquidation", "Fusion", "Beteiligung"],
+        "correct": 0
+    },
+    {
+        "id": 24,
+        "type": "multiple_response",
+        "question": "Welche Formen der Konzentration gibt es?",
+        "options": [
+            "Beteiligung",
+            "Konzern",
+            "Fusion",
+            "Kartell"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 25,
+        "type": "multiple_choice",
+        "question": "Welche Organisation ist typisch für eine Gelegenheitsgesellschaft?",
+        "options": [
+            "AG",
+            "GbR",
+            "OHG"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 26,
+        "type": "true_false",
+        "question": "Eine Genossenschaft haftet immer unbeschränkt mit dem Vermögen ihrer Mitglieder.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 27,
+        "type": "fill_in_the_blank",
+        "question": "Die Standortwahl orientiert sich an ___ und Absatzfaktoren.",
+        "options": ["Input-", "Output-", "Kapital-"],
+        "correct": 0
+    },
+    {
+        "id": 28,
+        "type": "multiple_response",
+        "question": "Welche Beispiele gehören zu den Personengesellschaften?",
+        "options": [
+            "OHG",
+            "KG",
+            "AG",
+            "GmbH"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 29,
+        "type": "multiple_choice",
+        "question": "Welche Rechtsform haftet sowohl mit Privat- als auch mit Gesellschaftsvermögen?",
+        "options": [
+            "Einzelunternehmen",
+            "GmbH",
+            "AG"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 30,
+        "type": "true_false",
+        "question": "Eine Interessengemeinschaft dient der Durchführung zeitlich befristeter Projekte.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Welche Gesellschaftsform eignet sich für Startups mit geringem Anfangskapital?",
+        "options": [
+            "GmbH",
+            "UG",
+            "AG"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Eine Fusion führt zur rechtlichen Selbstständigkeit der beteiligten Unternehmen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 33,
+        "type": "fill_in_the_blank",
+        "question": "Eine ___ wird durch die Gründung eines neuen Unternehmens realisiert, das von mehreren Unternehmen gemeinsam geführt wird.",
+        "options": ["Joint Venture", "Kartell", "Interessengemeinschaft"],
+        "correct": 0
+    },
+    {
+        "id": 34,
+        "type": "multiple_response",
+        "question": "Welche sind Kriterien für die Wahl eines Unternehmensstandorts?",
+        "options": [
+            "Arbeitskräfteverfügbarkeit",
+            "Transportkosten",
+            "Anzahl der Mitbewerber",
+            "Verfügbarkeit von Subventionen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 35,
+        "type": "multiple_choice",
+        "question": "Welche Organisation ist typisch für eine stille Gesellschaft?",
+        "options": [
+            "GbR",
+            "OHG",
+            "Keine eigene Organisation"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 36,
+        "type": "true_false",
+        "question": "Die Rationalisierung als Unterziel von Unternehmenszusammenschlüssen dient der Effizienzsteigerung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 37,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ ist ein Zusammenschluss von Unternehmen zur Optimierung der Marktposition.",
+        "options": ["Konzentration", "Kooperation", "Liquidation"],
+        "correct": 0
+    },
+    {
+        "id": 38,
+        "type": "multiple_response",
+        "question": "Welche Formen der Unternehmenszusammenschlüsse gibt es?",
+        "options": [
+            "Kooperation",
+            "Konzentration",
+            "Interessengemeinschaft",
+            "Fusion"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Was ist ein typisches Merkmal der KGaA?",
+        "options": [
+            "Haftung nur mit Gesellschaftsvermögen",
+            "Unbeschränkte Haftung der Komplementäre",
+            "Gesamtschuldnerische Haftung aller Gesellschafter"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 40,
+        "type": "true_false",
+        "question": "Ein Konzern besteht aus rechtlich selbständigen, aber wirtschaftlich abhängigen Unternehmen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Welche Rechtsform erfordert ein Mindestkapital von 25.000 €?",
+        "options": [
+            "GmbH",
+            "UG",
+            "AG"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Bei einer Beteiligung bleiben beide Unternehmen rechtlich selbstständig.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 43,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ ist eine freiwillige Zusammenarbeit rechtlich selbständiger Unternehmen auf vertraglicher Basis.",
+        "options": ["Kooperation", "Fusion", "Konzentration"],
+        "correct": 0
+    },
+    {
+        "id": 44,
+        "type": "multiple_response",
+        "question": "Welche Unternehmensziele verfolgen öffentliche Betriebe?",
+        "options": [
+            "Gewinnmaximierung",
+            "Kostendeckung",
+            "Förderung öffentlicher Interessen",
+            "Steigerung des Aktienwertes"
+        ],
+        "correct": [1, 2]
+    },
+    {
+        "id": 45,
+        "type": "multiple_choice",
+        "question": "Was ist das Ziel einer Rationalisierung?",
+        "options": [
+            "Optimierung der Ressourcennutzung",
+            "Diversifikation des Produktportfolios",
+            "Erweiterung des Marktanteils"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 46,
+        "type": "true_false",
+        "question": "Ein Vorteil der Kooperation ist die gemeinsame Nutzung von Ressourcen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 47,
+        "type": "fill_in_the_blank",
+        "question": "Eine ___ entsteht durch den Erwerb von Anteilen an einem anderen Unternehmen.",
+        "options": ["Beteiligung", "Fusion", "Interessengemeinschaft"],
+        "correct": 0
+    },
+    {
+        "id": 48,
+        "type": "multiple_response",
+        "question": "Welche Entscheidungen zählen zu konstitutiven Entscheidungen?",
+        "options": [
+            "Standortwahl",
+            "Rechtsformwahl",
+            "Marketingstrategie",
+            "Liquidation"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 49,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt eine Diversifizierung?",
+        "options": [
+            "Effizienzsteigerung durch Prozessoptimierung",
+            "Risikominderung durch Erweiterung des Geschäftsbereichs",
+            "Reduzierung von Produktionskosten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 50,
+        "type": "true_false",
+        "question": "Eine Genossenschaft dient ausschließlich der Gewinnmaximierung ihrer Mitglieder.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Form der Unternehmenszusammenschlüsse gibt rechtliche und wirtschaftliche Selbstständigkeit vollständig auf?",
+        "options": [
+            "Kooperation",
+            "Fusion",
+            "Joint Venture"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 52,
+        "type": "true_false",
+        "question": "Ein Einzelunternehmen hat keine Veröffentlichungspflichten.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 53,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ beschreibt die Verschmelzung von Unternehmen zu einer rechtlichen und wirtschaftlichen Einheit.",
+        "options": ["Fusion", "Kooperation", "Interessengemeinschaft"],
+        "correct": 0
+    },
+    {
+        "id": 54,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Faktoren gehören zu den Kriterien der Standortwahl?",
+        "options": [
+            "Verfügbarkeit von Arbeitskräften",
+            "Transportinfrastruktur",
+            "Mitbewerberdichte",
+            "Steuervergünstigungen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 55,
+        "type": "multiple_choice",
+        "question": "Welche Unternehmensform haftet mit Gesellschaftsvermögen und nicht mit dem Privatvermögen der Gesellschafter?",
+        "options": [
+            "GmbH",
+            "OHG",
+            "Einzelunternehmen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 56,
+        "type": "true_false",
+        "question": "Eine stille Gesellschaft haftet ausschließlich mit dem eingebrachten Kapital des stillen Gesellschafters.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 57,
+        "type": "fill_in_the_blank",
+        "question": "Die Wahl der ___ beeinflusst Steuerpflichten, Finanzierungsmöglichkeiten und Haftungsfragen eines Unternehmens.",
+        "options": ["Rechtsform", "Standortwahl", "Liquidation"],
+        "correct": 0
+    },
+    {
+        "id": 58,
+        "type": "multiple_response",
+        "question": "Welche Beispiele fallen unter kapitalbasierte Gesellschaftsformen?",
+        "options": [
+            "GmbH",
+            "UG",
+            "AG",
+            "GbR"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 59,
+        "type": "multiple_choice",
+        "question": "Was ist ein typisches Merkmal einer Genossenschaft?",
+        "options": [
+            "Haftung ausschließlich mit Privatvermögen",
+            "Förderung der wirtschaftlichen Interessen der Mitglieder",
+            "Leitung durch einen einzigen Gesellschafter"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 60,
+        "type": "true_false",
+        "question": "Eine Zwangsliquidation erfolgt ausschließlich bei freiwilligem Beschluss der Gesellschafter.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Welche Rechtsform erfordert ein Mindestkapital von nur 1 €?",
+        "options": [
+            "UG",
+            "GmbH",
+            "AG"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "Eine Interessengemeinschaft dient der langfristigen Zusammenarbeit zwischen Unternehmen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "fill_in_the_blank",
+        "question": "Ein ___ haftet in einer KG unbeschränkt für die Schulden der Gesellschaft.",
+        "options": ["Komplementär", "Kommanditist", "Gesellschafter"],
+        "correct": 0
+    },
+    {
+        "id": 64,
+        "type": "multiple_response",
+        "question": "Welche Beispiele gehören zu den Hauptformen der Konzentration?",
+        "options": [
+            "Fusion",
+            "Beteiligung",
+            "Konzern",
+            "Joint Venture"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 65,
+        "type": "multiple_choice",
+        "question": "Welche Form der Zusammenarbeit schränkt den Wettbewerb ein und ist oft gesetzlich verboten?",
+        "options": [
+            "Interessengemeinschaft",
+            "Kartell",
+            "Fusion"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 66,
+        "type": "true_false",
+        "question": "Eine AG ist eine Rechtsform, die häufig für große Unternehmen gewählt wird.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 67,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ dient dazu, die langfristige Gewinnmaximierung eines Unternehmens zu sichern.",
+        "options": ["Strategie", "Fusion", "Liquidation"],
+        "correct": 0
+    },
+    {
+        "id": 68,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die finanzielle Stabilität eines Unternehmens?",
+        "options": [
+            "Einzahlungen aus dem Absatzmarkt",
+            "Zugang zu Kapitalquellen",
+            "Kostenstruktur",
+            "Marktanteile"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 69,
+        "type": "multiple_choice",
+        "question": "Was ist eine wesentliche Eigenschaft eines Konzerns?",
+        "options": [
+            "Rechtliche Einheit",
+            "Rechtliche Selbstständigkeit, aber wirtschaftliche Abhängigkeit",
+            "Nur wirtschaftliche Selbstständigkeit"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 70,
+        "type": "true_false",
+        "question": "Ein Hauptziel der Diversifizierung ist die Risikominderung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 71,
+        "type": "multiple_choice",
+        "question": "Welche Rechtsform wird durch eine Haftung mit Privatvermögen und einfacher Gründung charakterisiert?",
+        "options": [
+            "Einzelunternehmen",
+            "GmbH",
+            "AG"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 72,
+        "type": "true_false",
+        "question": "Eine Zwangsliquidation erfolgt nur bei Überschuldung oder Zahlungsunfähigkeit.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 73,
+        "type": "fill_in_the_blank",
+        "question": "Eine ___ hat die Aufgabe, langfristige Gewinnmaximierung durch Zusammenschluss rechtlich selbständiger Unternehmen zu erreichen.",
+        "options": ["Konzentration", "Fusion", "Kooperation"],
+        "correct": 0
+    },
+    {
+        "id": 74,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Ziele gehören zu Unternehmenszusammenschlüssen?",
+        "options": [
+            "Rationalisierung",
+            "Kostensenkung",
+            "Diversifizierung",
+            "Markterweiterung"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 75,
+        "type": "multiple_choice",
+        "question": "Welche Gesellschaft haftet ausschließlich mit ihrem Gesellschaftsvermögen?",
+        "options": [
+            "GbR",
+            "GmbH",
+            "OHG"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 76,
+        "type": "true_false",
+        "question": "Eine Gelegenheitsgesellschaft ist in der Regel zeitlich begrenzt.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 77,
+        "type": "fill_in_the_blank",
+        "question": "Die Standortwahl wird durch ___ beeinflusst, wie z. B. Infrastruktur oder Steuervorteile.",
+        "options": ["Rahmenbedingungen", "Finanzierungsoptionen", "Marketingstrategien"],
+        "correct": 0
+    },
+    {
+        "id": 78,
+        "type": "multiple_response",
+        "question": "Welche Eigenschaften treffen auf eine Fusion zu?",
+        "options": [
+            "Rechtliche Einheit nach Zusammenschluss",
+            "Beibehaltung der rechtlichen Selbstständigkeit",
+            "Wirtschaftliche Einheit nach Zusammenschluss",
+            "Aufgabe der rechtlichen Selbstständigkeit"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 79,
+        "type": "multiple_choice",
+        "question": "Welche Organisationsform wird durch die Gründung eines neuen Unternehmens zwischen mehreren Partnern charakterisiert?",
+        "options": [
+            "Joint Venture",
+            "Konzern",
+            "Fusion"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 80,
+        "type": "true_false",
+        "question": "Eine Kartellbildung ist in vielen Ländern aufgrund wettbewerbsrechtlicher Vorschriften verboten.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 81,
+        "type": "multiple_choice",
+        "question": "Welche Rechtsform kombiniert unbeschränkte Haftung und beschränkte Haftung?",
+        "options": [
+            "OHG",
+            "KG",
+            "GmbH"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 82,
+        "type": "true_false",
+        "question": "Die Rationalisierung bei Unternehmenszusammenschlüssen zielt darauf ab, die Marktanteile zu erhöhen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 83,
+        "type": "fill_in_the_blank",
+        "question": "Eine ___ beschreibt den Erwerb von Anteilen eines Unternehmens durch ein anderes.",
+        "options": ["Beteiligung", "Fusion", "Kooperation"],
+        "correct": 0
+    },
+    {
+        "id": 84,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Kriterien sind für die Wahl der Rechtsform entscheidend?",
+        "options": [
+            "Haftung",
+            "Steuern",
+            "Mitbewerberanzahl",
+            "Publizitätspflichten"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 85,
+        "type": "multiple_choice",
+        "question": "Was ist ein typisches Merkmal einer AG?",
+        "options": [
+            "Haftung mit Privatvermögen der Aktionäre",
+            "Leitung durch einen Geschäftsführer",
+            "Haftung nur mit Aktienkapital"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 86,
+        "type": "true_false",
+        "question": "Eine stille Gesellschaft kann öffentlich am Kapitalmarkt handeln.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 87,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ beschreibt die rechtliche Einheit, die entsteht, wenn Unternehmen vollständig fusionieren.",
+        "options": ["Fusion", "Konzentration", "Kooperation"],
+        "correct": 0
+    },
+    {
+        "id": 88,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Standortwahl eines Unternehmens?",
+        "options": [
+            "Arbeitskräfte",
+            "Transportkosten",
+            "Kundennähe",
+            "Rechtsform"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 89,
+        "type": "multiple_choice",
+        "question": "Welche Art der Zusammenarbeit dient der Durchführung zeitlich befristeter Projekte?",
+        "options": [
+            "Interessengemeinschaft",
+            "Gelegenheitsgesellschaft",
+            "Konzentration"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 90,
+        "type": "true_false",
+        "question": "Eine freiwillige Liquidation erfolgt meist durch Beschluss der Gesellschafter.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 91,
+        "type": "multiple_choice",
+        "question": "Welche Rechtsform ist eine Mischung aus KG und AG?",
+        "options": [
+            "GmbH",
+            "KGaA",
+            "UG"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 92,
+        "type": "true_false",
+        "question": "Bei einer Fusion bleiben die beteiligten Unternehmen rechtlich selbstständig.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 93,
+        "type": "fill_in_the_blank",
+        "question": "Ein typisches Ziel der ___ ist die Schaffung größerer Wirtschaftseinheiten durch Zusammenschluss.",
+        "options": ["Konzentration", "Kooperation", "Liquidation"],
+        "correct": 0
+    },
+    {
+        "id": 94,
+        "type": "multiple_response",
+        "question": "Welche Hauptarten der Unternehmenszusammenschlüsse gibt es?",
+        "options": [
+            "Fusion",
+            "Kooperation",
+            "Konzentration",
+            "Diversifizierung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 95,
+        "type": "multiple_choice",
+        "question": "Welche Organisationsform wird häufig für kurzfristige Zusammenarbeit gewählt?",
+        "options": [
+            "Kartell",
+            "Gelegenheitsgesellschaft",
+            "Konzern"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 96,
+        "type": "true_false",
+        "question": "Ein Joint Venture führt zur vollständigen rechtlichen Einheit der beteiligten Unternehmen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 97,
+        "type": "fill_in_the_blank",
+        "question": "Eine ___ wird oft gegründet, um gemeinsam ein großes Infrastrukturprojekt umzusetzen.",
+        "options": ["Joint Venture", "Fusion", "Kooperation"],
+        "correct": 0
+    },
+    {
+        "id": 98,
+        "type": "multiple_response",
+        "question": "Welche Ziele verfolgt die Diversifizierung?",
+        "options": [
+            "Risikominderung",
+            "Erweiterung des Geschäftsfelds",
+            "Kostensenkung",
+            "Marktanteilsvergrößerung"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 99,
+        "type": "multiple_choice",
+        "question": "Welche Gesellschaftsform eignet sich besonders für Unternehmen, die an der Börse handeln möchten?",
+        "options": [
+            "GmbH",
+            "AG",
+            "UG"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 100,
+        "type": "true_false",
+        "question": "Eine Zwangsliquidation wird immer freiwillig durch die Gesellschafter beschlossen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    }
+]

@@ -1,0 +1,914 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Was ist der Gegenstand der Volkswirtschaftslehre?",
+        "options": [
+            "Wirtschaften des Betriebs",
+            "Gesamte Wirtschaft und Interaktionen zwischen Marktteilnehmern",
+            "Planung von Produktionsfaktoren"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Die Betriebswirtschaftslehre hat das Ziel, allgemeine Gesetzmäßigkeiten der Wirtschaft abzuleiten.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 3,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Betriebswirtschaftslehre ist die langfristige ___ des Unternehmens.",
+        "options": ["Kostenminimierung", "Gewinnmaximierung", "Produktivitätssteigerung"],
+        "correct": 1
+    },
+    {
+        "id": 4,
+        "type": "multiple_response",
+        "question": "Welche Typen von Wirtschaftseinheiten gibt es laut der Betriebswirtschaftslehre?",
+        "options": [
+            "Private Betriebe",
+            "Öffentliche Betriebe",
+            "Private Haushalte",
+            "Multinationale Konzerne"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "Welche Voraussetzung muss erfüllt sein, damit ein Betrieb langfristig überlebt?",
+        "options": [
+            "Maximale Produktionskapazität",
+            "Finanzielles Gleichgewicht",
+            "Minimale Fixkosten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 6,
+        "type": "true_false",
+        "question": "Ein privater Haushalt verfolgt das Ziel der Selbstversorgung und deckt Eigenbedarf.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 7,
+        "type": "fill_in_the_blank",
+        "question": "Das Maximumprinzip strebt an, mit einem festen Input möglichst viel ___ zu erreichen.",
+        "options": ["Kosten", "Output", "Kapital"],
+        "correct": 1
+    },
+    {
+        "id": 8,
+        "type": "multiple_response",
+        "question": "Welche Hauptphasen gehören zur genetischen Gliederung eines Unternehmens?",
+        "options": [
+            "Gründungsphase",
+            "Betriebsphase",
+            "Liquidationsphase",
+            "Expansionsphase"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "Welche Form des ökonomischen Prinzips strebt das beste Verhältnis von Input zu Output an?",
+        "options": [
+            "Maximumprinzip",
+            "Minimumprinzip",
+            "Optimumprinzip"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 10,
+        "type": "true_false",
+        "question": "Ein Sachleistungsbetrieb stellt immaterielle Dienstleistungen bereit.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Aussagen beschreibt das Minimumprinzip korrekt?",
+        "options": [
+            "Mit minimalem Input einen bestimmten Output erzielen",
+            "Mit maximalem Input den größtmöglichen Output erzielen",
+            "Input und Output ins optimale Verhältnis bringen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Öffentliche Betriebe verfolgen das Ziel der Gewinnmaximierung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 13,
+        "type": "fill_in_the_blank",
+        "question": "Das ökonomische Prinzip strebt die ___ der Ressourcennutzung an.",
+        "options": ["Optimierung", "Maximierung", "Minimierung"],
+        "correct": 0
+    },
+    {
+        "id": 14,
+        "type": "multiple_response",
+        "question": "Welche Kriterien werden bei der funktionalen Gliederung der Betriebswirtschaftslehre berücksichtigt?",
+        "options": [
+            "Produktion",
+            "Absatz",
+            "Finanzierung",
+            "Standortwahl"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "Welche Phase in der genetischen Gliederung umfasst die Marktanalyse und Rechtsformwahl?",
+        "options": [
+            "Betriebsphase",
+            "Gründungsphase",
+            "Liquidationsphase"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 16,
+        "type": "true_false",
+        "question": "Das finanzielle Gleichgewicht eines Unternehmens ist gewährleistet, wenn Einzahlungen mindestens so hoch sind wie Auszahlungen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 17,
+        "type": "fill_in_the_blank",
+        "question": "Die genetische Gliederung der Betriebswirtschaftslehre unterscheidet zwischen ___, Betriebsphase und Liquidationsphase.",
+        "options": ["Marktanalyse", "Gründungsphase", "Planungsphase"],
+        "correct": 1
+    },
+    {
+        "id": 18,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zur institutionellen Gliederung der Betriebswirtschaftslehre?",
+        "options": [
+            "Industriebetriebslehre",
+            "Verkehrsbetriebslehre",
+            "Bankbetriebslehre",
+            "Kapitalflussanalyse"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 19,
+        "type": "multiple_choice",
+        "question": "Was ist ein zentrales Ziel öffentlicher Haushalte?",
+        "options": [
+            "Organisation öffentlicher Aufgaben",
+            "Maximierung des Eigenkapitals",
+            "Reduktion der Produktionskosten"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 20,
+        "type": "true_false",
+        "question": "Das Ziel der Sachleistungsbetriebe ist die Erbringung immaterieller Dienstleistungen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Welche Art von Betrieb konzentriert sich auf die Erbringung von Finanzdienstleistungen?",
+        "options": [
+            "Handelsbetrieb",
+            "Bankbetrieb",
+            "Verkehrsbetrieb"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Das Optimumprinzip zielt darauf ab, mit minimalem Input einen festen Output zu erzielen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 23,
+        "type": "fill_in_the_blank",
+        "question": "Ein Betrieb kombiniert Produktionsfaktoren wie Arbeit, Kapital und ___, um Güter und Dienstleistungen herzustellen.",
+        "options": ["Input", "Rohstoffe", "Output"],
+        "correct": 1
+    },
+    {
+        "id": 24,
+        "type": "multiple_response",
+        "question": "Welche Produktionsfaktoren werden typischerweise in einem Betrieb kombiniert?",
+        "options": [
+            "Arbeit",
+            "Kapital",
+            "Rohstoffe",
+            "Marketing"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 25,
+        "type": "multiple_choice",
+        "question": "Welche Phase der genetischen Gliederung eines Unternehmens umfasst die Liquidation?",
+        "options": [
+            "Betriebsphase",
+            "Gründungsphase",
+            "Liquidationsphase"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 26,
+        "type": "true_false",
+        "question": "Das Ziel des Maximumprinzips ist es, mit einem festen Input den größtmöglichen Output zu erzielen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 27,
+        "type": "fill_in_the_blank",
+        "question": "Ein öffentliches Unternehmen verfolgt in der Regel das Ziel der ___ statt der Gewinnmaximierung.",
+        "options": ["Kostendeckung", "Eigenbedarfsdeckung", "Marktführerposition"],
+        "correct": 0
+    },
+    {
+        "id": 28,
+        "type": "multiple_response",
+        "question": "Welche Hauptaufgaben gehören zur Betriebsphase eines Unternehmens?",
+        "options": [
+            "Produktion von Gütern",
+            "Fusionen und Kooperationen",
+            "Standortwahl",
+            "Umstrukturierungen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 29,
+        "type": "multiple_choice",
+        "question": "Welche Branche gehört NICHT zur institutionellen Gliederung der Betriebswirtschaftslehre?",
+        "options": [
+            "Kreditwirtschaft",
+            "Tourismus",
+            "Personalmanagement"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 30,
+        "type": "true_false",
+        "question": "Private Betriebe fokussieren sich auf die Deckung des Eigenbedarfs.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Welche Ziele verfolgt ein privater Betrieb hauptsächlich?",
+        "options": [
+            "Deckung öffentlicher Aufgaben",
+            "Gewinnmaximierung",
+            "Erbringung kostenloser Dienstleistungen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Das ökonomische Prinzip verlangt, dass immer der höchste Gewinn erzielt wird.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 33,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel des ___ ist die Organisation öffentlicher Aufgaben durch öffentliche Haushalte.",
+        "options": ["Marktprinzips", "öffentlichen Betriebs", "öffentlichen Haushalts"],
+        "correct": 2
+    },
+    {
+        "id": 34,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben fallen typischerweise in die Gründungsphase eines Unternehmens?",
+        "options": [
+            "Marktanalyse",
+            "Kapitalbereitstellung",
+            "Liquidation",
+            "Rechtsformwahl"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 35,
+        "type": "multiple_choice",
+        "question": "Welche Definition beschreibt den Begriff 'Betrieb' am besten?",
+        "options": [
+            "Planvoll organisierte Wirtschaftseinheit zur Herstellung von Gütern und Dienstleistungen",
+            "Einheit zur Maximierung der staatlichen Einnahmen",
+            "Einrichtung zur Durchführung von Steuererhebungen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 36,
+        "type": "true_false",
+        "question": "Das Ziel des Minimumprinzips ist es, mit einem festen Output den minimalen Input zu erreichen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 37,
+        "type": "fill_in_the_blank",
+        "question": "Ein ___ Betrieb stellt Güter für den Endverbrauch her.",
+        "options": ["Verbrauchsgüter", "Sachleistungs", "Dienstleistungs"],
+        "correct": 0
+    },
+    {
+        "id": 38,
+        "type": "multiple_response",
+        "question": "Welche Formen des ökonomischen Prinzips gibt es?",
+        "options": [
+            "Maximumprinzip",
+            "Minimumprinzip",
+            "Optimumprinzip",
+            "Effizienzprinzip"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Phasen gehört zur Liquidationsphase eines Unternehmens?",
+        "options": [
+            "Fusion",
+            "Insolvenz",
+            "Standortwahl"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 40,
+        "type": "true_false",
+        "question": "Ein Handelsbetrieb gehört zu den Dienstleistungsbetrieben.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Welche Branche fällt in die Kategorie der institutionellen Gliederung?",
+        "options": [
+            "Kreditwirtschaft",
+            "Energieversorgung",
+            "Kommunikationsmanagement"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Das ökonomische Prinzip wird auch als Wirtschaftlichkeitsprinzip bezeichnet.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 43,
+        "type": "fill_in_the_blank",
+        "question": "Ein Produktionsmittelbetrieb stellt ___ für andere Betriebe her.",
+        "options": ["Rohstoffe", "Güter", "Dienstleistungen"],
+        "correct": 1
+    },
+    {
+        "id": 44,
+        "type": "multiple_response",
+        "question": "Welche Ziele gehören zur Betriebswirtschaftslehre?",
+        "options": [
+            "Langfristige Gewinnmaximierung",
+            "Deckung öffentlicher Aufgaben",
+            "Ableitung wirtschaftlicher Gesetzmäßigkeiten",
+            "Erteilung von Handlungsempfehlungen"
+        ],
+        "correct": [0, 3]
+    },
+    {
+        "id": 45,
+        "type": "multiple_choice",
+        "question": "Welche Art von Betrieb verfolgt das Ziel der Kostendeckung?",
+        "options": [
+            "Privater Betrieb",
+            "Öffentlicher Betrieb",
+            "Private Haushalte"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 46,
+        "type": "true_false",
+        "question": "Das Ziel der Betriebswirtschaftslehre ist die Analyse von Markttrends.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 47,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel des Optimumprinzips ist ein optimales Verhältnis von Input zu ___.",
+        "options": ["Kapital", "Output", "Ressourcen"],
+        "correct": 1
+    },
+    {
+        "id": 48,
+        "type": "multiple_response",
+        "question": "Welche Hauptaufgaben gehören zur Liquidationsphase eines Unternehmens?",
+        "options": [
+            "Insolvenz",
+            "Unternehmenskrise",
+            "Kapitalbereitstellung",
+            "Auflösung des Unternehmens"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 49,
+        "type": "multiple_choice",
+        "question": "Was ist das Ziel der Volkswirtschaftslehre?",
+        "options": [
+            "Deckung des Eigenbedarfs",
+            "Ableitung von Gesetzmäßigkeiten zur Steuerung der Wirtschaft",
+            "Optimierung des betrieblichen Ressourceneinsatzes"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 50,
+        "type": "true_false",
+        "question": "Ein Verbrauchsgüterbetrieb produziert Güter, die für den Endverbrauch bestimmt sind.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Hauptaufgabe hat die Betriebswirtschaftslehre?",
+        "options": [
+            "Die Ermittlung von Gesetzmäßigkeiten der Gesamtwirtschaft",
+            "Erteilung von Handlungsempfehlungen für Betriebe",
+            "Organisation staatlicher Institutionen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 52,
+        "type": "true_false",
+        "question": "Das ökonomische Prinzip kann in Maximum-, Minimum- und Effizienzprinzip unterteilt werden.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 53,
+        "type": "fill_in_the_blank",
+        "question": "Ein Betrieb ist eine ___ organisierte Wirtschaftseinheit zur Kombination von Produktionsfaktoren.",
+        "options": ["spontan", "planvoll", "wirtschaftlich"],
+        "correct": 1
+    },
+    {
+        "id": 54,
+        "type": "multiple_response",
+        "question": "Welche Prinzipien gehören zum ökonomischen Prinzip?",
+        "options": [
+            "Maximumprinzip",
+            "Minimumprinzip",
+            "Optimumprinzip",
+            "Ertragssicherungsprinzip"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 55,
+        "type": "multiple_choice",
+        "question": "Welcher Betriebstyp stellt Rohstoffe her?",
+        "options": [
+            "Rohstoffgewinnungsbetrieb",
+            "Produktionsmittelbetrieb",
+            "Verbrauchsgüterbetrieb"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 56,
+        "type": "true_false",
+        "question": "Eine Voraussetzung für das Überleben eines Betriebs ist, dass Einzahlungen die Auszahlungen übersteigen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 57,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel des ___ ist die Optimierung der Effizienz zwischen Ressourceneinsatz und Ergebnis.",
+        "options": ["Wirtschaftlichkeitsprinzips", "Maximumprinzips", "Outputprinzips"],
+        "correct": 0
+    },
+    {
+        "id": 58,
+        "type": "multiple_response",
+        "question": "Welche Phasen umfasst die genetische Gliederung eines Unternehmens?",
+        "options": [
+            "Betriebsphase",
+            "Gründungsphase",
+            "Expansionsphase",
+            "Liquidationsphase"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 59,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Volkswirtschaftslehre?",
+        "options": [
+            "Langfristige Gewinnmaximierung für Betriebe",
+            "Gesetzmäßigkeiten der Wirtschaft abzuleiten",
+            "Maximale Produktivität eines Betriebs"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 60,
+        "type": "true_false",
+        "question": "Ein Verkehrsbetrieb gehört zu den Dienstleistungsbetrieben.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Welcher Begriff beschreibt eine planvoll organisierte Wirtschaftseinheit zur Kombination von Produktionsfaktoren?",
+        "options": [
+            "Haushalt",
+            "Betrieb",
+            "Institution"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "Das Maximumprinzip strebt mit einem festen Input das bestmögliche Ergebnis an.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "fill_in_the_blank",
+        "question": "Ein ___ verfolgt das Ziel der Gewinnmaximierung durch Deckung des Fremdbedarfs.",
+        "options": ["privater Betrieb", "öffentlicher Betrieb", "privater Haushalt"],
+        "correct": 0
+    },
+    {
+        "id": 64,
+        "type": "multiple_response",
+        "question": "Welche Funktionen gehören zur funktionalen Gliederung der Betriebswirtschaftslehre?",
+        "options": [
+            "Produktion",
+            "Absatz",
+            "Investition",
+            "Fusionen"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 65,
+        "type": "multiple_choice",
+        "question": "Was ist ein Ziel des öffentlichen Haushalts?",
+        "options": [
+            "Deckung des Fremdbedarfs",
+            "Organisation öffentlicher Aufgaben",
+            "Langfristige Gewinnmaximierung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 66,
+        "type": "true_false",
+        "question": "Ein Handelsbetrieb stellt Rohstoffe her.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 67,
+        "type": "fill_in_the_blank",
+        "question": "Das ___ verfolgt das Ziel, mit minimalem Ressourceneinsatz einen bestimmten Output zu erzielen.",
+        "options": ["Effizienzprinzip", "Minimumprinzip", "Maximumprinzip"],
+        "correct": 1
+    },
+    {
+        "id": 68,
+        "type": "multiple_response",
+        "question": "Welche Phasen umfasst die Betriebsphase eines Unternehmens?",
+        "options": [
+            "Leistungserstellung",
+            "Unternehmensentwicklung",
+            "Insolvenz",
+            "Umstrukturierungen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 69,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe gehört NICHT zur Gründungsphase eines Unternehmens?",
+        "options": [
+            "Rechtsformwahl",
+            "Kapitalbereitstellung",
+            "Liquidation"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 70,
+        "type": "true_false",
+        "question": "Die genetische Gliederung teilt Unternehmen nach Funktionsbereichen auf.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    }, {
+        "id": 71,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe gehört zur Liquidationsphase eines Unternehmens?",
+        "options": [
+            "Marktanalyse",
+            "Auflösung des Unternehmens",
+            "Produktionsoptimierung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 72,
+        "type": "true_false",
+        "question": "Ein Produktionsmittelbetrieb stellt Güter für den Endverbrauch her.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 73,
+        "type": "fill_in_the_blank",
+        "question": "Ein ___ Betrieb konzentriert sich auf den Handel mit Waren.",
+        "options": ["Dienstleistungs", "Handels", "Produktions"],
+        "correct": 1
+    },
+    {
+        "id": 74,
+        "type": "multiple_response",
+        "question": "Welche Phasen der genetischen Gliederung eines Unternehmens sind korrekt?",
+        "options": [
+            "Betriebsphase",
+            "Entwicklungsphase",
+            "Gründungsphase",
+            "Liquidationsphase"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 75,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt das Ziel des Optimumprinzips korrekt?",
+        "options": [
+            "Maximaler Output bei minimalem Input",
+            "Optimales Verhältnis zwischen Input und Output",
+            "Minimaler Input für einen festen Output"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 76,
+        "type": "true_false",
+        "question": "Ein öffentlicher Betrieb verfolgt das Ziel der Kostendeckung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 77,
+        "type": "fill_in_the_blank",
+        "question": "Ein ___ verfolgt das Ziel, den Eigenbedarf zu decken.",
+        "options": ["privater Haushalt", "öffentlicher Betrieb", "privater Betrieb"],
+        "correct": 0
+    },
+    {
+        "id": 78,
+        "type": "multiple_response",
+        "question": "Welche Branchen gehören zur institutionellen Gliederung der Betriebswirtschaftslehre?",
+        "options": [
+            "Kreditwirtschaft",
+            "Industrie",
+            "Tourismus",
+            "Personalmanagement"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 79,
+        "type": "multiple_choice",
+        "question": "Was ist eine typische Aufgabe eines öffentlichen Haushalts?",
+        "options": [
+            "Organisation öffentlicher Aufgaben",
+            "Produktion von Verbrauchsgütern",
+            "Erzielung maximaler Gewinne"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 80,
+        "type": "true_false",
+        "question": "Ein Versicherungsbetrieb gehört zu den Sachleistungsbetrieben.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 81,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Aussagen beschreibt das Ziel der Betriebswirtschaftslehre?",
+        "options": [
+            "Optimierung des Ressourceneinsatzes im Betrieb",
+            "Erzielung des maximalen Marktanteils",
+            "Analyse globaler wirtschaftlicher Zusammenhänge"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 82,
+        "type": "true_false",
+        "question": "Ein Verkehrsbetrieb zählt zu den Dienstleistungsbetrieben.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 83,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel des ___ ist die langfristige Gewinnmaximierung.",
+        "options": ["privaten Betriebs", "öffentlichen Haushalts", "ökonomischen Prinzips"],
+        "correct": 0
+    },
+    {
+        "id": 84,
+        "type": "multiple_response",
+        "question": "Welche Phasen gehören zur Gründungsphase eines Unternehmens?",
+        "options": [
+            "Kapitalbereitstellung",
+            "Standortwahl",
+            "Leistungserstellung",
+            "Rechtsformwahl"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 85,
+        "type": "multiple_choice",
+        "question": "Was ist ein Ziel der Liquidationsphase?",
+        "options": [
+            "Steigerung des Marktanteils",
+            "Abwicklung aller Unternehmensaktivitäten",
+            "Optimierung der Leistungserstellung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 86,
+        "type": "true_false",
+        "question": "Das Minimumprinzip strebt an, mit minimalem Input einen festen Output zu erzielen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 87,
+        "type": "fill_in_the_blank",
+        "question": "Ein ___ ist eine Wirtschaftseinheit zur Kombination von Produktionsfaktoren.",
+        "options": ["Betrieb", "Haushalt", "Markt"],
+        "correct": 0
+    },
+    {
+        "id": 88,
+        "type": "multiple_response",
+        "question": "Welche Ziele verfolgen öffentliche Betriebe?",
+        "options": [
+            "Kostendeckung",
+            "Organisation öffentlicher Aufgaben",
+            "Langfristige Gewinnmaximierung",
+            "Deckung des Fremdbedarfs"
+        ],
+        "correct": [0, 3]
+    },
+    {
+        "id": 89,
+        "type": "multiple_choice",
+        "question": "Was versteht man unter einem Produktionsmittelbetrieb?",
+        "options": [
+            "Betrieb zur Herstellung von Rohstoffen",
+            "Betrieb zur Herstellung von Gütern für andere Betriebe",
+            "Betrieb zur Erbringung von Finanzdienstleistungen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 90,
+        "type": "true_false",
+        "question": "Das ökonomische Prinzip ist ein grundlegendes Konzept der Betriebswirtschaftslehre.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 91,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe gehört zur Betriebsphase eines Unternehmens?",
+        "options": [
+            "Fusion mit anderen Unternehmen",
+            "Rechtsformwahl",
+            "Auflösung des Unternehmens"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 92,
+        "type": "true_false",
+        "question": "Die genetische Gliederung eines Unternehmens berücksichtigt die Lebensphasen des Unternehmens.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 93,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel des Maximumprinzips ist es, mit einem festen Input den maximalen ___ zu erzielen.",
+        "options": ["Gewinn", "Output", "Kapital"],
+        "correct": 1
+    },
+    {
+        "id": 94,
+        "type": "multiple_response",
+        "question": "Welche Bereiche gehören zur funktionalen Gliederung eines Unternehmens?",
+        "options": [
+            "Absatz",
+            "Finanzierung",
+            "Produktion",
+            "Liquidation"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 95,
+        "type": "multiple_choice",
+        "question": "Was ist eine Voraussetzung für das Überleben eines Betriebs?",
+        "options": [
+            "Einzahlungen ≥ Auszahlungen",
+            "Maximale Ausgaben für Werbung",
+            "Optimale Anzahl von Mitarbeitern"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 96,
+        "type": "true_false",
+        "question": "Ein privater Haushalt verfolgt das Ziel der Deckung des Fremdbedarfs.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 97,
+        "type": "fill_in_the_blank",
+        "question": "Ein ___ Betrieb stellt Dienstleistungen wie Transport oder Handel bereit.",
+        "options": ["Dienstleistungs", "Sachleistungs", "öffentlicher"],
+        "correct": 0
+    },
+    {
+        "id": 98,
+        "type": "multiple_response",
+        "question": "Welche Phasen der genetischen Gliederung eines Unternehmens sind korrekt?",
+        "options": [
+            "Gründungsphase",
+            "Betriebsphase",
+            "Liquidationsphase",
+            "Expansionsphase"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 99,
+        "type": "multiple_choice",
+        "question": "Was ist eine typische Aufgabe eines Dienstleistungsbetriebs?",
+        "options": [
+            "Herstellung von Konsumgütern",
+            "Erbringung immaterieller Leistungen",
+            "Förderung von Rohstoffen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 100,
+        "type": "true_false",
+        "question": "Ein Produktionsmittelbetrieb gehört zu den Sachleistungsbetrieben.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    }
+
+]
