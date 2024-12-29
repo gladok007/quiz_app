@@ -1,0 +1,913 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die ABC-Analyse in der Materialwirtschaft?",
+        "options": [
+            "Ermittlung des optimalen Lagerorts",
+            "Klassifizierung von Gütern nach ihrem Wertanteil",
+            "Reduzierung der variablen Kosten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Die Just-in-Time-Beschaffung reduziert Lagerbestände und erfordert eine hohe Lieferzuverlässigkeit.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 3,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Faktoren können die Lieferantenauswahl beeinflussen?",
+        "options": [
+            "Lieferzeit",
+            "Qualität der Ware",
+            "Zahlungsbedingungen",
+            "Kapitalstruktur des Unternehmens"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 4,
+        "type": "fill_in_the_blank",
+        "question": "Die kritische Menge wird berechnet, um die Entscheidung zwischen ___ und Fremdbezug zu treffen.",
+        "options": ["Eigenfertigung", "Lagerhaltung", "Personalplanung"],
+        "correct": 0
+    },
+    {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt den Sicherheitsbestand korrekt?",
+        "options": [
+            "Er dient zur Vermeidung von Überproduktion.",
+            "Er minimiert das Risiko von Lieferengpässen.",
+            "Er optimiert die Lagerhaltungskosten."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 6,
+        "type": "true_false",
+        "question": "Der Bruttobedarf berücksichtigt bereits verfügbare Lagerbestände.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 7,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zum Marketing-Mix?",
+        "options": [
+            "Produktpolitik",
+            "Preispolitik",
+            "Kommunikationspolitik",
+            "Lagerverwaltung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 8,
+        "type": "fill_in_the_blank",
+        "question": "Die SWOT-Analyse untersucht Stärken, Schwächen, Chancen und ___.",
+        "options": ["Risiken", "Potenziale", "Kundenbedürfnisse"],
+        "correct": 0
+    },
+    {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "Welches der folgenden Instrumente wird zur Kontrolle in Unternehmen verwendet?",
+        "options": [
+            "Abweichungsanalyse",
+            "SWOT-Analyse",
+            "Balanced Scorecard"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 10,
+        "type": "true_false",
+        "question": "Der Deckungsbeitrag wird berechnet, indem Fixkosten von den variablen Kosten abgezogen werden.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 11,
+        "type": "fill_in_the_blank",
+        "question": "Die Entscheidung zwischen Eigenfertigung und Fremdbezug wird auch als ___ bezeichnet.",
+        "options": ["Make-or-Buy", "Outsourcing", "Diversifikation"],
+        "correct": 0
+    },
+    {
+        "id": 12,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Produktpolitik korrekt?",
+        "options": [
+            "Sie umfasst die Gestaltung und Verbesserung von Produkten.",
+            "Sie zielt auf die Optimierung der Vertriebskanäle ab.",
+            "Sie konzentriert sich auf die Preissetzung."
+        ],
+        "correct": 0
+    },
+    {
+        "id": 13,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Aufgaben gehören zur Logistik?",
+        "options": [
+            "Transportmanagement",
+            "Lagerhaltung",
+            "Wareneingang",
+            "Kundenakquise"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 14,
+        "type": "true_false",
+        "question": "Die Zielsetzung der Unternehmensführung ist die langfristige Gewinnmaximierung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "Welche Phase gehört nicht zum Produktlebenszyklus?",
+        "options": [
+            "Einführungsphase",
+            "Sättigungsphase",
+            "Diversifikationsphase"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 16,
+        "type": "fill_in_the_blank",
+        "question": "Die Balanced Scorecard misst die Leistung eines Unternehmens aus finanzieller, interner Prozess-, Kunden- und ___ Perspektive.",
+        "options": ["Wettbewerbs-", "Lern-", "Produktions-"],
+        "correct": 1
+    },
+    {
+        "id": 17,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen können den Cashflow eines Unternehmens erhöhen?",
+        "options": [
+            "Verkauf von Vermögenswerten",
+            "Verlängerung von Zahlungsfristen",
+            "Erhöhung der Lagerbestände",
+            "Reduzierung der Ausgaben"
+        ],
+        "correct": [0, 3]
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Ein hoher Verschuldungsgrad erhöht das finanzielle Risiko eines Unternehmens.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 19,
+        "type": "multiple_choice",
+        "question": "Welche Strategie gehört zur Ansoff-Matrix?",
+        "options": [
+            "Kostenführerschaft",
+            "Produktentwicklung",
+            "SWOT-Analyse"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 20,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Corporate Governance ist die Wahrung der Interessen von Stakeholdern und ___.",
+        "options": ["Shareholdern", "Mitarbeitern", "Kunden"],
+        "correct": 0
+    },{
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl zeigt die kurzfristige Liquidität eines Unternehmens an?",
+        "options": [
+            "Eigenkapitalquote",
+            "Liquiditätsgrad 1. Grades",
+            "Kapitalumschlag"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Die Sättigungsphase des Produktlebenszyklus ist durch einen Rückgang der Umsätze gekennzeichnet.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 23,
+        "type": "fill_in_the_blank",
+        "question": "Die Corporate Governance umfasst die Steuerung und ___ der Unternehmensführung.",
+        "options": ["Kontrolle", "Optimierung", "Motivation"],
+        "correct": 0
+    },
+    {
+        "id": 24,
+        "type": "multiple_response",
+        "question": "Welche Ziele können durch eine effiziente Lagerhaltung erreicht werden?",
+        "options": [
+            "Minimierung der Lagerkosten",
+            "Erhöhung der Lieferfähigkeit",
+            "Reduktion der Kapitalbindung",
+            "Verbesserung der Produktqualität"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 25,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Aussagen beschreibt den Unterschied zwischen Primär- und Sekundärbedarf korrekt?",
+        "options": [
+            "Der Primärbedarf berücksichtigt bereits Lagerbestände.",
+            "Der Sekundärbedarf umfasst Rohstoffe und Einzelteile.",
+            "Primär- und Sekundärbedarf sind identisch."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 26,
+        "type": "true_false",
+        "question": "Ein hoher Lagerumschlag ist ein Indikator für eine effiziente Lagerhaltung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 27,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Phasen gehören zur strategischen Planung?",
+        "options": [
+            "Zielbildung",
+            "Situationsanalyse",
+            "Alternativenbewertung",
+            "Operative Umsetzung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 28,
+        "type": "fill_in_the_blank",
+        "question": "Die SWOT-Analyse ist ein Werkzeug der ___ Planung.",
+        "options": ["strategischen", "operativen", "taktischen"],
+        "correct": 0
+    },
+    {
+        "id": 29,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Strategien beschreibt die Marktdurchdringung?",
+        "options": [
+            "Einführung bestehender Produkte in neue Märkte",
+            "Erhöhung der Verkäufe im bestehenden Markt",
+            "Entwicklung neuer Produkte für bestehende Märkte"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 30,
+        "type": "true_false",
+        "question": "Die Kostenführerschaft ist eine Strategie, die sich auf die Differenzierung durch Qualität konzentriert.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 31,
+        "type": "fill_in_the_blank",
+        "question": "Die SMART-Regel beschreibt Ziele, die spezifisch, messbar, akzeptiert, realistisch und ___ sind.",
+        "options": ["terminiert", "optimiert", "priorisiert"],
+        "correct": 0
+    },
+    {
+        "id": 32,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die taktische Planung korrekt?",
+        "options": [
+            "Sie ist kurzfristig ausgerichtet und operativ.",
+            "Sie konkretisiert strategische Vorgaben in mittelfristige Maßnahmen.",
+            "Sie fokussiert sich auf langfristige Unternehmensziele."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 33,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Maßnahmen sind Bestandteile des Marketing-Mix?",
+        "options": [
+            "Preispolitik",
+            "Kommunikationspolitik",
+            "Produktpolitik",
+            "Distributionspolitik"
+        ],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 34,
+        "type": "true_false",
+        "question": "Eine SWOT-Analyse dient der Bewertung interner und externer Faktoren.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 35,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl gibt an, wie effizient ein Unternehmen mit seinem Kapital arbeitet?",
+        "options": [
+            "Eigenkapitalquote",
+            "Kapitalumschlagshäufigkeit",
+            "Deckungsbeitrag"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 36,
+        "type": "fill_in_the_blank",
+        "question": "Das Ziel der Corporate Social Responsibility (CSR) ist die Übernahme von ___ Verantwortung.",
+        "options": ["sozialer", "rechtlicher", "finanzieller"],
+        "correct": 0
+    },
+    {
+        "id": 37,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Elemente gehören zur Aufbauorganisation eines Unternehmens?",
+        "options": [
+            "Hierarchieebenen",
+            "Führungsspanne",
+            "Zielbildungsprozess",
+            "Organigramm"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 38,
+        "type": "true_false",
+        "question": "Ein hoher Marktanteil bedeutet immer eine hohe Profitabilität.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Welche Aussage trifft auf die Einführung eines neuen Produkts zu?",
+        "options": [
+            "Hohe Umsätze bei niedrigen Kosten",
+            "Hohe Investitionen mit geringen Einnahmen",
+            "Maximaler Gewinn"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 40,
+        "type": "fill_in_the_blank",
+        "question": "Die Zielkostenrechnung wird häufig bei der Entwicklung neuer ___ verwendet.",
+        "options": ["Produkte", "Märkte", "Strategien"],
+        "correct": 0
+    },{
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe erfüllt die Distributionspolitik?",
+        "options": [
+            "Optimierung der Lagerbestände",
+            "Gestaltung der Absatzwege zum Kunden",
+            "Steigerung der Produktionskapazität"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Die Marktentwicklung ist eine Strategie, bei der neue Produkte für bestehende Märkte entwickelt werden.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 43,
+        "type": "fill_in_the_blank",
+        "question": "Die Personalbedarfsplanung berücksichtigt den zukünftigen Bedarf an ___ Mitarbeitern.",
+        "options": ["qualifizierten", "erfahrenen", "neuen"],
+        "correct": 0
+    },
+    {
+        "id": 44,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Aufgaben zählen zur Personalwirtschaft?",
+        "options": [
+            "Personalbeschaffung",
+            "Personaleinsatzplanung",
+            "Mitarbeitermotivation",
+            "Produktentwicklung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 45,
+        "type": "multiple_choice",
+        "question": "Welche Phase gehört zur operativen Planung?",
+        "options": [
+            "Alternativenbewertung",
+            "Festlegung von Tages- und Wochenplänen",
+            "Entwicklung langfristiger Ziele"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 46,
+        "type": "true_false",
+        "question": "Ein geringerer Sicherheitsbestand erhöht die Versorgungssicherheit.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 47,
+        "type": "fill_in_the_blank",
+        "question": "Die Zielgruppe einer Marketingstrategie wird durch die ___ Analyse definiert.",
+        "options": ["Markt-", "Konkurrenz-", "Kosten-"],
+        "correct": 0
+    },
+    {
+        "id": 48,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Faktoren beeinflussen die Preisstrategie eines Unternehmens?",
+        "options": [
+            "Produktionskosten",
+            "Nachfrageelastizität",
+            "Markttrends",
+            "Lieferantenverfügbarkeit"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 49,
+        "type": "multiple_choice",
+        "question": "Welches Instrument wird zur Motivation der Mitarbeiter eingesetzt?",
+        "options": [
+            "Leistungslohn",
+            "Marktanalyse",
+            "Lagerhaltung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 50,
+        "type": "true_false",
+        "question": "Die Deckungsbeitragsrechnung hilft bei der Bestimmung der profitabelsten Produkte.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },{
+        "id": 51,
+        "type": "fill_in_the_blank",
+        "question": "Der Produktlebenszyklus besteht aus Einführung, Wachstum, Reife, Sättigung und ___.",
+        "options": ["Rückgang", "Expansion", "Differenzierung"],
+        "correct": 0
+    },
+    {
+        "id": 52,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe gehört NICHT zur Logistik eines Unternehmens?",
+        "options": [
+            "Transportmanagement",
+            "Lagerhaltung",
+            "Produktentwicklung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 53,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zur SWOT-Analyse?",
+        "options": [
+            "Stärken",
+            "Schwächen",
+            "Mitarbeiterzufriedenheit",
+            "Risiken"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 54,
+        "type": "true_false",
+        "question": "Die Preiselastizität der Nachfrage misst, wie stark die Nachfrage auf Preisänderungen reagiert.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 55,
+        "type": "fill_in_the_blank",
+        "question": "Die Kostenführerschaft zielt darauf ab, durch niedrige Kosten einen Wettbewerbsvorteil zu ___.",
+        "options": ["erzielen", "reduzieren", "verhindern"],
+        "correct": 0
+    },
+    {
+        "id": 56,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Aussagen beschreibt die Funktion der Zielbildung in der Planung?",
+        "options": [
+            "Erarbeitung von Alternativen",
+            "Definition von gewünschten Ergebnissen",
+            "Vergleich von Handlungsoptionen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 57,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet die Einführung von Just-in-Time (JIT)?",
+        "options": [
+            "Reduzierte Lagerkosten",
+            "Erhöhte Produktionsflexibilität",
+            "Bessere Kundenkommunikation",
+            "Optimierte Materialflüsse"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 58,
+        "type": "true_false",
+        "question": "Die Balanced Scorecard kombiniert finanzielle und nicht-finanzielle Kennzahlen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 59,
+        "type": "fill_in_the_blank",
+        "question": "Die Lieferantenauswahl basiert auf Kriterien wie Qualität, Preis und ___.",
+        "options": ["Zuverlässigkeit", "Nachfrage", "Kapital"],
+        "correct": 0
+    },
+    {
+        "id": 60,
+        "type": "multiple_choice",
+        "question": "Welche Phase der Planung umfasst die Bewertung verschiedener Handlungsalternativen?",
+        "options": [
+            "Situationsanalyse",
+            "Alternativenbewertung",
+            "Zielbildung"
+        ],
+        "correct": 1
+    },{
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Aussagen beschreibt die operative Planung korrekt?",
+        "options": [
+            "Sie umfasst langfristige strategische Ziele.",
+            "Sie konzentriert sich auf kurzfristige und detaillierte Maßnahmen.",
+            "Sie dient der Analyse von Marktchancen."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "Die Einführung eines neuen Produkts geht in der Regel mit hohen Marketingkosten einher.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "fill_in_the_blank",
+        "question": "Die Just-in-Time-Beschaffung erfordert eine hohe ___ von Lieferanten.",
+        "options": ["Zuverlässigkeit", "Flexibilität", "Motivation"],
+        "correct": 0
+    },
+    {
+        "id": 64,
+        "type": "multiple_response",
+        "question": "Welche Faktoren spielen eine Rolle bei der Produktentwicklung?",
+        "options": [
+            "Innovationsfähigkeit",
+            "Kundenbedürfnisse",
+            "Markttrends",
+            "Lagerkapazität"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 65,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe hat die Kontrolle im Unternehmen?",
+        "options": [
+            "Abweichungen vom Plan erkennen",
+            "Marktchancen analysieren",
+            "Langfristige Ziele definieren"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 66,
+        "type": "true_false",
+        "question": "Die SWOT-Analyse ist ein Werkzeug zur internen Bewertung von Unternehmen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 67,
+        "type": "fill_in_the_blank",
+        "question": "Die Mitarbeiterzufriedenheit wird durch monetäre und ___ Motivationsinstrumente beeinflusst.",
+        "options": ["nicht-monetäre", "technische", "finanzielle"],
+        "correct": 0
+    },
+    {
+        "id": 68,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Strategien gehören zur Ansoff-Matrix?",
+        "options": [
+            "Marktdurchdringung",
+            "Marktentwicklung",
+            "Produktentwicklung",
+            "Diversifikation"
+        ],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 69,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl misst die Rentabilität eines Unternehmens?",
+        "options": [
+            "Eigenkapitalquote",
+            "Return on Investment (ROI)",
+            "Liquiditätsgrad 1. Grades"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 70,
+        "type": "true_false",
+        "question": "Eine hohe Kapitalbindung erhöht die finanzielle Flexibilität eines Unternehmens.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 71,
+        "type": "fill_in_the_blank",
+        "question": "Ein niedriger Lagerumschlag deutet auf eine ineffiziente Nutzung der ___ hin.",
+        "options": ["Lagerkapazität", "Arbeitskräfte", "Produktionsmittel"],
+        "correct": 0
+    },
+    {
+        "id": 72,
+        "type": "multiple_choice",
+        "question": "Welche Aussage trifft auf die Balanced Scorecard zu?",
+        "options": [
+            "Sie fokussiert sich ausschließlich auf finanzielle Kennzahlen.",
+            "Sie kombiniert finanzielle und nicht-finanzielle Perspektiven.",
+            "Sie analysiert ausschließlich interne Prozesse."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 73,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Ziele gehören zur langfristigen Unternehmensstrategie?",
+        "options": [
+            "Marktführerschaft",
+            "Nachhaltigkeit",
+            "Kurzfristige Gewinnmaximierung",
+            "Innovationsfähigkeit"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 74,
+        "type": "true_false",
+        "question": "Die Distributionspolitik umfasst alle Maßnahmen, die den Weg eines Produkts zum Kunden betreffen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 75,
+        "type": "fill_in_the_blank",
+        "question": "Die Führungsspanne bezeichnet die Anzahl der ___, die einer Führungskraft direkt unterstellt sind.",
+        "options": ["Mitarbeiter", "Abteilungen", "Ziele"],
+        "correct": 0
+    },
+    {
+        "id": 76,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Maßnahmen dient zur Verbesserung der Liquidität?",
+        "options": [
+            "Erhöhung der Lagerbestände",
+            "Verkürzung der Zahlungsziele für Kunden",
+            "Erhöhung der Fixkosten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 77,
+        "type": "multiple_response",
+        "question": "Welche Instrumente gehören zur Kommunikationspolitik?",
+        "options": [
+            "Werbung",
+            "Public Relations",
+            "Verkaufsförderung",
+            "Lagerhaltung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 78,
+        "type": "true_false",
+        "question": "Die Produktdifferenzierung zielt darauf ab, Produkte einzigartig zu machen und sich von Wettbewerbern abzuheben.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 79,
+        "type": "fill_in_the_blank",
+        "question": "Die Einführungsphase eines Produkts ist durch hohe ___ und geringe Umsätze gekennzeichnet.",
+        "options": ["Kosten", "Gewinne", "Marktanteile"],
+        "correct": 0
+    },
+    {
+        "id": 80,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Aussagen beschreibt das Ziel der Personalbedarfsplanung?",
+        "options": [
+            "Maximierung der Mitarbeiterzufriedenheit",
+            "Anpassung der Personalkapazität an den Bedarf",
+            "Steigerung der Innovationsfähigkeit"
+        ],
+        "correct": 1
+    },{
+        "id": 81,
+        "type": "multiple_choice",
+        "question": "Welche Phase des Produktlebenszyklus ist durch den höchsten Gewinn gekennzeichnet?",
+        "options": [
+            "Einführungsphase",
+            "Wachstumsphase",
+            "Reifephase"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 82,
+        "type": "true_false",
+        "question": "Die Organisationsform eines Unternehmens beeinflusst seine Effizienz und Kommunikationswege.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 83,
+        "type": "fill_in_the_blank",
+        "question": "Die SWOT-Analyse identifiziert Chancen und ___ in der externen Umgebung.",
+        "options": ["Risiken", "Schwächen", "Trends"],
+        "correct": 0
+    },
+    {
+        "id": 84,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben gehören zur Beschaffung?",
+        "options": [
+            "Lieferantenauswahl",
+            "Bedarfsermittlung",
+            "Produktdesign",
+            "Preisverhandlung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 85,
+        "type": "multiple_choice",
+        "question": "Welche Strategie ist keine generische Wettbewerbsstrategie nach Porter?",
+        "options": [
+            "Kostenführerschaft",
+            "Differenzierung",
+            "Produktbündelung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 86,
+        "type": "true_false",
+        "question": "Ein hoher Sicherheitsbestand reduziert die Kapitalbindung im Lager.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 87,
+        "type": "fill_in_the_blank",
+        "question": "Die Matrixorganisation kombiniert die funktionale Organisation und die ___ Organisation.",
+        "options": ["divisionale", "operative", "strategische"],
+        "correct": 0
+    },
+    {
+        "id": 88,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Faktoren beeinflussen die Entscheidung für eine Make-or-Buy-Strategie?",
+        "options": [
+            "Kosten",
+            "Know-how",
+            "Markenbekanntheit",
+            "Produktionskapazitäten"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 89,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Corporate Governance?",
+        "options": [
+            "Erhöhung der Mitarbeiterzufriedenheit",
+            "Transparente und nachhaltige Unternehmensführung",
+            "Optimierung der Produktionskosten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 90,
+        "type": "true_false",
+        "question": "Die taktische Planung ist langfristiger ausgerichtet als die strategische Planung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },{
+        "id": 91,
+        "type": "fill_in_the_blank",
+        "question": "Der Rückgang der Verkaufszahlen in der letzten Phase des Produktlebenszyklus wird als ___ bezeichnet.",
+        "options": ["Degeneration", "Sättigung", "Reife"],
+        "correct": 0
+    },
+    {
+        "id": 92,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Produktentwicklung als Strategie der Ansoff-Matrix?",
+        "options": [
+            "Neue Produkte für bestehende Märkte entwickeln",
+            "Bestehende Produkte in neue Märkte einführen",
+            "Produkte mit geringeren Kosten anbieten"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 93,
+        "type": "multiple_response",
+        "question": "Welche Faktoren können die Wahl der Distributionskanäle beeinflussen?",
+        "options": [
+            "Zielgruppe",
+            "Produktart",
+            "Markttrends",
+            "Lagerkosten"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 94,
+        "type": "true_false",
+        "question": "Die Einführung neuer Technologien gehört zur taktischen Planung.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 1
+    },
+    {
+        "id": 95,
+        "type": "fill_in_the_blank",
+        "question": "Die ___ beschreibt die Anzahl der direkten Unterstellten einer Führungskraft.",
+        "options": ["Führungsspanne", "Hierarchieebene", "Organisationsstruktur"],
+        "correct": 0
+    },
+    {
+        "id": 96,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe hat die Personalentwicklung?",
+        "options": [
+            "Erhöhung der Produktionsleistung",
+            "Förderung der beruflichen Qualifikationen der Mitarbeiter",
+            "Optimierung der Lagerbestände"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 97,
+        "type": "multiple_response",
+        "question": "Welche Phasen gehören zum Phasenschema der Planung?",
+        "options": [
+            "Zielbildung",
+            "Situationsanalyse",
+            "Alternativenbewertung",
+            "Marktforschung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 98,
+        "type": "true_false",
+        "question": "Die SWOT-Analyse hilft bei der Identifikation von internen und externen Chancen.",
+        "options": ["Richtig", "Falsch"],
+        "correct": 0
+    },
+    {
+        "id": 99,
+        "type": "fill_in_the_blank",
+        "question": "Ein niedriger Deckungsbeitrag deutet darauf hin, dass die variablen Kosten im Vergleich zu den ___ zu hoch sind.",
+        "options": ["Verkaufspreisen", "Fixkosten", "Lagerbeständen"],
+        "correct": 0
+    },
+    {
+        "id": 100,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Bedeutung der Eigenkapitalquote?",
+        "options": [
+            "Sie zeigt das Verhältnis von Eigenkapital zu Gesamtkapital.",
+            "Sie misst die Rentabilität des Unternehmens.",
+            "Sie beschreibt die Liquidität des Unternehmens."
+        ],
+        "correct": 0
+    }
+]
