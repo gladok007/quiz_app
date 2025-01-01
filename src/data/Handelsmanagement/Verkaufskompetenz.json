@@ -1,845 +1,792 @@
 [
-    {
-      "id": 0,
-  "type": "multiple_choice",
-      "question": "Welche Phase beschreibt den Zeitraum, in dem der Kunde Informationen sammelt?",
-      "options": [
-        "Kaufphase",
-        "Nachkaufphase",
-        "Vorkaufphase",
-        "Orientierungsphase"
-      ],
-      "correct": 2
-    },
-    {
+  {
       "id": 1,
-  "type": "multiple_choice",
-      "question": "Was bestimmt NICHT der Standort eines Geschäfts?",
+      "type": "multiple_choice",
+      "question": "Welches Konzept beschreibt die Minimierung von Abfällen in der Produktion?",
       "options": [
-        "Marktsegment",
-        "Sortimentstiefe",
-        "Logistik",
-        "Wettbewerber"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 2,
-  "type": "multiple_choice",
-      "question": "Was beschreibt die Sortimentsbreite?",
-      "options": [
-        "Die Varianten innerhalb einer Kategorie",
-        "Die Anzahl unterschiedlicher Produktkategorien",
-        "Die Rentabilität des Sortiments",
-        "Die Lagerkapazität"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 3,
-  "type": "multiple_choice",
-      "question": "Welcher Faktor ist bei der Rentabilität eines Sortiments NICHT zu beeinflussen?",
-      "options": [
-        "Marketingmaßnahmen",
-        "Konkurrenzaktivitäten",
-        "Verkaufspreis",
-        "Wahrnehmungskapazität"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 4,
-  "type": "multiple_choice",
-      "question": "Was gehört zum klassischen Verkaufsprozess?",
-      "options": [
-        "Nur Leistungsangebot",
-        "Nur Leistungserwartung",
-        "Leistungsangebot und Leistungserwartung",
-        "Weder Leistungsangebot noch Leistungserwartung"
-      ],
-      "correct": 2
-    },
-    {
-      "id": 5,
-  "type": "multiple_choice",
-      "question": "Was ist ein Point-of-Sale (POS)?",
-      "options": [
-        "Ein Werbeplakat",
-        "Der Ort des Kaufs",
-        "Ein Verkäufer",
-        "Eine Werbestrategie"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 6,
-  "type": "multiple_choice",
-      "question": "Welche Faktoren beeinflussen die Sortimentsrentabilität?",
-      "options": [
-        "Nur Verkaufsflächen",
-        "Nur Konkurrenzaktivitäten",
-        "Verkaufsflächen und Konkurrenzaktivitäten",
-        "Keine der genannten Optionen"
-      ],
-      "correct": 2
-    },
-    {
-      "id": 7,
-  "type": "multiple_choice",
-      "question": "Was gehört zum Kernsortiment?",
-      "options": [
-        "Saisonale Produkte",
-        "Hauptumsatzträger",
-        "Aktionsware",
-        "Ergänzungsprodukte"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 8,
-  "type": "multiple_choice",
-      "question": "Was versteht man unter Category Management?",
-      "options": [
-        "Personalverwaltung",
-        "Warengruppenmanagement",
-        "Lagerverwaltung",
-        "Kundenservice"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 9,
-  "type": "multiple_choice",
-      "question": "Welche Maßnahme gehört zur Sortimentsoptimierung?",
-      "options": [
-        "Personalplanung",
-        "Controlling-Kennzahlen",
-        "Marketingbudget",
-        "Standortanalyse"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 10,
-  "type": "multiple_choice",
-      "question": "Was ist ein wichtiger Aspekt der Kundenorientierung?",
-      "options": [
-        "Lieferantenauswahl",
-        "Bedarfsbereiche",
-        "Konkurrenzanalyse",
-        "Lagerhaltung"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 11,
-  "type": "multiple_choice",
-      "question": "Welche Einflussfaktoren bestimmen die Preisentscheidung?",
-      "options": [
-        "Nur Kosten",
-        "Nur Nachfrage",
-        "Kosten und Marketingmix",
-        "Ausschließlich Wettbewerb"
-      ],
-      "correct": 2
-    },
-    {
-      "id": 12,
-  "type": "multiple_choice",
-      "question": "Was sind Preisschwellen?",
-      "options": [
-        "Maximale Verkaufspreise",
-        "Psychologische Preisgrenzen",
-        "Mindestpreise",
-        "Durchschnittspreise"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 13,
-  "type": "multiple_choice",
-      "question": "Was ist das Ziel der Ladengestaltung?",
-      "options": [
-        "Nur Verkaufsförderung",
-        "Nur Flächenproduktivität",
-        "Verkaufsförderung und hohe Flächenproduktivität",
-        "Ausschließlich Dekoration"
-      ],
-      "correct": 2
-    },
-    {
-      "id": 14,
-  "type": "multiple_choice",
-      "question": "Was bedeutet Zwangslauf im Ladenlayout?",
-      "options": [
-        "Vorgeschriebene Laufrichtung",
-        "Freie Wegwahl",
-        "Notausgang",
-        "Personalweg"
+          "Lean Management",
+          "Supply Chain Management",
+          "Customer Relationship Management",
+          "Just-in-Time"
       ],
       "correct": 0
-    },
-    {
-      "id": 15,
-  "type": "multiple_choice",
-      "question": "Was gehört zur qualitativen Raumzuteilung?",
+  },
+  {
+      "id": 2,
+      "type": "true_false",
+      "question": "Eine tiefe Wertschöpfungskette bedeutet, dass ein Unternehmen viele Produktionsstufen intern übernimmt.",
+      "options": ["True", "False"],
+      "correct": 0
+  },
+  {
+      "id": 3,
+      "type": "multiple_response",
+      "question": "Welche Funktionen erfüllt ein Lager im Handel?",
       "options": [
-        "Flächenberechnung",
-        "Warengruppenanordnung",
-        "Personalplanung",
-        "Budgetierung"
+          "Pufferfunktion",
+          "Sortierfunktion",
+          "Produktionsfunktion",
+          "Zeitüberbrückungsfunktion"
+      ],
+      "correct": [0, 1, 3]
+  },
+  {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Welche der folgenden Strategien zielt auf langfristige Kundenbindung ab?",
+      "options": [
+          "Preisführerschaft",
+          "Differenzierung",
+          "Kundenbindung",
+          "Markenstärkung"
+      ],
+      "correct": 2
+  },
+  {
+      "id": 5,
+      "type": "true_false",
+      "question": "Discounter bieten häufig ein tiefes und breites Sortiment an.",
+      "options": ["True", "False"],
+      "correct": 1
+  },
+  {
+      "id": 6,
+      "type": "multiple_response",
+      "question": "Welche Elemente gehören zu den 7Ps des Handelsmarketing?",
+      "options": [
+          "Produkt",
+          "Preis",
+          "Platz",
+          "Personal"
+      ],
+      "correct": [0, 1, 2, 3]
+  },
+  {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Was beschreibt die vertikale Integration im Handel?",
+      "options": [
+          "Ausdehnung der Produktpalette",
+          "Kontrolle über mehrere Stufen der Wertschöpfungskette",
+          "Vergrößerung der Verkaufsfläche",
+          "Konzentration auf eine Produktkategorie"
       ],
       "correct": 1
-    },
-    {
-      "id": 16,
-  "type": "multiple_choice",
-      "question": "Welche Verkaufszone ist besonders wertvoll?",
+  },
+  {
+      "id": 8,
+      "type": "true_false",
+      "question": "Beim Omni-Channel-Handel sind die Kanäle unabhängig voneinander.",
+      "options": ["True", "False"],
+      "correct": 1
+  },
+  {
+      "id": 9,
+      "type": "multiple_response",
+      "question": "Welche Merkmale sind typisch für den E-Commerce?",
       "options": [
-        "Sackgassen",
-        "Linke Seite vom Kundenstrom",
-        "Rechte Seite vom Kundenstrom",
-        "Hinter den Kassen"
+          "Globaler Zugang",
+          "Keine Lagerkosten",
+          "Datengetriebene Entscheidungen",
+          "Automatisierte Prozesse"
       ],
-      "correct": 2
-    },
-    {
-      "id": 17,
-  "type": "multiple_choice",
-      "question": "Was ist ein Merkmal der Früherkennungszone?",
+      "correct": [0, 2, 3]
+  },
+  {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Welche der folgenden Optionen beschreibt eine Pull-Strategie?",
       "options": [
-        "Standardmaßnahmen",
-        "Innovative Maßnahmen",
-        "Bewährte Konzepte",
-        "Pflichtmaßnahmen"
+          "Produkte werden basierend auf Lagerbeständen nachgefragt.",
+          "Produkte werden durch Kundenbestellungen gesteuert.",
+          "Produkte werden unabhängig von der Nachfrage produziert.",
+          "Produkte werden durch Rabatte abverkauft."
       ],
       "correct": 1
-    },
-    {
-      "id": 18,
-  "type": "multiple_choice",
-      "question": "Was kennzeichnet die Sicherheitszone?",
+  },
+  {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Was ist der entscheidende Faktor für den Erfolg des Verkaufsprozesses?",
       "options": [
-        "Innovative Maßnahmen",
-        "Einzigartige Konzepte",
-        "Muss-Maßnahmen",
-        "Experimentelle Ansätze"
+          "Leistungsangebot",
+          "Leistungserwartung",
+          "Point-of-Sale",
+          "Wettbewerbsanalyse"
       ],
-      "correct": 2
-    },
-    {
-      "id": 19,
-  "type": "multiple_choice",
-      "question": "Welche Phase ist entscheidend für den Kundeneindruck?",
+      "correct": 0
+  },
+  {
+      "id": 12,
+      "type": "true_false",
+      "question": "Die Vorkaufphase bezieht sich auf die Zeit nach dem Kauf des Produkts.",
+      "options": ["True", "False"],
+      "correct": 1
+  },
+  {
+      "id": 13,
+      "type": "multiple_response",
+      "question": "Welche Faktoren gehören zur Kaufphase?",
       "options": [
-        "Nur die erste Phase",
-        "Nur die letzte Phase",
-        "Erste und letzte Phase",
-        "Mittlere Phase"
-      ],
-      "correct": 2
-    },
-    {
-        "id": 20,
-  "type": "multiple_choice",
-        "question": "Was gehört zur Nachkaufphase?",
-        "options": [
-          "Preisverhandlung",
-          "Produktauswahl",
-          "Kundenservice",
-          "Werbung"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 21,
-  "type": "multiple_choice",
-        "question": "Welche Aufgabe hat das Sortimentscontrolling?",
-        "options": [
-          "Personalplanung",
-          "Rentabilitätsprüfung",
-          "Ladengestaltung",
-          "Werbung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 22,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der Profilierungszone?",
-        "options": [
-          "Standardmaßnahmen",
-          "Einzigartige Maßnahmen",
-          "Pflichtmaßnahmen",
-          "Basisangebote"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 23,
-  "type": "multiple_choice",
-        "question": "Was beeinflusst die Sortimentstiefe?",
-        "options": [
-          "Standort",
-          "Variantenvielfalt",
           "Personal",
-          "Werbung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 24,
-  "type": "multiple_choice",
-        "question": "Welche Rolle spielt das Layout bei der Ladengestaltung?",
-        "options": [
-          "Keine",
-          "Untergeordnete",
-          "Zentrale",
-          "Variable"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 25,
-  "type": "multiple_choice",
-        "question": "Was gehört zur Orientierungsphase?",
-        "options": [
-          "Nur Standort",
-          "Nur Werbung",
-          "Standort und Werbung",
-          "Keines von beiden"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 26,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der quantitativen Raumzuteilung?",
-        "options": [
-          "Produktplatzierung",
-          "Flächeneffizienz",
-          "Warenpräsentation",
-          "Kundenführung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 27,
-  "type": "multiple_choice",
-        "question": "Welche Funktion hat das Category Management?",
-        "options": [
-          "Personalführung",
-          "Warengruppensteuerung",
-          "Preisgestaltung",
-          "Werbung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 28,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die vertikale Warenpräsentation?",
-        "options": [
-          "Breite Anordnung",
-          "Höhenanordnung",
-          "Diagonale Anordnung",
-          "Zufällige Anordnung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 29,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal des Zusatzsortiments?",
-        "options": [
-          "Hauptumsatzträger",
-          "Ergänzende Produkte",
-          "Kernprodukte",
-          "Standardprodukte"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 30,
-  "type": "multiple_choice",
-        "question": "Was beeinflusst die Preislagenbestimmung?",
-        "options": [
-          "Nur Kundenverhalten",
-          "Nur Wettbewerb",
-          "Kundenverhalten und Wettbewerb",
-          "Keiner der genannten Faktoren"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 31,
-  "type": "multiple_choice",
-        "question": "Was gehört zur Verkaufsbereitschaft?",
-        "options": [
-          "Nur Personal",
-          "Nur Sortiment",
-          "Personal und Sortiment",
-          "Keines von beiden"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 32,
-  "type": "multiple_choice",
-        "question": "Welche Bedeutung hat die Warengruppe?",
-        "options": [
-          "Personalstruktur",
-          "Sortimentskategorie",
-          "Preisgestaltung",
-          "Werbemaßnahme"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 33,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die horizontale Warenpräsentation?",
-        "options": [
-          "Höhenanordnung",
-          "Breitenanordnung",
-          "Diagonale Anordnung",
-          "Zufällige Anordnung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 34,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal des Randsortiments?",
-        "options": [
-          "Hauptumsatzträger",
-          "Ergänzungsprodukte",
-          "Abrundung des Sortiments",
-          "Kernprodukte"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 35,
-  "type": "multiple_choice",
-        "question": "Welche Rolle spielt die Attraktivität am POS?",
-        "options": [
-          "Keine",
-          "Untergeordnete",
-          "Zentrale",
-          "Variable"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 36,
-  "type": "multiple_choice",
-        "question": "Was beeinflusst die Sortimentsrentabilität?",
-        "options": [
-          "Nur Kosten",
-          "Nur Umsatz",
-          "Kosten und Umsatz",
-          "Keiner der Faktoren"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 37,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die Profilplanung?",
-        "options": [
-          "Zufällige Maßnahmen",
-          "Systematische Auswahl",
-          "Keine Planung",
-          "Nur Kostenfokus"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 38,
-  "type": "multiple_choice",
-        "question": "Welche Bedeutung hat das Verbundprinzip?",
-        "options": [
-          "Preisgestaltung",
-          "Warenanordnung",
-          "Personalführung",
-          "Werbung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 39,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der Kaufphase?",
-        "options": [
-          "Information",
-          "Transaktion",
-          "Nachbetreuung",
-          "Werbung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 40,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die Nachkaufphase?",
-        "options": [
-          "Produktauswahl",
-          "Kundenbetreuung",
-          "Preisverhandlung",
-          "Sortimentsplanung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 41,
-  "type": "multiple_choice",
-        "question": "Welche Rolle spielt die Technologie am POS?",
-        "options": [
-          "Keine",
-          "Untergeordnete",
-          "Unterstützende",
-          "Zentrale"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 42,
-  "type": "multiple_choice",
-        "question": "Was beeinflusst die Sortimentsbreite?",
-        "options": [
-          "Nur Markt",
-          "Nur Kosten",
-          "Markt und Kosten",
-          "Keiner der Faktoren"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 43,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet das Ladenlayout?",
-        "options": [
-          "Nur Raumaufteilung",
-          "Nur Warenplatzierung",
-          "Raumaufteilung und Warenplatzierung",
-          "Keines von beiden"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 44,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der Orientierungsphase?",
-        "options": [
-          "Kaufabschluss",
-          "Informationssammlung",
-          "Nachbetreuung",
-          "Reklamation"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 45,
-  "type": "multiple_choice",
-        "question": "Welche Bedeutung hat die Kassenzonen-Gestaltung?",
-        "options": [
-          "Keine",
-          "Geringe",
-          "Hohe",
-          "Variable"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 46,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die Sortimentspflege?",
-        "options": [
-          "Einmalige Aktion",
-          "Kontinuierlicher Prozess",
-          "Zufällige Maßnahme",
-          "Keine Bedeutung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 47,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der Verkaufszonen?",
-        "options": [
-          "Gleichwertig",
-          "Unterschiedliche Wertigkeit",
-          "Ohne Bedeutung",
-          "Zufällig"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 48,
-  "type": "multiple_choice",
-        "question": "Welche Rolle spielt die Kundenführung?",
-        "options": [
-          "Keine",
-          "Untergeordnete",
-          "Wichtige",
-          "Variable"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 49,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die Sortimentsoptimierung?",
-        "options": [
-          "Einmalige Aktion",
-          "Kontinuierlicher Prozess",
-          "Zufällige Maßnahme",
-          "Keine Bedeutung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 50,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der Warenpräsentation?",
-        "options": [
-          "Unwichtig",
-          "Nebensächlich",
-          "Verkaufsfördernd",
-          "Ohne Einfluss"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 51,
-  "type": "multiple_choice",
-        "question": "Welche Bedeutung hat die Raumzuteilung?",
-        "options": [
-          "Keine",
-          "Geringe",
-          "Strategische",
-          "Variable"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 52,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die Sortimentsstruktur?",
-        "options": [
-          "Zufällige Anordnung",
-          "Systematische Gliederung",
-          "Keine Ordnung",
-          "Variable Gestaltung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 53,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der Preisgestaltung?",
-        "options": [
-          "Unwichtig",
-          "Nebensächlich",
-          "Strategisch",
-          "Ohne Bedeutung"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 54,
-  "type": "multiple_choice",
-        "question": "Welche Rolle spielt das Personal?",
-        "options": [
-          "Keine",
-          "Untergeordnete",
-          "Zentrale",
-          "Variable"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 55,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die Ladengestaltung?",
-        "options": [
-          "Nur Optik",
-          "Nur Funktionalität",
-          "Optik und Funktionalität",
-          "Keines von beiden"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 56,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der Kundenkommunikation?",
-        "options": [
-          "Unwichtig",
-          "Nebensächlich",
-          "Wesentlich",
-          "Ohne Bedeutung"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 57,
-  "type": "multiple_choice",
-        "question": "Welche Bedeutung hat die Warenpflege?",
-        "options": [
-          "Keine",
-          "Geringe",
-          "Hohe",
-          "Variable"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 58,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die Verkaufsförderung?",
-        "options": [
-          "Einmalige Aktion",
-          "Dauerhafter Prozess",
-          "Zufällige Maßnahme",
-          "Ohne Bedeutung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 59,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der Sortimentsplanung?",
-        "options": [
-          "Spontan",
-          "Systematisch",
-          "Zufällig",
-          "Ohne System"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 60,
-  "type": "multiple_choice",
-        "question": "Welche Rolle spielt die Preiskalkulation?",
-        "options": [
-          "Keine",
-          "Untergeordnete",
-          "Zentrale",
-          "Variable"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 61,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die Kundenorientierung?",
-        "options": [
-          "Unwichtig",
-          "Nebensächlich",
-          "Grundlegend",
-          "Ohne Bedeutung"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 62,
-  "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der Verkaufsraumgestaltung?",
-        "options": [
-          "Nur Optik",
-          "Nur Funktion",
-          "Optik und Funktion",
-          "Keines von beiden"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 63,
-  "type": "multiple_choice",
-        "question": "Welche Bedeutung hat die Warenpräsentation?",
-        "options": [
-          "Keine",
-          "Geringe",
-          "Hohe",
-          "Variable"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 64,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die Verkaufsstrategie?",
-        "options": [
-          "Zufällig",
-          "Geplant",
-          "Unwichtig",
-          "Ohne Bedeutung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 65,
-  "type": "multiple_choice",
-        "question": "Welche Zone im Profilierungsmodell beschreibt Maßnahmen, die von Kunden erwartet werden?",
-        "options": [
-          "Früherkennungszone",
-          "Profilierungszone",
-          "Sicherheitszone",
-          "Innovationszone"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 66,
-  "type": "multiple_choice",
-        "question": "Was kennzeichnet die Nachkaufphase?",
-        "options": [
-          "Sortimentsauswahl",
+          "Sortiment",
+          "Technologie",
+          "Preis"
+      ],
+      "correct": [0, 1, 2, 3]
+  },
+  {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Was ist ein entscheidendes Element der Nachkaufphase?",
+      "options": [
           "Nachkaufservice",
-          "Ladenlayout",
+          "Preisgestaltung",
+          "Produktgestaltung",
+          "Produktwerbung"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Welche der folgenden Strategien fördert langfristige Kundenbindung?",
+      "options": [
+          "Preisführerschaft",
+          "Differenzierung",
+          "Kundenbindung",
+          "Markenstärkung"
+      ],
+      "correct": 2
+  },
+  {
+      "id": 16,
+      "type": "multiple_response",
+      "question": "Welche Elemente sind Teil der Verkaufsbereitschaft in der Kaufphase?",
+      "options": [
+          "Personal",
+          "Sortiment",
+          "Technologie",
+          "Unpersönliche Dienstleistung"
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Was beschreibt das Konzept der vertikalen Integration?",
+      "options": [
+          "Ausdehnung der Produktpalette",
+          "Kontrolle über mehrere Stufen der Wertschöpfungskette",
+          "Vergrößerung der Verkaufsfläche",
+          "Fokussierung auf eine Produktkategorie"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 18,
+      "type": "multiple_response",
+      "question": "Welche Aspekte sind bei der Gestaltung des Ladenlayouts zu beachten?",
+      "options": [
+          "Raumaufteilung",
+          "Anordnung der Gänge",
+          "Gestaltung der Verkaufsfläche",
+          "Einrichtung von Warenpräsentationen"
+      ],
+      "correct": [0, 1, 2, 3]
+  },
+  {
+      "id": 19,
+      "type": "true_false",
+      "question": "Das Ladenlayout hat keinen Einfluss auf das Einkaufsverhalten der Kunden.",
+      "options": ["True", "False"],
+      "correct": 1
+  },
+  {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Welche Verkaufszone wird als minderwertig betrachtet?",
+      "options": [
+          "Hauptweg",
+          "Rechts vom Kundenstrom",
+          "Kassenbereich",
+          "Einlaufzonen"
+      ],
+      "correct": 3
+  },
+  {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Welche der folgenden Faktoren beeinflusst den Preis im Einzelhandel?",
+      "options": [
+          "Kosten",
+          "Kundennachfrage",
+          "Marketingstrategie",
+          "Wettbewerbsverhalten"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 22,
+      "type": "true_false",
+      "question": "Preisschwellen beeinflussen das Kaufverhalten der Kunden.",
+      "options": ["True", "False"],
+      "correct": 0
+  },
+  {
+      "id": 23,
+      "type": "multiple_response",
+      "question": "Welche Elemente gehören zur Ladengestaltung?",
+      "options": [
+          "Raumaufteilung",
+          "Produktplatzierung",
+          "Werbung",
           "Preisgestaltung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 67,
-  "type": "multiple_choice",
-        "question": "Welche Art der Raumzuteilung befasst sich mit der effizienten Flächennutzung?",
-        "options": [
-          "Qualitative Raumzuteilung",
-          "Quantitative Raumzuteilung",
-          "Vertikale Raumzuteilung",
-          "Horizontale Raumzuteilung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 68,
-  "type": "multiple_choice",
-        "question": "Was gehört zu den hochwertigen Verkaufszonen?",
-        "options": [
-          "Sackgassen",
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Was ist die Hauptaufgabe der Raumaufteilung im Laden?",
+      "options": [
+          "Erhöhung der Verkaufsfläche",
+          "Optimierung des Kundenflusses",
+          "Platzierung von Sonderangeboten",
+          "Lagerung der Produkte"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Welche der folgenden Verkaufszonen ist am wertvollsten?",
+      "options": [
+          "Hauptweg",
+          "Hintere Zonen",
           "Einlaufzonen",
-          "Links vom Kundenstrom",
-          "Gangkreuzungen"
-        ],
-        "correct": 3
-      },
-      {
-        "id": 69,
-  "type": "multiple_choice",
-        "question": "Welches Element gehört zur Ladengestaltung?",
-        "options": [
-          "Personalplanung",
-          "Budgetierung",
-          "Ladenlayout",
-          "Marketingstrategie"
-        ],
-        "correct": 2
-      }
-    
-    
-    
-  ]
+          "Kassenbereich"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 26,
+      "type": "true_false",
+      "question": "Die Raumzuteilung im Laden hat keinen Einfluss auf die Produktverkäufe.",
+      "options": ["True", "False"],
+      "correct": 1
+  },
+  {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Was beschreibt die „Profilierungszone“ in einem Ladenlayout?",
+      "options": [
+          "Must-have-Maßnahmen",
+          "Einzigartige Angebote",
+          "Innovative Maßnahmen",
+          "Günstige Angebote"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 28,
+      "type": "multiple_response",
+      "question": "Welche der folgenden Aspekte gehören zur Sicherstellung der Verkaufsbereitschaft?",
+      "options": [
+          "Personal",
+          "Sortiment",
+          "Preisgestaltung",
+          "Warenpräsentation"
+      ],
+      "correct": [0, 1, 3]
+  },
+  {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Welche der folgenden Aufgaben gehört nicht zur Sortimentsoptimierung?",
+      "options": [
+          "Produktpflege",
+          "Wettbewerbsanalyse",
+          "Bestimmung der Wachstumsrate",
+          "Sortimentsausweitung"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Was beschreibt das „Zonenmodell der Profilierung“?",
+      "options": [
+          "Verkaufsprozessoptimierung",
+          "Strategische Planung der Filiale",
+          "Lageroptimierung",
+          "Markenführung im Einzelhandel"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "Welche der folgenden Fragen sollte bei der Wahl eines Ladenstandorts beachtet werden?",
+      "options": [
+          "Wettbewerb",
+          "Mietkosten",
+          "Zielgruppenanalyse",
+          "Gesetzliche Vorschriften"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 32,
+      "type": "multiple_response",
+      "question": "Welche der folgenden Maßnahmen gehören zu den „Must-have-Maßnahmen“ in einem Verkaufsprozess?",
+      "options": [
+          "Produktpräsentation",
+          "Preisstrategie",
+          "Produktqualität",
+          "Serviceleistungen"
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "Welche der folgenden ist eine Maßnahme zur Steigerung der Verkaufsbereitschaft?",
+      "options": [
+          "Sortimentserweiterung",
+          "Produktpflege",
+          "Warenlagerung",
+          "Produktwerbung"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "Welche der folgenden Aspekte beeinflusst die Gestaltung des Ladenlayouts?",
+      "options": [
+          "Kundennachfrage",
+          "Produktart",
+          "Markenkonzepte",
+          "Alle genannten Aspekte"
+      ],
+      "correct": 3
+  },
+  {
+      "id": 35,
+      "type": "true_false",
+      "question": "Kundennachfrage beeinflusst das Ladenlayout.",
+      "options": ["True", "False"],
+      "correct": 0
+  },
+  {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "Was ist der Zweck der vertikalen Sicht bei der Produktplatzierung?",
+      "options": [
+          "Bessere Sichtbarkeit der Produkte",
+          "Erhöhung der Verkäufe",
+          "Optimierung der Regalflächen",
+          "Günstigere Preisgestaltung"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "Was bedeutet „Quantitative Raumzuteilung“?",
+      "options": [
+          "Effektive Nutzung der Fläche",
+          "Platzierung von teuren Produkten",
+          "Höhere Regalflächen",
+          "Produktpflege"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 38,
+      "type": "multiple_response",
+      "question": "Welche der folgenden Elemente gehören zum Konzept des Ladenlayouts?",
+      "options": [
+          "Produktpräsentation",
+          "Lagerung",
+          "Personalmanagement",
+          "Verkaufsförderung"
+      ],
+      "correct": [0, 1, 3]
+  },
+  {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "Was ist das Ziel der Raumzuteilung in einem Laden?",
+      "options": [
+          "Erhöhung der Lagerflächen",
+          "Steigerung der Verkaufszahlen",
+          "Optimierung der Warenpräsentation",
+          "Vergrößerung des Ladenbereichs"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 40,
+      "type": "multiple_response",
+      "question": "Welche Faktoren gehören zur Gestaltung der Verkaufsfläche?",
+      "options": [
+          "Kundennachfrage",
+          "Warenplatzierung",
+          "Raumgestaltung",
+          "Preisgestaltung"
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "Was ist eine der wichtigsten Grundlagen für eine erfolgreiche Verkaufsstrategie?",
+      "options": [
+          "Kundenzufriedenheit",
+          "Produktqualität",
+          "Marketingstrategie",
+          "Preisstrategie"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 42,
+      "type": "multiple_choice",
+      "question": "Welche Methode wird häufig zur Festlegung von Preisstrategien verwendet?",
+      "options": [
+          "Preispsychologie",
+          "Preisdifferenzierung",
+          "Preisabschöpfung",
+          "Alle genannten Methoden"
+      ],
+      "correct": 3
+  },
+  {
+      "id": 43,
+      "type": "multiple_response",
+      "question": "Welche Techniken gehören zur Preispsychologie?",
+      "options": [
+          "Preis als Signal für Qualität",
+          "Preisschwellen",
+          "Verpackungsgrößen",
+          "Discounts"
+      ],
+      "correct": [0, 1]
+  },
+  {
+      "id": 44,
+      "type": "multiple_choice",
+      "question": "Was beschreibt das Konzept der Preisdifferenzierung?",
+      "options": [
+          "Unterschiedliche Preise für gleiche Produkte",
+          "Gleiche Preise für unterschiedliche Produkte",
+          "Preisnachlässe auf beliebte Produkte",
+          "Preise basierend auf Produktionskosten"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 45,
+      "type": "multiple_response",
+      "question": "Welche Vorteile bietet die Preisabschöpfung?",
+      "options": [
+          "Höhere Gewinne",
+          "Zugang zu höheren Märkten",
+          "Geringere Lagerbestände",
+          "Steigerung der Markenbindung"
+      ],
+      "correct": [0, 1]
+  },
+  {
+      "id": 46,
+      "type": "true_false",
+      "question": "Die Preispsychologie hat keinen Einfluss auf das Konsumverhalten der Kunden.",
+      "options": ["True", "False"],
+      "correct": 1
+  },
+  {
+      "id": 47,
+      "type": "multiple_choice",
+      "question": "Was ist der Zweck der Preisdifferenzierung?",
+      "options": [
+          "Erzielung eines höheren Gewinns",
+          "Reduzierung von Lagerbeständen",
+          "Gewinnung neuer Märkte",
+          "Alle genannten Optionen"
+      ],
+      "correct": 3
+  },
+  {
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "Welches Konzept beschreibt die gezielte Festsetzung eines höheren Preises für ein Produkt?",
+      "options": [
+          "Preisabschöpfung",
+          "Preisdifferenzierung",
+          "Preisuntergrenze",
+          "Preisstrategie"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 49,
+      "type": "multiple_response",
+      "question": "Welche Faktoren sollten bei der Preissetzung berücksichtigt werden?",
+      "options": [
+          "Produktqualität",
+          "Zielgruppenanalyse",
+          "Wettbewerbsanalyse",
+          "Markenbekanntheit"
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 50,
+      "type": "true_false",
+      "question": "Die Preissetzung ist unabhängig von den Produktionskosten.",
+      "options": ["True", "False"],
+      "correct": 1
+  },
+  {
+      "id": 51,
+      "type": "multiple_response",
+      "question": "Welche der folgenden Aspekte gehören zur Analyse von Preisstrategien?",
+      "options": [
+          "Wettbewerbsanalyse",
+          "Markenbekanntheit",
+          "Produktqualität",
+          "Preisschwellen"
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 52,
+      "type": "multiple_choice",
+      "question": "Welche der folgenden Preismodelle fördert die Preisabschöpfung?",
+      "options": [
+          "Skimming-Preismodell",
+          "Penetrationspreisstrategie",
+          "Gegebene Preisstrategie",
+          "Unterscheidungspreismodell"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 53,
+      "type": "multiple_response",
+      "question": "Welche der folgenden Konzepte gehören zu den Preisstrategien?",
+      "options": [
+          "Skimming-Preismodell",
+          "Penetrationspreisstrategie",
+          "Rabattaktionen",
+          "Gegebene Preisstrategie"
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 54,
+      "type": "multiple_choice",
+      "question": "Welches Preismodell wird hauptsächlich zur Gewinnmaximierung eingesetzt?",
+      "options": [
+          "Skimming-Preismodell",
+          "Penetrationspreisstrategie",
+          "Gegebene Preisstrategie",
+          "Preisabschöpfung"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 55,
+      "type": "multiple_response",
+      "question": "Welche Preismodelle setzen auf Marktpenetration?",
+      "options": [
+          "Penetrationspreisstrategie",
+          "Gegebene Preisstrategie",
+          "Unterscheidungsmodell",
+          "Skimming-Modell"
+      ],
+      "correct": [0, 2]
+  },
+  {
+      "id": 56,
+      "type": "multiple_choice",
+      "question": "Welche Strategie hilft, den Markt mit einem niedrigeren Preis schneller zu durchdringen?",
+      "options": [
+          "Skimming-Preisstrategie",
+          "Penetrationspreisstrategie",
+          "Gegebene Preisstrategie",
+          "Alle genannten Optionen"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 57,
+      "type": "multiple_response",
+      "question": "Welche der folgenden Preismodelle verwenden Unternehmen für die Maximierung ihrer Gewinne?",
+      "options": [
+          "Skimming-Preismodell",
+          "Gegebene Preisstrategie",
+          "Penetrationspreisstrategie",
+          "Rabattaktionen"
+      ],
+      "correct": [0, 1]
+  },
+  {
+      "id": 58,
+      "type": "multiple_choice",
+      "question": "Welche Preispolitik setzt auf niedrige Preise, um schnell Marktanteile zu gewinnen?",
+      "options": [
+          "Skimming-Preisstrategie",
+          "Penetrationspreisstrategie",
+          "Gegebene Preisstrategie",
+          "Rabattaktionen"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 59,
+      "type": "multiple_response",
+      "question": "Welche der folgenden Preismodelle setzen auf langjährige Kundenbindung?",
+      "options": [
+          "Preisabschöpfung",
+          "Penetrationspreisstrategie",
+          "Gegebene Preisstrategie",
+          "Rabattaktionen"
+      ],
+      "correct": [2, 3]
+  },
+  {
+      "id": 60,
+      "type": "multiple_choice",
+      "question": "Welches Preismodell wird für Produkte mit hohem Innovationsgrad verwendet?",
+      "options": [
+          "Skimming-Preismodell",
+          "Preisabschöpfung",
+          "Gegebene Preisstrategie",
+          "Alle genannten Optionen"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 61,
+      "type": "multiple_response",
+      "question": "Welche der folgenden Preise beinhalten die Preispsychologie?",
+      "options": [
+          "Preispsychologische Rabatte",
+          "Preis als Signal für Qualität",
+          "Verpackungsgrößen",
+          "Preisschwellen"
+      ],
+      "correct": [1, 2]
+  },
+  {
+      "id": 62,
+      "type": "multiple_choice",
+      "question": "Was beschreibt das Konzept der Preisabschöpfung?",
+      "options": [
+          "Preise, die auf einer hohen Nachfrage basieren",
+          "Preise, die die Kosten abdecken",
+          "Preise, die auf der Markenpositionierung basieren",
+          "Preise, die den Markt durchdringen"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 63,
+      "type": "multiple_response",
+      "question": "Welche der folgenden Faktoren beeinflussen den Preis eines Produkts?",
+      "options": [
+          "Produktkosten",
+          "Wettbewerbsanalyse",
+          "Produktwerbung",
+          "Produktqualität"
+      ],
+      "correct": [0, 1, 3]
+  },
+  {
+      "id": 64,
+      "type": "multiple_choice",
+      "question": "Was beschreibt das Konzept der Preisstrategie?",
+      "options": [
+          "Preisanpassung",
+          "Preisoptimierung",
+          "Wettbewerbsorientierung",
+          "Preisdifferenzierung"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 65,
+      "type": "multiple_choice",
+      "question": "Welches Konzept fördert die Kundenbindung durch attraktive Preise?",
+      "options": [
+          "Rabattaktionen",
+          "Preisabschöpfung",
+          "Gegebene Preisstrategie",
+          "Skimming-Preismodell"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 66,
+      "type": "multiple_response",
+      "question": "Welche Preispolitiken setzen auf langfristige Kundenbindung?",
+      "options": [
+          "Skimming-Preismodell",
+          "Penetrationspreisstrategie",
+          "Rabattaktionen",
+          "Gegebene Preisstrategie"
+      ],
+      "correct": [2, 3]
+  },
+  {
+      "id": 67,
+      "type": "multiple_choice",
+      "question": "Was ist ein weiteres Ziel der Preispolitik?",
+      "options": [
+          "Maximierung des Marktanteils",
+          "Gewinnmaximierung",
+          "Produktdiversifikation",
+          "Erhöhung der Markenbekanntheit"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 68,
+      "type": "multiple_response",
+      "question": "Welche der folgenden Elemente gehören zum Konzept der Marketingstrategie?",
+      "options": [
+          "Markenbekanntheit",
+          "Wettbewerbsanalyse",
+          "Zielgruppenanalyse",
+          "Produktdesign"
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 69,
+      "type": "multiple_choice",
+      "question": "Welches Konzept beschreibt die gezielte Werbung, um Kunden zu gewinnen?",
+      "options": [
+          "Markenbekanntheit",
+          "Werbung",
+          "Kundenzufriedenheit",
+          "Zielgruppenanalyse"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 70,
+      "type": "multiple_choice",
+      "question": "Was ist ein Vorteil von Online-Marketing gegenüber traditionellem Marketing?",
+      "options": [
+          "Höhere Reichweite",
+          "Höhere Kosten",
+          "Mehr Interaktivität",
+          "Alle genannten Optionen"
+      ],
+      "correct": 3
+  }
+]

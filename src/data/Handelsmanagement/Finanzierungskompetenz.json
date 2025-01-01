@@ -1,0 +1,731 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Welche Hauptaufgabe hat die betriebliche Finanzierung?",
+        "options": [
+            "Langfristige Investitionsplanung",
+            "Planung, Steuerung und Kontrolle der Zahlungsströme",
+            "Reduktion von Kapitalbedarf",
+            "Optimierung der Produktionskosten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Die Finanzdisposition umfasst die Beschaffung von Kapital für Investitionen.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 3,
+        "type": "multiple_response",
+        "question": "Welche Phasen gehören zum Finanzierungsprozess?",
+        "options": [
+            "Kapitalbedarf berechnen",
+            "Finanzierungsanlass analysieren",
+            "Wahl der Marktstrategie",
+            "Optimierung der Finanzstruktur"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptziel der Liquiditätsplanung?",
+        "options": [
+            "Maximierung des Eigenkapitalanteils",
+            "Gewährleistung der jederzeitigen Zahlungsfähigkeit",
+            "Reduktion der Steuerbelastung",
+            "Optimierung der Gewinnverwendung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 5,
+        "type": "true_false",
+        "question": "Ein hoher Fremdkapitalanteil erhöht die finanzielle Unabhängigkeit eines Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 6,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen den Kapitalbedarfsplan eines Unternehmens?",
+        "options": [
+            "Größe der Verkaufsfläche",
+            "Lieferbedingungen",
+            "Technologische Entwicklungen",
+            "Steuersätze"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "Was ist ein typischer Vorteil des Einsatzes von Eigenkapital?",
+        "options": [
+            "Steuervorteile bei der Gewinnverteilung",
+            "Keine Rückzahlungsverpflichtung",
+            "Niedrigere Zinsen als bei Fremdkapital",
+            "Volle Unabhängigkeit von Investoren"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 8,
+        "type": "true_false",
+        "question": "Die Innenfinanzierung basiert ausschließlich auf externen Quellen wie Bankkrediten.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 9,
+        "type": "multiple_response",
+        "question": "Welche Merkmale kennzeichnen Fremdkapital?",
+        "options": [
+            "Rückzahlungsverpflichtung",
+            "Gewinnbeteiligung",
+            "Verzinsung",
+            "Keine Mitspracherechte"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 10,
+        "type": "multiple_choice",
+        "question": "Was beschreibt den Leverage-Effekt?",
+        "options": [
+            "Die Möglichkeit, durch Fremdkapital die Eigenkapitalrendite zu erhöhen",
+            "Die Reduktion der Steuerlast durch höhere Schulden",
+            "Die Steigerung der Liquidität durch Rücklagenbildung",
+            "Die Erhöhung der Gesamtkapitalrentabilität durch Eigenkapital"
+        ],
+        "correct": 0
+    }, {
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Was ist eine Voraussetzung für den Leverage-Effekt?",
+        "options": [
+            "Eigenkapitalquote unter 50%",
+            "Gesamtkapitalrentabilität höher als Fremdkapitalzinsen",
+            "Hohe Rücklagenbildung",
+            "Fremdkapitalquote über 70%"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Die Eigenkapitalquote zeigt den Anteil des Fremdkapitals am gesamten Kapital eines Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 13,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen sichern die Liquidität eines Unternehmens?",
+        "options": [
+            "Langfristige Investitionen mit kurzfristigem Kapital finanzieren",
+            "Erhöhung der liquiden Mittel durch Verkäufe",
+            "Optimierung der Forderungsstruktur",
+            "Nutzung von kurzfristigen Darlehen"
+        ],
+        "correct": [1, 2, 3]
+    },
+    {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Welche Finanzierungsform kombiniert Merkmale von Eigen- und Fremdkapital?",
+        "options": [
+            "Kreditfinanzierung",
+            "Mezzanine-Kapital",
+            "Innenfinanzierung",
+            "Einlagenfinanzierung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 15,
+        "type": "true_false",
+        "question": "Die 'Goldene Finanzierungsregel' fordert, dass Umlaufvermögen langfristig finanziert wird.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 16,
+        "type": "multiple_response",
+        "question": "Welche Ziele gehören zur Finanzstrukturplanung?",
+        "options": [
+            "Maximierung der Gewinne",
+            "Sicherung der Liquidität",
+            "Optimale Kapitalstruktur",
+            "Reduktion der Produktentwicklungskosten"
+        ],
+        "correct": [1, 2]
+    },
+    {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptziel der Innenfinanzierung durch Selbstfinanzierung?",
+        "options": [
+            "Unabhängigkeit von externen Geldgebern",
+            "Erhöhung der Steuerlast",
+            "Optimierung der Produktionskosten",
+            "Schnelle Liquiditätsgewinnung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Ein negativer Cashflow bedeutet, dass ein Unternehmen mehr einnimmt als ausgibt.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 19,
+        "type": "multiple_response",
+        "question": "Welche Kriterien sind für die Wahl der Finanzierungsform entscheidend?",
+        "options": [
+            "Höhe des Kapitalbedarfs",
+            "Flexibilität der Rückzahlung",
+            "Steuerliche Vorteile",
+            "Marktanteil des Unternehmens"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 20,
+        "type": "multiple_choice",
+        "question": "Was zeigt die Gesamtkapitalrentabilität (Return on Investment)?",
+        "options": [
+            "Die Effizienz des gesamten Kapitaleinsatzes",
+            "Den Gewinnanteil der Eigenkapitalgeber",
+            "Die Höhe der Fremdkapitalzinsen",
+            "Den Überschuss an liquiden Mitteln"
+        ],
+        "correct": 0
+    },{
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Welche Finanzierungsphase bezieht sich auf die Analyse des Zwecks der Finanzierung?",
+        "options": [
+            "Kapitalbedarf berechnen",
+            "Finanzierungsanlass beachten",
+            "Finanzstruktur optimieren",
+            "Wahl der Finanzierungsform"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Die Rentabilität misst, wie effizient ein Unternehmen seine Ressourcen nutzt, um Gewinne zu erzielen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 23,
+        "type": "multiple_response",
+        "question": "Welche Finanzierungsformen zählen zur Außenfinanzierung?",
+        "options": [
+            "Bankkredite",
+            "Selbstfinanzierung",
+            "Investorenkapital",
+            "Pensionsrückstellungen"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 24,
+        "type": "multiple_choice",
+        "question": "Welche Finanzierungsregel besagt, dass langfristige Investitionen auch mit langfristigem Kapital gedeckt sein sollten?",
+        "options": [
+            "Die 'Goldene Finanzierungsregel'",
+            "Die Eigenkapitalquote",
+            "Der Leverage-Effekt",
+            "Die Liquiditätskennzahl"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 25,
+        "type": "true_false",
+        "question": "Die Fremdkapitalquote sollte bei Handelsbetrieben über 70 % liegen, um finanzielle Stabilität zu gewährleisten.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 26,
+        "type": "multiple_response",
+        "question": "Welche internen Faktoren beeinflussen den Kapitalbedarf eines Unternehmens?",
+        "options": [
+            "Größe der Verkaufsfläche",
+            "Inflationsrate",
+            "Vorauszahlungen an Lieferanten",
+            "Verfügbarkeit von Eigenmitteln"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 27,
+        "type": "multiple_choice",
+        "question": "Was bedeutet ein positiver Cashflow?",
+        "options": [
+            "Ein Unternehmen hat mehr ausgegeben als eingenommen.",
+            "Die Einnahmen übersteigen die Ausgaben in einer Periode.",
+            "Das Eigenkapital eines Unternehmens hat sich erhöht.",
+            "Die liquiden Mittel eines Unternehmens sind erschöpft."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 28,
+        "type": "true_false",
+        "question": "Die Mezzanine-Finanzierung verbindet die Vorteile von Eigen- und Fremdkapital.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 29,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben gehören zur Finanzdisposition?",
+        "options": [
+            "Steuerung finanzieller Mittel",
+            "Investitionen in Anlagevermögen",
+            "Planung von Zahlungsströmen",
+            "Kontrolle von Finanzflüssen"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 30,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl beschreibt die Rentabilität des eigenen Kapitals?",
+        "options": [
+            "Gesamtkapitalrentabilität (RoI)",
+            "Eigenkapitalrentabilität (RoE)",
+            "Liquiditätsquote",
+            "Fremdkapitalquote"
+        ],
+        "correct": 1
+    },{
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Welche Phase des Finanzierungsprozesses umfasst die Entscheidung über die Kapitalquelle?",
+        "options": [
+            "Kapitalbedarf berechnen",
+            "Finanzierungsanlass analysieren",
+            "Wahl der Finanzierungsform",
+            "Optimierung der Finanzstruktur"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Die Innenfinanzierung umfasst die Nutzung von Rücklagen und einbehaltenen Gewinnen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 33,
+        "type": "multiple_response",
+        "question": "Welche Instrumente unterstützen die Liquiditätsplanung?",
+        "options": [
+            "Cashflow-Analyse",
+            "Forderungsmanagement",
+            "Lageroptimierung",
+            "Kapitalerhöhung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 34,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptmerkmal von Mezzanine-Kapital?",
+        "options": [
+            "Es kombiniert Eigenschaften von Eigen- und Fremdkapital.",
+            "Es ist ausschließlich für Großunternehmen zugänglich.",
+            "Es erfordert keine Rückzahlung.",
+            "Es wird ausschließlich durch Banken bereitgestellt."
+        ],
+        "correct": 0
+    },
+    {
+        "id": 35,
+        "type": "true_false",
+        "question": "Ein positiver Cashflow garantiert automatisch die Rentabilität eines Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 36,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet eine hohe Eigenkapitalquote?",
+        "options": [
+            "Erhöhte finanzielle Stabilität",
+            "Geringere Abhängigkeit von Fremdkapitalgebern",
+            "Niedrigere Steuerlast",
+            "Bessere Kreditwürdigkeit"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 37,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl beschreibt die Effizienz des Kapitaleinsatzes im gesamten Unternehmen?",
+        "options": [
+            "Eigenkapitalrendite (RoE)",
+            "Gesamtkapitalrentabilität (RoI)",
+            "Liquiditätsgrad 1",
+            "Fremdkapitalquote"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 38,
+        "type": "true_false",
+        "question": "Die Fremdfinanzierung führt immer zu einer höheren Eigenkapitalrendite.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 39,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zur Kapitalbedarfsberechnung?",
+        "options": [
+            "Geplante Investitionen",
+            "Fixkostenanalyse",
+            "Forderungsmanagement",
+            "Rücklagenbildung"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 40,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Funktion des Liquiditätsplans?",
+        "options": [
+            "Er misst die Rentabilität eines Unternehmens.",
+            "Er stellt sicher, dass ein Unternehmen seine finanziellen Verpflichtungen erfüllen kann.",
+            "Er analysiert die Marktchancen eines Produkts.",
+            "Er bewertet die Effizienz der Produktion."
+        ],
+        "correct": 1
+    },{
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die 'Goldene Bilanzregel'?",
+        "options": [
+            "Das Eigenkapital sollte höher sein als das Fremdkapital.",
+            "Langfristiges Vermögen sollte durch langfristiges Kapital gedeckt sein.",
+            "Die Liquiditätsquote sollte mindestens 50% betragen.",
+            "Der Cashflow sollte positiv sein."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Die Gesamtkapitalrentabilität ist eine Kennzahl, die ausschließlich das Eigenkapital bewertet.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 43,
+        "type": "multiple_response",
+        "question": "Welche Formen gehören zur Außenfinanzierung?",
+        "options": [
+            "Bankkredite",
+            "Beteiligungskapital",
+            "Rücklagenbildung",
+            "Mezzanine-Kapital"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 44,
+        "type": "multiple_choice",
+        "question": "Was ist ein Ziel der Finanzstrukturplanung?",
+        "options": [
+            "Erhöhung der Produktionskapazität",
+            "Ausgewogene Verteilung von Eigen- und Fremdkapital",
+            "Maximierung der Fixkosten",
+            "Reduktion der Marktanteile"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 45,
+        "type": "true_false",
+        "question": "Die Wahl der Finanzierungsform hat keinen Einfluss auf die Rentabilität des Eigenkapitals.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 46,
+        "type": "multiple_response",
+        "question": "Welche Kennzahlen werden zur Beurteilung der Rentabilität genutzt?",
+        "options": [
+            "Eigenkapitalrendite (RoE)",
+            "Gesamtkapitalrentabilität (RoI)",
+            "Liquiditätsgrad 2",
+            "Fremdkapitalquote"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 47,
+        "type": "multiple_choice",
+        "question": "Welche Finanzierungsform minimiert die Abhängigkeit von externen Kapitalgebern?",
+        "options": [
+            "Eigenfinanzierung",
+            "Mezzanine-Finanzierung",
+            "Fremdfinanzierung",
+            "Factoring"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 48,
+        "type": "true_false",
+        "question": "Ein Unternehmen mit einer hohen Eigenkapitalquote hat eine bessere Kreditwürdigkeit.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 49,
+        "type": "multiple_response",
+        "question": "Welche Elemente umfasst die Optimierung der Finanzstruktur?",
+        "options": [
+            "Senkung der Fremdkapitalkosten",
+            "Erhöhung der Eigenkapitalquote",
+            "Flexibilität in der Rückzahlung",
+            "Reduktion der Liquiditätsreserven"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 50,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl zeigt, ob ein Unternehmen in der Lage ist, kurzfristige Verbindlichkeiten zu begleichen?",
+        "options": [
+            "Gesamtkapitalrentabilität",
+            "Eigenkapitalquote",
+            "Liquiditätsgrad 1",
+            "Fremdkapitalquote"
+        ],
+        "correct": 2
+    },{
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Art der Finanzierung kombiniert Eigen- und Fremdkapitalmerkmale?",
+        "options": [
+            "Beteiligungskapital",
+            "Mezzanine-Finanzierung",
+            "Kreditfinanzierung",
+            "Selbstfinanzierung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 52,
+        "type": "true_false",
+        "question": "Die 'Goldene Finanzierungsregel' stellt sicher, dass kurzfristige Vermögenswerte mit langfristigem Kapital gedeckt werden.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 53,
+        "type": "multiple_response",
+        "question": "Welche Ziele verfolgt die Liquiditätsplanung?",
+        "options": [
+            "Sicherstellung der Zahlungsfähigkeit",
+            "Optimierung der Kapitalrendite",
+            "Minimierung von Zahlungsausfällen",
+            "Effiziente Nutzung von Betriebsmitteln"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 54,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl misst die Effizienz des gesamten Kapitaleinsatzes?",
+        "options": [
+            "Eigenkapitalrendite (RoE)",
+            "Gesamtkapitalrentabilität (RoI)",
+            "Liquiditätsgrad 2",
+            "Fremdkapitalquote"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 55,
+        "type": "true_false",
+        "question": "Fremdkapitalgeber haben ein Mitspracherecht in der Geschäftsführung.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 56,
+        "type": "multiple_response",
+        "question": "Welche Faktoren erhöhen die Attraktivität der Innenfinanzierung?",
+        "options": [
+            "Unabhängigkeit von externen Geldgebern",
+            "Steuerliche Vorteile",
+            "Erhöhte Liquiditätsreserven",
+            "Minimierung von Zinsbelastungen"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 57,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptmerkmal der Fremdfinanzierung?",
+        "options": [
+            "Kapital wird durch Eigenmittel aufgebracht.",
+            "Kapital wird mit Rückzahlungsverpflichtung bereitgestellt.",
+            "Kapitalgeber haben ein Mitspracherecht.",
+            "Kapital steht unbegrenzt zur Verfügung."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 58,
+        "type": "true_false",
+        "question": "Ein Unternehmen mit hoher Fremdkapitalquote hat stets eine bessere Rentabilität.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 59,
+        "type": "multiple_response",
+        "question": "Welche Aspekte gehören zur langfristigen Finanzplanung?",
+        "options": [
+            "Kapitalbedarfsplanung",
+            "Liquiditätsüberwachung",
+            "Investitionsplanung",
+            "Optimierung der Steuersätze"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 60,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die Funktion der Eigenkapitalquote?",
+        "options": [
+            "Messung der kurzfristigen Zahlungsfähigkeit",
+            "Anteil des Eigenkapitals am Gesamtkapital",
+            "Effizienz der Kapitaleinlagen",
+            "Bewertung der Unternehmensrentabilität"
+        ],
+        "correct": 1
+    },{
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl zeigt die Ertragskraft des Eigenkapitals?",
+        "options": [
+            "Gesamtkapitalrentabilität (RoI)",
+            "Eigenkapitalrentabilität (RoE)",
+            "Fremdkapitalquote",
+            "Liquiditätsgrad 2"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "Eine hohe Eigenkapitalquote reduziert das Risiko von finanziellen Engpässen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "multiple_response",
+        "question": "Welche Finanzierungsformen gehören zur Innenfinanzierung?",
+        "options": [
+            "Rücklagenbildung",
+            "Kreditfinanzierung",
+            "Selbstfinanzierung",
+            "Factoring"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 64,
+        "type": "multiple_choice",
+        "question": "Was ist das Ziel der Kapitalstrukturplanung?",
+        "options": [
+            "Maximierung der Fremdkapitalquote",
+            "Balance zwischen Eigen- und Fremdkapital",
+            "Minimierung der Liquiditätsreserven",
+            "Erhöhung der Steuerlast"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 65,
+        "type": "true_false",
+        "question": "Der Leverage-Effekt tritt ein, wenn die Gesamtkapitalrentabilität höher ist als die Fremdkapitalzinsen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 66,
+        "type": "multiple_response",
+        "question": "Welche Kriterien sind wichtig für die Wahl der Finanzierungsform?",
+        "options": [
+            "Flexibilität",
+            "Kosten",
+            "Rückzahlungsfristen",
+            "Marktanteil des Unternehmens"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 67,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt den Hauptvorteil von Eigenkapital?",
+        "options": [
+            "Keine Rückzahlungsverpflichtung",
+            "Niedrigere Steuerbelastung",
+            "Höhere Fremdfinanzierungskosten",
+            "Erhöhte Abhängigkeit von externen Kapitalgebern"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 68,
+        "type": "true_false",
+        "question": "Mezzanine-Kapital wird ausschließlich als Fremdkapital klassifiziert.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 69,
+        "type": "multiple_response",
+        "question": "Welche Ziele verfolgt die Optimierung der Finanzstruktur?",
+        "options": [
+            "Reduktion der Kapitalkosten",
+            "Erhöhung der finanziellen Stabilität",
+            "Minimierung der Steuerlast",
+            "Verbesserung der Liquiditätsplanung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 70,
+        "type": "multiple_choice",
+        "question": "Welche Phase gehört NICHT zum Finanzierungsprozess?",
+        "options": [
+            "Kapitalbedarf berechnen",
+            "Finanzierungsstruktur analysieren",
+            "Produktionskosten minimieren",
+            "Wahl der Finanzierungsform"
+        ],
+        "correct": 2
+    }
+]

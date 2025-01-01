@@ -1,846 +1,627 @@
 [
   {
-    "id": 1,
-  "type": "multiple_choice",
-    "question": "Welche der folgenden Herausforderungen betrifft globale Lieferkettenprobleme?",
-    "options": [
-      "Steigende Nachfrage nach Nachhaltigkeit",
-      "Geopolitische Spannungen und COVID-19-Pandemie",
-      "Konkurrenz durch neue Technologien",
-      "Einführung von E-Procurement"
-    ],
-    "correct": 1
-  },
-  {
-    "id": 2,
-  "type": "multiple_choice",
-    "question": "Welcher Schritt gehört NICHT zu den fünf Phasen des Beschaffungsprozesses?",
-    "options": [
-      "Warenbedarfsermittlung und Sortimentsbildung",
-      "Lieferantenselektion",
-      "Produktlebenszyklusanalyse",
-      "Lieferantenbeurteilung"
-    ],
-    "correct": 2
-  },
-  {
-    "id": 3,
-  "type": "multiple_choice",
-    "question": "Was beschreibt die Rolle eines Category-Managers am besten?",
-    "options": [
-      "Durchführung von Marktforschung und Logistikanalysen",
-      "Verantwortung für Einkauf und Rentabilität einer Warengruppe",
-      "Verwaltung von Produktionsprozessen im Unternehmen",
-      "Überwachung der rechtlichen Anforderungen in der Beschaffung"
-    ],
-    "correct": 1
-  },
-  {
-    "id": 4,
-  "type": "multiple_choice",
-    "question": "Welche Kategorie im Beschaffungsportfolio erfordert langfristige Partnerschaften?",
-    "options": [
-      "Standardsortiment",
-      "Strategisches Sortiment",
-      "Schlüsselsortiment",
-      "Engpasssortiment"
-    ],
-    "correct": 1
-  },
-  {
-    "id": 5,
-  "type": "multiple_choice",
-    "question": "Was ist ein Vorteil von E-Procurement?",
-    "options": [
-      "Höhere Papierkosten",
-      "Verlängerte Einkaufszyklen",
-      "Reduktion der Prozesskosten um 25-60 %",
-      "Komplexere Bestellabwicklung"
-    ],
-    "correct": 2
-  },
-  {
-    "id": 6,
-  "type": "multiple_choice",
-    "question": "Welche Phase im Beschaffungsprozess bezieht sich auf die Analyse der Lieferpünktlichkeit?",
-    "options": [
-      "Warenbedarfsermittlung",
-      "Lieferantensuche",
-      "Lieferantenbeurteilung",
-      "Bestellung"
-    ],
-    "correct": 2
-  },
-  {
-    "id": 7,
-  "type": "multiple_choice",
-    "question": "Was bedeutet der Begriff „Optimale Bestellmenge“ im Beschaffungsprozess?",
-    "options": [
-      "Bestellung der maximal möglichen Menge",
-      "Reduktion der Lagerkosten durch kleinere Mengen",
-      "Sicherstellung ausreichender Bestände bis zur nächsten Lieferung",
-      "Planung von Sonderbestellungen"
-    ],
-    "correct": 2
-  },
-  {
-    "id": 8,
-  "type": "multiple_choice",
-    "question": "Welcher Vorteil wird durch die XYZ-Analyse erzielt?",
-    "options": [
-      "Reduzierung der Lieferkosten",
-      "Optimierung der Lagerhaltung und Verbrauchsvorhersage",
-      "Maximierung der Verkaufszahlen durch bessere Preisgestaltung",
-      "Verbesserung der Beziehungen zu Lieferanten"
-    ],
-    "correct": 1
-  },
-  {
-    "id": 9,
-  "type": "multiple_choice",
-    "question": "Was gehört zu den Herausforderungen der Nachhaltigkeit in der Beschaffung?",
-    "options": [
-      "Einführung digitaler Technologien",
-      "Erhöhung von Investitionen in Künstliche Intelligenz",
-      "Strengere Umweltvorschriften und nachhaltige Lieferketten",
-      "Globale Konkurrenz durch niedrige Preise"
-    ],
-    "correct": 2
-  },
-  {
-    "id": 10,
-  "type": "multiple_choice",
-    "question": "Welches Merkmal ist typisch für Basisartikel?",
-    "options": [
-      "Stark schwankende Nachfrage",
-      "Saisonale Bedeutung",
-      "Konstante Nachfrage und gleichmäßige Beschaffung",
-      "Hohe Attraktivität, aber kurze Lebensdauer"
-    ],
-    "correct": 2
-  },
-  {
-    "id": 11,
-  "type": "multiple_choice",
-    "question": "Welche Phase des Beschaffungsprozesses ist besonders wichtig für neue Produkte?",
-    "options": [
-      "Bestellung",
-      "Warenbedarfsermittlung und Sortimentsbildung",
-      "Lieferantenbeurteilung",
-      "Lieferantensuche"
-    ],
-    "correct": 1
-  },
-  
-    {
-      "id": 12,
-  "type": "multiple_choice",
-      "question": "Was ist ein Nachteil der ABC-Analyse?",
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Welches Ziel hat die Beschaffung in Unternehmen?",
       "options": [
-        "Sie berücksichtigt keine qualitativen Faktoren",
-        "Sie ist zu komplex für kleine Unternehmen",
-        "Sie fokussiert sich auf emotionale Kriterien",
-        "Sie benötigt keine genauen Daten"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 13,
-  "type": "multiple_choice",
-      "question": "Welcher Faktor hat den stärksten Einfluss auf die Beschaffung von Trendartikeln?",
-      "options": [
-        "Stabile Nachfrage",
-        "Geringe Produktionskosten",
-        "Schnelle Reaktion auf Marktveränderungen",
-        "Längere Planungszyklen"
-      ],
-      "correct": 2
-    },
-    {
-      "id": 14,
-  "type": "multiple_choice",
-      "question": "Was beschreibt den Bullwhip-Effekt am besten?",
-      "options": [
-        "Konsistenz in Lieferantenbeziehungen",
-        "Schwankungen in der Nachfrage durch fehlerhafte Planung",
-        "Einführung neuer Technologien in der Beschaffung",
-        "Globale Lieferkettenoptimierung"
+          "Reduktion der Lieferantenzahl",
+          "Richtige Menge, Qualität, Preis und Zeit sicherstellen",
+          "Maximierung der Bestände",
+          "Ausschließlich lokale Lieferanten auswählen"
       ],
       "correct": 1
-    },
-    {
-      "id": 15,
-  "type": "multiple_choice",
-      "question": "Welche Phase im Produktlebenszyklus hat den höchsten Absatz?",
+  },
+  {
+      "id": 2,
+      "type": "true_false",
+      "question": "Der Beschaffungsprozess beginnt mit der Auswahl eines Lieferanten.",
+      "options": ["True", "False"],
+      "correct": 1
+  },
+  {
+      "id": 3,
+      "type": "multiple_response",
+      "question": "Welche Herausforderungen betreffen die moderne Beschaffung?",
       "options": [
+          "Globale Lieferkettenprobleme",
+          "Digitalisierung",
+          "Mangel an Rohstoffen",
+          "Senkung der Nachfrage"
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Was ist der erste Schritt im Beschaffungsprozess?",
+      "options": [
+          "Lieferantenbewertung",
+          "Bedarfsanalyse",
+          "Bestellprozess",
+          "Vertragsverhandlung"
+      ],
+      "correct": 1
+  },
+  {
+      "id": 5,
+      "type": "true_false",
+      "question": "Die Multiattributbewertung ist ein Tool zur Lieferantenauswahl.",
+      "options": ["True", "False"],
+      "correct": 0
+  },
+  {
+      "id": 6,
+      "type": "multiple_response",
+      "question": "Welche Phasen umfasst der Beschaffungsprozess?",
+      "options": [
+          "Bedarfsermittlung",
+          "Lieferantensuche",
+          "Auftragsabwicklung",
+          "Bestandsabbau"
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Welche Produkte befinden sich typischerweise in der Einführungsphase des Produktlebenszyklus?",
+      "options": [
+          "Trendartikel",
+          "Saisonartikel",
+          "Basisartikel",
+          "Modeartikel"
+      ],
+      "correct": 0
+  },
+  {
+      "id": 8,
+      "type": "true_false",
+      "question": "Der XYZ-Analyse dient zur Klassifikation von Artikeln nach Lagerumschlag.",
+      "options": ["True", "False"],
+      "correct": 0
+  },
+  {
+      "id": 9,
+      "type": "multiple_response",
+      "question": "Welche Analyseverfahren unterstützen die strategische Beschaffung?",
+      "options": [
+          "ABC-Analyse",
+          "XYZ-Analyse",
+          "BCG-Matrix",
+          "SWOT-Analyse"
+      ],
+      "correct": [0, 1, 2]
+  },
+  {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Was beschreibt die Kategorie 'Basisartikel' im Produktlebenszyklus?",
+      "options": [
+          "Kurze Lebenszyklen und starke Nachfrage-Schwankungen",
+          "Längere Lebenszyklen mit konstantem Umsatz",
+          "Starker Umsatzanstieg, aber kurze Sättigungsphase",
+          "Hohe Verkaufszahlen in bestimmten Jahreszeiten"
+      ],
+      "correct": 1
+  },{
+    "id": 11,
+    "type": "multiple_choice",
+    "question": "Was ist ein Vorteil des Einsatzes von E-Procurement?",
+    "options": [
+        "Erhöhung der Lagerbestände",
+        "Reduzierung von Beschaffungskosten",
+        "Ausschließliche Zusammenarbeit mit lokalen Lieferanten",
+        "Vereinfachte Produktentwicklung"
+    ],
+    "correct": 1
+},
+{
+    "id": 12,
+    "type": "true_false",
+    "question": "Efficient Consumer Response (ECR) zielt auf die Optimierung der Zusammenarbeit zwischen Händlern und Lieferanten.",
+    "options": ["True", "False"],
+    "correct": 0
+},
+{
+    "id": 13,
+    "type": "multiple_response",
+    "question": "Welche Schritte gehören zur Multiattributbewertung?",
+    "options": [
+        "Festlegung von Kriterien",
+        "Gewichtung der Kriterien",
+        "Evaluierung der Lieferanten",
+        "Automatische Bestandsverwaltung"
+    ],
+    "correct": [0, 1, 2]
+},
+{
+    "id": 14,
+    "type": "multiple_choice",
+    "question": "Welche Phase des Produktlebenszyklus ist durch sinkenden Umsatz gekennzeichnet?",
+    "options": [
         "Einführung",
         "Wachstum",
-        "Reife",
-        "Sättigung"
-      ],
-      "correct": 2
-    },
-    {
-      "id": 16,
+        "Sättigung",
+        "Rückgang"
+    ],
+    "correct": 3
+},
+{
+    "id": 15,
+    "type": "true_false",
+    "question": "Die ABC-Analyse klassifiziert Produkte nach ihrem Wertanteil und der Umschlagshäufigkeit.",
+    "options": ["True", "False"],
+    "correct": 0
+},
+{
+    "id": 16,
+    "type": "multiple_response",
+    "question": "Welche Hauptziele verfolgt die Beschaffung?",
+    "options": [
+        "Kostenreduktion",
+        "Nachhaltigkeit",
+        "Optimierung der Lieferkette",
+        "Maximierung der Lagerhaltung"
+    ],
+    "correct": [0, 1, 2]
+},
+{
+    "id": 17,
+    "type": "multiple_choice",
+    "question": "Welche Aussage beschreibt das Konzept der Streckenbelieferung?",
+    "options": [
+        "Lieferung von Waren direkt vom Hersteller an die Verkaufsstelle",
+        "Einsatz von Zentrallagern zur Bündelung von Lieferungen",
+        "Lagerung von Waren über längere Zeiträume",
+        "Direkter Verkauf von Produzenten an Endverbraucher"
+    ],
+    "correct": 0
+},
+{
+    "id": 18,
+    "type": "true_false",
+    "question": "Die BCG-Matrix wird zur Bewertung des Marktpotenzials von Produkten verwendet.",
+    "options": ["True", "False"],
+    "correct": 0
+},
+{
+    "id": 19,
+    "type": "multiple_response",
+    "question": "Welche Vorteile bietet die Verwendung von E-Procurement?",
+    "options": [
+        "Erhöhung der Transparenz",
+        "Schnellere Bestellabwicklung",
+        "Verbesserte Lieferantenauswahl",
+        "Reduzierung der Kommunikationskosten"
+    ],
+    "correct": [0, 1, 3]
+},
+{
+    "id": 20,
+    "type": "multiple_choice",
+    "question": "Welches Ziel verfolgt der Einsatz der XYZ-Analyse?",
+    "options": [
+        "Bewertung der strategischen Position eines Unternehmens",
+        "Optimierung des Bestandsmanagements nach Schwankungen im Verbrauch",
+        "Klassifikation von Produkten nach Marktanteil",
+        "Analyse der langfristigen Rentabilität eines Produkts"
+    ],
+    "correct": 1
+}, {
+  "id": 31,
   "type": "multiple_choice",
-      "question": "Welche Kategorie im Beschaffungsportfolio ist besonders für saisonale Produkte geeignet?",
-      "options": [
-        "Strategisches Sortiment",
-        "Standardsortiment",
-        "Engpasssortiment",
-        "Schlüsselsortiment"
-      ],
-      "correct": 2
-    },
-    {
-      "id": 17,
+  "question": "Welche Aussage beschreibt die Vorteile der Streckenbelieferung?",
+  "options": [
+      "Minimierung der Lagerhaltungskosten durch direkte Lieferung",
+      "Erhöhung der Liefergeschwindigkeit durch Zwischenlager",
+      "Vereinfachte Nachbestellung für Verkaufsstellen",
+      "Langfristige Speicherung von Waren im Distributionslager"
+  ],
+  "correct": 0
+},
+{
+  "id": 32,
+  "type": "true_false",
+  "question": "Die XYZ-Analyse bewertet die Lagerbewegungen von Produkten nach Verbrauchsvariabilität.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 33,
+  "type": "multiple_response",
+  "question": "Welche Vorteile bietet die Anwendung von Efficient Consumer Response (ECR)?",
+  "options": [
+      "Reduktion von Regallücken",
+      "Optimierung der Logistikkosten",
+      "Förderung des Cross-Selling",
+      "Schnellere Markteinführung neuer Produkte"
+  ],
+  "correct": [0, 1, 3]
+},
+{
+  "id": 34,
   "type": "multiple_choice",
-      "question": "Welcher Begriff ist im Category Management am wichtigsten?",
-      "options": [
-        "Warengruppe",
-        "Lieferantenbeurteilung",
-        "Lageroptimierung",
-        "Preisverhandlungen"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 18,
+  "question": "Welche Produkte profitieren besonders von der Anwendung der BCG-Matrix?",
+  "options": [
+      "Produkte mit hohem Marktanteil und geringem Wachstum",
+      "Produkte mit niedrigem Marktanteil und hohem Wachstum",
+      "Produkte mit hohem Marktanteil und hohem Wachstum",
+      "Produkte mit niedrigem Marktanteil und geringem Wachstum"
+  ],
+  "correct": 2
+},
+{
+  "id": 35,
+  "type": "true_false",
+  "question": "Eine zentrale Aufgabe der Beschaffung ist die langfristige Lieferantenauswahl.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 36,
+  "type": "multiple_response",
+  "question": "Welche Kriterien sind bei der Auswahl von Lieferanten entscheidend?",
+  "options": [
+      "Zuverlässigkeit",
+      "Kosten",
+      "Flexibilität",
+      "Markenimage"
+  ],
+  "correct": [0, 1, 2]
+},
+{
+  "id": 37,
   "type": "multiple_choice",
-      "question": "Welche Aufgabe gehört NICHT zu den Verantwortlichkeiten eines Category-Managers?",
-      "options": [
-        "Festlegen von Preisen innerhalb der Kategorie",
-        "Organisation von Marketingaktionen",
-        "Entwicklung neuer Produkte",
-        "Auswahl des Produkt-Mixes"
-      ],
-      "correct": 2
-    },
-    {
-      "id": 19,
+  "question": "Was ist ein Hauptziel der Zentrallagerbelieferung?",
+  "options": [
+      "Reduzierung der Lagerkosten",
+      "Erhöhung der Lagerkapazitäten",
+      "Schnelle Lieferung an Endverbraucher",
+      "Effiziente Bündelung von Waren"
+  ],
+  "correct": 3
+},
+{
+  "id": 38,
+  "type": "true_false",
+  "question": "E-Procurement-Systeme können die Kommunikation zwischen Lieferanten und Unternehmen verbessern.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 39,
+  "type": "multiple_response",
+  "question": "Welche Phasen gehören zum Beschaffungsprozess?",
+  "options": [
+      "Lieferantensuche",
+      "Vertragsverhandlung",
+      "Wareneingangskontrolle",
+      "Retourenmanagement"
+  ],
+  "correct": [0, 1, 2]
+},
+{
+  "id": 40,
   "type": "multiple_choice",
-      "question": "Welcher Vorteil ergibt sich aus der Nutzung von Planungsinstrumenten im Einkauf?",
-      "options": [
-        "Höhere Verkaufszahlen durch innovative Produkte",
-        "Vermeidung von Überbeständen und Verlusten",
-        "Verbesserung der internen Kommunikation",
-        "Langfristige Reduktion der Fixkosten"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 20,
+  "question": "Welche Herausforderung betrifft die moderne Beschaffung besonders?",
+  "options": [
+      "Sicherstellung nachhaltiger Lieferketten",
+      "Erhöhung der Lagerbestände",
+      "Reduktion der Transportzeiten durch Flugfracht",
+      "Einführung neuer Handelsmarken"
+  ],
+  "correct": 0
+}, {
+  "id": 41,
   "type": "multiple_choice",
-      "question": "Welche Aussage beschreibt X-Produkte in der XYZ-Analyse?",
-      "options": [
-        "Sie haben einen stabilen und gut prognostizierbaren Bedarf",
-        "Ihre Nachfrage schwankt saisonal",
-        "Sie sind schwer vorhersagbar",
-        "Sie erfordern flexible Lagerhaltung"
-      ],
-      "correct": 0
-    },
-    
-      {
-        "id": 21,
+  "question": "Welche Methode wird verwendet, um den Wert und die Wichtigkeit von Produkten in der Beschaffung zu priorisieren?",
+  "options": [
+      "XYZ-Analyse",
+      "ABC-Analyse",
+      "Multiattributbewertung",
+      "BCG-Matrix"
+  ],
+  "correct": 1
+},
+{
+  "id": 42,
+  "type": "true_false",
+  "question": "Die Streckenbelieferung vermeidet die Notwendigkeit von Zwischenlagern.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 43,
+  "type": "multiple_response",
+  "question": "Welche Vorteile bringt die Zentrallagerbelieferung für Unternehmen?",
+  "options": [
+      "Bessere Kontrolle über Warenflüsse",
+      "Effizientere Bündelung von Lieferungen",
+      "Reduzierte Transportkosten",
+      "Erhöhung der Lagerbestände"
+  ],
+  "correct": [0, 1, 2]
+},
+{
+  "id": 44,
   "type": "multiple_choice",
-        "question": "Welche Herausforderung hat die Einführung von Blockchain-Technologie in der Beschaffung?",
-        "options": [
-          "Hohe Implementierungskosten und spezielles Fachwissen",
-          "Erhöhter Wettbewerb zwischen Lieferanten",
-          "Verlängerte Lieferkettenprozesse",
-          "Reduzierte Transparenz in der Lieferkette"
-        ],
-        "correct": 0
-      },
-      {
-        "id": 22,
+  "question": "Was ist ein typischer Nachteil von E-Procurement?",
+  "options": [
+      "Komplexität der Systemintegration",
+      "Erhöhung der Beschaffungskosten",
+      "Langsamere Bestellabwicklung",
+      "Geringere Transparenz in Lieferketten"
+  ],
+  "correct": 0
+},
+{
+  "id": 45,
+  "type": "true_false",
+  "question": "Efficient Consumer Response (ECR) zielt darauf ab, sowohl die Lieferkettenkosten als auch die Produktverfügbarkeit zu optimieren.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 46,
+  "type": "multiple_response",
+  "question": "Welche Analysen sind für strategische Entscheidungen in der Beschaffung wichtig?",
+  "options": [
+      "ABC-Analyse",
+      "Portfolioanalyse",
+      "Marktanteilsanalyse",
+      "Wettbewerbsanalyse"
+  ],
+  "correct": [0, 1, 3]
+},
+{
+  "id": 47,
   "type": "multiple_choice",
-        "question": "Welcher Vorteil hat das Beschaffungsportfolio für Unternehmen?",
-        "options": [
-          "Minimierung aller Produktionskosten",
-          "Unterstützung bei der Priorisierung strategischer Sortimente",
-          "Schnellere Einführung neuer Produkte",
-          "Direkte Reduktion von Lagerkosten"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 23,
+  "question": "Welche Phase des Produktlebenszyklus ist durch hohe Verkaufszahlen, aber abnehmendes Wachstum gekennzeichnet?",
+  "options": [
+      "Einführung",
+      "Wachstum",
+      "Reife",
+      "Rückgang"
+  ],
+  "correct": 2
+},
+{
+  "id": 48,
+  "type": "true_false",
+  "question": "Die Multiattributbewertung hilft bei der Auswahl des optimalen Lieferanten basierend auf mehreren Kriterien.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 49,
+  "type": "multiple_response",
+  "question": "Welche Herausforderungen betreffen globale Lieferketten?",
+  "options": [
+      "Transportkosten",
+      "Lieferengpässe",
+      "Nachhaltigkeitsanforderungen",
+      "Reduzierte Nachfrage"
+  ],
+  "correct": [0, 1, 2]
+},
+{
+  "id": 50,
   "type": "multiple_choice",
-        "question": "Was ist ein Hauptziel der Lieferantenbeurteilung?",
-        "options": [
-          "Analyse von Marktchancen",
-          "Optimierung der zukünftigen Zusammenarbeit",
-          "Einführung neuer Technologien",
-          "Reduktion der Produktionszeit"
-        ],
-        "correct": 0
-      },
-      {
-        "id": 24,
+  "question": "Was beschreibt den Bullwhip-Effekt in Lieferketten?",
+  "options": [
+      "Unvorhersehbare Nachfrage aufgrund von Rabatten",
+      "Verzerrte Nachfrageinformationen entlang der Lieferkette",
+      "Steigende Kosten durch ineffiziente Lagerhaltung",
+      "Verstärkter Wettbewerb zwischen Lieferanten"
+  ],
+  "correct": 1
+},{
+  "id": 51,
   "type": "multiple_choice",
-        "question": "Was bedeutet eine hohe Verfügbarkeit eines Produktes im Lager?",
-        "options": [
-          "Das Produkt wird nicht nachgefragt",
-          "Es gibt keine Regallücken",
-          "Es werden keine Bestellungen aufgegeben",
-          "Die Lagerkosten werden minimiert"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 25,
+  "question": "Welche Phase des Beschaffungsprozesses beinhaltet die Suche nach potenziellen Lieferanten?",
+  "options": [
+      "Bestandsanalyse",
+      "Lieferantensuche",
+      "Vertragsverhandlung",
+      "Bedarfsermittlung"
+  ],
+  "correct": 1
+},
+{
+  "id": 52,
+  "type": "true_false",
+  "question": "Die Einführung der BCG-Matrix dient der Optimierung der Lagerbestände.",
+  "options": ["True", "False"],
+  "correct": 1
+},
+{
+  "id": 53,
+  "type": "multiple_response",
+  "question": "Welche Vorteile bietet die Nutzung eines Zentrallagers?",
+  "options": [
+      "Kostensenkung durch Bündelung von Lieferungen",
+      "Verbesserte Verfügbarkeit von Waren",
+      "Reduktion der Transportzeiten",
+      "Vermeidung von Überbeständen"
+  ],
+  "correct": [0, 1, 2]
+},
+{
+  "id": 54,
   "type": "multiple_choice",
-        "question": "Welche Phase des Beschaffungsprozesses fokussiert sich auf Preisverhandlungen?",
-        "options": [
-          "Lieferantensuche",
-          "Lieferantenselektion",
-          "Bestellung",
-          "Lieferantenbeurteilung"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 26,
+  "question": "Was ist das Hauptziel der Multiattributbewertung?",
+  "options": [
+      "Automatisierung von Lieferprozessen",
+      "Strategische Positionierung von Lieferanten",
+      "Ermittlung des besten Lieferanten auf Basis von Kriterien",
+      "Reduktion der Beschaffungskosten"
+  ],
+  "correct": 2
+},
+{
+  "id": 55,
+  "type": "true_false",
+  "question": "Der Bullwhip-Effekt beschreibt die zunehmende Variabilität der Nachfrage entlang der Lieferkette.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 56,
+  "type": "multiple_response",
+  "question": "Welche Schritte gehören zur Multiattributbewertung?",
+  "options": [
+      "Kriterien festlegen",
+      "Kriterien gewichten",
+      "Lieferanten analysieren",
+      "Lieferantenleistung überwachen"
+  ],
+  "correct": [0, 1, 2]
+},
+{
+  "id": 57,
   "type": "multiple_choice",
-        "question": "Welche Produkte sollten laut BCG-Matrix abgeschöpft werden?",
-        "options": [
-          "Stars",
-          "Question Marks",
-          "Cash Cows",
-          "Poor Dogs"
-        ],
-        "correct": 2
-      },
-      {
-        "id": 27,
+  "question": "Was ist ein Nachteil der Streckenbelieferung?",
+  "options": [
+      "Höhere Lagerkosten",
+      "Komplexere Logistikplanung",
+      "Erhöhte Transportkosten",
+      "Verlängerte Lieferzeiten"
+  ],
+  "correct": 2
+},
+{
+  "id": 58,
+  "type": "true_false",
+  "question": "Die XYZ-Analyse unterscheidet Artikel nach ihrer Verbrauchsvariabilität.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 59,
+  "type": "multiple_response",
+  "question": "Welche Maßnahmen reduzieren den Bullwhip-Effekt?",
+  "options": [
+      "Bessere Kommunikation in der Lieferkette",
+      "Kürzere Bestellintervalle",
+      "Optimierung der Transportplanung",
+      "Reduktion von Sicherheitsbeständen"
+  ],
+  "correct": [0, 1, 2]
+},
+{
+  "id": 60,
   "type": "multiple_choice",
-        "question": "Was ist ein Hauptziel der ECR-Strategie?",
-        "options": [
-          "Verbesserung der Effizienz durch Zusammenarbeit",
-          "Einführung nachhaltiger Produktionsmethoden",
-          "Reduktion von Personalbedarf",
-          "Erweiterung des Produktportfolios"
-        ],
-        "correct": 0
-      },
-      {
-        "id": 28,
+  "question": "Welche Phase des Produktlebenszyklus zeichnet sich durch starke Umsatzeinbrüche aus?",
+  "options": [
+      "Einführung",
+      "Wachstum",
+      "Sättigung",
+      "Rückgang"
+  ],
+  "correct": 3
+},{
+  "id": 61,
   "type": "multiple_choice",
-        "question": "Welche Warengruppe wird am stärksten durch Schwankungen beeinflusst?",
-        "options": [
-          "Basisartikel",
-          "Trendartikel",
-          "Standardsortiment",
-          "Engpasssortiment"
-        ],
-        "correct": 3
-      },
-      {
-        "id": 29,
+  "question": "Was ist ein Hauptmerkmal von Efficient Consumer Response (ECR)?",
+  "options": [
+      "Erhöhung der Lagerbestände",
+      "Vermeidung von Regallücken",
+      "Reduktion der Kundenbindung",
+      "Komplexere Lieferkettenplanung"
+  ],
+  "correct": 1
+},
+{
+  "id": 62,
+  "type": "true_false",
+  "question": "Die Portfolioanalyse wird verwendet, um Produkte nach Marktanteil und Wachstumsrate zu bewerten.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 63,
+  "type": "multiple_response",
+  "question": "Welche Faktoren beeinflussen die Auswahl eines Lieferanten?",
+  "options": [
+      "Qualität",
+      "Lieferzeit",
+      "Preis",
+      "Markenimage"
+  ],
+  "correct": [0, 1, 2]
+},
+{
+  "id": 64,
   "type": "multiple_choice",
-        "question": "Was bedeutet „kritischer Warenbestand“?",
-        "options": [
-          "Maximaler Lagerbestand zur Vermeidung von Verlusten",
-          "Bestand, bei dem Nachlieferungen rechtzeitig ankommen müssen",
-          "Lagerung von überschüssigen Waren",
-          "Reduktion der Bestellmengen"
-        ],
-        "correct": 1
-      },
-      {
-        "id": 30,
+  "question": "Welche Aussage beschreibt den Bullwhip-Effekt am besten?",
+  "options": [
+      "Verzögerungen bei der Lieferung von Waren",
+      "Verstärkte Nachfragevariabilität entlang der Lieferkette",
+      "Geringe Transparenz in der Bestandsplanung",
+      "Langsame Einführung neuer Produkte"
+  ],
+  "correct": 1
+},
+{
+  "id": 65,
+  "type": "true_false",
+  "question": "E-Procurement-Systeme können die Lieferantenauswahl automatisieren.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 66,
+  "type": "multiple_response",
+  "question": "Welche Vorteile bietet die Zentrallagerbelieferung?",
+  "options": [
+      "Bündelung von Lieferungen",
+      "Reduktion der Lagerkosten",
+      "Verbesserte Kontrolle über Lagerbestände",
+      "Flexibilität bei Lieferantenwahl"
+  ],
+  "correct": [0, 1, 2]
+},
+{
+  "id": 67,
   "type": "multiple_choice",
-        "question": "Welche Herausforderung betrifft hauptsächlich die Beschaffung neuer Produkte?",
-        "options": [
-          "Stabile Nachfrageprognosen",
-          "Unvorhersehbare Marktentwicklung",
-          "Geringe Lagerkosten",
-          "Maximale Verfügbarkeit"
-        ],
-        "correct": 1
-      },
-      
-        {
-          "id": 31,
+  "question": "Welche Methode hilft bei der Analyse von Artikeln nach Verbrauchsvariabilität?",
+  "options": [
+      "ABC-Analyse",
+      "Portfolioanalyse",
+      "XYZ-Analyse",
+      "Multiattributbewertung"
+  ],
+  "correct": 2
+},
+{
+  "id": 68,
+  "type": "true_false",
+  "question": "Streckenbelieferung erfordert keine Zwischenlagerung der Waren.",
+  "options": ["True", "False"],
+  "correct": 0
+},
+{
+  "id": 69,
+  "type": "multiple_response",
+  "question": "Welche Schritte gehören zur strategischen Beschaffung?",
+  "options": [
+      "Marktanalyse",
+      "Lieferantenauswahl",
+      "Nachhaltigkeitsprüfung",
+      "Bedarfsermittlung"
+  ],
+  "correct": [0, 1, 3]
+},
+{
+  "id": 70,
   "type": "multiple_choice",
-          "question": "Was ist ein Ziel der Multiattributbewertung in der Lieferantenbeurteilung?",
-          "options": [
-            "Förderung von Lieferantenpartnerschaften",
-            "Reduktion der Produktionszeiten",
-            "Analyse von Stärken und Schwächen der Lieferanten",
-            "Einführung neuer Technologien"
-          ],
-          "correct": 2
-        },
-        {
-          "id": 32,
-  "type": "multiple_choice",
-          "question": "Welche Phase des Beschaffungsprozesses betrifft die Festlegung der bestellten Menge?",
-          "options": [
-            "Warenbedarfsermittlung",
-            "Bestellung",
-            "Lieferantenselektion",
-            "Lieferantenbeurteilung"
-          ],
-          "correct": 1
-        },
-        {
-          "id": 33,
-  "type": "multiple_choice",
-          "question": "Was beschreibt die Einführung eines Produkts im Lebenszyklus am besten?",
-          "options": [
-            "Niedrige Kosten, maximaler Absatz",
-            "Hohe Kosten, niedriger Absatz",
-            "Stabile Gewinnentwicklung",
-            "Starke Preissenkung"
-          ],
-          "correct": 1
-        },
-        {
-          "id": 34,
-  "type": "multiple_choice",
-          "question": "Welche Rolle spielt das Warenwirtschaftssystem im Category Management?",
-          "options": [
-            "Erhöhung der Lagerkosten",
-            "Unterstützung bei der Datenanalyse und Bestellprognosen",
-            "Durchführung von Preisverhandlungen",
-            "Einführung neuer Technologien"
-          ],
-          "correct": 1
-        },
-        {
-          "id": 35,
-  "type": "multiple_choice",
-          "question": "Was ist ein Merkmal von C-Gütern in der ABC-Analyse?",
-          "options": [
-            "Sie erfordern hohe Lagerbestände",
-            "Sie generieren 70 % des Umsatzes",
-            "Ihre Bedeutung ist geringer als die von A- und B-Gütern",
-            "Sie sind immer saisonale Artikel"
-          ],
-          "correct": 2
-        },
-        {
-          "id": 36,
-  "type": "multiple_choice",
-          "question": "Welche Produkte erfordern Just-in-Time-Lieferungen?",
-          "options": [
-            "Y-Produkte",
-            "X-Produkte",
-            "Z-Produkte",
-            "Engpassprodukte"
-          ],
-          "correct": 1
-        },
-        {
-          "id": 37,
-  "type": "multiple_choice",
-          "question": "Welche Aufgabe gehört zur strategischen Beschaffung?",
-          "options": [
-            "Entwicklung neuer Produkte",
-            "Auswahl geeigneter Lieferanten",
-            "Optimierung der Transportkosten",
-            "Lagerhaltung von Engpassprodukten"
-          ],
-          "correct": 1
-        },
-        {
-          "id": 38,
-  "type": "multiple_choice",
-          "question": "Was ist das Hauptziel der Optimierung der Warenbestände?",
-          "options": [
-            "Maximierung der Lagerkosten",
-            "Sicherstellung der Produktverfügbarkeit bei minimalem Bestand",
-            "Einführung neuer Produkte in das Sortiment",
-            "Verbesserung der Marktanteile"
-          ],
-          "correct": 1
-        },
-        {
-          "id": 39,
-  "type": "multiple_choice",
-          "question": "Welche Produkte in der BCG-Matrix erfordern die höchste Investition?",
-          "options": [
-            "Stars",
-            "Question Marks",
-            "Cash Cows",
-            "Poor Dogs"
-          ],
-          "correct": 0
-        },
-        {
-          "id": 40,
-  "type": "multiple_choice",
-          "question": "Was ist ein Vorteil der Portfolioanalyse?",
-          "options": [
-            "Sie verbessert die Lagerhaltungskosten direkt",
-            "Sie hilft, strategisch wichtige Produkte zu identifizieren",
-            "Sie ersetzt die Lieferantenbewertung",
-            "Sie erhöht die Anzahl der verfügbaren Produkte"
-          ],
-          "correct": 1
-        },
-          {
-            "id": 41,
-  "type": "multiple_choice",
-            "question": "Welcher Faktor ist entscheidend für die Nachfrage von Saisonartikeln?",
-            "options": [
-              "Stabile Marktbedingungen",
-              "Wetter und äußere Einflüsse",
-              "Geringe Lagerbestände",
-              "Hohe Werbeausgaben"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 42,
-  "type": "multiple_choice",
-            "question": "Was ist eine Voraussetzung für erfolgreiches Category Management?",
-            "options": [
-              "Partnerschaft und Vertrauen zwischen Handel und Hersteller",
-              "Einführung digitaler Prozesse",
-              "Erhöhung der Lagerkosten",
-              "Reduktion des Produktsortiments"
-            ],
-            "correct": 0
-          },
-          {
-            "id": 43,
-  "type": "multiple_choice",
-            "question": "Was gehört zur Rolle eines Category-Managers?",
-            "options": [
-              "Entwicklung von Logistikstrategien",
-              "Organisation von Verkaufsförderungsaktionen",
-              "Analyse von Produktionskosten",
-              "Überwachung von Lagerbeständen"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 44,
-  "type": "multiple_choice",
-            "question": "Welcher Punkt gehört NICHT zu den Phasen des Beschaffungsprozesses?",
-            "options": [
-              "Lieferantensuche",
-              "Preisgestaltung",
-              "Bestellung",
-              "Lieferantenbeurteilung"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 45,
-  "type": "multiple_choice",
-            "question": "Was beschreibt Y-Produkte in der XYZ-Analyse am besten?",
-            "options": [
-              "Stabiler und gut prognostizierbarer Bedarf",
-              "Schwankender Verbrauch, abhängig von äußeren Faktoren",
-              "Schwer vorhersagbarer Bedarf",
-              "Produkte mit extrem hohen Lagerkosten"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 46,
-  "type": "multiple_choice",
-            "question": "Was ist ein Nachteil von Poor Dogs in der BCG-Matrix?",
-            "options": [
-              "Hohe Marktwachstumsrate",
-              "Hohe Marktanteile bei niedrigen Gewinnen",
-              "Geringe Profitabilität bei niedrigem Wachstum",
-              "Hohe Investitionskosten"
-            ],
-            "correct": 2
-          },
-          {
-            "id": 47,
-  "type": "multiple_choice",
-            "question": "Welche Warengruppe benötigt flexible Bestellmengen?",
-            "options": [
-              "Basisartikel",
-              "Saisonartikel",
-              "Standardsortiment",
-              "Engpassartikel"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 48,
-  "type": "multiple_choice",
-            "question": "Welche Strategie wird für Question Marks empfohlen?",
-            "options": [
-              "Abschöpfung des Cashflows",
-              "Investition oder Aufgabe nach Analyse",
-              "Maximierung der Lagerbestände",
-              "Einführung eines neuen Preismodells"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 49,
-  "type": "multiple_choice",
-            "question": "Was ist ein Vorteil von E-Procurement?",
-            "options": [
-              "Längere Einkaufszyklen",
-              "Kostensenkung durch Automatisierung",
-              "Einführung manueller Prozesse",
-              "Reduktion der Produktqualität"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 50,
-  "type": "multiple_choice",
-            "question": "Was gehört NICHT zu den Herausforderungen in der Beschaffung?",
-            "options": [
-              "Globale Lieferkettenprobleme",
-              "Steigende Preise und Rohstoffmangel",
-              "Einführung neuer gesetzlicher Regelungen",
-              "Reduktion von Logistikpartnerschaften"
-            ],
-            "correct": 3
-          },
-          {
-            "id": 51,
-  "type": "multiple_choice",
-            "question": "Welche Aufgabe hat der Beschaffungsprozess?",
-            "options": [
-              "Maximierung der Lagerkosten",
-              "Einkauf von Produkten zu attraktiven Konditionen",
-              "Einführung von Trendsortimenten",
-              "Reduktion der Anzahl von Lieferanten"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 52,
-  "type": "multiple_choice",
-            "question": "Was beschreibt die „Reife“-Phase eines Produkts im Lebenszyklus?",
-            "options": [
-              "Maximaler Absatz und stabiler Gewinn",
-              "Einführung neuer Produkte",
-              "Hohe Kosten und niedriger Gewinn",
-              "Schneller Rückgang des Absatzes"
-            ],
-            "correct": 0
-          },
-          {
-            "id": 53,
-  "type": "multiple_choice",
-            "question": "Welche Produkte werden typischerweise in kleinen Mengen gelagert?",
-            "options": [
-              "X-Produkte",
-              "Z-Produkte",
-              "Y-Produkte",
-              "Basisartikel"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 54,
-  "type": "multiple_choice",
-            "question": "Was ist ein Merkmal von Schlüsselsortimenten?",
-            "options": [
-              "Hoher Einfluss auf das Unternehmensprofil",
-              "Geringer Markterfolg und niedrige Komplexität",
-              "Hohe saisonale Nachfrage",
-              "Reduzierte Bedeutung im Portfolio"
-            ],
-            "correct": 0
-          },
-          {
-            "id": 55,
-  "type": "multiple_choice",
-            "question": "Was ist ein Vorteil der Multiattributbewertung?",
-            "options": [
-              "Einführung standardisierter Produkte",
-              "Systematische Beurteilung von Lieferanten",
-              "Eliminierung von Engpassprodukten",
-              "Automatisierung des Einkaufsprozesses"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 56,
-  "type": "multiple_choice",
-            "question": "Was ist das Ziel der Lieferantensuche?",
-            "options": [
-              "Auswahl weniger geeigneter Lieferanten",
-              "Reduktion der Lagerbestände",
-              "Identifikation von Lieferanten, die die Anforderungen erfüllen",
-              "Einführung neuer Technologien"
-            ],
-            "correct": 2
-          },
-          {
-            "id": 57,
-  "type": "multiple_choice",
-            "question": "Welche Faktoren spielen bei der Lieferantenbeurteilung eine Rolle?",
-            "options": [
-              "Preisentwicklung und Produktverfügbarkeit",
-              "Maximierung der Lagerkosten",
-              "Einführung von Trendsortimenten",
-              "Stabilität von Marktbedingungen"
-            ],
-            "correct": 0
-          },
-          {
-            "id": 58,
-  "type": "multiple_choice",
-            "question": "Was ist ein Ziel der ECR-Strategie?",
-            "options": [
-              "Einführung von Blockchain-Technologien",
-              "Maximierung der Lagerkosten",
-              "Entwicklung kundenorientierter Sortimente",
-              "Reduktion der Anzahl von Lieferanten"
-            ],
-            "correct": 2
-          },
-          {
-            "id": 59,
-  "type": "multiple_choice",
-            "question": "Welche Warengruppe wird häufig durch Wetterbedingungen beeinflusst?",
-            "options": [
-              "Basisartikel",
-              "Saisonartikel",
-              "Standardsortiment",
-              "Engpassprodukte"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 60,
-  "type": "multiple_choice",
-            "question": "Was bedeutet „Just-in-Time“-Lieferung?",
-            "options": [
-              "Lagerung großer Mengen",
-              "Lieferung direkt bei Bedarf",
-              "Einführung neuer Preismodelle",
-              "Erhöhung der Lagerbestände"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 61,
-  "type": "multiple_choice",
-            "question": "Welche Kategorie der BCG-Matrix hat den geringsten Marktwachstumsrate?",
-            "options": [
-              "Stars",
-              "Poor Dogs",
-              "Question Marks",
-              "Cash Cows"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 62,
-  "type": "multiple_choice",
-            "question": "Was ist ein Merkmal von Strategischem Sortiment?",
-            "options": [
-              "Geringe Anforderungen an die Qualität",
-              "Hoher Einfluss auf den Markterfolg",
-              "Stabiler Lebenszyklus",
-              "Niedrige Beschaffungskomplexität"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 63,
-  "type": "multiple_choice",
-            "question": "Welche Produkte in der XYZ-Analyse erfordern flexible Lagerbestände?",
-            "options": [
-              "X-Produkte",
-              "Z-Produkte",
-              "Y-Produkte",
-              "Basisartikel"
-            ],
-            "correct": 2
-          },
-          {
-            "id": 64,
-  "type": "multiple_choice",
-            "question": "Was beschreibt die „Sättigungs“-Phase eines Produktlebenszyklus?",
-            "options": [
-              "Höchste Kosten und niedrigster Gewinn",
-              "Stagnierender Absatz und sinkender Gewinn",
-              "Maximale Bekanntheit und hohe Investitionen",
-              "Einführung neuer Wettbewerber"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 65,
-  "type": "multiple_choice",
-            "question": "Was gehört NICHT zu den Zielen der Beschaffung?",
-            "options": [
-              "Optimale Kostenkontrolle",
-              "Maximale Lagerhaltungskosten",
-              "Sicherstellung der Produktqualität",
-              "Auswahl der richtigen Lieferanten"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 66,
-  "type": "multiple_choice",
-            "question": "Was ist eine Voraussetzung für E-Procurement?",
-            "options": [
-              "Integration eines Warenwirtschaftssystems",
-              "Einführung manueller Bestellprozesse",
-              "Reduktion der Lieferantenauswahl",
-              "Verlängerung der Einkaufszyklen"
-            ],
-            "correct": 0
-          },
-          {
-            "id": 67,
-  "type": "multiple_choice",
-            "question": "Welche Strategie wird für Cash Cows empfohlen?",
-            "options": [
-              "Investieren, um die Marktposition zu halten",
-              "Abschöpfung des Cashflows",
-              "Einführung neuer Produkte",
-              "Einstellung der Produktion"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 68,
-  "type": "multiple_choice",
-            "question": "Welche Herausforderung betrifft den Klimawandel in der Beschaffung?",
-            "options": [
-              "Einführung von Blockchain-Technologie",
-              "Reduktion von Transportemissionen",
-              "Einführung neuer gesetzlicher Regelungen",
-              "Stabilisierung globaler Lieferketten"
-            ],
-            "correct": 1
-          },
-          {
-            "id": 69,
-  "type": "multiple_choice",
-            "question": "Welche Produkte sind laut BCG-Matrix typischerweise unprofitabel?",
-            "options": [
-              "Cash Cows",
-              "Stars",
-              "Poor Dogs",
-              "Question Marks"
-            ],
-            "correct": 2
-          },
-          {
-            "id": 70,
-  "type": "multiple_choice",
-            "question": "Was ist ein Merkmal von Basisartikeln?",
-            "options": [
-              "Saisonale Schwankungen",
-              "Konstante Nachfrage und niedrige Lagerkosten",
-              "Hohe Kosten und kurze Lebensdauer",
-              "Geringe Attraktivität im Markt"
-            ],
-            "correct": 1
-          }
-        
+  "question": "Was beschreibt den Hauptvorteil der Multiattributbewertung?",
+  "options": [
+      "Schnelle Implementierung von Lieferverträgen",
+      "Objektive Bewertung von Lieferantenkriterien",
+      "Minimierung der Beschaffungskosten",
+      "Langfristige Lieferantenbindung"
+  ],
+  "correct": 1
+}
 ]

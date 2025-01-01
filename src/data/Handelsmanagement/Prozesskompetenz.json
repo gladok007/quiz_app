@@ -2,485 +2,722 @@
     {
         "id": 1,
         "type": "multiple_choice",
-        "question": "Welche Phase gehört zur Customer Journey?",
-        "options": ["Bewusstsein", "Logistik", "Produktion", "Beschaffung"],
-        "correct": 0
+        "question": "Was ist das Hauptziel des Omni-Channel-Handels?",
+        "options": [
+            "Maximierung der Lagerbestände",
+            "Nahtlose Integration aller Vertriebskanäle",
+            "Erhöhung der Produktvielfalt im stationären Handel",
+            "Reduktion der Anzahl der Vertriebskanäle"
+        ],
+        "correct": 1
     },
     {
         "id": 2,
         "type": "true_false",
-        "question": "Omni-Channel bedeutet, dass alle Kanäle vollständig integriert sind.",
+        "question": "Multi-Channel-Handel bedeutet, dass Vertriebskanäle unabhängig voneinander agieren.",
         "options": ["True", "False"],
         "correct": 0
     },
     {
         "id": 3,
         "type": "multiple_response",
-        "question": "Welche Formen des elektronischen Handels gibt es?",
-        "options": ["B2B", "B2C", "C2C", "C2B"],
-        "correct": [0, 1, 2, 3]
+        "question": "Welche Aufgaben gehören zu den Kernprozessen der Wertschöpfungskette?",
+        "options": [
+            "Eingangslogistik",
+            "Personalmanagement",
+            "Marketing & Vertrieb",
+            "Service"
+        ],
+        "correct": [0, 2, 3]
     },
     {
         "id": 4,
         "type": "multiple_choice",
-        "question": "Welche Strategie beschreibt ein Sortiment mit breitem und flachem Angebot?",
-        "options": ["Spezialisierungsstrategie", "Universalstrategie", "Discountstrategie", "Multi-Spezialisierungsstrategie"],
+        "question": "Welcher Zeitraum beschreibt die zweite Epoche des Handels?",
+        "options": [
+            "Vor 1850",
+            "1850 bis 2000",
+            "2000 bis heute",
+            "Keine der genannten Antworten"
+        ],
         "correct": 1
     },
     {
         "id": 5,
         "type": "true_false",
-        "question": "Ein Warenhaus bietet ein schmales und tiefes Sortiment an.",
+        "question": "Ein breites Sortiment bietet eine große Auswahl innerhalb einer einzelnen Warengruppe.",
         "options": ["True", "False"],
         "correct": 1
     },
     {
         "id": 6,
         "type": "multiple_response",
-        "question": "Welche Prozesse gehören zu den Kernprozessen?",
-        "options": ["Eingangslogistik", "Marketing & Vertrieb", "Technologieentwicklung", "Service"],
+        "question": "Welche der folgenden Handelsformen gehören zum stationären Handel?",
+        "options": [
+            "Discounter",
+            "SB-Warenhaus",
+            "Auktionsplattform",
+            "Fachgeschäfte"
+        ],
         "correct": [0, 1, 3]
     },
     {
         "id": 7,
         "type": "multiple_choice",
-        "question": "Was beschreibt den Baligh-Richartz-Effekt?",
-        "options": ["Reduktion der Produktionskosten", "Reduktion der Transaktionsbeziehungen", "Erhöhung der Kundenzufriedenheit", "Erweiterung des Sortimentes"],
+        "question": "Welche Betriebsform zeichnet sich durch ein breites, aber flaches Sortiment aus?",
+        "options": [
+            "Discounter",
+            "Verbrauchermärkte",
+            "Fachhändler",
+            "Spezialgeschäfte"
+        ],
         "correct": 1
     },
     {
         "id": 8,
         "type": "true_false",
-        "question": "Die Cross-Channel-Strategie ermöglicht es Kunden, Kanäle nahtlos zu wechseln.",
+        "question": "Im elektronischen Handel bezeichnet B2B den Handel zwischen Unternehmen.",
         "options": ["True", "False"],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 9,
         "type": "multiple_response",
-        "question": "Welche Beispiele gehören zum stationären Handel?",
-        "options": ["Discounter", "Warenhaus", "Einkaufszentrum", "Auktionsplattform"],
-        "correct": [0, 1, 2]
+        "question": "Welche Merkmale treffen auf Omni-Channel-Handel zu?",
+        "options": [
+            "Nahtlose Integration aller Kanäle",
+            "Trennung der Vertriebskanäle",
+            "Online-Bestellung und stationäre Rückgabe möglich",
+            "Unabhängige Interaktion zwischen Kanälen"
+        ],
+        "correct": [0, 2]
     },
     {
         "id": 10,
         "type": "multiple_choice",
-        "question": "Was bedeutet eine schmale und tiefe Sortimentstrategie?",
-        "options": ["Begrenztes Sortiment mit großer Auswahl in einer Kategorie", "Großes Sortiment mit wenigen Varianten", "Begrenztes Sortiment mit wenigen Varianten", "Großes Sortiment mit hoher Variantenvielfalt"],
-        "correct": 0
+        "question": "Welche Strategie passt zu einem Sortiment, das schmal und tief ist?",
+        "options": [
+            "Discount-Strategie",
+            "Universal-Strategie",
+            "Spezialisierungs-Strategie",
+            "Multi-Spezialisierungs-Strategie"
+        ],
+        "correct": 2
     },{
         "id": 11,
         "type": "multiple_choice",
-        "question": "Was ist ein Beispiel für ein Hybridmodell im Handel?",
-        "options": ["Omni-Channel", "Single Channel", "Einkaufszentrum", "Warenhaus"],
+        "question": "Welche Betriebsform zeichnet sich durch ein tiefes, aber schmales Sortiment aus?",
+        "options": [
+            "Fachhändler",
+            "Discounter",
+            "Warenhaus",
+            "Verbrauchermärkte"
+        ],
         "correct": 0
     },
     {
         "id": 12,
         "type": "true_false",
-        "question": "Ein Discounter hat ein breites und tiefes Sortiment.",
+        "question": "Ein Warenhaus bietet ein breites Sortiment an, oft ergänzt durch zusätzliche Dienstleistungen.",
         "options": ["True", "False"],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 13,
         "type": "multiple_response",
-        "question": "Welche Kanäle sind im Omni-Channel-Modell integriert?",
-        "options": ["Online-Shop", "Stationäre Filiale", "Mobile App", "Print-Katalog"],
-        "correct": [0, 1, 2, 3]
+        "question": "Welche Herausforderungen gibt es im elektronischen Handel?",
+        "options": [
+            "Logistik und Retourenmanagement",
+            "Hohe Lagerkosten",
+            "Erhöhte Kundenanforderungen",
+            "Geringer Bedarf an Kundendatenanalyse"
+        ],
+        "correct": [0, 2]
     },
     {
         "id": 14,
         "type": "multiple_choice",
-        "question": "Was beschreibt die Consumer-to-Consumer-Handelsform?",
-        "options": ["Unternehmen verkaufen an Verbraucher", "Verbraucher handeln untereinander", "Verbraucher bieten Waren an Unternehmen", "Unternehmen handeln untereinander"],
-        "correct": 1
+        "question": "Welche Aussage beschreibt die Multi-Channel-Strategie korrekt?",
+        "options": [
+            "Alle Kanäle sind vollständig integriert.",
+            "Kunden können nahtlos zwischen Kanälen wechseln.",
+            "Kanäle agieren unabhängig voneinander.",
+            "Die Strategie fokussiert sich ausschließlich auf Online-Verkauf."
+        ],
+        "correct": 2
     },
     {
         "id": 15,
         "type": "true_false",
-        "question": "Die Multi-Channel-Strategie verbindet alle Kanäle nahtlos miteinander.",
+        "question": "Ein schmal und flaches Sortiment ist typisch für Discounter.",
         "options": ["True", "False"],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 16,
         "type": "multiple_response",
-        "question": "Welche Handelsformen gehören zum elektronischen Handel?",
-        "options": ["Auktionsplattformen", "C2C", "SB-Warenhaus", "TV-Shopping"],
-        "correct": [0, 1, 3]
+        "question": "Welche Aktivitäten gehören zu den Unterstützungsprozessen in der Wertschöpfungskette?",
+        "options": [
+            "Personalmanagement",
+            "Eingangslogistik",
+            "Technologieentwicklung",
+            "Beschaffung"
+        ],
+        "correct": [0, 2, 3]
     },
     {
         "id": 17,
         "type": "multiple_choice",
-        "question": "Welche Phase der Customer Journey umfasst Empfehlungen?",
-        "options": ["Überlegung", "Bewusstsein", "Befürwortung", "Kauf"],
+        "question": "Welches Ziel verfolgt die Cross-Channel-Strategie?",
+        "options": [
+            "Kanäle vollständig voneinander zu trennen",
+            "Unabhängige Nutzung der Vertriebskanäle",
+            "Verknüpfung der Vertriebskanäle für nahtlose Nutzung",
+            "Beschränkung auf stationären Handel"
+        ],
         "correct": 2
     },
     {
         "id": 18,
         "type": "true_false",
-        "question": "Ein Kaufhaus ist auf eine Warengruppe spezialisiert.",
+        "question": "Die dritte Epoche des Handels ist durch Omnipräsenz und Online-Handel gekennzeichnet.",
         "options": ["True", "False"],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 19,
         "type": "multiple_response",
-        "question": "Welche Prozesse zählen zu Unterstützungsprozessen?",
-        "options": ["Beschaffung", "Personalmanagement", "Eingangslogistik", "Technologieentwicklung"],
-        "correct": [0, 1, 3]
+        "question": "Welche Vertriebsformen gehören zum elektronischen Handel?",
+        "options": [
+            "Auktionsplattformen",
+            "SB-Warenhäuser",
+            "B2B-Marktplätze",
+            "C2C-Plattformen"
+        ],
+        "correct": [0, 2, 3]
     },
     {
         "id": 20,
         "type": "multiple_choice",
-        "question": "Welche Betriebsform bietet nur einen Vertriebsweg an?",
-        "options": ["Single Channel", "Multi-Channel", "Cross-Channel", "Omni-Channel"],
-        "correct": 0
+        "question": "Welche Strategie ist typisch für einen Anbieter mit einem breiten und flachen Sortiment?",
+        "options": [
+            "Spezialisierungs-Strategie",
+            "Discount-Strategie",
+            "Universal-Strategie",
+            "Multi-Spezialisierungs-Strategie"
+        ],
+        "correct": 2
     },{
         "id": 21,
         "type": "multiple_choice",
-        "question": "Welche Phase der Customer Journey folgt nach dem Kauf?",
-        "options": ["Überlegung", "Loyalität", "Bewusstsein", "Befürwortung"],
-        "correct": 1
+        "question": "Welche der folgenden Betriebsformen bietet ein breites Sortiment mit zusätzlichem Service?",
+        "options": [
+            "Discounter",
+            "SB-Warenhaus",
+            "Warenhaus",
+            "Fachhändler"
+        ],
+        "correct": 2
     },
     {
         "id": 22,
         "type": "true_false",
-        "question": "Ein Fachhändler bietet ein schmales und tiefes Sortiment an.",
+        "question": "Ein Omni-Channel-Ansatz ermöglicht es Kunden, nahtlos zwischen verschiedenen Vertriebskanälen zu wechseln.",
         "options": ["True", "False"],
         "correct": 0
     },
     {
         "id": 23,
         "type": "multiple_response",
-        "question": "Welche Aufgaben gehören zur Eingangslogistik?",
-        "options": ["Wareneingang", "Lagerung", "Produktion", "Weiterleitung"],
+        "question": "Welche Phasen gehören zur Customer Journey im Handel?",
+        "options": [
+            "Bewusstsein",
+            "Kauf",
+            "Retourenabwicklung",
+            "Loyalität"
+        ],
         "correct": [0, 1, 3]
     },
     {
         "id": 24,
         "type": "multiple_choice",
-        "question": "Was ist ein Merkmal des Omni-Channel-Modells?",
-        "options": ["Kanäle sind unabhängig voneinander", "Kanäle sind vollständig integriert", "Nur ein Vertriebsweg wird genutzt", "Es gibt keine Kanalverknüpfung"],
+        "question": "Was zeichnet den Business-to-Business (B2B) Handel aus?",
+        "options": [
+            "Verkauf von Unternehmen an Verbraucher",
+            "Handel zwischen Unternehmen",
+            "Private Auktionen zwischen Verbrauchern",
+            "Dienstleistungsangebote an Privatpersonen"
+        ],
         "correct": 1
     },
     {
         "id": 25,
         "type": "true_false",
-        "question": "Cash-and-Carry-Märkte verkaufen direkt an Endverbraucher.",
+        "question": "Ein Universal-Strategieanbieter hat ein tiefes, aber schmales Sortiment.",
         "options": ["True", "False"],
         "correct": 1
     },
     {
         "id": 26,
         "type": "multiple_response",
-        "question": "Welche Betriebsformen zählen zum stationären Handel?",
-        "options": ["Discounter", "Fachgeschäfte", "Auktionsplattformen", "SB-Warenhäuser"],
-        "correct": [0, 1, 3]
+        "question": "Welche Vorteile bietet die Nutzung von RFID in der Logistik?",
+        "options": [
+            "Automatische Identifizierung von Waren",
+            "Echtzeit-Tracking",
+            "Reduktion der Lagerfläche",
+            "Erhöhung der Lieferzeit"
+        ],
+        "correct": [0, 1]
     },
     {
         "id": 27,
         "type": "multiple_choice",
-        "question": "Was beschreibt die Multi-Channel-Strategie?",
-        "options": ["Nutzung eines einzigen Kanals", "Unabhängige Nutzung mehrerer Kanäle", "Nahtlose Integration aller Kanäle", "Verknüpfte Nutzung von Online- und Offline-Kanälen"],
+        "question": "Welcher Handelsansatz konzentriert sich auf ein tiefes Sortiment einer bestimmten Kategorie?",
+        "options": [
+            "Discounter",
+            "Fachhändler",
+            "Warenhaus",
+            "SB-Warenhaus"
+        ],
         "correct": 1
     },
     {
         "id": 28,
         "type": "true_false",
-        "question": "Ein Warenhaus bietet ein breites Sortiment mit geringer Tiefe.",
+        "question": "Im Multi-Channel-Handel sind die Vertriebskanäle voneinander abhängig.",
         "options": ["True", "False"],
-        "correct": 0
+        "correct": 1
     },
     {
         "id": 29,
         "type": "multiple_response",
-        "question": "Welche Prozesse sind Teil der Wertschöpfungskette?",
-        "options": ["Produktion", "Eingangslogistik", "Service", "Finanzmanagement"],
-        "correct": [0, 1, 2]
+        "question": "Welche Ziele verfolgt die Just-in-Time (JIT) Strategie?",
+        "options": [
+            "Minimierung der Lagerbestände",
+            "Verkürzung der Lieferzeit",
+            "Erhöhung der Produktionsmenge",
+            "Reduktion von Produktionsengpässen"
+        ],
+        "correct": [0, 1, 3]
     },
     {
         "id": 30,
         "type": "multiple_choice",
-        "question": "Was bedeutet eine breite und flache Sortimentstrategie?",
-        "options": ["Viele Kategorien mit geringer Auswahl", "Begrenzte Kategorien mit großer Vielfalt", "Viele Kategorien mit großer Vielfalt", "Begrenzte Kategorien mit geringer Auswahl"],
-        "correct": 0
-    },{
-        "id": 31,
-        "type": "multiple_choice",
-        "question": "Was ist ein Beispiel für die Cross-Channel-Strategie?",
-        "options": ["Online bestellen, im Geschäft abholen", "Nur online verkaufen", "Stationäre Filialen und Online-Shop unabhängig nutzen", "Alle Kanäle vollständig integriert"],
-        "correct": 0
+        "question": "Welche Betriebsform verkauft Waren direkt an Unternehmen und nicht an Endverbraucher?",
+        "options": [
+            "SB-Warenhaus",
+            "Discounter",
+            "Cash-and-Carry",
+            "Einkaufszentrum"
+        ],
+        "correct": 2
     },
     {
-        "id": 32,
+        "id": 31,
         "type": "true_false",
-        "question": "Ein Einkaufszentrum ist Teil des elektronischen Handels.",
+        "question": "Die Wertschöpfungskette umfasst nur primäre Aktivitäten.",
         "options": ["True", "False"],
         "correct": 1
     },
     {
-        "id": 33,
+        "id": 32,
         "type": "multiple_response",
-        "question": "Welche Vorteile bietet die Omni-Channel-Strategie?",
-        "options": ["Nahtlose Kundenerfahrung", "Höhere Kundenbindung", "Unabhängigkeit der Kanäle", "Verbesserte Logistik"],
-        "correct": [0, 1, 3]
+        "question": "Welche Aufgaben gehören zu den primären Aktivitäten in der Wertschöpfungskette?",
+        "options": [
+            "Eingangslogistik",
+            "Beschaffung",
+            "Marketing und Vertrieb",
+            "Service"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 33,
+        "type": "multiple_choice",
+        "question": "Welche Handelsform ermöglicht Konsumenten, Dienstleistungen an Unternehmen zu verkaufen?",
+        "options": [
+            "B2B",
+            "C2C",
+            "C2B",
+            "B2C"
+        ],
+        "correct": 2
     },
     {
         "id": 34,
-        "type": "multiple_choice",
-        "question": "Was beschreibt den Begriff 'Sortimentsbreite'?",
-        "options": ["Vielfalt innerhalb einer Warengruppe", "Anzahl der Warengruppen", "Gesamtanzahl der Artikel", "Tiefe der Produktkategorien"],
+        "type": "true_false",
+        "question": "Kategorie-Spezialisten konzentrieren sich auf eine breite Produktpalette.",
+        "options": ["True", "False"],
         "correct": 1
     },
     {
         "id": 35,
-        "type": "true_false",
-        "question": "Ein Discounter hat eine breite und tiefe Sortimentstrategie.",
-        "options": ["True", "False"],
-        "correct": 1
+        "type": "multiple_response",
+        "question": "Welche Merkmale definieren den stationären Handel?",
+        "options": [
+            "Physische Verkaufsflächen",
+            "Direkter Kundenkontakt",
+            "Keine Logistikprozesse",
+            "Breites Sortiment"
+        ],
+        "correct": [0, 1]
     },
     {
         "id": 36,
-        "type": "multiple_response",
-        "question": "Welche Hybridformen des Handels existieren?",
-        "options": ["Single Channel", "Multi-Channel", "Cross-Channel", "Omni-Channel"],
-        "correct": [0, 1, 2, 3]
+        "type": "multiple_choice",
+        "question": "Welche Phase der Handelsgeschichte ist durch Filialen geprägt?",
+        "options": [
+            "Epoche 1",
+            "Epoche 2",
+            "Epoche 3",
+            "Epoche 4"
+        ],
+        "correct": 1
     },
     {
         "id": 37,
-        "type": "multiple_choice",
-        "question": "Welche Aufgabe gehört zur Ausgangslogistik?",
-        "options": ["Produktion", "Wareneingang", "Lagerung und Lieferung", "Kundenservice"],
-        "correct": 2
-    },
-    {
-        "id": 38,
         "type": "true_false",
-        "question": "Die Loyalität ist ein wichtiger Teil der Customer Journey.",
+        "question": "Cross-Docking minimiert die Lagerhaltung im Handel.",
         "options": ["True", "False"],
         "correct": 0
     },
     {
-        "id": 39,
+        "id": 38,
         "type": "multiple_response",
-        "question": "Welche Schritte umfasst der Serviceprozess?",
-        "options": ["Technische Unterstützung", "Reparatur", "Kundenzufriedenheit messen", "Produktentwicklung"],
-        "correct": [0, 1, 2]
+        "question": "Welche Typen von Kanälen gibt es im hybriden Handel?",
+        "options": [
+            "Single Channel",
+            "Multi Channel",
+            "Cross Channel",
+            "Omni Channel"
+        ],
+        "correct": [0, 1, 2, 3]
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptmerkmal eines SB-Warenhauses?",
+        "options": [
+            "Begrenzte Verkaufsfläche",
+            "Hoher Food-Anteil",
+            "Keine Selbstbedienung",
+            "Enges Sortiment"
+        ],
+        "correct": 1
     },
     {
         "id": 40,
-        "type": "multiple_choice",
-        "question": "Was ist ein Hauptziel der Beschaffungslogistik?",
-        "options": ["Minimierung der Kosten", "Optimierung der Produktion", "Sicherung der Materialverfügbarkeit", "Erhöhung der Kundenzufriedenheit"],
-        "correct": 2
+        "type": "true_false",
+        "question": "Einkaufszentren kombinieren mehrere Unternehmen unter einem Dach.",
+        "options": ["True", "False"],
+        "correct": 0
     },{
         "id": 41,
         "type": "multiple_choice",
-        "question": "Welche Phase der Customer Journey umfasst die Nutzung von Social Media?",
-        "options": ["Bewusstsein", "Überlegung", "Kauf", "Loyalität"],
-        "correct": 0
+        "question": "Welche Markterscheinungsform agiert direkt zwischen Hersteller und Endkunde?",
+        "options": [
+            "Großhändler",
+            "Stationärer Handel",
+            "Hersteller",
+            "Verbundgruppen"
+        ],
+        "correct": 2
     },
     {
         "id": 42,
         "type": "true_false",
-        "question": "Die Multi-Channel-Strategie verbindet alle Vertriebskanäle nahtlos.",
+        "question": "Ein schmal und tiefes Sortiment ist typisch für Fachgeschäfte.",
         "options": ["True", "False"],
-        "correct": 1
+        "correct": 0
     },
     {
         "id": 43,
         "type": "multiple_response",
-        "question": "Welche Prozesse sind Unterstützungsprozesse?",
-        "options": ["Personalmanagement", "Technologieentwicklung", "Eingangslogistik", "Beschaffung"],
+        "question": "Welche Herausforderungen bestehen in der Omnichannel-Strategie?",
+        "options": [
+            "Hohe IT-Kosten",
+            "Komplexe Logistikprozesse",
+            "Einfache Kundenbindung",
+            "Schwierigkeiten bei der Kanalintegration"
+        ],
         "correct": [0, 1, 3]
     },
     {
         "id": 44,
         "type": "multiple_choice",
-        "question": "Was beschreibt die Business-to-Consumer (B2C)-Handelsform?",
-        "options": ["Unternehmen handeln miteinander", "Unternehmen verkaufen direkt an Verbraucher", "Verbraucher handeln untereinander", "Verbraucher bieten Waren Unternehmen an"],
+        "question": "Welche Aussage beschreibt die Universal-Strategie korrekt?",
+        "options": [
+            "Tiefes Sortiment mit hoher Spezialisierung",
+            "Großes Sortiment mit geringer Auswahl innerhalb der Kategorien",
+            "Begrenztes Sortiment mit niedrigen Preisen",
+            "Schmales Sortiment mit tiefer Auswahl"
+        ],
         "correct": 1
     },
     {
         "id": 45,
         "type": "true_false",
-        "question": "Ein Warenhaus bietet ein schmales und tiefes Sortiment.",
+        "question": "Ein Einkaufszentrum ist eine Form des elektronischen Handels.",
         "options": ["True", "False"],
         "correct": 1
     },
     {
         "id": 46,
         "type": "multiple_response",
-        "question": "Welche Kanäle sind typisch für Omni-Channel-Strategien?",
-        "options": ["Mobile Apps", "Online-Shops", "Stationäre Geschäfte", "Print-Medien"],
-        "correct": [0, 1, 2]
+        "question": "Welche Phasen gehören zum Prozess der Bedürfnisbefriedigung im Einzelhandel?",
+        "options": [
+            "Interesse wecken",
+            "Produktion optimieren",
+            "Bedürfnisse konkretisieren",
+            "Kaufen und verwenden"
+        ],
+        "correct": [0, 2, 3]
     },
     {
         "id": 47,
         "type": "multiple_choice",
-        "question": "Was ist ein Hauptmerkmal von Discounter-Betriebsformen?",
-        "options": ["Breites Sortiment", "Minimaler Service", "Hohe Preise", "Große Verkaufsflächen"],
+        "question": "Was ist ein Hauptziel der Just-in-Time (JIT) Strategie?",
+        "options": [
+            "Maximierung der Lagerbestände",
+            "Minimierung der Lagerkosten",
+            "Erhöhung der Sicherheitsbestände",
+            "Verlängerung der Lieferzeiten"
+        ],
         "correct": 1
     },
     {
         "id": 48,
         "type": "true_false",
-        "question": "Cross-Channel-Strategien ermöglichen es Kunden, online zu kaufen und offline zurückzugeben.",
+        "question": "Im elektronischen Handel ist die Verbindung zwischen Produzenten und Kunden vollständig digital.",
         "options": ["True", "False"],
         "correct": 0
     },
     {
         "id": 49,
         "type": "multiple_response",
-        "question": "Welche Aufgaben fallen in die Kategorie 'Service'?",
-        "options": ["Reparatur", "Kundenberatung", "Produktion", "After-Sales-Support"],
-        "correct": [0, 1, 3]
+        "question": "Welche der folgenden Handelsformen gehören zum hybriden Handel?",
+        "options": [
+            "Single Channel",
+            "Multi Channel",
+            "Omni Channel",
+            "Kategorie-Spezialist"
+        ],
+        "correct": [0, 1, 2]
     },
     {
         "id": 50,
         "type": "multiple_choice",
-        "question": "Was beschreibt eine tiefe und breite Sortimentstrategie?",
-        "options": ["Schmales Sortiment mit großer Vielfalt", "Großes Sortiment mit geringer Auswahl", "Breites Sortiment mit hoher Variantenvielfalt", "Begrenzte Kategorien mit tiefer Auswahl"],
-        "correct": 2
-    },{
-        "id": 51,
-        "type": "multiple_choice",
-        "question": "Welche Phase der Customer Journey umfasst die Reflexion nach einem Kauf?",
-        "options": ["Kauf", "Reflection", "Befürwortung", "Überlegung"],
+        "question": "Welche Kompetenz ist die wichtigste in der Wertschöpfungskette?",
+        "options": [
+            "Technologische Kompetenz",
+            "Kundenkompetenz",
+            "Logistische Kompetenz",
+            "Produktionskompetenz"
+        ],
         "correct": 1
     },
     {
-        "id": 52,
+        "id": 51,
         "type": "true_false",
-        "question": "Ein Einkaufszentrum hat typischerweise ein breites und flaches Sortiment.",
+        "question": "Cross-Channel ermöglicht es Kunden, online zu kaufen und stationär abzuholen.",
         "options": ["True", "False"],
         "correct": 0
     },
     {
-        "id": 53,
+        "id": 52,
         "type": "multiple_response",
-        "question": "Welche Handelsmodelle zählen zum elektronischen Handel?",
-        "options": ["B2C", "C2C", "Omni-Channel", "B2B"],
-        "correct": [0, 1, 3]
+        "question": "Welche Maßnahmen reduzieren den Bullwhip-Effekt?",
+        "options": [
+            "Transparente Kommunikation",
+            "Vermeidung von Mengenrabatten",
+            "Erhöhung der Sicherheitsbestände",
+            "Verwendung von Echtzeitdaten"
+        ],
+        "correct": [0, 3]
+    },
+    {
+        "id": 53,
+        "type": "multiple_choice",
+        "question": "Welche Betriebsform konzentriert sich auf eine bestimmte Warengruppe?",
+        "options": [
+            "Kategorie-Spezialist",
+            "Warenhaus",
+            "Discounter",
+            "Einkaufszentrum"
+        ],
+        "correct": 0
     },
     {
         "id": 54,
-        "type": "multiple_choice",
-        "question": "Was ist das Hauptziel der Multi-Channel-Strategie?",
-        "options": ["Kostensenkung", "Unabhängige Nutzung mehrerer Kanäle", "Nahtlose Integration aller Kanäle", "Reduktion von Vertriebskosten"],
-        "correct": 1
+        "type": "true_false",
+        "question": "Eine tiefe Sortimentstiefe bedeutet, dass viele Varianten einer Produktart angeboten werden.",
+        "options": ["True", "False"],
+        "correct": 0
     },
     {
         "id": 55,
-        "type": "true_false",
-        "question": "Die Loyalitätsphase der Customer Journey beinhaltet Empfehlungen an andere Kunden.",
-        "options": ["True", "False"],
-        "correct": 1
+        "type": "multiple_response",
+        "question": "Welche Aufgaben gehören zur Ausgangslogistik?",
+        "options": [
+            "Lieferung der Produkte",
+            "Warenannahme",
+            "Lagerung der Produkte",
+            "Retourenmanagement"
+        ],
+        "correct": [0, 3]
     },
     {
         "id": 56,
-        "type": "multiple_response",
-        "question": "Welche Phasen gehören zur Customer Journey?",
-        "options": ["Bewusstsein", "Überlegung", "Kauf", "Lagerung"],
-        "correct": [0, 1, 2]
+        "type": "multiple_choice",
+        "question": "Welche Technologie ermöglicht eine automatische Identifikation von Waren?",
+        "options": [
+            "EAN",
+            "RFID",
+            "GTIN",
+            "QR-Code"
+        ],
+        "correct": 1
     },
     {
         "id": 57,
-        "type": "multiple_choice",
-        "question": "Was beschreibt die Business-to-Business (B2B)-Handelsform?",
-        "options": ["Unternehmen verkaufen an Verbraucher", "Unternehmen handeln miteinander", "Verbraucher bieten Waren Unternehmen an", "Verbraucher handeln untereinander"],
+        "type": "true_false",
+        "question": "Ein breites Sortiment ist typisch für Fachgeschäfte.",
+        "options": ["True", "False"],
         "correct": 1
     },
     {
         "id": 58,
-        "type": "true_false",
-        "question": "Der Serviceprozess umfasst auch die technische Unterstützung von Kunden.",
-        "options": ["True", "False"],
-        "correct": 0
+        "type": "multiple_response",
+        "question": "Welche Aktivitäten gehören zur Kundenbetreuung nach dem Kauf?",
+        "options": [
+            "Retourenabwicklung",
+            "Technischer Support",
+            "Zusatzverkäufe",
+            "Kundendienst"
+        ],
+        "correct": [0, 1, 3]
     },
     {
         "id": 59,
-        "type": "multiple_response",
-        "question": "Welche Kanäle können Teil einer Cross-Channel-Strategie sein?",
-        "options": ["Online-Shop", "Stationäre Filiale", "Social Media", "Postversand"],
-        "correct": [0, 1, 2]
+        "type": "multiple_choice",
+        "question": "Welche Vertriebsstrategie verbindet alle Kanäle nahtlos miteinander?",
+        "options": [
+            "Multi-Channel",
+            "Single-Channel",
+            "Omni-Channel",
+            "Cross-Channel"
+        ],
+        "correct": 2
     },
     {
         "id": 60,
-        "type": "multiple_choice",
-        "question": "Was ist ein Merkmal der Universalstrategie im Handel?",
-        "options": ["Schmales Sortiment", "Breites Sortiment", "Geringe Auswahl", "Fokus auf eine Warengruppe"],
-        "correct": 1
+        "type": "true_false",
+        "question": "Das Ziel der Prozesskompetenz im Handel ist es, Kundenbedürfnisse präzise zu erfüllen.",
+        "options": ["True", "False"],
+        "correct": 0
     },{
         "id": 61,
         "type": "multiple_choice",
-        "question": "Welche Betriebsform ist typisch für einen Discounter?",
-        "options": ["Breites Sortiment", "Minimaler Service", "Hohe Preise", "Exklusive Marken"],
-        "correct": 1
+        "question": "Welches Konzept beschreibt die Minimierung von Abfällen in der Produktion?",
+        "options": [
+            "Lean Management",
+            "Supply Chain Management",
+            "Customer Relationship Management",
+            "Just-in-Time"
+        ],
+        "correct": 0
     },
     {
         "id": 62,
         "type": "true_false",
-        "question": "Die Reflexion nach einem Kauf ist ein Bestandteil der Customer Journey.",
+        "question": "Eine tiefe Wertschöpfungskette bedeutet, dass ein Unternehmen viele Produktionsstufen intern übernimmt.",
         "options": ["True", "False"],
         "correct": 0
     },
     {
         "id": 63,
         "type": "multiple_response",
-        "question": "Welche Hybridformen des Handels existieren?",
-        "options": ["Single Channel", "Multi-Channel", "Cross-Channel", "Omni-Channel"],
-        "correct": [0, 1, 2, 3]
+        "question": "Welche Funktionen erfüllt ein Lager im Handel?",
+        "options": [
+            "Pufferfunktion",
+            "Sortierfunktion",
+            "Produktionsfunktion",
+            "Zeitüberbrückungsfunktion"
+        ],
+        "correct": [0, 1, 3]
     },
     {
         "id": 64,
         "type": "multiple_choice",
-        "question": "Welche Phase der Customer Journey umfasst Kundenbewertungen?",
-        "options": ["Überlegung", "Bewusstsein", "Reflection", "Befürwortung"],
-        "correct": 3
+        "question": "Welche der folgenden Strategien zielt auf langfristige Kundenbindung ab?",
+        "options": [
+            "Preisführerschaft",
+            "Differenzierung",
+            "Kundenbindung",
+            "Markenstärkung"
+        ],
+        "correct": 2
     },
     {
         "id": 65,
         "type": "true_false",
-        "question": "Die Omni-Channel-Strategie erfordert eine vollständige Integration aller Kanäle.",
+        "question": "Discounter bieten häufig ein tiefes und breites Sortiment an.",
         "options": ["True", "False"],
-        "correct": 0
+        "correct": 1
     },
     {
         "id": 66,
         "type": "multiple_response",
-        "question": "Welche Prozesse sind Kernprozesse?",
-        "options": ["Produktion", "Marketing & Vertrieb", "Personalmanagement", "Service"],
-        "correct": [0, 1, 3]
+        "question": "Welche Elemente gehören zu den 7Ps des Handelsmarketing?",
+        "options": [
+            "Produkt",
+            "Preis",
+            "Platz",
+            "Personal"
+        ],
+        "correct": [0, 1, 2, 3]
     },
     {
         "id": 67,
         "type": "multiple_choice",
-        "question": "Was beschreibt die schmale und tiefe Sortimentstrategie?",
-        "options": ["Breites Sortiment mit hoher Vielfalt", "Enges Sortiment mit großer Vielfalt in einer Kategorie", "Viele Kategorien mit geringer Auswahl", "Begrenzte Kategorien mit niedriger Vielfalt"],
+        "question": "Was beschreibt die vertikale Integration im Handel?",
+        "options": [
+            "Ausdehnung der Produktpalette",
+            "Kontrolle über mehrere Stufen der Wertschöpfungskette",
+            "Vergrößerung der Verkaufsfläche",
+            "Konzentration auf eine Produktkategorie"
+        ],
         "correct": 1
     },
     {
         "id": 68,
         "type": "true_false",
-        "question": "Ein Warenhaus bietet ein schmales Sortiment mit großer Tiefe.",
+        "question": "Beim Omni-Channel-Handel sind die Kanäle unabhängig voneinander.",
         "options": ["True", "False"],
         "correct": 1
     },
     {
         "id": 69,
         "type": "multiple_response",
-        "question": "Welche Unterstützungsprozesse gibt es?",
-        "options": ["Beschaffung", "Technologieentwicklung", "Kundendienst", "Personalmanagement"],
-        "correct": [0, 1, 3]
+        "question": "Welche Merkmale sind typisch für den E-Commerce?",
+        "options": [
+            "Globaler Zugang",
+            "Keine Lagerkosten",
+            "Datengetriebene Entscheidungen",
+            "Automatisierte Prozesse"
+        ],
+        "correct": [0, 2, 3]
     },
     {
         "id": 70,
         "type": "multiple_choice",
-        "question": "Was ist ein Hauptmerkmal von Fachgeschäften?",
-        "options": ["Breites Sortiment", "Tiefes Sortiment", "Hohe Preise", "Minimale Beratung"],
+        "question": "Welche der folgenden Optionen beschreibt eine Pull-Strategie?",
+        "options": [
+            "Produkte werden basierend auf Lagerbeständen nachgefragt.",
+            "Produkte werden durch Kundenbestellungen gesteuert.",
+            "Produkte werden unabhängig von der Nachfrage produziert.",
+            "Produkte werden durch Rabatte abverkauft."
+        ],
         "correct": 1
     }
-]
+  ]
