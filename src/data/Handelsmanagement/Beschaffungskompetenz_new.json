@@ -1,0 +1,726 @@
+[
+    {
+        "id": 1,
+        "type": "true_false",
+        "question": "Der Beschaffungsprozess besteht aus fünf Phasen, darunter Warenbedarfsermittlung, Lieferantensuche und Lieferantenbeurteilung.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Ein Trendartikel erfordert eine langfristige Beschaffungsstrategie aufgrund seiner stabilen Nachfrage.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Welche Phase gehört NICHT zum Beschaffungsprozess?",
+        "options": [
+            "Warenbedarfsermittlung",
+            "Lieferantensuche",
+            "Vertriebsoptimierung",
+            "Lieferantenbeurteilung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 4,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Ziele hat der Beschaffungsprozess?",
+        "options": [
+            "Attraktive Produkte in passender Menge einkaufen",
+            "Überbestände vermeiden",
+            "Effiziente Lagerhaltung sicherstellen",
+            "Preisschwankungen vollständig eliminieren"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 5,
+        "type": "true_false",
+        "question": "Modeartikel haben in der Regel eine längere Nachfragezeit als Trendartikel.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 6,
+        "type": "multiple_choice",
+        "question": "Welche Art von Artikeln unterliegt saisonalen Schwankungen?",
+        "options": [
+            "Trendartikel",
+            "Modeartikel",
+            "Basisartikel",
+            "Saisonartikel"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 7,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Herausforderungen betreffen das Beschaffungsmanagement?",
+        "options": [
+            "Rohstoffmangel",
+            "Kurze Lebenszyklen von Produkten",
+            "Unveränderliche Nachfrage",
+            "Notwendigkeit flexibler Planung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 8,
+        "type": "multiple_choice",
+        "question": "Was beschreibt ein Ziel des E-Procurement?",
+        "options": [
+            "Verkürzung der Einkaufszyklen",
+            "Reduzierung der Lieferantenanzahl",
+            "Steigerung der Papierprozesse",
+            "Vermeidung von automatisierten Bestellungen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 9,
+        "type": "true_false",
+        "question": "Die Kategorie 'Basisartikel' erfordert eine flexible Beschaffung aufgrund saisonaler Schwankungen.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 10,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet die Nutzung von E-Procurement?",
+        "options": [
+            "Kostensenkung durch Automatisierung",
+            "Verkürzung der Einkaufszyklen",
+            "Vollständige Abschaffung der Lieferantenbewertung",
+            "Optimierte Einkaufspreise"
+        ],
+        "correct": [0, 1, 3]
+    }, {
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Welche Methode wird genutzt, um die Lieferantenauswahl zu bewerten?",
+        "options": [
+            "Scoring-Modell",
+            "Just-in-Time",
+            "Trendanalysen",
+            "Cross-Docking"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Ein Ziel der Lieferantenbewertung ist die Identifikation von Schwächen im Lieferprozess.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 13,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Kriterien sind für die Lieferantenselektion wichtig?",
+        "options": [
+            "Zuverlässigkeit",
+            "Lieferzeit",
+            "Marktanteil",
+            "Qualität der Produkte"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Was beschreibt das Ziel der Bedarfsplanung?",
+        "options": [
+            "Minimierung der Sicherheitsbestände",
+            "Maximale Lagerhaltung",
+            "Passgenaue Menge und Zeitpunkt der Beschaffung",
+            "Automatische Auswahl neuer Lieferanten"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 15,
+        "type": "true_false",
+        "question": "Die Warenbedarfsermittlung erfolgt ausschließlich durch manuelle Methoden.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 16,
+        "type": "multiple_response",
+        "question": "Welche Schritte gehören zum Beschaffungsprozess?",
+        "options": [
+            "Bedarfsermittlung",
+            "Lieferantensuche",
+            "Produkttest",
+            "Lieferantenbewertung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "Was beschreibt das Ziel der Lieferantenbewertung?",
+        "options": [
+            "Reduktion der Anzahl von Lieferanten",
+            "Optimierung der Lieferqualität",
+            "Erhöhung der Lagerbestände",
+            "Komplette Automatisierung des Einkaufs"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Basisartikel zeichnen sich durch stabile und planbare Nachfrage aus.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 19,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet die Digitalisierung im Beschaffungsprozess?",
+        "options": [
+            "Zeitersparnis",
+            "Transparenz in der Lieferkette",
+            "Verringerung der Produktvielfalt",
+            "Automatisierung von Bestellungen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 20,
+        "type": "multiple_choice",
+        "question": "Welche Art von Artikel hat in der Regel kurze Lebenszyklen?",
+        "options": [
+            "Basisartikel",
+            "Saisonartikel",
+            "Trendartikel",
+            "Modeartikel"
+        ],
+        "correct": 2
+    },{
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Beschaffungsstrategien eignet sich für Artikel mit kurzer Lebensdauer?",
+        "options": [
+            "Langfristige Verträge",
+            "Spot-Beschaffung",
+            "Zentralisierte Beschaffung",
+            "E-Procurement"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Die Lieferantensuche ist ein einmaliger Prozess, der nicht regelmäßig wiederholt wird.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 23,
+        "type": "multiple_response",
+        "question": "Welche Technologien unterstützen die Digitalisierung im Beschaffungsprozess?",
+        "options": [
+            "Blockchain",
+            "EDI (Electronic Data Interchange)",
+            "Manuelle Dateneingabe",
+            "RFID"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 24,
+        "type": "multiple_choice",
+        "question": "Welche Phase des Beschaffungsprozesses umfasst die Entscheidung für den besten Anbieter?",
+        "options": [
+            "Lieferantensuche",
+            "Lieferantenselektion",
+            "Bedarfsanalyse",
+            "Vertragsverhandlung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 25,
+        "type": "true_false",
+        "question": "Die Optimierung der Lagerbestände kann durch eine genaue Bedarfsanalyse erreicht werden.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 26,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Wahl der Beschaffungsstrategie?",
+        "options": [
+            "Produktlebenszyklus",
+            "Lieferzeit",
+            "Kapitalstruktur des Unternehmens",
+            "Nachfrageschwankungen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 27,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt den Vorteil von E-Procurement?",
+        "options": [
+            "Erhöhte manuelle Kontrolle",
+            "Automatisierung von Bestellprozessen",
+            "Reduzierte Transparenz",
+            "Erhöhung der Sicherheitsbestände"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 28,
+        "type": "true_false",
+        "question": "Trendartikel erfordern eine hohe Flexibilität in der Beschaffungsplanung.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 29,
+        "type": "multiple_response",
+        "question": "Welche Schritte können in einem Scoring-Modell für die Lieferantenselektion enthalten sein?",
+        "options": [
+            "Definition der Kriterien",
+            "Vergabe von Gewichtungen",
+            "Subjektive Einschätzung ohne Bewertung",
+            "Berechnung der Gesamtpunktzahl"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 30,
+        "type": "multiple_choice",
+        "question": "Welche Herausforderung besteht bei der Beschaffung von Saisonartikeln?",
+        "options": [
+            "Langfristige Verträge",
+            "Hohes Risiko von Überbeständen",
+            "Stabile Nachfrage",
+            "Geringer Kapitalbedarf"
+        ],
+        "correct": 1
+    },{
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Was ist ein typisches Ziel der Lieferantenbewertung?",
+        "options": [
+            "Verbesserung der Lieferzeit",
+            "Steigerung der Lagerkosten",
+            "Reduktion der Produktqualität",
+            "Maximierung der Lieferantenzahl"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Saisonartikel erfordern eine genaue Bedarfsplanung aufgrund ihrer zeitlich begrenzten Nachfrage.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 33,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet ein gut organisiertes Scoring-Modell bei der Lieferantenselektion?",
+        "options": [
+            "Objektive Bewertung",
+            "Reduktion subjektiver Einflüsse",
+            "Maximierung der Lagerbestände",
+            "Effiziente Entscheidungsfindung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 34,
+        "type": "multiple_choice",
+        "question": "Welche Art von Artikel wird typischerweise für langfristige Verträge bevorzugt?",
+        "options": [
+            "Basisartikel",
+            "Trendartikel",
+            "Saisonartikel",
+            "Modeartikel"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 35,
+        "type": "true_false",
+        "question": "E-Procurement erhöht die Transparenz in der Lieferkette.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 36,
+        "type": "multiple_response",
+        "question": "Welche Herausforderungen können bei der Beschaffung auftreten?",
+        "options": [
+            "Unvorhersehbare Nachfrageschwankungen",
+            "Eingeschränkte Lieferantenauswahl",
+            "Mangelnde Digitalisierung",
+            "Stabile Nachfrage"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 37,
+        "type": "multiple_choice",
+        "question": "Welche Phase des Beschaffungsprozesses umfasst die Festlegung der Lieferbedingungen?",
+        "options": [
+            "Lieferantensuche",
+            "Lieferantenselektion",
+            "Vertragsverhandlung",
+            "Bedarfsanalyse"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 38,
+        "type": "true_false",
+        "question": "Modeartikel erfordern eine höhere Flexibilität in der Beschaffungsstrategie als Basisartikel.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 39,
+        "type": "multiple_response",
+        "question": "Welche Technologien verbessern die Effizienz der Lieferkette?",
+        "options": [
+            "RFID",
+            "EDI",
+            "Manuelle Datenverarbeitung",
+            "Automatische Bedarfsplanung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 40,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Bedeutung von Basisartikeln im Beschaffungsprozess?",
+        "options": [
+            "Sie unterliegen starken Nachfrageschwankungen.",
+            "Sie haben eine stabile und langfristige Nachfrage.",
+            "Sie erfordern flexible Verträge.",
+            "Sie sind nur saisonal verfügbar."
+        ],
+        "correct": 1
+    },{
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Was ist ein typisches Risiko bei der Beschaffung von Trendartikeln?",
+        "options": [
+            "Überkapazitäten in der Produktion",
+            "Unvorhersehbare Nachfrageschwankungen",
+            "Langfristige Nachfrage",
+            "Stabile Lieferantenbeziehungen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Die Verwendung von E-Procurement reduziert die Bearbeitungszeit von Bestellungen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 43,
+        "type": "multiple_response",
+        "question": "Welche Phasen sind Teil der Lieferantenselektion?",
+        "options": [
+            "Scoring-Modell erstellen",
+            "Kriterien definieren",
+            "Marktanalyse durchführen",
+            "Lieferantensuche beenden"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 44,
+        "type": "multiple_choice",
+        "question": "Welche Artikelkategorie benötigt eine langfristige Beschaffungsstrategie?",
+        "options": [
+            "Modeartikel",
+            "Basisartikel",
+            "Trendartikel",
+            "Saisonartikel"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 45,
+        "type": "true_false",
+        "question": "Modeartikel erfordern oft eine enge Zusammenarbeit mit Lieferanten, um Nachfrageschwankungen auszugleichen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 46,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bringt die Digitalisierung der Lieferantenauswahl?",
+        "options": [
+            "Effizientere Entscheidungsprozesse",
+            "Reduktion der Lieferantenzahl",
+            "Automatisierte Bewertungskriterien",
+            "Höhere Transparenz in der Lieferkette"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 47,
+        "type": "multiple_choice",
+        "question": "Was ist ein Vorteil des Einsatzes von RFID in der Beschaffung?",
+        "options": [
+            "Manuelle Dateneingabe wird optimiert.",
+            "Produkte werden automatisch identifiziert.",
+            "Lieferantenbeziehungen werden digitalisiert.",
+            "Nachfrageschwankungen werden vorhergesagt."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 48,
+        "type": "true_false",
+        "question": "Die Nutzung von Blockchain kann die Transparenz in der Lieferkette erhöhen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 49,
+        "type": "multiple_response",
+        "question": "Welche Faktoren sind für die Wahl einer Beschaffungsstrategie relevant?",
+        "options": [
+            "Produktlebenszyklus",
+            "Lieferantentreue",
+            "Nachfrageschwankungen",
+            "Flexibilität der Lieferbedingungen"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 50,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Bedeutung von Lieferantenscoring?",
+        "options": [
+            "Es ermöglicht die subjektive Bewertung von Lieferanten.",
+            "Es hilft, objektive Kriterien zu priorisieren.",
+            "Es reduziert die Anzahl der Lieferanten.",
+            "Es erhöht die Lagerbestände automatisch."
+        ],
+        "correct": 1
+    },{
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Herausforderung besteht bei der Beschaffung von Modeartikeln?",
+        "options": [
+            "Langfristige Verträge",
+            "Unvorhersehbare Trends",
+            "Stabile Nachfrage",
+            "Einfache Lagerung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 52,
+        "type": "true_false",
+        "question": "Saisonartikel erfordern oft eine enge Abstimmung zwischen Beschaffung und Vertrieb.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 53,
+        "type": "multiple_response",
+        "question": "Welche Ziele verfolgt die Bedarfsplanung?",
+        "options": [
+            "Reduktion der Lagerkosten",
+            "Minimierung von Engpässen",
+            "Maximierung der Überbestände",
+            "Optimierung der Bestellmengen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 54,
+        "type": "multiple_choice",
+        "question": "Welche Technologie verbessert die Nachverfolgung in der Lieferkette?",
+        "options": [
+            "Blockchain",
+            "Manuelle Protokolle",
+            "Katalogsysteme",
+            "Elektronische Marktplätze"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 55,
+        "type": "true_false",
+        "question": "Trendartikel sind oft schwieriger zu prognostizieren als Basisartikel.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 56,
+        "type": "multiple_response",
+        "question": "Welche Schritte gehören zur Digitalisierung des Beschaffungsprozesses?",
+        "options": [
+            "Einsatz von E-Procurement",
+            "Integration von Lieferantensystemen",
+            "Manuelle Dateneingabe",
+            "Automatisierung der Bestellprozesse"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 57,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Bedeutung von E-Procurement?",
+        "options": [
+            "Es ersetzt alle physischen Lieferantengespräche.",
+            "Es digitalisiert und automatisiert den Beschaffungsprozess.",
+            "Es reduziert die Lieferantenanzahl auf ein Minimum.",
+            "Es erhöht die Komplexität der Beschaffung."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 58,
+        "type": "true_false",
+        "question": "Die Lieferantenauswahl wird durch digitale Tools transparenter.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 59,
+        "type": "multiple_response",
+        "question": "Welche Phasen gehören zum Beschaffungsprozess?",
+        "options": [
+            "Lieferantensuche",
+            "Bedarfsanalyse",
+            "Produkttest",
+            "Vertragsmanagement"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 60,
+        "type": "multiple_choice",
+        "question": "Welche Kategorie von Artikeln benötigt eine flexible Beschaffungsstrategie?",
+        "options": [
+            "Basisartikel",
+            "Modeartikel",
+            "Saisonartikel",
+            "Trendartikel"
+        ],
+        "correct": 3
+    },{
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Welche Vorteile bietet die Nutzung von Blockchain in der Beschaffung?",
+        "options": [
+            "Manuelle Kontrolle wird erhöht.",
+            "Nachverfolgbarkeit und Transparenz werden verbessert.",
+            "Lieferantenanzahl wird automatisch reduziert.",
+            "Lagerbestände werden automatisch angepasst."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "E-Procurement reduziert die Kosten für die Bearbeitung von Bestellungen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "multiple_response",
+        "question": "Welche Herausforderungen können durch Nachfrageschwankungen entstehen?",
+        "options": [
+            "Überbestände",
+            "Engpässe",
+            "Stabile Lagerbestände",
+            "Erhöhte Transportkosten"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 64,
+        "type": "multiple_choice",
+        "question": "Welche Artikel benötigen in der Regel eine Just-in-Time-Beschaffung?",
+        "options": [
+            "Saisonartikel",
+            "Basisartikel",
+            "Modeartikel",
+            "Trendartikel"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 65,
+        "type": "true_false",
+        "question": "Blockchain ermöglicht eine fälschungssichere Dokumentation in der Lieferkette.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 66,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen verbessern die Effizienz im Beschaffungsprozess?",
+        "options": [
+            "Automatisierung von Bestellungen",
+            "Einsatz von Scoring-Modellen",
+            "Reduktion der Lieferantenzahl",
+            "Integration von E-Procurement"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 67,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt den Vorteil von Just-in-Time-Beschaffung?",
+        "options": [
+            "Minimierung der Lagerhaltungskosten",
+            "Maximierung der Sicherheitsbestände",
+            "Erhöhung der Überproduktion",
+            "Komplexere Lagerlogistik"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 68,
+        "type": "true_false",
+        "question": "Die Digitalisierung der Beschaffung erhöht die Effizienz und senkt die Fehlerquote.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 69,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Wahl der Lieferanten?",
+        "options": [
+            "Zuverlässigkeit",
+            "Qualität der Produkte",
+            "Lieferzeiten",
+            "Marktanteil der Lieferanten"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 70,
+        "type": "multiple_choice",
+        "question": "Welche Artikelkategorie erfordert eine hohe Flexibilität in der Planung?",
+        "options": [
+            "Basisartikel",
+            "Modeartikel",
+            "Trendartikel",
+            "Saisonartikel"
+        ],
+        "correct": 2
+    }
+]

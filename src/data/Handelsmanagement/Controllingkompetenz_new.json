@@ -1,0 +1,724 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Welche Hauptaufgabe hat das strategische Controlling?",
+        "options": [
+            "Überwachung kurzfristiger Maßnahmen",
+            "Analyse von Unternehmenskennzahlen für langfristige Entscheidungen",
+            "Verwaltung von Gehaltsabrechnungen",
+            "Optimierung der täglichen Arbeitsabläufe"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Das operative Controlling konzentriert sich auf langfristige Prozesse wie den Ausbau des Filialnetzes.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 3,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zu den Aufgaben des Controllings?",
+        "options": [
+            "Planung und Koordination",
+            "Soll-Ist-Vergleich",
+            "Entwicklung neuer Produkte",
+            "Analyse von Abweichungen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahlen dienen als Grundlage für die Deckungsbeitragsrechnung?",
+        "options": [
+            "Nettoverkaufserlös, variable Kosten, fixe Kosten",
+            "Umsatz, Kundenbewertungen, Marktanteil",
+            "Fixkosten, Werbungskosten, Einkaufspreise",
+            "Skonto, Rabatte, Steuern"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 5,
+        "type": "true_false",
+        "question": "Ein Deckungsbeitrag von weniger als null deutet auf ein unrentables Produkt hin.",
+        "options": ["True", "False"],
+        "correct": 0
+    },{
+        "id": 6,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet die Deckungsbeitragsrechnung?",
+        "options": [
+            "Identifizierung rentabler Produkte",
+            "Entwicklung neuer Marketingstrategien",
+            "Optimierung von Verkaufspreisen",
+            "Prognose von Gewinnänderungen bei Mengenänderungen"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die Phase 'Ziele festlegen' im Controllingprozess?",
+        "options": [
+            "Entwicklung neuer Produktlinien",
+            "Definition wirtschaftlicher Zielvorgaben",
+            "Planung von Verkaufsaktionen",
+            "Kontrolle von Warenbeständen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 8,
+        "type": "true_false",
+        "question": "Fixkosten bleiben unabhängig von der Produktionsmenge konstant.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 9,
+        "type": "multiple_response",
+        "question": "Welche Instrumente zählen zu den modernen Controllingmethoden?",
+        "options": [
+            "Balanced Scorecard",
+            "Kostenrechnung",
+            "Benchmarking",
+            "Prozesskostenrechnung"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 10,
+        "type": "multiple_choice",
+        "question": "Welche Aussage trifft auf die Cash Cows in der BCG-Matrix zu?",
+        "options": [
+            "Hoher Marktanteil, hohes Wachstum",
+            "Niedriger Marktanteil, geringes Interesse",
+            "Hoher Marktanteil, geringes Wachstum",
+            "Geringer Marktanteil, hohes Wachstum"
+        ],
+        "correct": 2
+    },{
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe hat das Controlling bei der Umsetzung von Maßnahmen?",
+        "options": [
+            "Entwicklung von Strategien",
+            "Messung von Ist-Werten und Informationsaufbereitung",
+            "Definition von Soll-Werten",
+            "Analyse von Kundenzufriedenheit"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Die SAP CO-PC Komponente dient der Analyse der Herstellkosten.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 13,
+        "type": "multiple_response",
+        "question": "Welche Kennzahlen werden im Controlling als 'harte Fakten' betrachtet?",
+        "options": [
+            "Deckungsbeitrag",
+            "Kundenzufriedenheit",
+            "Umsatz",
+            "Mitarbeiterkompetenz"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Welche Phase des Controllingprozesses umfasst die Analyse von Abweichungen?",
+        "options": [
+            "Planung",
+            "Kontrolle",
+            "Umsetzung",
+            "Zieldefinition"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 15,
+        "type": "true_false",
+        "question": "Ein dezentral organisiertes Controlling bietet Vorteile durch schnellere Entscheidungen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },{
+        "id": 16,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zur Berechnung des Deckungsbeitrags?",
+        "options": [
+            "Nettoverkaufserlös",
+            "Variable Kosten",
+            "Fixkosten",
+            "Mitarbeitergehälter"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "Was ist der Hauptzweck der Balanced Scorecard im Controlling?",
+        "options": [
+            "Fokus auf finanzielle Kennzahlen",
+            "Integration qualitativer und quantitativer Ziele",
+            "Reduktion von Gemeinkosten",
+            "Analyse von Deckungsbeiträgen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Operatives Controlling fokussiert sich auf langfristige Unternehmensstrategien.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 19,
+        "type": "multiple_response",
+        "question": "Welche Herausforderungen können bei der Anwendung von Controlling-Software auftreten?",
+        "options": [
+            "Hohe Implementierungskosten",
+            "Mangel an qualifiziertem Personal",
+            "Schnelle Datenverarbeitung",
+            "Fehlende Standardisierung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 20,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt indirekte Kosten am besten?",
+        "options": [
+            "Kosten, die einem Produkt direkt zugeordnet werden können",
+            "Kosten, die aufgeteilt werden müssen, da sie nicht direkt zuordenbar sind",
+            "Kosten, die variabel mit der Produktionsmenge schwanken",
+            "Kosten, die durch externe Dienstleister entstehen"
+        ],
+        "correct": 1
+    },{
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Anwendung der BCG-Matrix im Sortiment?",
+        "options": [
+            "Reduktion von Gemeinkosten",
+            "Analyse von Marktanteilen und Wachstumsraten",
+            "Verbesserung der Kundenzufriedenheit",
+            "Optimierung von Logistikprozessen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Die Variable Kosten steigen proportional zur Produktionsmenge.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 23,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben übernimmt das Controlling bei strategischen Entscheidungen?",
+        "options": [
+            "Bereitstellung von Datenanalysen",
+            "Definition von Soll-Werten",
+            "Überprüfung von Abweichungen",
+            "Koordination der Budgetplanung"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 24,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Stars in der BCG-Matrix am besten?",
+        "options": [
+            "Hohes Interesse, niedriger Umsatz",
+            "Hoher Umsatz, hohes Interesse",
+            "Geringer Marktanteil, hohes Wachstum",
+            "Hohes Interesse, niedriger Marktanteil"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 25,
+        "type": "true_false",
+        "question": "Die Cashflow-Analyse ist ein Instrument zur Überwachung der Zahlungsfähigkeit eines Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 0
+    },{
+        "id": 26,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet die Prozesskostenrechnung?",
+        "options": [
+            "Genauere Zuweisung indirekter Kosten",
+            "Optimierung von Logistikprozessen",
+            "Steigerung der Kundenzufriedenheit",
+            "Verbesserung der Produktqualität"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 27,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Analyse von Soll-Ist-Abweichungen?",
+        "options": [
+            "Definition neuer Unternehmensziele",
+            "Identifikation von Effizienzpotenzialen",
+            "Steigerung der Mitarbeiterzufriedenheit",
+            "Reduktion von Steuern"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 28,
+        "type": "true_false",
+        "question": "Ein höherer Deckungsbeitrag bedeutet automatisch eine bessere Produktqualität.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 29,
+        "type": "multiple_response",
+        "question": "Welche Controlling-Instrumente sind besonders für die Finanzanalyse geeignet?",
+        "options": [
+            "Cashflow-Analyse",
+            "Benchmarking",
+            "Kostenstellenrechnung",
+            "Best Practice"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 30,
+        "type": "multiple_choice",
+        "question": "Welche Phase des Controllingprozesses beinhaltet die Analyse der Wirtschaftlichkeit?",
+        "options": [
+            "Zielsetzung",
+            "Planung",
+            "Kontrolle",
+            "Umsetzung"
+        ],
+        "correct": 2
+    },{
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl zeigt den tatsächlichen Ertrag nach Abzügen wie Rabatten oder Skonto?",
+        "options": [
+            "Deckungsbeitrag I",
+            "Nettoverkaufserlös",
+            "Bruttoerlös",
+            "Cashflow"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Gemeinkosten müssen auf Produkte umgelegt werden, um die Gesamtkosten korrekt zu erfassen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 33,
+        "type": "multiple_response",
+        "question": "Welche Merkmale beschreiben das operative Controlling?",
+        "options": [
+            "Kurzfristiger Fokus",
+            "Steuerung einzelner Bereiche",
+            "Langfristige Strategien",
+            "Direkte Umsetzung von Maßnahmen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 34,
+        "type": "multiple_choice",
+        "question": "Welche Aussage trifft auf die Poor Dogs in der BCG-Matrix zu?",
+        "options": [
+            "Hohes Interesse, niedriger Umsatz",
+            "Niedriger Umsatz, geringes Interesse",
+            "Hoher Umsatz, hohes Interesse",
+            "Niedriger Marktanteil, hohes Wachstum"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 35,
+        "type": "true_false",
+        "question": "Die Produktkostenrechnung hilft bei der Unterstützung von Preisentscheidungen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },{
+        "id": 36,
+        "type": "multiple_response",
+        "question": "Welche Schritte gehören zum Controllingprozess?",
+        "options": [
+            "Ziele festlegen",
+            "Aufgaben definieren",
+            "Strategien umsetzen",
+            "Kontrolle durchführen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 37,
+        "type": "multiple_choice",
+        "question": "Welches System wird zur Analyse und Planung von Kosten verwendet?",
+        "options": [
+            "SAP CO-OM-CEL",
+            "SAP FI",
+            "SAP BW/4HANA",
+            "SAP CRM"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 38,
+        "type": "true_false",
+        "question": "Einzelkosten können direkt einem Produkt zugeordnet werden.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 39,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Wirtschaftlichkeit eines Unternehmens?",
+        "options": [
+            "Fixkosten",
+            "Variable Kosten",
+            "Deckungsbeitrag",
+            "Kundenzufriedenheit"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 40,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die 'Question Marks' in der BCG-Matrix?",
+        "options": [
+            "Hoher Umsatz, hohes Interesse",
+            "Geringer Marktanteil, hohes Wachstum",
+            "Niedriger Umsatz, geringes Interesse",
+            "Hoher Marktanteil, hohes Interesse"
+        ],
+        "correct": 1
+    },{
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Welche Phase des Controllingprozesses stellt sicher, dass die Unternehmensziele erreicht werden?",
+        "options": [
+            "Zieldefinition",
+            "Planung",
+            "Kontrolle",
+            "Umsetzung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Fixkosten bleiben auch bei steigender Produktion unverändert.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 43,
+        "type": "multiple_response",
+        "question": "Welche Aussagen treffen auf die Balanced Scorecard zu?",
+        "options": [
+            "Verknüpft finanzielle und nicht-finanzielle Ziele",
+            "Fokussiert sich ausschließlich auf Kostenreduktion",
+            "Hilft bei der Umsetzung von Unternehmensstrategien",
+            "Dient der Analyse von Deckungsbeiträgen"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 44,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Deckungsbeitragsrechnung?",
+        "options": [
+            "Ermittlung der Rentabilität eines Produkts",
+            "Verbesserung der Kundenzufriedenheit",
+            "Optimierung von Personalplänen",
+            "Reduktion von Gemeinkosten"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 45,
+        "type": "true_false",
+        "question": "Die Gemeinkostenrechnung ist ein Werkzeug zur direkten Zuordnung von Kosten zu Produkten.",
+        "options": ["True", "False"],
+        "correct": 1
+    },{
+        "id": 46,
+        "type": "multiple_response",
+        "question": "Welche Ziele hat das strategische Controlling?",
+        "options": [
+            "Langfristige Planung",
+            "Steuerung einzelner Bereiche",
+            "Optimierung des Filialnetzes",
+            "Definition von Marketingmaßnahmen"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 47,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die Nettoverkaufserlöse in der Deckungsbeitragsrechnung?",
+        "options": [
+            "Summe der Fixkosten",
+            "Einnahmen nach Abzügen wie Rabatten oder Skonto",
+            "Gesamte Produktionskosten",
+            "Variable Kosten eines Produkts"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 48,
+        "type": "true_false",
+        "question": "Das strategische Controlling konzentriert sich auf kurzfristige Entscheidungen.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 49,
+        "type": "multiple_response",
+        "question": "Welche Faktoren werden in der Prozesskostenrechnung berücksichtigt?",
+        "options": [
+            "Direkte Zuweisung von Gemeinkosten",
+            "Optimierung von Arbeitsprozessen",
+            "Reduktion von Fixkosten",
+            "Analyse von variablen Kosten"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 50,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl zeigt an, wie gut ein Produkt zur Deckung der Fixkosten beiträgt?",
+        "options": [
+            "Deckungsbeitrag",
+            "Bruttoerlös",
+            "Cashflow",
+            "Nettoerlös"
+        ],
+        "correct": 0
+    },{
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Funktion der Kostenstellenrechnung am besten?",
+        "options": [
+            "Analyse der Herstellkosten zur Preisgestaltung",
+            "Vergleich von tatsächlichen und geplanten Budgets",
+            "Ermittlung von Umsatzpotenzialen",
+            "Bewertung der Kundenloyalität"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 52,
+        "type": "true_false",
+        "question": "Die BCG-Matrix wird zur Analyse der Rentabilität von Kunden verwendet.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 53,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben hat das operative Controlling?",
+        "options": [
+            "Umsetzung kurzfristiger Maßnahmen",
+            "Fokus auf einzelne Geschäftsbereiche",
+            "Langfristige Strategieentwicklung",
+            "Analyse von Soll-Ist-Abweichungen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 54,
+        "type": "multiple_choice",
+        "question": "Welche Art von Kosten bleibt unabhängig von der Produktionsmenge konstant?",
+        "options": [
+            "Fixkosten",
+            "Variable Kosten",
+            "Einzelkosten",
+            "Gemeinkosten"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 55,
+        "type": "true_false",
+        "question": "Eine der Hauptaufgaben des Controllers ist die Überprüfung der Rentabilität von Maßnahmen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },{
+        "id": 56,
+        "type": "multiple_response",
+        "question": "Welche Informationen liefert die Deckungsbeitragsrechnung?",
+        "options": [
+            "Tatsächliche Erträge eines Produkts",
+            "Rentabilität einzelner Geschäftsfelder",
+            "Optimierungspotenzial von Prozessen",
+            "Langfristige Umsatzprognosen"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 57,
+        "type": "multiple_choice",
+        "question": "Welcher Schritt folgt im Controllingprozess nach der Zieldefinition?",
+        "options": [
+            "Planung von Maßnahmen",
+            "Analyse von Abweichungen",
+            "Definition von Kontrollmechanismen",
+            "Durchführung von Ist-Wert-Erfassungen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 58,
+        "type": "true_false",
+        "question": "Gemeinkosten können direkt einem bestimmten Produkt zugeordnet werden.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 59,
+        "type": "multiple_response",
+        "question": "Welche Methoden gehören zu den modernen Controlling-Ansätzen?",
+        "options": [
+            "Benchmarking",
+            "Prozesskostenrechnung",
+            "Kostenstellenanalyse",
+            "Balanced Scorecard"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 60,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Hauptaufgabe der Cashflow-Analyse?",
+        "options": [
+            "Ermittlung der Rentabilität von Investitionen",
+            "Analyse der Zahlungsfähigkeit eines Unternehmens",
+            "Bewertung der Kundenzufriedenheit",
+            "Optimierung der Produktkosten"
+        ],
+        "correct": 1
+    },{
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl wird verwendet, um die Effizienz von Produktionsprozessen zu bewerten?",
+        "options": [
+            "Deckungsbeitrag",
+            "Prozesskosten",
+            "Cashflow",
+            "Bruttoerlös"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "Die Balanced Scorecard integriert nur finanzielle Zielvorgaben.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 63,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die strategische Planung im Controlling?",
+        "options": [
+            "Markttrends",
+            "Finanzielle Kennzahlen",
+            "Kundenzufriedenheit",
+            "Regulatorische Vorgaben"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 64,
+        "type": "multiple_choice",
+        "question": "Welche Phase des Controllingprozesses umfasst die Analyse von Abweichungen?",
+        "options": [
+            "Planung",
+            "Zielsetzung",
+            "Kontrolle",
+            "Umsetzung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 65,
+        "type": "true_false",
+        "question": "Das operative Controlling unterstützt die langfristige Strategieentwicklung.",
+        "options": ["True", "False"],
+        "correct": 1
+    },{
+        "id": 66,
+        "type": "multiple_response",
+        "question": "Welche Hauptvorteile bietet die Anwendung der Balanced Scorecard?",
+        "options": [
+            "Integration qualitativer und quantitativer Ziele",
+            "Förderung der strategischen Ausrichtung",
+            "Fokussierung auf kurzfristige Maßnahmen",
+            "Verbesserung der internen Kommunikation"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 67,
+        "type": "multiple_choice",
+        "question": "Welches Instrument wird verwendet, um Rentabilitätsprognosen zu erstellen?",
+        "options": [
+            "Deckungsbeitragsrechnung",
+            "Kostenstellenanalyse",
+            "Benchmarking",
+            "Balanced Scorecard"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 68,
+        "type": "true_false",
+        "question": "Fixkosten variieren proportional zur Produktionsmenge.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 69,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben übernimmt die Kostenstellenrechnung?",
+        "options": [
+            "Analyse von Gemeinkosten",
+            "Optimierung von Produktionsprozessen",
+            "Direkte Zuordnung von Einzelkosten",
+            "Budgetüberwachung"
+        ],
+        "correct": [0, 3]
+    },
+    {
+        "id": 70,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt den Zweck der Prozesskostenrechnung am besten?",
+        "options": [
+            "Reduktion von Produktionskosten",
+            "Optimierung indirekter Kosten",
+            "Ermittlung von Fixkosten",
+            "Analyse von Kundenpräferenzen"
+        ],
+        "correct": 1
+    }
+]
