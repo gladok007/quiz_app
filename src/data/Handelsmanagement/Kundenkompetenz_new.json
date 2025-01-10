@@ -1,0 +1,759 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Welche Phase gehört zum SOR-Modell und beschreibt den Moment, in dem der Konsument mit einem Angebot in Berührung kommt?",
+        "options": [
+            "Organism",
+            "Stimulus",
+            "Response",
+            "Feedback"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 2,
+        "type": "multiple_response",
+        "question": "Welche psychischen Prozesse gehören zu den aktivierenden Prozessen im Kaufentscheidungsprozess?",
+        "options": [
+            "Motivation",
+            "Emotion",
+            "Einstellung",
+            "Informationsspeicherung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 3,
+        "type": "true_false",
+        "question": "Die primär rationale Kaufentscheidung basiert auf hohen emotionalen und niedrigen kognitiven Prozessen.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 4,
+        "type": "multiple_response",
+        "question": "Welche Arten von Kaufentscheidungen lassen sich basierend auf emotionalem und kognitivem Involvement unterscheiden?",
+        "options": [
+            "Habitualisierte Kaufentscheidung",
+            "Primär rationale Kaufentscheidung",
+            "Impulsive Kaufentscheidung",
+            "Exklusive Kaufentscheidung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz bezieht sich auf die Wahrnehmung der Stärken und Schwächen eines Händlers?",
+        "options": [
+            "Verhalten",
+            "Wahrnehmung",
+            "Zufriedenheit",
+            "Trends"
+        ],
+        "correct": 2
+    },{
+        "id": 6,
+        "type": "multiple_choice",
+        "question": "Welche Methode wird in der Konsumentenforschung eingesetzt, um nicht quantifizierbare Daten zu erfassen?",
+        "options": [
+            "Videobeobachtung",
+            "Telefonbefragung",
+            "Messungen von Kundenverhalten",
+            "Online-Umfragen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 7,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Schritte gehören zur Marktsegmentierung?",
+        "options": [
+            "Primärsegmentierung",
+            "Attraktivitätsprüfung",
+            "Rentabilitätsberechnung",
+            "Segmentpositionierung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 8,
+        "type": "true_false",
+        "question": "Die Sekundärsegmentierung konzentriert sich auf die Reduzierung der Marktsegmente auf ein überschaubares Maß.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz hilft, gesellschaftliche und wirtschaftliche Veränderungen frühzeitig zu erkennen?",
+        "options": [
+            "Verhalten",
+            "Wahrnehmung",
+            "Trends",
+            "Zufriedenheit"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 10,
+        "type": "multiple_response",
+        "question": "Welche psychischen Prozesse gehören zur kognitiven Ebene des SOR-Modells?",
+        "options": [
+            "Aufnahme von Informationen",
+            "Verarbeitung von Informationen",
+            "Einstellung",
+            "Informationsstrukturierung"
+        ],
+        "correct": [0, 1, 3]
+    },{
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Welche Phase des SOR-Modells beschreibt die abschließende Reaktion des Konsumenten?",
+        "options": [
+            "Stimulus",
+            "Organism",
+            "Response",
+            "Feedback"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 12,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Faktoren beeinflussen die Wahl der Einkaufsstätte?",
+        "options": [
+            "Emotionale Bindung",
+            "Kognitive Überlegungen",
+            "Reaktive Prozesse",
+            "Automatisierte Empfehlungen"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 13,
+        "type": "true_false",
+        "question": "Ein hybrider Konsument ist ausschließlich auf niedrige Preise fokussiert.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 14,
+        "type": "multiple_response",
+        "question": "Welche Schritte sind Teil der Segmentoptimierung?",
+        "options": [
+            "Überprüfung der Leistungsversprechen",
+            "Festlegung des Marktanteils",
+            "Entwicklung gezielter Maßnahmen",
+            "Analyse der Kundenzufriedenheit"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "Welche Methode in der Konsumentenforschung nutzt Fokusgruppen und Interviews?",
+        "options": [
+            "Qualitative Forschung",
+            "Quantitative Forschung",
+            "Experimentelle Forschung",
+            "Segmentierungsforschung"
+        ],
+        "correct": 0
+    },{
+        "id": 16,
+        "type": "multiple_choice",
+        "question": "Welche psychologische Komponente beeinflusst die impulsive Kaufentscheidung am stärksten?",
+        "options": [
+            "Emotion",
+            "Kognition",
+            "Motivation",
+            "Einstellung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 17,
+        "type": "multiple_response",
+        "question": "Welche Aspekte sind Teil der Attraktivitätsprüfung in der Marktsegmentierung?",
+        "options": [
+            "Wachstum",
+            "Wettbewerb",
+            "Erreichbarkeit",
+            "Produktdesign"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Die Wahl des Sortimentsbereichs kann sowohl kognitiv als auch impulsiv erfolgen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 19,
+        "type": "multiple_choice",
+        "question": "Welcher Faktor spielt eine entscheidende Rolle bei der Zufriedenheit eines Kunden mit einem Händler?",
+        "options": [
+            "Stärken und Schwächen des Händlers",
+            "Marktanteil des Händlers",
+            "Anzahl der Produkte",
+            "Geografische Lage des Händlers"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 20,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Primärsegmentierung?",
+        "options": [
+            "Ähnliche Bedürfnisse der Kunden",
+            "Geografische Lage",
+            "Demografische Kriterien",
+            "Produktinnovationen"
+        ],
+        "correct": [0, 1]
+    }, {
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Welche Kaufentscheidung ist durch ein niedriges kognitives und emotionales Involvement gekennzeichnet?",
+        "options": [
+            "Extensive Kaufentscheidung",
+            "Primär rationale Kaufentscheidung",
+            "Impulsive Kaufentscheidung",
+            "Habitualisierte Kaufentscheidung"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Der Wettbewerb unter bestehenden Anbietern ist ein zentraler Bestandteil des 5-Forces-Modells.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 23,
+        "type": "multiple_response",
+        "question": "Welche Kriterien sind typisch für die Sekundärsegmentierung?",
+        "options": [
+            "Demografische Kriterien",
+            "Sozioökonomische Kriterien",
+            "Produktmerkmale",
+            "Lebensstil"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 24,
+        "type": "multiple_choice",
+        "question": "Welche Forschungsmethode wird in der quantitativen Konsumentenforschung häufig eingesetzt?",
+        "options": [
+            "Befragung per Telefon",
+            "Fokusgruppen",
+            "Interviews",
+            "Beobachtung von Verhalten"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 25,
+        "type": "multiple_response",
+        "question": "Welche Faktoren können zur Bedrohung durch Ersatzprodukte beitragen?",
+        "options": [
+            "Höhere Qualität der Alternativen",
+            "Niedrigere Preise der Alternativen",
+            "Geringere Kundenbindung",
+            "Hohe Marketingkosten"
+        ],
+        "correct": [0, 1, 2]
+    },{
+        "id": 26,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz zielt darauf ab, zukünftige gesellschaftliche und wirtschaftliche Entwicklungen zu erkennen?",
+        "options": [
+            "Verhalten",
+            "Wahrnehmung",
+            "Zufriedenheit",
+            "Trends"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 27,
+        "type": "true_false",
+        "question": "Die Attraktivitätsprüfung bewertet die Erreichbarkeit und das Wachstum eines Marktsegments.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 28,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Punkte gehören zu den Determinanten der Kundenkompetenz?",
+        "options": [
+            "Motivation",
+            "Informationsspeicherung",
+            "Einstellung",
+            "Produktkategorien"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 29,
+        "type": "multiple_choice",
+        "question": "Welche Typologie beschreibt eine Kaufentscheidung mit hohem kognitiven und hohem emotionalen Involvement?",
+        "options": [
+            "Extensive Kaufentscheidung",
+            "Habitualisierte Kaufentscheidung",
+            "Impulsive Kaufentscheidung",
+            "Primär rationale Kaufentscheidung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 30,
+        "type": "multiple_response",
+        "question": "Welche Instrumente werden in der qualitativen Konsumentenforschung verwendet?",
+        "options": [
+            "Fokusgruppen",
+            "Interviews",
+            "Messungen von Kundenverhalten",
+            "Videobeobachtung"
+        ],
+        "correct": [0, 1, 3]
+    }, {
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Was ist das Ziel der Primärsegmentierung in der Marktsegmentierung?",
+        "options": [
+            "Kleine Gruppen für gezielte Marketingmaßnahmen zu schaffen",
+            "Marktsegmente auf ein überschaubares Maß zu reduzieren",
+            "Die Wettbewerbsfähigkeit des Unternehmens zu verbessern",
+            "Neue Produktkategorien zu entwickeln"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Die Customer Journey eines hybriden Konsumenten endet nach der Phase der Kaufentscheidung.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 33,
+        "type": "multiple_response",
+        "question": "Welche Prozesse gehören zur Aktivierung im SOR-Modell?",
+        "options": [
+            "Emotion",
+            "Motivation",
+            "Produktplatzierung",
+            "Einstellung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 34,
+        "type": "multiple_choice",
+        "question": "Welche Herausforderung beschreibt die Verhandlungsstärke der Lieferanten im 5-Forces-Modell?",
+        "options": [
+            "Kundenbindung",
+            "Preisgestaltung",
+            "Ersatzprodukte",
+            "Markteintritt"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 35,
+        "type": "multiple_response",
+        "question": "Welche der folgenden Merkmale sind für die Analyse der Wettbewerbsintensität wichtig?",
+        "options": [
+            "Verhandlungsmacht der Lieferanten",
+            "Bedrohung durch Ersatzprodukte",
+            "Segmentoptimierung",
+            "Wettbewerb unter bestehenden Anbietern"
+        ],
+        "correct": [0, 1, 3]
+    }, {
+        "id": 36,
+        "type": "multiple_choice",
+        "question": "Welche Forschungsergebnisse lassen sich aus quantitativen Konsumentenstudien ableiten?",
+        "options": [
+            "Präzise numerische Daten über Kaufverhalten",
+            "Tiefere Einsichten in die emotionale Bindung der Kunden",
+            "Ausführliche Meinungen und Ideen der Konsumenten",
+            "Qualitative Veränderungen in Kundenpräferenzen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 37,
+        "type": "true_false",
+        "question": "Eine impulsive Kaufentscheidung wird durch hohe kognitive Prozesse beeinflusst.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 38,
+        "type": "multiple_response",
+        "question": "Welche Schritte sind in der Segmentmarketing-Planung wichtig?",
+        "options": [
+            "Kundensegmente bestimmen",
+            "Profil für jedes Segment erstellen",
+            "Wettbewerbsanalyse durchführen",
+            "Spezielle Maßnahmen planen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Welche Art von Segmentierung berücksichtigt demografische und sozioökonomische Kriterien?",
+        "options": [
+            "Primärsegmentierung",
+            "Attraktivitätsprüfung",
+            "Sekundärsegmentierung",
+            "Segmentoptimierung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 40,
+        "type": "multiple_response",
+        "question": "Welche Faktoren definieren eine extensive Kaufentscheidung?",
+        "options": [
+            "Hohe kognitive Involvierung",
+            "Hohe emotionale Involvierung",
+            "Routinierte Entscheidungsprozesse",
+            "Persönliche Beratung"
+        ],
+        "correct": [0, 1, 3]
+    }, {
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Welche Phase der Customer Journey wird durch die Bewertung der Stärke und Schwäche des Händlers beeinflusst?",
+        "options": [
+            "Kaufentscheidung",
+            "Zufriedenheit",
+            "Bewusstsein",
+            "Trends"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Die Bedrohung durch Ersatzprodukte hängt von der Kundenbindung und der Qualität der Alternativen ab.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 43,
+        "type": "multiple_response",
+        "question": "Welche Methoden werden in der qualitativen Konsumentenforschung angewendet?",
+        "options": [
+            "Interviews",
+            "Fokusgruppen",
+            "Labor-Experimente",
+            "Beobachtung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 44,
+        "type": "multiple_choice",
+        "question": "Welche Marktsegmentierungsstrategie wird verwendet, um spezifische Kundenbedürfnisse zu identifizieren?",
+        "options": [
+            "Primärsegmentierung",
+            "Sekundärsegmentierung",
+            "Attraktivitätsprüfung",
+            "Wettbewerbsanalyse"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 45,
+        "type": "multiple_response",
+        "question": "Welche Elemente sind Bestandteil der Trends-Analyse innerhalb der Kundenkompetenz?",
+        "options": [
+            "Früherkennung gesellschaftlicher Veränderungen",
+            "Analyse der Wettbewerber",
+            "Bewertung wirtschaftlicher Entwicklungen",
+            "Produktbewertung"
+        ],
+        "correct": [0, 2]
+    }, {
+        "id": 46,
+        "type": "multiple_choice",
+        "question": "Welche Kaufentscheidung wird durch emotionale Spontanität und geringe kognitive Kontrolle gekennzeichnet?",
+        "options": [
+            "Extensive Kaufentscheidung",
+            "Impulsive Kaufentscheidung",
+            "Primär rationale Kaufentscheidung",
+            "Habitualisierte Kaufentscheidung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 47,
+        "type": "true_false",
+        "question": "Das Ziel der Attraktivitätsprüfung ist es, das Wachstum und die Erreichbarkeit eines Marktsegments zu bewerten.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 48,
+        "type": "multiple_response",
+        "question": "Welche Faktoren gehören zur Analyse der Verhandlungsstärke der Lieferanten im 5-Forces-Modell?",
+        "options": [
+            "Preiskontrolle",
+            "Marktanteil des Lieferanten",
+            "Qualität der Ersatzprodukte",
+            "Lieferantenbindung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 49,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz zielt darauf ab, zukünftige gesellschaftliche Trends zu identifizieren?",
+        "options": [
+            "Verhalten",
+            "Trends",
+            "Zufriedenheit",
+            "Wahrnehmung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 50,
+        "type": "multiple_response",
+        "question": "Welche Prozesse sind Bestandteile des SOR-Modells?",
+        "options": [
+            "Stimulus",
+            "Organism",
+            "Response",
+            "Feedback"
+        ],
+        "correct": [0, 1, 2]
+    },{
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Marktsegmentierungstechnik berücksichtigt demografische und sozioökonomische Kriterien?",
+        "options": [
+            "Primärsegmentierung",
+            "Attraktivitätsprüfung",
+            "Sekundärsegmentierung",
+            "Rentabilitätsanalyse"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 52,
+        "type": "true_false",
+        "question": "Die Zufriedenheit mit einem Händler hängt ausschließlich von der geografischen Lage ab.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 53,
+        "type": "multiple_response",
+        "question": "Welche Schritte sind Teil der Primärsegmentierung?",
+        "options": [
+            "Identifikation ähnlicher Kundenbedürfnisse",
+            "Reduzierung der Marktsegmente",
+            "Bewertung der demografischen Daten",
+            "Entwicklung gezielter Maßnahmen"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 54,
+        "type": "multiple_choice",
+        "question": "Welche Art von Kaufentscheidung basiert auf Routine und minimalem kognitiven Involvement?",
+        "options": [
+            "Extensive Kaufentscheidung",
+            "Primär rationale Kaufentscheidung",
+            "Habitualisierte Kaufentscheidung",
+            "Impulsive Kaufentscheidung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 55,
+        "type": "multiple_response",
+        "question": "Welche Kriterien gehören zur Attraktivitätsprüfung eines Marktsegments?",
+        "options": [
+            "Wachstum",
+            "Erreichbarkeit",
+            "Wettbewerb",
+            "Marktgröße"
+        ],
+        "correct": [0, 1, 2]
+    },{
+        "id": 56,
+        "type": "multiple_choice",
+        "question": "Welche psychologische Komponente ist entscheidend für eine extensive Kaufentscheidung?",
+        "options": [
+            "Emotion",
+            "Routine",
+            "Impuls",
+            "Involvement"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 57,
+        "type": "true_false",
+        "question": "Die Wahl der Einkaufsstätte ist ausschließlich von rationalen Überlegungen geprägt.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 58,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Verhandlungsstärke der Abnehmer im 5-Forces-Modell?",
+        "options": [
+            "Preisempfindlichkeit",
+            "Qualitätsanforderungen",
+            "Kundentreue",
+            "Ersatzprodukte"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 59,
+        "type": "multiple_choice",
+        "question": "Welche Methode wird in der quantitativen Konsumentenforschung verwendet?",
+        "options": [
+            "Videobeobachtung",
+            "Fokusgruppen",
+            "Telefonumfragen",
+            "Persönliche Interviews"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 60,
+        "type": "multiple_response",
+        "question": "Welche Aspekte werden bei der Marktsegmentierung analysiert?",
+        "options": [
+            "Kundennutzen",
+            "Demografische Daten",
+            "Kaufverhalten",
+            "Marktanteil"
+        ],
+        "correct": [1, 2]
+    },{
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Welche Art von Kaufentscheidung wird durch eine emotionale Ansprache und persönliche Beratung unterstützt?",
+        "options": [
+            "Impulsive Kaufentscheidung",
+            "Extensive Kaufentscheidung",
+            "Primär rationale Kaufentscheidung",
+            "Habitualisierte Kaufentscheidung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "Die Customer Journey endet nach der Reflexion und beinhaltet keine Empfehlung an andere Kunden.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 63,
+        "type": "multiple_response",
+        "question": "Welche Schritte gehören zur Entwicklung eines effektiven Segmentmarketings?",
+        "options": [
+            "Bestimmung der Kundensegmente",
+            "Erstellung eines Profils für jedes Segment",
+            "Analyse der Wettbewerbsfähigkeit",
+            "Planung spezifischer Maßnahmen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 64,
+        "type": "multiple_choice",
+        "question": "Welche Komponente des SOR-Modells beinhaltet die Verarbeitung von Informationen?",
+        "options": [
+            "Stimulus",
+            "Organism",
+            "Response",
+            "Feedback"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 65,
+        "type": "multiple_response",
+        "question": "Welche Merkmale zeichnen eine impulsive Kaufentscheidung aus?",
+        "options": [
+            "Hohe emotionale Involvierung",
+            "Geringe kognitive Kontrolle",
+            "Persönliche Beratung",
+            "Spontanität"
+        ],
+        "correct": [0, 1, 3]
+    },{
+        "id": 66,
+        "type": "multiple_choice",
+        "question": "Welche Methode der Marktsegmentierung basiert auf demografischen und sozioökonomischen Kriterien?",
+        "options": [
+            "Primärsegmentierung",
+            "Attraktivitätsprüfung",
+            "Sekundärsegmentierung",
+            "Trends-Analyse"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 67,
+        "type": "true_false",
+        "question": "Die Trends-Analyse innerhalb der Kundenkompetenz berücksichtigt keine wirtschaftlichen Veränderungen.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 68,
+        "type": "multiple_response",
+        "question": "Welche Prozesse beeinflussen die Wahl des Sortimentsbereichs?",
+        "options": [
+            "Kognitive Überlegungen",
+            "Reaktive Prozesse",
+            "Emotionale Bindungen",
+            "Routineentscheidungen"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 69,
+        "type": "multiple_choice",
+        "question": "Welche Dimension der Kundenkompetenz bezieht sich auf das Verhalten der Konsumenten beim Einkaufen?",
+        "options": [
+            "Verhalten",
+            "Trends",
+            "Zufriedenheit",
+            "Wahrnehmung"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 70,
+        "type": "multiple_response",
+        "question": "Welche Methoden werden in der Kundenforschung zur Beobachtung eingesetzt?",
+        "options": [
+            "Videobeobachtung",
+            "Begleitete Einkäufe",
+            "Online-Umfragen",
+            "Persönliche Interviews"
+        ],
+        "correct": [0, 1]
+    }
+]

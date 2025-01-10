@@ -1,0 +1,759 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptziel der Logistik?",
+        "options": [
+            "Erhöhung der Anzahl von Lieferanten",
+            "Vermeidung von Out-of-Stock-Situationen",
+            "Optimierung der Lagerkosten durch erhöhte Einlagerungen",
+            "Reduktion der Kundenanzahl"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Beim Streckenbelieferungsprozess werden Waren direkt vom Hersteller oder Lieferanten an die Verkaufsstelle geliefert.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 3,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben umfasst der Informationsfluss in der Logistik?",
+        "options": [
+            "Austausch von Informationen zwischen allen Beteiligten",
+            "Einhaltung von Lieferzeiten",
+            "Planung der Lagerhaltung",
+            "Kommunikation zwischen Hersteller, Filialen und Kunde"
+        ],
+        "correct": [0, 3]
+    },
+    {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Was beschreibt 'Cross-Docking' in der Logistik?",
+        "options": [
+            "Langfristige Einlagerung von Waren",
+            "Direkte Weiterleitung von Waren ohne Zwischenlagerung",
+            "Reduktion der Lieferantenanzahl",
+            "Automatisierte Bestellung von Waren"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 5,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet das Just-in-Time-Konzept (JIT)?",
+        "options": [
+            "Minimierte Lagerkosten",
+            "Geringere Abhängigkeit von Lieferanten",
+            "Flexibles Arbeiten",
+            "Effiziente Nutzung von Ressourcen"
+        ],
+        "correct": [0, 2, 3]
+    }, {
+        "id": 6,
+        "type": "multiple_choice",
+        "question": "Was bedeutet der Begriff 'Bullwhip Effect' in der Logistik?",
+        "options": [
+            "Schwankungen in der Lieferkette werden entlang der Kette kleiner.",
+            "Schwankungen in der Lieferkette werden entlang der Kette größer.",
+            "Unvorhersehbare Änderungen im Kundenverhalten.",
+            "Ein plötzlicher Nachfrageanstieg bei Endkunden."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 7,
+        "type": "true_false",
+        "question": "Der Engpassfaktor in der Logistik ist ein Element, das die Effizienz von Prozessen fördert.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 8,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen können den Bullwhip Effect reduzieren?",
+        "options": [
+            "Bessere Kommunikation in der Lieferkette",
+            "Vermeidung von häufigen Rabattaktionen",
+            "Verkürzung der Bestellintervalle",
+            "Erhöhung der Sicherheitsbestände"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "Welche Technologie ermöglicht die automatische Identifizierung von Gegenständen in der Logistik?",
+        "options": [
+            "EDI",
+            "RFID",
+            "CRM",
+            "JIT"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 10,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet die Direct Store Delivery (DSD)?",
+        "options": [
+            "Effizientere Abläufe",
+            "Optimierte Planung der Lieferfahrten",
+            "Langsame Anpassung an Nachfrageschwankungen",
+            "Bessere Produktqualität"
+        ],
+        "correct": [0, 1, 3]
+    },{
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Nutzung eines digitalen Zwillings in der Logistik?",
+        "options": [
+            "Die automatische Bestellung von Waren",
+            "Effiziente Platzierung von Artikeln in den Filialen",
+            "Erhöhung der Lagerbestände",
+            "Reduzierung der Anzahl von Lieferanten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Das CPFR-Konzept fördert die Zusammenarbeit zwischen Händlern und Lieferanten durch bessere Planung und Bestellprozesse.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 13,
+        "type": "multiple_response",
+        "question": "Welche Hauptbereiche gehören zum CPFR-Prozess?",
+        "options": [
+            "Strategie & Planung",
+            "Bestandsoptimierung",
+            "Prognose, Planung & Belieferung",
+            "Analyse"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptziel des Supply Chain Managements (SCM)?",
+        "options": [
+            "Optimierung einzelner Lagerprozesse",
+            "Verbesserung der gesamten Lieferkette",
+            "Erhöhung der Anzahl von Distributionszentren",
+            "Reduzierung der Produktionskapazitäten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 15,
+        "type": "multiple_response",
+        "question": "Welche Nachteile können beim Dropshipping-Modell auftreten?",
+        "options": [
+            "Hohe Rücksendekosten",
+            "Geringere Produktqualität",
+            "Schwierige Kontaktaufnahme mit Lieferanten",
+            "Geringe Abhängigkeit von Drittanbietern"
+        ],
+        "correct": [0, 1, 2]
+    },{
+        "id": 16,
+        "type": "multiple_choice",
+        "question": "Welche Grundform der Warenverteilung umfasst die direkte Lieferung vom Hersteller an die Verkaufsstelle?",
+        "options": [
+            "Cross-Docking",
+            "Streckenbelieferung",
+            "Zentrallagerbelieferung",
+            "Drop-Shipping"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 17,
+        "type": "true_false",
+        "question": "Ein einstufiges Cross-Docking bedeutet, dass Waren ohne Sortierung direkt weitergeleitet werden.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 18,
+        "type": "multiple_response",
+        "question": "Welche Schritte gehören zur Optimierung der Logistikkosten?",
+        "options": [
+            "Reduzierung der Rampenkontakte",
+            "Erhöhung der Sicherheitsbestände",
+            "Vermeidung von Ausschuss und Retouren",
+            "Optimierung der Bestände"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 19,
+        "type": "multiple_choice",
+        "question": "Welche Kennzeichnungsmethode ermöglicht eine schnelle Identifizierung von Artikeln?",
+        "options": [
+            "CPFR",
+            "GTIN",
+            "SCM",
+            "JIT"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 20,
+        "type": "multiple_response",
+        "question": "Welche Nachteile können beim Just-in-Time-Konzept auftreten?",
+        "options": [
+            "Abhängigkeit von Logistik",
+            "Erhöhte Lagerkosten",
+            "Engpässe bei fehlenden Bauteilen",
+            "Kommunikationsprobleme"
+        ],
+        "correct": [0, 2, 3]
+    }, {
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Was ist eine typische Maßnahme zur Reduzierung von Preisschwankungen im Bullwhip Effect?",
+        "options": [
+            "Erhöhung der Lagerbestände",
+            "Vermeidung von häufigen Rabattaktionen",
+            "Bündelung von Bestellungen",
+            "Erhöhung der Produktionskapazität"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Beim zweistufigen Cross-Docking werden Waren in einem Distributionslager sortiert, bevor sie weitergeleitet werden.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 23,
+        "type": "multiple_response",
+        "question": "Welche Technologien unterstützen die Effizienz im Logistikprozess?",
+        "options": [
+            "RFID",
+            "EDI",
+            "GTIN",
+            "CRM"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 24,
+        "type": "multiple_choice",
+        "question": "Welche Komponente gehört zum operativen Betrieb im Supply Chain Management?",
+        "options": [
+            "Lieferantenanalyse",
+            "Ergebnisüberwachung",
+            "Systemdesign",
+            "Kontinuierliche Optimierung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 25,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet das CPFR-Konzept?",
+        "options": [
+            "Optimierte Produktionsplanung",
+            "Reduzierung von Regallücken",
+            "Schnellere Reaktion auf Kundenwünsche",
+            "Geringerer Kommunikationsaufwand"
+        ],
+        "correct": [0, 1, 2]
+    }, {
+        "id": 26,
+        "type": "multiple_choice",
+        "question": "Welche Zielsetzung verfolgt das Supply Chain Management?",
+        "options": [
+            "Optimierung einzelner Lager",
+            "Ganzheitliche Betrachtung der Lieferkette",
+            "Erhöhung der Anzahl von Lieferanten",
+            "Minimierung der Kundennachfrage"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 27,
+        "type": "true_false",
+        "question": "Die Verwendung von RFID-Chips in der Logistik dient der automatisierten Identifikation und Lokalisierung von Waren.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 28,
+        "type": "multiple_response",
+        "question": "Welche Nachteile können bei der Direct Store Delivery (DSD) auftreten?",
+        "options": [
+            "Komplexe Logistik",
+            "Erhöhte Lagerkosten",
+            "Langsame Anpassung an Änderungen",
+            "Abhängigkeit von Lieferanten"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 29,
+        "type": "multiple_choice",
+        "question": "Welche Herausforderung kann beim CPFR-Prozess auftreten?",
+        "options": [
+            "Geringer Kommunikationsaufwand",
+            "Hoher Aufwand durch regelmäßige Abstimmungen",
+            "Unzureichende Lieferantenintegration",
+            "Fehlende Lagerkapazitäten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 30,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben fallen in die Kategorie 'Kernaufgaben im Logistikprozess'?",
+        "options": [
+            "Warenanlieferung",
+            "Wareneingangskontrolle",
+            "Einlagerung und Cross-Docking",
+            "Erhöhung der Sicherheitsbestände"
+        ],
+        "correct": [0, 1, 2]
+    }, {
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Welche Maßnahmen helfen, den Bullwhip Effect zu reduzieren?",
+        "options": [
+            "Erhöhung der Sicherheitsbestände",
+            "Vermeidung von Preisschwankungen",
+            "Verkürzung der Transportzeiten",
+            "Einführung neuer Lieferanten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Die GTIN (Global Trade Item Number) ist eine internationale Artikelnummer, die oft als Barcode kodiert wird.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 33,
+        "type": "multiple_response",
+        "question": "Welche Nachteile hat das Just-in-Time-Konzept?",
+        "options": [
+            "Fehlende Qualitätskontrolle",
+            "Höhere Lagerkosten",
+            "Abhängigkeit von Lieferanten",
+            "Komplexere Prozesse"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 34,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptziel der Filialbelieferung in der Logistik?",
+        "options": [
+            "Maximierung der Sicherheitsbestände",
+            "Effiziente Routenplanung und Auslieferung",
+            "Erhöhung der Lagerkapazität",
+            "Vermeidung von Retouren"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 35,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben sind Teil der rückführenden Logistik?",
+        "options": [
+            "Retourenmanagement",
+            "Entsorgung von Leergut",
+            "Reduzierung von Sicherheitsbeständen",
+            "Vermeidung von Ausschuss"
+        ],
+        "correct": [0, 1]
+    }, {
+        "id": 36,
+        "type": "multiple_choice",
+        "question": "Welche Prozesse gehören zum Konzept des Collaborative Planning, Forecasting and Replenishment (CPFR)?",
+        "options": [
+            "Rahmenvereinbarungen und Geschäftsplanung",
+            "Verkauf von Überschussbeständen",
+            "Optimierung von Produktionsanlagen",
+            "Implementierung neuer Logistikzentren"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 37,
+        "type": "true_false",
+        "question": "Das Ziel des Just-in-Time-Konzepts ist es, die Lagerkosten durch sofortige Lieferung bei Bedarf zu senken.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 38,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet die Nutzung eines digitalen Zwillings in der Logistik?",
+        "options": [
+            "Verbesserte Produktplatzierung in Filialen",
+            "Optimierte Kommissionierung",
+            "Erhöhung der Lagerbestände",
+            "Zeiteinsparung bei der Wareneinräumung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 39,
+        "type": "multiple_choice",
+        "question": "Was ist ein charakteristisches Merkmal des Dropshipping-Modells?",
+        "options": [
+            "Direkte Lagerung der Produkte im Einzelhandelsgeschäft",
+            "Versand von Waren direkt vom Lieferanten an den Kunden",
+            "Reduktion der Anzahl von Lagerstandorten",
+            "Erhöhung der Produktionskapazitäten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 40,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen helfen, den Bullwhip Effect durch Preisschwankungen zu minimieren?",
+        "options": [
+            "Reduzierung unbeabsichtigter Lagerbestände",
+            "Vermeidung häufiger Werbeaktionen",
+            "Optimierung von Sicherheitsbeständen",
+            "Verbesserung der Nachfrageprognosen"
+        ],
+        "correct": [0, 1]
+    },  {
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Was ist ein typischer Vorteil von Direct Store Delivery (DSD)?",
+        "options": [
+            "Erhöhung der Lagerkapazität",
+            "Direkte Lieferung an den Endkunden",
+            "Bessere Produktqualität durch direkte Belieferung",
+            "Verringerung der Tourdaten für Lieferanten"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Efficient Consumer Response (ECR) verbessert die Zusammenarbeit zwischen Händlern und Herstellern durch optimierte Supply-Chain-Prozesse.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 43,
+        "type": "multiple_response",
+        "question": "Welche Ziele verfolgt das Supply Chain Management?",
+        "options": [
+            "Ganzheitliche Betrachtung der Lieferkette",
+            "Erhöhung der Lieferzeiten",
+            "Optimierung der Wertschöpfungskette",
+            "Verbesserung der Kundenzufriedenheit"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 44,
+        "type": "multiple_choice",
+        "question": "Welche Komponente ist zentral im CPFR-Prozess?",
+        "options": [
+            "Abweichungsanalyse",
+            "Erhöhung der Sicherheitsbestände",
+            "Etablierung eines zentralen Lagers",
+            "Reduktion der Transportwege"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 45,
+        "type": "multiple_response",
+        "question": "Welche Nachteile können im Dropshipping-Modell für Händler auftreten?",
+        "options": [
+            "Abhängigkeit von Lieferanten",
+            "Geringere Kontrolle über Lagerbestände",
+            "Höhere Lagerkosten",
+            "Langsame Anpassung an Nachfrageänderungen"
+        ],
+        "correct": [0, 1, 3]
+    },    {
+        "id": 46,
+        "type": "multiple_choice",
+        "question": "Was beschreibt der Begriff 'Engpassfaktor' in der Logistik?",
+        "options": [
+            "Ein Faktor, der Prozesse verlangsamt oder begrenzt",
+            "Ein Element, das die Produktivität erhöht",
+            "Ein Faktor, der die Lieferkette beschleunigt",
+            "Eine Methode zur Kostenreduktion"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 47,
+        "type": "true_false",
+        "question": "Die Zentrallagerbelieferung beinhaltet die direkte Lieferung vom Lieferanten an die Verkaufsstelle.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 48,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben fallen in den Bereich der rückführenden Logistik?",
+        "options": [
+            "Rücktransport fehlerhafter Ware",
+            "Entsorgung von Leergut",
+            "Optimierung der Lieferwege",
+            "Erhöhung der Sicherheitsbestände"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 49,
+        "type": "multiple_choice",
+        "question": "Welche Technologie wird genutzt, um Informationen in der Lieferkette effizient auszutauschen?",
+        "options": [
+            "RFID",
+            "CRM",
+            "EDI",
+            "GTIN"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 50,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet ein digitales Abbild einer Filiale (digitaler Zwilling)?",
+        "options": [
+            "Effizientere Platzierung von Waren",
+            "Verbesserte Lagerverwaltung",
+            "Schnellere Kommissionierung",
+            "Geringere Lagerkosten"
+        ],
+        "correct": [0, 2]
+    }, {
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Hauptaufgabe erfüllt das Konzept 'Just in Time' in der Logistik?",
+        "options": [
+            "Erhöhung der Lagerbestände",
+            "Minimierung der Lagerhaltungskosten",
+            "Erhöhung der Produktionskapazitäten",
+            "Reduzierung von Retouren"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 52,
+        "type": "true_false",
+        "question": "Der Bullwhip Effect führt dazu, dass kleine Schwankungen in der Kundennachfrage entlang der Lieferkette größer werden.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 53,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen fördern die Effizienz der Logistikprozesse?",
+        "options": [
+            "Reduzierung der Rampenkontakte",
+            "Erhöhung der Sicherheitsbestände",
+            "Verbesserung der Disposition",
+            "Vermeidung von Ausschuss"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 54,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Vorteile der RFID-Technologie korrekt?",
+        "options": [
+            "Reduzierte Lagerhaltungskosten",
+            "Automatische Identifikation und Lokalisierung von Gegenständen",
+            "Effiziente Preisgestaltung",
+            "Erhöhung der Produktionsqualität"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 55,
+        "type": "multiple_response",
+        "question": "Welche Prozesse gehören zur Zentrallagerbelieferung?",
+        "options": [
+            "Lagerung im Logistikzentrum",
+            "Sortierung von Waren",
+            "Direkte Lieferung an Verkaufsstellen",
+            "Optimierung der Transportwege"
+        ],
+        "correct": [0, 1, 2]
+    },{
+        "id": 56,
+        "type": "multiple_choice",
+        "question": "Welche Hauptursache kann den Bullwhip Effect in der Lieferkette auslösen?",
+        "options": [
+            "Exakte Nachfrageprognosen",
+            "Unregelmäßige Bündelung von Aufträgen",
+            "Stabile Preise entlang der Lieferkette",
+            "Effiziente Kommunikation zwischen Lieferanten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 57,
+        "type": "true_false",
+        "question": "Der Einsatz von Cross-Docking reduziert die Lagerhaltungskosten und beschleunigt den Warenfluss.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 58,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Lieferkette im Supply Chain Management?",
+        "options": [
+            "Kostenstruktur der Lieferanten",
+            "Flexibilität der Produktionsprozesse",
+            "Nachfrageprognosen",
+            "Anzahl der Endkunden"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 59,
+        "type": "multiple_choice",
+        "question": "Welcher Vorteil ist mit der Nutzung von Direct Store Delivery (DSD) verbunden?",
+        "options": [
+            "Geringere Transportkosten",
+            "Schnellere Verfügbarkeit von frischen Waren",
+            "Reduzierte Lagerfläche",
+            "Geringere Abhängigkeit von Lieferanten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 60,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen können den logistischen Prozess effizienter gestalten?",
+        "options": [
+            "Einführung von RFID-Technologie",
+            "Optimierung der Tourenplanung",
+            "Verkürzung der Lieferintervalle",
+            "Erhöhung der Lagerbestände"
+        ],
+        "correct": [0, 1, 2]
+    }, {
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Was ist ein typischer Nachteil des Just-in-Time-Konzepts?",
+        "options": [
+            "Erhöhte Lagerkosten",
+            "Abhängigkeit von Lieferanten",
+            "Reduzierte Produktionskapazität",
+            "Verringerung der Produktqualität"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "Ein zweistufiges Cross-Docking erfordert eine Zwischenlagerung der Waren, bevor diese weitergeleitet werden.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "multiple_response",
+        "question": "Welche Ziele verfolgt das Konzept des Efficient Consumer Response (ECR)?",
+        "options": [
+            "Verbesserung der Produkteinführung",
+            "Optimierung der Lagerprozesse",
+            "Erhöhung der Sicherheitsbestände",
+            "Optimierung der Werbemaßnahmen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 64,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt das Ziel des Supply Chain Managements korrekt?",
+        "options": [
+            "Fokussierung auf interne Produktionsprozesse",
+            "Ganzheitliche Optimierung der Lieferkette",
+            "Erhöhung der Lagerbestände",
+            "Reduzierung der Kundenanzahl"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 65,
+        "type": "multiple_response",
+        "question": "Welche Nachteile können durch Preisschwankungen im Bullwhip Effect entstehen?",
+        "options": [
+            "Unregelmäßige Nachfrage",
+            "Größere Schwankungen in der Lieferkette",
+            "Erhöhte Produktionskosten",
+            "Verkürzte Lieferzeiten"
+        ],
+        "correct": [0, 1, 2]
+    }, {
+        "id": 66,
+        "type": "multiple_choice",
+        "question": "Welche Maßnahme gehört zur Optimierung des Cross-Docking-Prozesses?",
+        "options": [
+            "Erhöhung der Sicherheitsbestände",
+            "Einsatz von RFID zur Artikelverfolgung",
+            "Langfristige Einlagerung von Waren",
+            "Reduzierung der Anzahl von Distributionszentren"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 67,
+        "type": "true_false",
+        "question": "Die Vermeidung von Out-of-Stock-Situationen ist eines der Hauptziele der Logistik.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 68,
+        "type": "multiple_response",
+        "question": "Welche Technologien unterstützen die Effizienz in der Logistik?",
+        "options": [
+            "EDI",
+            "RFID",
+            "GTIN",
+            "Blockchain"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 69,
+        "type": "multiple_choice",
+        "question": "Welche Aufgabe hat die Rückführende Logistik?",
+        "options": [
+            "Optimierung der Lagerflächen",
+            "Entsorgung von Leergut und Retouren",
+            "Reduktion der Lieferzeiten",
+            "Erhöhung der Sicherheitsbestände"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 70,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet der Einsatz eines digitalen Zwillings in der Filiallogistik?",
+        "options": [
+            "Zeiteinsparung beim Wareneinräumen",
+            "Optimierte Produktplatzierung",
+            "Verbesserte Lagerhaltung",
+            "Effizientere Tourenplanung"
+        ],
+        "correct": [0, 1]
+    }
+]
