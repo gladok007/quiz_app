@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Welche Hauptaufgaben umfasst die betriebliche Finanzierung?",
+        "options": [
+            "Planung, Steuerung und Kontrolle von Zahlungsströmen",
+            "Etablierung von Partnerschaften",
+            "Entwicklung von Marketingstrategien",
+            "Rekrutierung von Mitarbeitern"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 2,
+        "type": "true_false",
+        "question": "Die Finanzdisposition umfasst die Planung, Steuerung und Kontrolle der finanziellen Mittel eines Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Faktoren beeinflussen den Kapitalbedarf eines Unternehmens?",
+        "options": [
+            "Verkaufsfläche",
+            "Technologien",
+            "Konkurrenzverhalten",
+            "Alle oben genannten"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 4,
+        "type": "true_false",
+        "question": "Eine hohe Eigenkapitalquote verringert die Abhängigkeit von Fremdkapital und erhöht die Stabilität des Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "Was beschreibt den Leverage-Effekt?",
+        "options": [
+            "Die Möglichkeit, die Eigenkapitalrendite durch den Einsatz von Fremdkapital zu erhöhen",
+            "Das Risiko einer zu hohen Verschuldung",
+            "Eine Methode zur Optimierung der Kapitalstruktur",
+            "Die Reduktion von Kapitalanforderungen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 6,
+        "type": "true_false",
+        "question": "Der Liquiditätsplan dient dazu, den verfügbaren Finanzstatus eines Unternehmens für einen bestimmten Zeitraum zu planen und Engpässe frühzeitig zu erkennen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 7,
+        "type": "multiple_choice",
+        "question": "Welche Finanzierungsform ist besonders geeignet für Unternehmen, die keinen Gewinn abgeben möchten?",
+        "options": [
+            "Fremdkapital",
+            "Eigenkapital",
+            "Mezzanine-Kapital",
+            "Innenfinanzierung aus Gewinn"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 8,
+        "type": "multiple_choice",
+        "question": "Welche Phasen gehören zum Finanzierungsprozess?",
+        "options": [
+            "Kapitalbedarf berechnen, Finanzierungsanlass betrachten, Finanzierungsform wählen, Finanzstruktur optimieren",
+            "Kapitalbedarf berechnen, Marketingstrategie festlegen, Finanzierungsform wählen, Finanzbericht erstellen",
+            "Finanzierungsanlass beachten, Budget aufstellen, Kosten senken, Gewinn maximieren",
+            "Kapitalbedarf berechnen, Verkaufszahlen analysieren, Finanzierungsform anpassen, Bilanz prüfen"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 9,
+        "type": "true_false",
+        "question": "Der Leverage-Effekt tritt auf, wenn die Eigenkapitalrendite durch den Einsatz von Fremdkapital erhöht wird.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 10,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Aussagen beschreibt die Vorteile von Eigenkapital richtig?",
+        "options": [
+            "Keine Rückzahlungspflicht und erhöhte finanzielle Unabhängigkeit",
+            "Regelmäßige Zinszahlungen und Rückzahlungspflicht",
+            "Einfache Anpassung an kurzfristige Finanzierungsbedarfe",
+            "Geringere Kontrollmöglichkeiten für die Kapitalgeber"
+        ],
+        "correct": 0
+    },{
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Welche Hauptziele verfolgt die Finanzierungspolitik eines Unternehmens?",
+        "options": [
+            "Maximierung der Lagerbestände",
+            "Sicherung der Liquidität und Optimierung der Kapitalstruktur",
+            "Minimierung der Produktionskapazitäten",
+            "Erhöhung der Kreditkosten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 12,
+        "type": "true_false",
+        "question": "Die Innenfinanzierung umfasst sowohl die Gewinnthesaurierung als auch die Finanzierung aus Abschreibungen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 13,
+        "type": "multiple_choice",
+        "question": "Welche Methode wird verwendet, um die Rentabilität eines Investments zu bewerten?",
+        "options": [
+            "Break-Even-Analyse",
+            "Kapitalwertmethode",
+            "Liquiditätsplan",
+            "Deckungsbeitragsrechnung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 14,
+        "type": "true_false",
+        "question": "Das Ziel der Finanzplanung ist es, zukünftige Finanzierungsbedarfe zu ermitteln und geeignete Maßnahmen zur Deckung sicherzustellen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 15,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt das Fremdkapital korrekt?",
+        "options": [
+            "Es besteht keine Rückzahlungspflicht.",
+            "Die Kapitalgeber erhalten Anteile am Unternehmen.",
+            "Es wird durch externe Gläubiger bereitgestellt und ist verzinslich.",
+            "Es dient ausschließlich der kurzfristigen Finanzierung."
+        ],
+        "correct": 2
+    },
+    {
+        "id": 16,
+        "type": "true_false",
+        "question": "Ein hoher Verschuldungsgrad erhöht die finanzielle Flexibilität eines Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 17,
+        "type": "multiple_choice",
+        "question": "Welche Kapitalquelle zählt zur Außenfinanzierung?",
+        "options": [
+            "Gewinnthesaurierung",
+            "Abschreibungsfinanzierung",
+            "Kreditaufnahme",
+            "Kostenreduktion"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Die Kapitalstruktur eines Unternehmens beschreibt das Verhältnis von Eigenkapital zu Fremdkapital.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 19,
+        "type": "multiple_choice",
+        "question": "Was ist das Hauptmerkmal von Mezzanine-Kapital?",
+        "options": [
+            "Es handelt sich ausschließlich um Eigenkapital.",
+            "Es kombiniert Eigenschaften von Eigen- und Fremdkapital.",
+            "Es ist nicht verzinslich.",
+            "Es kann ausschließlich durch Banken bereitgestellt werden."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 20,
+        "type": "true_false",
+        "question": "Eine geringe Eigenkapitalquote erhöht die Anfälligkeit eines Unternehmens gegenüber wirtschaftlichen Krisen.",
+        "options": ["True", "False"],
+        "correct": 0
+    }, {
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Was ist ein Ziel der dynamischen Liquiditätsplanung?",
+        "options": [
+            "Langfristige Rentabilität sichern",
+            "Kurzfristige Zahlungsfähigkeit gewährleisten",
+            "Investitionsprojekte priorisieren",
+            "Kostenstrukturen vereinfachen"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 22,
+        "type": "true_false",
+        "question": "Die Finanzierung aus Abschreibungen zählt zur Innenfinanzierung.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 23,
+        "type": "multiple_choice",
+        "question": "Welcher Vorteil ist typisch für die Fremdfinanzierung?",
+        "options": [
+            "Keine Zinszahlungen erforderlich",
+            "Erhöhte Unabhängigkeit von externen Gläubigern",
+            "Hebelwirkung zur Steigerung der Eigenkapitalrendite",
+            "Unbegrenzte Verfügbarkeit von Mitteln"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 24,
+        "type": "true_false",
+        "question": "Der Verschuldungsgrad gibt das Verhältnis von Fremdkapital zu Eigenkapital an.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 25,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Maßnahmen gehört zur Finanzierungsoptimierung?",
+        "options": [
+            "Erhöhung der Lagerbestände",
+            "Senkung der Fremdkapitalkosten",
+            "Ausweitung der Marketingausgaben",
+            "Reduktion der Gewinnthesaurierung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 26,
+        "type": "true_false",
+        "question": "Eigenkapitalgeber haben keinen Anspruch auf Rückzahlung ihrer Einlagen.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 27,
+        "type": "multiple_choice",
+        "question": "Welche Aussage trifft auf die Außenfinanzierung zu?",
+        "options": [
+            "Sie basiert ausschließlich auf internen Ressourcen.",
+            "Sie umfasst Mittel, die von externen Kapitalgebern bereitgestellt werden.",
+            "Sie beinhaltet ausschließlich langfristige Finanzierungen.",
+            "Sie erfolgt immer in Form von Aktienausgabe."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 28,
+        "type": "true_false",
+        "question": "Die Kapitalwertmethode berücksichtigt zukünftige Ein- und Auszahlungen eines Investitionsprojekts.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 29,
+        "type": "multiple_choice",
+        "question": "Was zählt nicht zu den Zielen der Finanzpolitik?",
+        "options": [
+            "Gewährleistung der Zahlungsfähigkeit",
+            "Optimierung der Kapitalstruktur",
+            "Maximierung der Marktanteile",
+            "Sicherung der Rentabilität"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 30,
+        "type": "true_false",
+        "question": "Ein hoher Verschuldungsgrad kann die Eigenkapitalrendite positiv beeinflussen.",
+        "options": ["True", "False"],
+        "correct": 0
+    }
+]
