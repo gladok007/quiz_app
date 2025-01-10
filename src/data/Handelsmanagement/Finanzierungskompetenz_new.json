@@ -1,0 +1,685 @@
+[
+    {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Welche der folgenden Fragen ist entscheidend für die finanzielle Stabilität eines Unternehmens?",
+        "options": [
+            "Wie hoch ist der Finanzierungsbedarf?",
+            "Welche Mitarbeiter sollten eingestellt werden?",
+            "Wie können die Verkaufszahlen gesteigert werden?",
+            "Welche Produkte sollten beworben werden?"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 2,
+        "type": "multiple_response",
+        "question": "Welche Hauptaufgaben umfasst die betriebliche Finanzierung?",
+        "options": [
+            "Planung der Zahlungsströme",
+            "Steuerung und Kontrolle finanzieller Mittel",
+            "Optimierung der Produktionsprozesse",
+            "Analyse der Marktsegmente"
+        ],
+        "correct": [0, 1]
+    },
+    {
+        "id": 3,
+        "type": "true_false",
+        "question": "Investitionen beziehen sich ausschließlich auf materielle Vermögensgegenstände.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Welche Phase gehört zum Finanzierungsprozess?",
+        "options": [
+            "Entwicklung von Werbestrategien",
+            "Optimierung der Finanzstruktur",
+            "Erstellung eines Marketingplans",
+            "Analyse von Produktionskosten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 5,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet eine solide Finanzierung für den langfristigen Erfolg eines Unternehmens?",
+        "options": [
+            "Gewährleistung der Liquidität",
+            "Förderung von Krisenresistenz",
+            "Einschränkung der Wettbewerbsfähigkeit",
+            "Ermöglichung von Innovationen"
+        ],
+        "correct": [0, 1, 3]
+    }, {
+        "id": 6,
+        "type": "multiple_choice",
+        "question": "Welche Information gehört typischerweise in die Zusammenfassung eines Businessplans?",
+        "options": [
+            "Zielgruppenanalyse",
+            "Unternehmenszweck",
+            "Marktanalyse",
+            "Liquiditätsplanung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 7,
+        "type": "multiple_response",
+        "question": "Welche Elemente sind Teil der Markt- und Unternehmensanalyse in einem Businessplan?",
+        "options": [
+            "Marktstruktur",
+            "Konkurrenzanalyse",
+            "Vision und Mission",
+            "Standortbedingungen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 8,
+        "type": "true_false",
+        "question": "Ein Liquiditätsplan zeigt sowohl die erwarteten Ein- als auch Auszahlungen für einen bestimmten Zeitraum.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 9,
+        "type": "multiple_choice",
+        "question": "Was misst die Kennzahl 'Return on Equity' (RoE)?",
+        "options": [
+            "Die Gesamtrentabilität eines Unternehmens",
+            "Die Rentabilität des Eigenkapitals",
+            "Die Effizienz von Produktionsprozessen",
+            "Die Höhe des Cashflows"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 10,
+        "type": "multiple_response",
+        "question": "Welche Finanzierungsformen gehören zur Außenfinanzierung?",
+        "options": [
+            "Kreditfinanzierung",
+            "Selbstfinanzierung",
+            "Beteiligungsfinanzierung",
+            "Vermögensverflüssigung"
+        ],
+        "correct": [0, 2, 3]
+    },{
+        "id": 11,
+        "type": "multiple_choice",
+        "question": "Was beschreibt die 'goldene Bilanzregel'?",
+        "options": [
+            "Kurzfristige Investitionen sollten mit langfristigem Kapital finanziert werden.",
+            "Langfristige Investitionen sollten mit langfristigem Kapital finanziert werden.",
+            "Umlaufvermögen sollte mit Eigenkapital finanziert werden.",
+            "Langfristige Investitionen sollten durch kurzfristige Kredite gedeckt werden."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 12,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet der Leverage-Effekt?",
+        "options": [
+            "Ermöglicht Investitionen bei geringem Eigenkapital",
+            "Führt zu höheren Gewinnen bei niedrigen Fremdkapitalzinsen",
+            "Eliminiert finanzielle Risiken vollständig",
+            "Erhöht die Eigenkapitalrentabilität bei positiver Rendite"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 13,
+        "type": "true_false",
+        "question": "Fremdkapitalgeber haben immer Mitspracherecht bei Unternehmensentscheidungen.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 14,
+        "type": "multiple_choice",
+        "question": "Was ist ein typisches Merkmal von Eigenkapital?",
+        "options": [
+            "Es hat eine feste Rückzahlungsverpflichtung.",
+            "Es bietet Mitspracherechte bei Entscheidungen.",
+            "Es erfordert eine Verzinsung.",
+            "Es wird ausschließlich extern bereitgestellt."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 15,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen den Kapitalbedarf eines Unternehmens?",
+        "options": [
+            "Größe der Verkaufsfläche",
+            "Allgemeines Lohnniveau",
+            "Technologische Anforderungen",
+            "Kundenzufriedenheit"
+        ],
+        "correct": [0, 1, 2]
+    },{
+        "id": 16,
+        "type": "multiple_choice",
+        "question": "Welche Regel gilt für die Finanzierung von Umlaufvermögen?",
+        "options": [
+            "Es sollte ausschließlich mit Eigenkapital finanziert werden.",
+            "Es sollte mit kurzfristigen Finanzierungsquellen finanziert werden.",
+            "Es sollte mit langfristigen Krediten finanziert werden.",
+            "Es sollte durch Vermögensverflüssigung gedeckt werden."
+        ],
+        "correct": 1
+    },
+    {
+        "id": 17,
+        "type": "multiple_response",
+        "question": "Welche internen Faktoren beeinflussen den Kapitalbedarfsplan?",
+        "options": [
+            "Einrichtungskosten",
+            "Inflationsrate",
+            "Vorhandene Patente",
+            "Lieferbedingungen"
+        ],
+        "correct": [0, 2, 3]
+    },
+    {
+        "id": 18,
+        "type": "true_false",
+        "question": "Ein positiver Cashflow bedeutet, dass mehr Geld ausgegeben als eingenommen wird.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 19,
+        "type": "multiple_choice",
+        "question": "Was ist der Hauptzweck eines Liquiditätsplans?",
+        "options": [
+            "Ermittlung des Unternehmensgewinns",
+            "Sicherung der Zahlungsfähigkeit",
+            "Bestimmung der Rendite von Investitionen",
+            "Analyse von Produktionskosten"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 20,
+        "type": "multiple_response",
+        "question": "Welche Finanzierungsformen gehören zur Innenfinanzierung?",
+        "options": [
+            "Pensionsrückstellungen",
+            "Selbstfinanzierung",
+            "Vermögensverflüssigung",
+            "Beteiligungsfinanzierung"
+        ],
+        "correct": [0, 1, 2]
+    },{
+        "id": 21,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl gibt das Verhältnis von Eigenkapital zu Fremdkapital an?",
+        "options": [
+            "Liquiditätsquote",
+            "Eigenkapitalquote",
+            "Verschuldungsgrad",
+            "Rentabilitätskennzahl"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 22,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen können die Liquidität eines Unternehmens verbessern?",
+        "options": [
+            "Verkürzung von Zahlungsfristen für Kunden",
+            "Verlängerung von Zahlungsfristen für Lieferanten",
+            "Erhöhung des Lagerbestands",
+            "Aufnahme von kurzfristigen Krediten"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 23,
+        "type": "true_false",
+        "question": "Eine hohe Eigenkapitalquote erhöht die Unabhängigkeit eines Unternehmens von Fremdkapitalgebern.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 24,
+        "type": "multiple_choice",
+        "question": "Was versteht man unter 'Working Capital'?",
+        "options": [
+            "Den Überschuss von kurzfristigem Umlaufvermögen über kurzfristige Verbindlichkeiten",
+            "Das gesamte Eigenkapital eines Unternehmens",
+            "Die langfristigen Investitionen eines Unternehmens",
+            "Die Differenz zwischen Gewinn und Kosten"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 25,
+        "type": "multiple_response",
+        "question": "Welche Schritte gehören zur Erstellung eines Investitionsplans?",
+        "options": [
+            "Analyse der aktuellen Marktentwicklung",
+            "Festlegung des Finanzierungsrahmens",
+            "Identifikation von Investitionsobjekten",
+            "Bewertung der bisherigen Kundenloyalität"
+        ],
+        "correct": [0, 1, 2]
+    },{
+        "id": 26,
+        "type": "multiple_choice",
+        "question": "Welcher Begriff beschreibt die Finanzierung durch den Verkauf nicht benötigter Vermögensgegenstände?",
+        "options": [
+            "Fremdfinanzierung",
+            "Selbstfinanzierung",
+            "Vermögensverflüssigung",
+            "Rückstellungsbildung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 27,
+        "type": "multiple_response",
+        "question": "Welche Risiken sind mit der Aufnahme von Fremdkapital verbunden?",
+        "options": [
+            "Abhängigkeit von externen Geldgebern",
+            "Erhöhung der Liquiditätsreserven",
+            "Zins- und Tilgungsverpflichtungen",
+            "Verlust der Unternehmensanteile"
+        ],
+        "correct": [0, 2]
+    },
+    {
+        "id": 28,
+        "type": "true_false",
+        "question": "Der Verschuldungsgrad gibt Auskunft über die langfristige Zahlungsfähigkeit eines Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 29,
+        "type": "multiple_choice",
+        "question": "Welche Methode wird häufig zur Bewertung von Investitionsprojekten verwendet?",
+        "options": [
+            "Net Present Value (NPV)",
+            "Break-Even-Analyse",
+            "Kennzahlenvergleich",
+            "Marktanalyse"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 30,
+        "type": "multiple_response",
+        "question": "Welche Aufgaben fallen in den Bereich des Finanzcontrollings?",
+        "options": [
+            "Liquiditätsplanung",
+            "Budgetüberwachung",
+            "Personalbeschaffung",
+            "Ermittlung von Soll-Ist-Abweichungen"
+        ],
+        "correct": [0, 1, 3]
+    }, {
+        "id": 31,
+        "type": "multiple_choice",
+        "question": "Welche Finanzierungsform wird durch die Ausgabe von Aktien ermöglicht?",
+        "options": [
+            "Fremdfinanzierung",
+            "Eigenfinanzierung",
+            "Innenfinanzierung",
+            "Mezzanine-Finanzierung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 32,
+        "type": "true_false",
+        "question": "Langfristige Kredite gehören zur Innenfinanzierung.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 33,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Entscheidung für die Eigenfinanzierung?",
+        "options": [
+            "Kapitalbedarf",
+            "Renditeerwartungen der Anleger",
+            "Flexibilität bei der Mittelverwendung",
+            "Kreditwürdigkeit des Unternehmens"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 34,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl misst die Fähigkeit eines Unternehmens, kurzfristige Verbindlichkeiten zu decken?",
+        "options": [
+            "Liquiditätsgrad",
+            "Eigenkapitalquote",
+            "Rentabilität",
+            "Verschuldungsgrad"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 35,
+        "type": "true_false",
+        "question": "Investitionsentscheidungen basieren ausschließlich auf finanziellen Kennzahlen.",
+        "options": ["True", "False"],
+        "correct": 1
+    }, {
+        "id": 36,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet die Selbstfinanzierung einem Unternehmen?",
+        "options": [
+            "Unabhängigkeit von externen Geldgebern",
+            "Geringere Zinsverpflichtungen",
+            "Verbesserte Eigenkapitalquote",
+            "Höhere Abhängigkeit von Lieferanten"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 37,
+        "type": "multiple_choice",
+        "question": "Welches Ziel verfolgt die Erstellung eines Kapitalbedarfsplans?",
+        "options": [
+            "Optimierung der Produktionsabläufe",
+            "Ermittlung des benötigten Finanzierungsvolumens",
+            "Analyse der Wettbewerbsfähigkeit",
+            "Steigerung der Kundenloyalität"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 38,
+        "type": "true_false",
+        "question": "Die Rückflüsse aus Investitionen fließen in der Regel langfristig zurück.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 39,
+        "type": "multiple_response",
+        "question": "Welche Elemente gehören zu den Hauptaufgaben des Finanzmanagements?",
+        "options": [
+            "Planung der Finanzierungsstruktur",
+            "Überwachung der Zahlungsfähigkeit",
+            "Optimierung der Marktposition",
+            "Durchführung von Investitionsanalysen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 40,
+        "type": "multiple_choice",
+        "question": "Welche Art von Finanzierung ermöglicht es, kurzfristige Liquiditätsengpässe zu überbrücken?",
+        "options": [
+            "Eigenfinanzierung",
+            "Mezzanine-Finanzierung",
+            "Kreditfinanzierung",
+            "Selbstfinanzierung"
+        ],
+        "correct": 2
+    },{
+        "id": 41,
+        "type": "multiple_choice",
+        "question": "Welche Finanzierungsquelle wird durch den Verkauf von Unternehmensbeteiligungen genutzt?",
+        "options": [
+            "Fremdfinanzierung",
+            "Mezzanine-Kapital",
+            "Eigenkapitalfinanzierung",
+            "Vermögensverflüssigung"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 42,
+        "type": "true_false",
+        "question": "Ein hoher Verschuldungsgrad kann die finanzielle Flexibilität eines Unternehmens einschränken.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 43,
+        "type": "multiple_response",
+        "question": "Welche Bestandteile gehören zur Liquiditätsplanung?",
+        "options": [
+            "Einnahmeprognosen",
+            "Ausgabenkontrolle",
+            "Investitionsentscheidungen",
+            "Rücklagenbildung"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 44,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl wird verwendet, um die langfristige Finanzierungsstruktur eines Unternehmens zu bewerten?",
+        "options": [
+            "Anlagendeckungsgrad",
+            "Eigenkapitalrentabilität",
+            "Liquiditätsgrad",
+            "Break-Even-Point"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 45,
+        "type": "true_false",
+        "question": "Mezzanine-Kapital verbindet Eigenschaften von Eigen- und Fremdkapital.",
+        "options": ["True", "False"],
+        "correct": 0
+    }, {
+        "id": 46,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet eine hohe Eigenkapitalquote?",
+        "options": [
+            "Erhöhte finanzielle Unabhängigkeit",
+            "Höhere Flexibilität bei Investitionen",
+            "Geringere Verschuldungskosten",
+            "Niedrigere Steuerbelastung"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 47,
+        "type": "multiple_choice",
+        "question": "Welche Methode eignet sich zur Bewertung der Wirtschaftlichkeit von Investitionen?",
+        "options": [
+            "Kostenstellenrechnung",
+            "Interner Zinsfuß",
+            "Umsatzanalyse",
+            "Marktpotenzialanalyse"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 48,
+        "type": "true_false",
+        "question": "Fremdkapital muss in jedem Fall langfristig zurückgezahlt werden.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "id": 49,
+        "type": "multiple_response",
+        "question": "Welche Maßnahmen tragen zur Senkung der Fremdkapitalkosten bei?",
+        "options": [
+            "Verbesserung der Bonität",
+            "Erhöhung der Eigenkapitalquote",
+            "Kürzere Kreditlaufzeiten",
+            "Nutzung von Förderkrediten"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 50,
+        "type": "multiple_choice",
+        "question": "Was beschreibt der Begriff 'Break-Even-Point'?",
+        "options": [
+            "Den Punkt, an dem ein Unternehmen zahlungsunfähig wird",
+            "Die Höhe des maximalen Gewinns",
+            "Den Umsatz, bei dem Kosten und Einnahmen gleich sind",
+            "Die Investitionskosten eines Projekts"
+        ],
+        "correct": 2
+    },{
+        "id": 51,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl wird verwendet, um die Rentabilität einer Investition zu berechnen?",
+        "options": [
+            "Return on Investment (ROI)",
+            "Liquiditätsquote",
+            "Eigenkapitalrentabilität",
+            "Umsatzrendite"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 52,
+        "type": "true_false",
+        "question": "Ein positiver Cashflow signalisiert eine gesunde Finanzlage.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 53,
+        "type": "multiple_response",
+        "question": "Welche Risiken sind mit kurzfristigen Krediten verbunden?",
+        "options": [
+            "Hohe Zinskosten",
+            "Abhängigkeit von Kreditgebern",
+            "Einschränkung der Investitionsfreiheit",
+            "Schnelle Rückzahlungsanforderungen"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 54,
+        "type": "multiple_choice",
+        "question": "Welche Finanzierungsform basiert auf dem Verkauf von zukünftigen Umsätzen?",
+        "options": [
+            "Factoring",
+            "Leasing",
+            "Mezzanine-Kapital",
+            "Crowdfunding"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 55,
+        "type": "true_false",
+        "question": "Eigenfinanzierung führt immer zu einer höheren Verschuldung.",
+        "options": ["True", "False"],
+        "correct": 1
+    },{
+        "id": 56,
+        "type": "multiple_response",
+        "question": "Welche Faktoren beeinflussen die Wahl der Finanzierungsmittel?",
+        "options": [
+            "Höhe des Kapitalbedarfs",
+            "Dauer der Finanzierung",
+            "Flexibilität der Rückzahlung",
+            "Marktanteil des Unternehmens"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 57,
+        "type": "multiple_choice",
+        "question": "Welcher Begriff beschreibt die Nutzung von Leasing zur Finanzierung von Vermögenswerten?",
+        "options": [
+            "Eigenkapitalfinanzierung",
+            "Fremdfinanzierung",
+            "Mezzanine-Finanzierung",
+            "Innenfinanzierung"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 58,
+        "type": "true_false",
+        "question": "Crowdfunding eignet sich besonders für die Finanzierung von Start-ups.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 59,
+        "type": "multiple_response",
+        "question": "Welche Vorteile bietet eine langfristige Fremdfinanzierung?",
+        "options": [
+            "Niedrige monatliche Belastung",
+            "Planungssicherheit",
+            "Hohe Flexibilität",
+            "Geringere Zinskosten im Vergleich zu kurzfristigen Krediten"
+        ],
+        "correct": [0, 1, 3]
+    },
+    {
+        "id": 60,
+        "type": "multiple_choice",
+        "question": "Welche Finanzierungsmethode ermöglicht es Unternehmen, Vermögensgegenstände ohne Kauf zu nutzen?",
+        "options": [
+            "Factoring",
+            "Leasing",
+            "Mezzanine-Kapital",
+            "Vermögensverflüssigung"
+        ],
+        "correct": 1
+    },{
+        "id": 61,
+        "type": "multiple_choice",
+        "question": "Welche Aussage beschreibt die Hauptfunktion des Finanzcontrollings?",
+        "options": [
+            "Steuerung der Produktionsprozesse",
+            "Überwachung der Zahlungsfähigkeit",
+            "Optimierung der Produktqualität",
+            "Erhöhung der Mitarbeiterzufriedenheit"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 62,
+        "type": "true_false",
+        "question": "Eine hohe Eigenkapitalquote verringert die finanzielle Abhängigkeit eines Unternehmens.",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "type": "multiple_response",
+        "question": "Welche Arten von Investitionen gibt es?",
+        "options": [
+            "Sachinvestitionen",
+            "Finanzinvestitionen",
+            "Immaterielle Investitionen",
+            "Operative Investitionen"
+        ],
+        "correct": [0, 1, 2]
+    },
+    {
+        "id": 64,
+        "type": "multiple_choice",
+        "question": "Welche Kennzahl gibt an, wie profitabel das eingesetzte Kapital eines Unternehmens genutzt wird?",
+        "options": [
+            "Eigenkapitalrentabilität",
+            "Verschuldungsgrad",
+            "Liquiditätsquote",
+            "Anlagendeckungsgrad"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 65,
+        "type": "true_false",
+        "question": "Factoring ist eine Form der Eigenfinanzierung.",
+        "options": ["True", "False"],
+        "correct": 1
+    }
+]
